@@ -129,7 +129,7 @@ Eight people, four of them children and one a baby, have been evacuated by the I
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3e9401d4770eeef32e8c70eb764a8d542d91145d.png)](https://www.infomigrants.net/en/post/27424/alan-kurdi-rescues-133-migrants-over-the-weekend?fbclid=IwAR33gMVyUmGkG3rNTY1HR9Gx-ckTi9BBaaT7A6k58TteO6G0lYbblevvqp8)
+[![](../assets/d0b00f76ba24/3e9401d4770eeef32e8c70eb764a8d542d91145d.png)](https://www.infomigrants.net/en/post/27424/alan-kurdi-rescues-133-migrants-over-the-weekend?fbclid=IwAR33gMVyUmGkG3rNTY1HR9Gx-ckTi9BBaaT7A6k58TteO6G0lYbblevvqp8)
 
 
 After Sea Watch’s airplane Moonbird was grounded by the Italian authorities, test flights are being made with a new airplane called Seabird\. With air surveillance, Sea Watch is making an important contribution to not let any shipwrecks and pushbacks happen without being noticed\.
@@ -210,7 +210,7 @@ Meanwhile, thousands of asylum seekers who received a negative decision in the U
 For more information, see:
 
 
-[![](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/18/12/homeless-youth.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/home-news/asylum-seekers-evictions-home-office-coronavirus-second-wave-b486062.html?fbclid=IwAR3deCj4CcS_7qV0i8MaIvSM0-tI9YdZZ7OR_AqHy0Ddb2xcDr_RBeVYvhs)
+[![](../assets/d0b00f76ba24/homeless-youth.jpg)](https://www.independent.co.uk/news/uk/home-news/asylum-seekers-evictions-home-office-coronavirus-second-wave-b486062.html?fbclid=IwAR3deCj4CcS_7qV0i8MaIvSM0-tI9YdZZ7OR_AqHy0Ddb2xcDr_RBeVYvhs)
 
 
 A scheme of relocation for former Afghan interpreters for the British army will be expanded, the home office announced on Saturday\. People who served a minimum of 18 months on the frontline and were then forced to resign due to threats by the Taliban are now eligible to apply for asylum in the UK\.
@@ -218,7 +218,7 @@ A scheme of relocation for former Afghan interpreters for the British army will 
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/34653682418c93a4ce0dc6177a0a238c86cc54fb.jpeg)](https://www.infomigrants.net/en/post/27434/afghan-interpreters-to-be-granted-asylum-in-the-uk?fbclid=IwAR1W1mC4rRzlX3fxUzDKrkPKF-1QDWZDUKob7OYhNgAxHihIJae3AwmnneM)
+[![](../assets/d0b00f76ba24/34653682418c93a4ce0dc6177a0a238c86cc54fb.jpeg)](https://www.infomigrants.net/en/post/27434/afghan-interpreters-to-be-granted-asylum-in-the-uk?fbclid=IwAR1W1mC4rRzlX3fxUzDKrkPKF-1QDWZDUKob7OYhNgAxHihIJae3AwmnneM)
 
 ### EU
 

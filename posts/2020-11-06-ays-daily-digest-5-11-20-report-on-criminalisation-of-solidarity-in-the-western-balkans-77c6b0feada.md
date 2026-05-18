@@ -260,7 +260,7 @@ On the shortcomings, challenges and innovations \(and their consequences for ref
 “The man who watched a bottle of water” :
 
 
-[![](https://alfayomega.es/wp-content/uploads/2020/11/Inmigracion-Javier-Bauluz.jpg)](https://alfayomega.es/el-hombre-que-miraba-una-botella-de-agua/?fbclid=IwAR05GdwgHVK7ntKUnbdtPh-AnLJD1Pv4aVENyENw-TyV79ufX6Ai1ppFBpE)
+[![](../assets/77c6b0feada/Inmigracion-Javier-Bauluz.jpg)](https://alfayomega.es/el-hombre-que-miraba-una-botella-de-agua/?fbclid=IwAR05GdwgHVK7ntKUnbdtPh-AnLJD1Pv4aVENyENw-TyV79ufX6Ai1ppFBpE)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

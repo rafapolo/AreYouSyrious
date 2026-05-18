@@ -74,7 +74,7 @@ In [Cape Town](https://www.bbc.com/news/world-africa-51284576?fbclid=IwAR2RC6xh3
 ![](../assets/25cccb9f556a/0*8tiXrfzv0GLK1o4H)
 
 
-Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)
+Agency [copyrights](../assets/25cccb9f556a/_110678452_ch4.jpg)
 ### SEARCH AND RESCUE AT SEA
 ### Italy
 

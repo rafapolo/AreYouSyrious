@@ -95,7 +95,7 @@ For more information on the reported cases from Alarm Phone Sahara, see:
 For more information on the route, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/8d347ce0320d79bd9a660230df8719a6282cfbcc.png)](https://www.infomigrants.net/en/post/20442/alarm-phone-sahara-saving-lives-in-the-desert)
+[![](../assets/d29b6d78b1ae/8d347ce0320d79bd9a660230df8719a6282cfbcc.png)](https://www.infomigrants.net/en/post/20442/alarm-phone-sahara-saving-lives-in-the-desert)
 
 ### GREECE
 

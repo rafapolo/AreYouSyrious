@@ -213,7 +213,7 @@ More on the illegitimate and illegal side of official things — The EU Agency f
 
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2022/01/AnnaLubbe2020.jpg)](https://verfassungsblog.de/pushbacks-never-mind-were-doing-it/?fbclid=IwAR1iXhaiAOpDSBOfN818WyrAN1Qq5C-Bl450dluyhbsc3B3Sc0ZP5H-g_6U)
+[![](../assets/de02406e2083/AnnaLubbe2020.jpg)](https://verfassungsblog.de/pushbacks-never-mind-were-doing-it/?fbclid=IwAR1iXhaiAOpDSBOfN818WyrAN1Qq5C-Bl450dluyhbsc3B3Sc0ZP5H-g_6U)
 
 - Javier Rios has released a documentary on the journey people on the move take to the Canaries:
 

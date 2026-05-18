@@ -103,7 +103,7 @@ Greek Migration Minister Mitarakis promptly reacted with a video in English, den
 Obviously, we denounce any Turkish aggression against the Greek Coast Guard\. However, it needs to be noted that the Greek Coast Guard is anything but a good\-natured rescue operation\. Countless reports of pushbacks are denied on a regular base, also by Mitarakis\. It is interesting to see him now addressing an international community in his promptly published English video denouncing the Turkish behaviour and calling on Turkey to stand by the EU\-Turkey deal\. We see both sides weaponizing people on the move for their own means instead of taking actual steps to protect them\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/1bc7edd72cecdb68dcc974fb6e19f4f3cff3f1f4.jpeg)](https://www.infomigrants.net/en/post/31306/greece-claims-turkey-tried-to-push-migrant-boats-into-europe?fbclid=IwAR1ySTb8edmRbmlMOr2NOnyCvAMuXBTorFBkJkByDFnqVD22GILwH9hBPqg)
+[![](../assets/71c269ee30e3/1bc7edd72cecdb68dcc974fb6e19f4f3cff3f1f4.jpeg)](https://www.infomigrants.net/en/post/31306/greece-claims-turkey-tried-to-push-migrant-boats-into-europe?fbclid=IwAR1ySTb8edmRbmlMOr2NOnyCvAMuXBTorFBkJkByDFnqVD22GILwH9hBPqg)
 
 #### Extension of the validity of asylum applicant’s cards
 
@@ -217,13 +217,13 @@ Meanwhile, stones were placed in the parking lot of an abandoned warehouse in or
 Meanwhile, the conditions in the camps are harsh\. InfoMigrant has published a video about the situation:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/54309981c13f3213bf8fdad7e49cba8c28fca133.png)](https://www.infomigrants.net/en/post/31302/video-migrants-in-canary-islands-say-camps-are-unfit?fbclid=IwAR1X6ZFNK5z_V0Q0ModSygFFR9waAWSiAgRyZnHUQ-xtZ9uYSeztu6JiD0Y)
+[![](../assets/71c269ee30e3/54309981c13f3213bf8fdad7e49cba8c28fca133.png)](https://www.infomigrants.net/en/post/31302/video-migrants-in-canary-islands-say-camps-are-unfit?fbclid=IwAR1X6ZFNK5z_V0Q0ModSygFFR9waAWSiAgRyZnHUQ-xtZ9uYSeztu6JiD0Y)
 
 
 Here is also a piece on another case where a child was separated from its parents for more than a month after their arrival on the Canary Islands:
 
 
-[![](https://img2.rtve.es/imagenes/madre-llegar-canarias-estuve-36-dias-separada-hijo/1617192166721.jpg)](https://www.rtve.es/noticias/20210402/canarias-menores-migrantes-separados-padres-estuve-36-dias-sin-ver-hijo/2084233.shtml?utm_medium=Social&utm_source=Twitter&fbclid=IwAR3Bn0c5hlxSj-yacW9_O0j5kvHkU7bMm2m3zAIiDMuM73NiCD8OD6moFgc#Echobox=1617346993)
+[![](../assets/71c269ee30e3/1617192166721.jpg)](https://www.rtve.es/noticias/20210402/canarias-menores-migrantes-separados-padres-estuve-36-dias-sin-ver-hijo/2084233.shtml?utm_medium=Social&utm_source=Twitter&fbclid=IwAR3Bn0c5hlxSj-yacW9_O0j5kvHkU7bMm2m3zAIiDMuM73NiCD8OD6moFgc#Echobox=1617346993)
 
 ### PORTUGAL
 #### Arrival in Portugal
@@ -259,7 +259,7 @@ We have been reporting about Denmark in the recent weeks mainly in relation to i
 In January 21, according to EASO, about 40,000 asylum applications were lodged in the EU\+ \. The main countries of origin were Syria, Afghanistan, Pakistan, Iraq, and Nigeria\.
 
 
-[![](https://euaa.europa.eu/themes/custom/euaa/images/euaa-logo-200-200.png)](https://www.easo.europa.eu/latest-asylum-trends?fbclid=IwAR1ySTb8edmRbmlMOr2NOnyCvAMuXBTorFBkJkByDFnqVD22GILwH9hBPqg)
+[![](../assets/71c269ee30e3/euaa-logo-200-200.png)](https://www.easo.europa.eu/latest-asylum-trends?fbclid=IwAR1ySTb8edmRbmlMOr2NOnyCvAMuXBTorFBkJkByDFnqVD22GILwH9hBPqg)
 
 #### ECRE Bulletin
 
@@ -287,7 +287,7 @@ for the complete Bulletin, see:
 This cross\-border collaboration by Solomon \(Greece\), Guiti News \(France\), and Kohero \(Germany\) — three independent media outlets working on migration — delves into a worrying and escalating trend of police violence during the previous year; not only against people on the move but against the media professionals documenting their issues as well\.
 
 
-[![](https://wearesolomon.com/wp-content/uploads/2021/03/Police-Violence-Concerning-Treatment-of-Migrants-and-Reporters-during-Covid-19-min-1.png)](https://wearesolomon.com/mag/community/police-violence-concerning-treatment-of-migrants-and-reporters-during-covid-19/?fbclid=IwAR1ZoiZa2G4WRr-xOTzJo5-GAYWfgLZhxg1y_llYyaQsUAv0kRwPFqirjF8)
+[![](../assets/71c269ee30e3/Police-Violence-Concerning-Treatment-of-Migrants-and-Reporters-during-Covid-19-min-1.png)](https://wearesolomon.com/mag/community/police-violence-concerning-treatment-of-migrants-and-reporters-during-covid-19/?fbclid=IwAR1ZoiZa2G4WRr-xOTzJo5-GAYWfgLZhxg1y_llYyaQsUAv0kRwPFqirjF8)
 
 
 Assad might have publicly asked Syrian refugees to return back to Syria, but in fact he is doing a lot to prevent them from doing so\. Syrians have to exchange $100 for Syrian pounds when re\-entering the country, a sum that is not bearable for many Syrians who lived as refugees in Lebanon or Turkey\. 

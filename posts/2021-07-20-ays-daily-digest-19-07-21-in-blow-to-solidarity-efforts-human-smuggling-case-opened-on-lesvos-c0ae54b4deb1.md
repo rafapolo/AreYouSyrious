@@ -289,7 +289,7 @@ The Canadian federal government secretly tested facial recognition technology on
 Part 4 of the Nationality and Borders Bill addresses modern slavery and human trafficking\. Here is a summary of each key change that Part 4 of the Bill introduces\.
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2021/07/facebook-link-image-min-2.jpeg)](https://www.freemovement.org.uk/briefing-the-nationality-and-borders-bill-part-4-modern-slavery-human-trafficking/?fbclid=IwAR39xyWHb2Us54bm-g3YBTUH8qq2ymNR8hI4EYLqBRSsimvKAZa7PgFz2uM)
+[![](../assets/c0ae54b4deb1/facebook-link-image-min-2.jpeg)](https://www.freemovement.org.uk/briefing-the-nationality-and-borders-bill-part-4-modern-slavery-human-trafficking/?fbclid=IwAR39xyWHb2Us54bm-g3YBTUH8qq2ymNR8hI4EYLqBRSsimvKAZa7PgFz2uM)
 
 #### EUObserver: EU plans military mission to Libya
 

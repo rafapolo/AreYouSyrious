@@ -141,11 +141,11 @@ Refugee Support Aegean has produced two timelines:
 Both timelines are recommended for anyone interested in gaining a chronological overview of the policy decisions by the Greek authorities or the continued attacks on humanitarian organisations\.
 
 
-[![](https://rsaegean.org/wp-content/uploads/2015/03/timeline-key-developments.jpg)](https://rsaegean.org/en/timeline-of-recent-key-developments/?fbclid=IwAR2uqNzSQkVewtxanAIuk-Qs-GQz7XSnzB5wp4xiO-pS5l5js5KNSWjEaGg)
+[![](../assets/7342fbf7914e/timeline-key-developments.jpg)](https://rsaegean.org/en/timeline-of-recent-key-developments/?fbclid=IwAR2uqNzSQkVewtxanAIuk-Qs-GQz7XSnzB5wp4xiO-pS5l5js5KNSWjEaGg)
 
 
 
-[![](https://rsaegean.org/wp-content/uploads/2010/03/timeline-of-attacks-on-solidarity.jpg)](https://rsaegean.org/en/timeline-of-attacks-against-solidarity/)
+[![](../assets/7342fbf7914e/timeline-of-attacks-on-solidarity.jpg)](https://rsaegean.org/en/timeline-of-attacks-against-solidarity/)
 
 ### Italy
 

@@ -39,7 +39,7 @@ Today however the blockade did not allow anyone through, including the food truc
 **Find the story on attacks at journalists here:**
 
 
-[![](https://cpj.org/wp-content/uploads/2020/03/rt_greece_03-03-2020_rs.jpg)](https://cpj.org/2020/03/anti-refugee-protesters-attack-journalists-in-gree.php?fbclid=IwAR3c6ewiWUZRVGt3A3w5871M0AktHbfF7XKGMeKT7HEkqKv2CxEIcAS9Rfo)
+[![](../assets/a2290587bd6c/rt_greece_03-03-2020_rs.jpg)](https://cpj.org/2020/03/anti-refugee-protesters-attack-journalists-in-gree.php?fbclid=IwAR3c6ewiWUZRVGt3A3w5871M0AktHbfF7XKGMeKT7HEkqKv2CxEIcAS9Rfo)
 
 
 

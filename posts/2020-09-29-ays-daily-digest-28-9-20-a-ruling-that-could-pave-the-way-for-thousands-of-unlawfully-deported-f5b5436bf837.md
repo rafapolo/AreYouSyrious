@@ -194,7 +194,7 @@ The system creates disempowered adults, unresourced, unprepared, dysfunctional i
 Greece Struggles to Balance Competing Migration Demands:
 
 
-[![](https://www.migrationpolicy.org/sites/default/files/source_images/Greece_Lesvos_tents.jpg)](https://www.migrationpolicy.org/article/greece-struggles-balance-competing-migration-demands?fbclid=IwAR369M1lkVIBH3Qziq18gcWiZZD_zOqzZ5rYPJEKaSm4YGq8iQqHLMt-21Q)
+[![](../assets/f5b5436bf837/Greece_Lesvos_tents.jpg)](https://www.migrationpolicy.org/article/greece-struggles-balance-competing-migration-demands?fbclid=IwAR369M1lkVIBH3Qziq18gcWiZZD_zOqzZ5rYPJEKaSm4YGq8iQqHLMt-21Q)
 
 
 The Cognitive Dimensions of the New EU Pact on Migration and Asylum:

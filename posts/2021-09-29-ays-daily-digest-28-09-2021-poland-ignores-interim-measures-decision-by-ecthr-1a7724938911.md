@@ -91,7 +91,7 @@ When held at the Police Station, one member of the group was able to speak to jo
 For more information on the general situation along the border, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/181d953a1021faf71fd08615a926547da2336c3b.jpeg)](https://www.infomigrants.net/en/post/35349/poland-seeks-extension-of-state-of-emergency-on-belarus-border)
+[![](../assets/1a7724938911/181d953a1021faf71fd08615a926547da2336c3b.jpeg)](https://www.infomigrants.net/en/post/35349/poland-seeks-extension-of-state-of-emergency-on-belarus-border)
 
 
 Some words on interim measures:
@@ -265,7 +265,7 @@ Utopia 56 reported the death of a 16 year\-old teenager who died after having be
 This article provides backround information on the French deportation system and the facilities used for it\. The deportation prison at Mayotte International Airport is one of the largest in the country\.
 
 
-[![](https://img.lemde.fr/2021/09/27/0/0/4000/2661/1440/960/60/0/2ecd157_613074458-mayotte-2021-03-26-20865.jpg)](https://www.lemonde.fr/societe/article/2021/09/28/le-centre-de-retention-administrative-de-mayotte-une-machine-a-expulser_6096231_3224.html?fbclid=IwAR2yuxp7K10HLctjvjP2CUqY4AVGfsmP1d5NCZcGDctvXoy3JT93-PNZwik#xtor=AL-32280270-%5Btwitter%5D-%5Bios%5D)
+[![](../assets/1a7724938911/2ecd157_613074458-mayotte-2021-03-26-20865.jpg)](https://www.lemonde.fr/societe/article/2021/09/28/le-centre-de-retention-administrative-de-mayotte-une-machine-a-expulser_6096231_3224.html?fbclid=IwAR2yuxp7K10HLctjvjP2CUqY4AVGfsmP1d5NCZcGDctvXoy3JT93-PNZwik#xtor=AL-32280270-%5Btwitter%5D-%5Bios%5D)
 
 ### UK
 #### Video on the UK’s new Nationality and Borders Bill

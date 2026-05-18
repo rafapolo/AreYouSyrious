@@ -46,7 +46,7 @@ Given these living conditions it seems a wonder that the virus did not reach the
 This article gives a good overview over the medical situation in Moria and the situation on the streets of Athens after the government’s decision to cut housing and financial support for recognized refugees:
 
 
-[![](https://i.guim.co.uk/img/media/3d2772106771ac41a4424c0fc1c52f61d01c40b2/0_363_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=75a8a99cf1554914ac4847141b45d60f)](https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus)
+[![](../assets/c9cad5e9abf1/5472.jpg)](https://www.theguardian.com/global-development/2020/jul/31/greece-refugee-healthcare-crisis-island-camps-lesbos-moria-coronavirus)
 
 ### GENERAL: 5th anniversary of Alan Kurdi’s death
 
@@ -106,7 +106,7 @@ Recently, media attention on the situation in BH has risen\. More than 10,000 re
 This article gives a good overview of the situation:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/09/Krop-Otvor-e1598986582816.jpg)](https://balkaninsight.com/2020/09/02/no-mans-land-migrants-refugees-stranded-at-a-bosnian-roadside/?fbclid=IwAR28VQqq8k6_b3Zbi1xJzG41zuEo78vDpOOnl3Fk0LUjiNyjm2c-X-ZlD0w)
+[![](../assets/c9cad5e9abf1/Krop-Otvor-e1598986582816.jpg)](https://balkaninsight.com/2020/09/02/no-mans-land-migrants-refugees-stranded-at-a-bosnian-roadside/?fbclid=IwAR28VQqq8k6_b3Zbi1xJzG41zuEo78vDpOOnl3Fk0LUjiNyjm2c-X-ZlD0w)
 
 ### SEA
 
@@ -137,7 +137,7 @@ At least in Germany, antisemitism is a well\-integrated feature in the non\-Musl
 For an article by InfoMigrants on Kurz’s statements, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/676bf144bbf239a15456cad8d1ac095d33ce75f6.jpeg)](https://www.infomigrants.net/en/post/26993/kurz-opening-europe-s-borders-was-a-mistake?fbclid=IwAR28VQqq8k6_b3Zbi1xJzG41zuEo78vDpOOnl3Fk0LUjiNyjm2c-X-ZlD0w)
+[![](../assets/c9cad5e9abf1/676bf144bbf239a15456cad8d1ac095d33ce75f6.jpeg)](https://www.infomigrants.net/en/post/26993/kurz-opening-europe-s-borders-was-a-mistake?fbclid=IwAR28VQqq8k6_b3Zbi1xJzG41zuEo78vDpOOnl3Fk0LUjiNyjm2c-X-ZlD0w)
 
 ### FRANCE
 
@@ -159,7 +159,7 @@ Copyright: Utopia 56
 Find more information here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/fc7fd60491c3c40b0341d73047ba36a7c41e979b.jpeg)](https://www.infomigrants.net/en/post/26995/council-backs-migrants-who-pitched-tents-in-central-paris?fbclid=IwAR2vMKd5OM2smW9bytbAQ9g7luQeJcpLRmJamz3q4uXbTujfc1hNGIy18GA)
+[![](../assets/c9cad5e9abf1/fc7fd60491c3c40b0341d73047ba36a7c41e979b.jpeg)](https://www.infomigrants.net/en/post/26995/council-backs-migrants-who-pitched-tents-in-central-paris?fbclid=IwAR2vMKd5OM2smW9bytbAQ9g7luQeJcpLRmJamz3q4uXbTujfc1hNGIy18GA)
 
 
 The Utopia 56 team Lille is looking for new team members\. Please refer to their Facebook page for more information\.
@@ -172,7 +172,7 @@ On Saturday, 5 September, SOlidarité Migrants Wilson will collect donations fro
 This very interesting article looks at the way media, politicians and scientists use maps in the context of migration\. Its key message is that maps, in contrast to what they are often seen as, are far from being neutral\.
 
 
-[![](https://archive.cdn-thecorrespondent.com/image/rmyx42gl63FMnnh-okqXW2B287s=/1024x576/ab5a8e39aac74b9ba010864ba0e25c8b.jpg)](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/726915414984-65267695?fbclid=IwAR0TKT02lApmoSfSSgr6_Wf0CV1AZW9M1oY3NpV__s4G0YpXBPme0UCs7hA)
+[![](../assets/c9cad5e9abf1/ab5a8e39aac74b9ba010864ba0e25c8b.jpg)](https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants/726915414984-65267695?fbclid=IwAR0TKT02lApmoSfSSgr6_Wf0CV1AZW9M1oY3NpV__s4G0YpXBPme0UCs7hA)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

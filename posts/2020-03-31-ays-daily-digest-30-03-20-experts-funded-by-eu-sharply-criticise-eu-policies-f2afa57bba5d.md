@@ -59,7 +59,7 @@ A webinar legal training covering an introduction to refugee law will be held to
 Register here:
 
 
-[![](https://d1aettbyeyfilo.cloudfront.net/GenesisDigital/7565883_15798151027655649013_1568113987206237.jpg)](https://event.webinarjam.com/register/7/17w81fx?fbclid=IwAR1FC7uE-Nn3AMeysbeI-QDR_AvXrnF99oibbVzVXyVt07DfiuDANT1KlzE)
+[![](../assets/f2afa57bba5d/7565883_15798151027655649013_1568113987206237.jpg)](https://event.webinarjam.com/register/7/17w81fx?fbclid=IwAR1FC7uE-Nn3AMeysbeI-QDR_AvXrnF99oibbVzVXyVt07DfiuDANT1KlzE)
 
 ### AFGHANISTAN
 
@@ -80,7 +80,7 @@ There have not been any cases confirmed in the northwest of Syria, yet\. This re
 For more information see:
 
 
-[![](http://assets.irinnews.org/s3fs-public/styles/responsive_large/public/itn-syria-coronavirus-thumbnail.jpg?96C9gBBqIvovHF31LOqK.g2sXbfMi1s9&itok=ElkjsF7J)](https://www.thenewhumanitarian.org/news/2020/03/30/syria-coronavirus-first-death?utm_source=The+New+Humanitarian&utm_campaign=60c8f36201-EMAIL_CAMPAIGN_03_30_2020_DAILY&utm_medium=email&utm_term=0_d842d98289-60c8f36201-75608317&fbclid=IwAR0F3sb1Slcvve0bEEERhPJUcZEc2ttgVQ6N5JWcKBDuLHm3M73uAf6W66U)
+[![](../assets/f2afa57bba5d/itn-syria-coronavirus-thumbnail.jpg)](https://www.thenewhumanitarian.org/news/2020/03/30/syria-coronavirus-first-death?utm_source=The+New+Humanitarian&utm_campaign=60c8f36201-EMAIL_CAMPAIGN_03_30_2020_DAILY&utm_medium=email&utm_term=0_d842d98289-60c8f36201-75608317&fbclid=IwAR0F3sb1Slcvve0bEEERhPJUcZEc2ttgVQ6N5JWcKBDuLHm3M73uAf6W66U)
 
 ### SEA
 
@@ -96,7 +96,7 @@ The Sea Eye ship ALAN KURDI is back in the Mediterranean for a new rescue missio
 For the full press release see:
 
 
-[![](https://sea-eye.org/wp-content/uploads/2019/11/Alan-Kurdi_November-2019_c_Karsten-Jäger-sea-eye.org_.jpg)](https://sea-eye.org/en/alan-kurdi-underway-for-its-next-mission/)
+[![](../assets/f2afa57bba5d/Alan-Kurdi_November-2019_c_Karsten-J%C3%A4ger-sea-eye.org_.jpg)](https://sea-eye.org/en/alan-kurdi-underway-for-its-next-mission/)
 
 ### TURKEY
 
@@ -290,7 +290,7 @@ A refugee centre \(so called ‘Ankerzentrum’\) in Bavaria, which currently ho
 For more information see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/45cfaf7de77200344bf32a4c87b75ac4294435a2.jpeg)](https://www.infomigrants.net/en/post/23749/600-asylum-seekers-under-quarantine-in-german-anchor-center?preview=1585579158143&fbclid=IwAR1F14tyq_dvpde1nmHjL2G-PKzeOw_OeCVOIi6fZyaijstKTLAXQXCA9GE)
+[![](../assets/f2afa57bba5d/45cfaf7de77200344bf32a4c87b75ac4294435a2.jpeg)](https://www.infomigrants.net/en/post/23749/600-asylum-seekers-under-quarantine-in-german-anchor-center?preview=1585579158143&fbclid=IwAR1F14tyq_dvpde1nmHjL2G-PKzeOw_OeCVOIi6fZyaijstKTLAXQXCA9GE)
 
 ### UK
 
@@ -303,7 +303,7 @@ The paper includes the current legal restrictions, information on who’s at spe
 See here:
 
 
-[![](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2020/07/6.jpg)](https://www.doctorsoftheworld.org.uk/coronavirus-information/?fbclid=IwAR31pxzNASq4skjCTOT-Weem2hT5gK0ivbEybRLCBEMPSTo6LyKCWDOtScs#)
+[![](../assets/f2afa57bba5d/6.jpg)](https://www.doctorsoftheworld.org.uk/coronavirus-information/?fbclid=IwAR31pxzNASq4skjCTOT-Weem2hT5gK0ivbEybRLCBEMPSTo6LyKCWDOtScs#)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

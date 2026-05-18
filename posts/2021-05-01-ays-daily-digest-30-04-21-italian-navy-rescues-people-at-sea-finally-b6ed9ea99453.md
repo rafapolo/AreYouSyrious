@@ -207,15 +207,15 @@ Info on the European Court of Human Rights, EASO, Deportation to Afghanistan, Cr
 
 
 
-[![](https://www1.wdr.de/daserste/monitor/sendungen/libyen-122~_v-gseagaleriexl.jpg)](https://www1.wdr.de/daserste/monitor/videos/video-jagd-auf-fluechtlinge-frontex-und-die-libysche-kuestenwache-100.html)
+[![](../assets/b6ed9ea99453/libyen-122~_v-gseagaleriexl.jpg)](https://www1.wdr.de/daserste/monitor/videos/video-jagd-auf-fluechtlinge-frontex-und-die-libysche-kuestenwache-100.html)
 
 
 
-[![](https://i.cbc.ca/1.6007201.1619712176!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/italy4.JPG)](https://www.cbc.ca/news/world/these-rescuers-want-to-save-refugees-fleeing-libya-by-sea-but-they-re-trapped-on-shore-by-red-tape-1.6007111?fbclid=IwAR3L43JDgbzHhUlz9rOnQ31u_PlFl2uP5cY9s8RVpv2ec5N-3jNMikgdydE)
+[![](../assets/b6ed9ea99453/italy4.JPG)](https://www.cbc.ca/news/world/these-rescuers-want-to-save-refugees-fleeing-libya-by-sea-but-they-re-trapped-on-shore-by-red-tape-1.6007111?fbclid=IwAR3L43JDgbzHhUlz9rOnQ31u_PlFl2uP5cY9s8RVpv2ec5N-3jNMikgdydE)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/720d8050a94ec71ceca9907153f6422e583c0257.jpeg)](https://www.infomigrants.net/en/post/31900/seeking-protection-in-iceland-the-dimming-hope-of-refugees-coming-from-greece-and-hungary?fbclid=IwAR0FszfN8PmtPCh_WIhpeZmkzcVMpCkWpEUFOm6vaTxFKxC6weQZBrjqMH0)
+[![](../assets/b6ed9ea99453/720d8050a94ec71ceca9907153f6422e583c0257.jpeg)](https://www.infomigrants.net/en/post/31900/seeking-protection-in-iceland-the-dimming-hope-of-refugees-coming-from-greece-and-hungary?fbclid=IwAR0FszfN8PmtPCh_WIhpeZmkzcVMpCkWpEUFOm6vaTxFKxC6weQZBrjqMH0)
 
 
 

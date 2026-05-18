@@ -104,7 +104,7 @@ For many children whose parents are applying for asylum in Greece, school and ed
 This report from April 2021 provides a very good overview of the educational situation of children living in camps:
 
 
-[![](https://rsaegean.org/wp-content/uploads/2021/04/202104-rsa-coverThe-vanishing-education-of-refugee-children-in-Greece-2.png)](https://rsaegean.org/en/excluded-and-segregated-the-vanishing-education-of-refugee-children-in-greece/?fbclid=IwAR2DnhkVqLmu7yHC4R1V_ylnnnvn0_dEtRJL9er1q-gm0kOXj4kK0IsQILI)
+[![](../assets/12a6a5db8851/202104-rsa-coverThe-vanishing-education-of-refugee-children-in-Greece-2.png)](https://rsaegean.org/en/excluded-and-segregated-the-vanishing-education-of-refugee-children-in-greece/?fbclid=IwAR2DnhkVqLmu7yHC4R1V_ylnnnvn0_dEtRJL9er1q-gm0kOXj4kK0IsQILI)
 
 
 
@@ -227,14 +227,14 @@ The anonymous informant said that people were told they could either return volu
 said the informant\.
 
 
-[![](https://www.lrt.lt/img/2021/09/09/1050951-2855-1287x836.jpg)](https://www.lrt.lt/en/news-in-english/19/1493583/the-main-goal-is-to-get-rid-of-them-lithuania-s-asylum-system-cracks-under-pressure?fbclid=IwAR2uCcChKMTSsnDwV6PNgz5uCglJxu82BhpB59n0tmnuwxyMVWFKqK9pJeU)
+[![](../assets/12a6a5db8851/1050951-2855-1287x836.jpg)](https://www.lrt.lt/en/news-in-english/19/1493583/the-main-goal-is-to-get-rid-of-them-lithuania-s-asylum-system-cracks-under-pressure?fbclid=IwAR2uCcChKMTSsnDwV6PNgz5uCglJxu82BhpB59n0tmnuwxyMVWFKqK9pJeU)
 
 ### LATVIA
 
 According to information published by the Latvian Border Guards, 80 people were deterred from crossing the Latvian\-Belarusian border over the weekend\.
 
 
-[![](https://static.lsm.lv/media/2021/09/large/1/g369.jpg)](https://eng.lsm.lv/article/society/defense/80-migrants-prevented-from-entering-latvia-over-weekend.a421023/?fbclid=IwAR2yUI5BSXRzMSGaAL4FDjmeyA2EGWyBKv4joARdNN4qnGwDJpr8a5jemnk)
+[![](../assets/12a6a5db8851/g369.jpg)](https://eng.lsm.lv/article/society/defense/80-migrants-prevented-from-entering-latvia-over-weekend.a421023/?fbclid=IwAR2yUI5BSXRzMSGaAL4FDjmeyA2EGWyBKv4joARdNN4qnGwDJpr8a5jemnk)
 
 ### UK
 

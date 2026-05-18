@@ -131,7 +131,7 @@ The InfoMigrants article explains:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/9a4ba2868adb29bb7b2fa749b0c455fa37627a84.jpeg)](https://www.infomigrants.net/en/post/41820/explainer-what-germanys-asylum-reform-means-for-migrants-with-a-duldung?fbclid=IwAR0GE53pBBHMfj1MbOcv-Rv_EY5qSnItJk9IAX5ePv_upHb0wJX390dEVNE)
+[![](../assets/73e4ceb5b556/9a4ba2868adb29bb7b2fa749b0c455fa37627a84.jpeg)](https://www.infomigrants.net/en/post/41820/explainer-what-germanys-asylum-reform-means-for-migrants-with-a-duldung?fbclid=IwAR0GE53pBBHMfj1MbOcv-Rv_EY5qSnItJk9IAX5ePv_upHb0wJX390dEVNE)
 
 
 However, what reports, both the German ones and this one, skip mentioning is the fact that in this same new law the period for pre\-deportation detention is extended from three up to SIX months, which looks like a concession to the conservatives and right\-wingers to get this law accepted\.

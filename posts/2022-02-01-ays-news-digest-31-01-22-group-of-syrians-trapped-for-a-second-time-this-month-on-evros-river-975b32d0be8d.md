@@ -15,9 +15,9 @@ image:
 ### FEATURE — In bizarre twist of fate, 24 Syrians are abandoned again on Evros river island
 
 
-![A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](https://commons.wikimedia.org/wiki/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)](../assets/975b32d0be8d/1*20n-7YJW1NcfA23oAM3SDA.jpeg)
+![A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](../assets/975b32d0be8d/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)](../assets/975b32d0be8d/1*20n-7YJW1NcfA23oAM3SDA.jpeg)
 
-A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](https://commons.wikimedia.org/wiki/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)
+A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](../assets/975b32d0be8d/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)
 
 It’s a story almost too terrible to believe, but it seems that the very same group of Syrians who earlier this month were stranded for days on an island in the middle of the Evros river have once again been abandoned in the same area\. The Greek newspaper EfSyn, who originally came into contact with the group of some two dozen Syrians several weeks ago when they were first on the island, [reported the news](https://www.efsyn.gr/ellada/dikaiomata/330005_xana-pagideymenoi-se-nisida-toy-ebroy-oi-syroi-prosfyges) on Monday\.
 
@@ -234,7 +234,7 @@ In Europe today, more people than ever are asking: what actually makes communiti
 The new restaurant run by two women offers Afghan cuisine attracting refugees as well as the local population\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/01/AfghanRestaurant-Inside-Albanian-Pizzeri.jpg?resize=1200%2C675)](https://www.aljazeera.com/news/2022/1/31/afghan-women-in-exile-start-restaurant-in-refugee-camp?fbclid=IwAR0OHx6lkHwhg7NGloOKDcFy_ZHVnnGH4qnPLI8zbb0X09BoaunAta3lr9w)
+[![](../assets/975b32d0be8d/AfghanRestaurant-Inside-Albanian-Pizzeri.jpg)](https://www.aljazeera.com/news/2022/1/31/afghan-women-in-exile-start-restaurant-in-refugee-camp?fbclid=IwAR0OHx6lkHwhg7NGloOKDcFy_ZHVnnGH4qnPLI8zbb0X09BoaunAta3lr9w)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -62,7 +62,7 @@ Another problem is that the government is preventing people from accessing asylu
 After Bosnia, most of the people continue toward Croatia, where the police continues with violent pushbacks\. Recently, one Italian TV crew managed to follow groups of people walking through the forests in Bosnia toward the border\.
 
 
-[![](https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F309208801002C15/images/Mediaset_Italia_Production_-_Main/445/204/F309208801002C15-1-keyframe-poster-652x367.jpg)](https://www.mediasetplay.mediaset.it/video/quartarepubblica/il-confine-bosnia-croazia_F309208801002C15)
+[![](../assets/303946541780/F309208801002C15-1-keyframe-poster-652x367.jpg)](https://www.mediasetplay.mediaset.it/video/quartarepubblica/il-confine-bosnia-croazia_F309208801002C15)
 
 
 Along land routes, at least 78 refugees or migrants are known to have died so far this year, more than in the whole of 2017 \(75\), at or near European borders\.

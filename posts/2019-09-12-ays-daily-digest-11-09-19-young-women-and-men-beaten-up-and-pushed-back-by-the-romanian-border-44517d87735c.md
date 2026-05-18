@@ -68,7 +68,7 @@ More and more people are fleeing from Syria towards Turkey following the latest 
 This article gives a good overview of the situation of civilians on the ground in Syria:
 
 
-[![](https://idsb.tmgrup.com.tr/2020/03/12/1584014134872.jpg)](https://www.dailysabah.com/politics/2019/09/11/500000-civilians-head-toward-turkish-border-fleeing-regime-attacks-in-idlib?fbclid=iwar1a4yepmn1t9clxk6yl4bz6wqjd8n-oiof_frseipgeviwz1kjzwusrn8s)
+[![](../assets/44517d87735c/1584014134872.jpg)](https://www.dailysabah.com/politics/2019/09/11/500000-civilians-head-toward-turkish-border-fleeing-regime-attacks-in-idlib?fbclid=iwar1a4yepmn1t9clxk6yl4bz6wqjd8n-oiof_frseipgeviwz1kjzwusrn8s)
 
 ### GREECE
 
@@ -84,20 +84,20 @@ On Wednesday afternoon, Ioannis Balbakakis, head of the hotspot Moria resigned f
 Find an article from keeptalkingGreece here:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2018/09/moria1-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/11/moria-head-resignation/)
+[![](../assets/44517d87735c/moria1-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/11/moria-head-resignation/)
 
 
 Here is a photo series by Deutsche Welle about Moria:
 
 
-[![](https://static.dw.com/image/50366252_6.jpg)](https://www.dw.com/en/moira-refugee-camp-a-new-kind-of-hell-awaits/g-50378611?fbclid=IwAR3GBqwoQ42Q2j5p7uHC1a7uhrzrwMW04Zdl-rOwSLiWCHkZKC6pNG1tJWE)
+[![](../assets/44517d87735c/50366252_6.jpg)](https://www.dw.com/en/moira-refugee-camp-a-new-kind-of-hell-awaits/g-50378611?fbclid=IwAR3GBqwoQ42Q2j5p7uHC1a7uhrzrwMW04Zdl-rOwSLiWCHkZKC6pNG1tJWE)
 
 
 The resignation comes at a time of complete overcrowding and excessive demands on all the Greek reception centers, with 21,000 people currently waiting for their asylum procedure to be processed on the Greek islands\. 
 This article gives a good overview of the current situation:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/8798475e99a96c03d8ce37b5fe80115de0d4a6b6.jpeg)](https://www.infomigrants.net/en/post/19449/situation-in-greece-for-migrants-insupportable?fbclid=IwAR0brx-6Doml7FoHAUlcgOabsSekoPcFoKeob9FQiL3DkZ7QRe-jmGeGDjs)
+[![](../assets/44517d87735c/8798475e99a96c03d8ce37b5fe80115de0d4a6b6.jpeg)](https://www.infomigrants.net/en/post/19449/situation-in-greece-for-migrants-insupportable?fbclid=IwAR0brx-6Doml7FoHAUlcgOabsSekoPcFoKeob9FQiL3DkZ7QRe-jmGeGDjs)
 
 
 According to **Aegean Boat Report** , 320 people arrived in the Greek islands on Wednesday, with six boats coming to Lesvos, one to Chios and two to Samos\.
@@ -119,7 +119,7 @@ For the second time in a week, people detained at the Malta migration center pro
 Find an article about the situation here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/027acba9f9d42b29d1289d399bd577c1c63b7317.jpeg)](https://www.infomigrants.net/en/post/19431/migrants-demand-freedom-in-latest-protest-at-malta-center?fbclid=IwAR35tqjz7auFnvk4PTgNvTzmU3qKtZ1WIdGoYq4EPp7kJmP2WNR2jw8QvLk)
+[![](../assets/44517d87735c/027acba9f9d42b29d1289d399bd577c1c63b7317.jpeg)](https://www.infomigrants.net/en/post/19431/migrants-demand-freedom-in-latest-protest-at-malta-center?fbclid=IwAR35tqjz7auFnvk4PTgNvTzmU3qKtZ1WIdGoYq4EPp7kJmP2WNR2jw8QvLk)
 
 #### CROATIA
 ### AYS volunteer teachers team back in Porin

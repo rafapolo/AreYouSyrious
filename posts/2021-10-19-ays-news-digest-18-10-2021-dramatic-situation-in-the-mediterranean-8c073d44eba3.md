@@ -123,7 +123,7 @@ Response to an #NGO‘s letter regarding the feeding of #asylumseekers
 However, people who are at the moment in the process of seeking asylum are only a small number of those who live in camps and squats in the country\. With no functioning integration program for recognized refugees, and no opportunities for people who got their claims rejected, Greece is once again failing thousands of people\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/5544bbc727b06b45e26d9492fe8ab40046a0d19d.jpg)](https://www.infomigrants.net/en/post/35771/we-have-nothing-to-eat-migrants-in-greek-camp-nea-kavala-without-access-to-food?fbclid=IwAR3mIZtWDTma7yunZh1yEBwR99Fj-qSHTAVbmCurcPl93ssacDZBBnw0TaI)
+[![](../assets/8c073d44eba3/5544bbc727b06b45e26d9492fe8ab40046a0d19d.jpg)](https://www.infomigrants.net/en/post/35771/we-have-nothing-to-eat-migrants-in-greek-camp-nea-kavala-without-access-to-food?fbclid=IwAR3mIZtWDTma7yunZh1yEBwR99Fj-qSHTAVbmCurcPl93ssacDZBBnw0TaI)
 
 #### Dutch activists on Lesvos detained without arrest warrant and subjected to a genital search
 
@@ -159,7 +159,7 @@ Romania hasn’t got too much attention so far\. BVMN handed in a submission to 
 On Malta, the El Hiblu 3 are still on trial\. The young men were arrested in 2019 at the ages of 15,16, and 19 and were accused of charges amounting to terrorist activity\. The commercial ship El Hiblu rescued 108 people from distress and was ordered by Maltese authorities to bring them to Libya, but instead landed on Malta in March 2019\. The three boys are accused of hijacking the ship while they themselves and witnesses on board say they were simply functioning as translators, as they were speaking English\. An international commission, consisting of human rights activists, parliamentarians and other people holding high official positions, will speak in defense of the El Hiblu 3\. Amongst the commission is also Cameroonian philosopher Achille Mbembe\. For more, see:
 
 
-[![](https://cdn-attachments.timesofmalta.com/00b332581a18cfac24c2f931b508fc0851898bdb-1634542487-93cc4c11-1200x630.jpg)](https://timesofmalta.com/articles/view/i-have-been-used-as-weapon-in-political-battle-migrant-facing.908575?fbclid=IwAR14KyyJfTjQnxuW_aaiZBA_5LnpUz42z8r2NqiQmrzo4p1_YPbqNcSU6Cc)
+[![](../assets/8c073d44eba3/00b332581a18cfac24c2f931b508fc0851898bdb-1634542487-93cc4c11-1200x630.jpg)](https://timesofmalta.com/articles/view/i-have-been-used-as-weapon-in-political-battle-migrant-facing.908575?fbclid=IwAR14KyyJfTjQnxuW_aaiZBA_5LnpUz42z8r2NqiQmrzo4p1_YPbqNcSU6Cc)
 
 ### ITALY
 #### 11 people sentenced for human trafficking
@@ -167,7 +167,7 @@ On Malta, the El Hiblu 3 are still on trial\. The young men were arrested in 201
 11 men have been sentenced for human trafficking and were given charges of 6–20 years in prison\. They belonged to a ring of human traffickers who tricked young girls and women, mainly from Nigeria, into making the journey to Europe and then forced them into prostitution\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/33bfea10a456ac2f5ce5651cf7f5396b8c7e0b17.jpg)](https://www.infomigrants.net/en/post/35803/italy-sentences-11-for-prostitution-trafficking-from-africa?fbclid=IwAR0jJnJniTp4WElp7fLQcKNJefZCoM5VgAcJnrie9WLEoNiOu1Rj4iU7w_Y)
+[![](../assets/8c073d44eba3/33bfea10a456ac2f5ce5651cf7f5396b8c7e0b17.jpg)](https://www.infomigrants.net/en/post/35803/italy-sentences-11-for-prostitution-trafficking-from-africa?fbclid=IwAR0jJnJniTp4WElp7fLQcKNJefZCoM5VgAcJnrie9WLEoNiOu1Rj4iU7w_Y)
 
 ### POLAND
 #### In the Polish border area, people lit green lights to signal solidarity with refugees
@@ -253,14 +253,14 @@ For detailed information on the Nationality and Border Bill, see here:
 The Puppet Little Amal is about to finish her walk through Europe by crossing from France to the UK\. The puppet that represents a refugee child has travelled 8,000 km through Europe and encountered hatred and racism alongside the warm welcomes\.
 
 
-[![](https://i.guim.co.uk/img/media/98880ffe4fe997633ff34dda61e7bb006df93946/795_575_7147_4288/master/7147.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26960e06b67083206f8d1ad42b2b4e4f)](https://www.theguardian.com/stage/2021/oct/18/threatened-puppet-refugee-little-amals-epic-walk?fbclid=IwAR0CxVV4aWCZsXhvDnjohxrr-nabjNXCUB-j_4hDke2F12JRE6reug7LWH8)
+[![](../assets/8c073d44eba3/7147.jpg)](https://www.theguardian.com/stage/2021/oct/18/threatened-puppet-refugee-little-amals-epic-walk?fbclid=IwAR0CxVV4aWCZsXhvDnjohxrr-nabjNXCUB-j_4hDke2F12JRE6reug7LWH8)
 
 #### Long read on the most dangerous route into Europe
 
 This long read sheds light on the route to the Canary Islands, that is extremely dangerous as it is very long and there is a high risk of missing the islands and drifting into the open Atlantic\.
 
 
-[![](https://images.jacobinmag.com/wp-content/uploads/2021/10/17170803/GettyImages-1232976960.jpg)](https://jacobinmag.com/2021/10/european-union-border-regime-boat-crossings-atlantic-africa-canary-islands/?fbclid=IwAR0zmIy30i-11hR072I1nBhz83U9SkRqzToIRv4agzoDvRVdjt0pZsFzy7M)
+[![](../assets/8c073d44eba3/GettyImages-1232976960.jpg)](https://jacobinmag.com/2021/10/european-union-border-regime-boat-crossings-atlantic-africa-canary-islands/?fbclid=IwAR0zmIy30i-11hR072I1nBhz83U9SkRqzToIRv4agzoDvRVdjt0pZsFzy7M)
 
 #### Latest Mixed Migration Update published
 

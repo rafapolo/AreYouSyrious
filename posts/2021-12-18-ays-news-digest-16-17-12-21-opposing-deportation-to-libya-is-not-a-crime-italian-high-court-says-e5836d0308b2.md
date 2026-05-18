@@ -228,14 +228,14 @@ The report shows that the highest rates of pushbacks were recorded at the Bosnia
 Refugee turned activist YAMBIO DAVID OLIVER tells The Civil Fleet what led to the protests outside a UNHCR registration centre in Tripoli\.
 
 
-[![](https://thecivilfleet.files.wordpress.com/2021/12/lmo2621.jpg?w=1200)](https://thecivilfleet.wordpress.com/2021/12/16/the-eu-must-be-held-accountable-for-the-crimes-it-has-committed-against-people-trying-to-reach-its-borders/?fbclid=IwAR0jOIA1S3z_hBL4Jb-rObQhkudtt4oEkfyjuPtLLCjDW55xXuAz1ixZvUw)
+[![](../assets/e5836d0308b2/lmo2621.jpg)](https://thecivilfleet.wordpress.com/2021/12/16/the-eu-must-be-held-accountable-for-the-crimes-it-has-committed-against-people-trying-to-reach-its-borders/?fbclid=IwAR0jOIA1S3z_hBL4Jb-rObQhkudtt4oEkfyjuPtLLCjDW55xXuAz1ixZvUw)
 
 #### Refugee children should not have to risk their lives at sea
 
 MSF aid worker on how Europe’s reckless border policies continue to force desperate families into dangerous journeys across the Mediterranean\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2020/08/ba26466e61a9442d9ccc144c81eb0934_18.jpeg?resize=1200%2C675)](https://www.aljazeera.com/opinions/2021/12/17/refugee-children-should-not-have-to-risk-their-lives-at-sea?fbclid=IwAR11xxdGGdnR7Na2240JfqFats1j5DWV_fel7Xf73K0SO1ulbimP8eGTjRg)
+[![](../assets/e5836d0308b2/ba26466e61a9442d9ccc144c81eb0934_18.jpeg)](https://www.aljazeera.com/opinions/2021/12/17/refugee-children-should-not-have-to-risk-their-lives-at-sea?fbclid=IwAR11xxdGGdnR7Na2240JfqFats1j5DWV_fel7Xf73K0SO1ulbimP8eGTjRg)
 
 #### Families of drowned migrants bid tearful farewell at ceremony in France \(video\)
 

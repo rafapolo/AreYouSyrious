@@ -247,7 +247,7 @@ But authorities have granted conditional residence permits to Nasour’s husband
 Rich investors are able to buy their way into Europe\. Why not refugees? A group of artists in Germany known as the Peng Collective is planning to flip the script for one family from Afghanistan\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/b9ef0e64-4d9e-414a-8c84-3c14155f0ff5_w1280_r1.77_fpx40_fpy38.jpg)](https://www.spiegel.de/international/europe/golden-visas-for-refugees-we-are-trading-the-borders-away-a-428665b9-4cad-4679-a306-27e63f7190f3?fbclid=IwAR2fW9SLyCNMuwXLDGxPgowpVtRYrh95d3UiapzqzeJzy_Ocj_xfwXsjfFE)
+[![](../assets/ffd6e8406ab8/b9ef0e64-4d9e-414a-8c84-3c14155f0ff5_w1280_r1.77_fpx40_fpy38.jpg)](https://www.spiegel.de/international/europe/golden-visas-for-refugees-we-are-trading-the-borders-away-a-428665b9-4cad-4679-a306-27e63f7190f3?fbclid=IwAR2fW9SLyCNMuwXLDGxPgowpVtRYrh95d3UiapzqzeJzy_Ocj_xfwXsjfFE)
 
 #### In no\-man’s land
 
@@ -261,7 +261,7 @@ The predicament of refugees at the Polish–Belarusian border evokes deportation
 As Germany resumes deporting failed asylum seekers after a slowdown during the pandemic, fear is growing among hundreds of Bangladeshi migrants whose asylum applications have been rejected\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3f231f07864198a30b56a9936ab40353c65efd67.jpg)](https://www.infomigrants.net/en/post/35743/hundreds-of-bangladeshi-asylum-seekers-in-germany-fear-deportation?fbclid=IwAR1_Yj6zSaX0FgjLhPUF1BP5Z_jYKoBfVeHoESAR9OXav_PI_9RHXhdtqHs)
+[![](../assets/ffd6e8406ab8/3f231f07864198a30b56a9936ab40353c65efd67.jpg)](https://www.infomigrants.net/en/post/35743/hundreds-of-bangladeshi-asylum-seekers-in-germany-fear-deportation?fbclid=IwAR1_Yj6zSaX0FgjLhPUF1BP5Z_jYKoBfVeHoESAR9OXav_PI_9RHXhdtqHs)
 
 #### The EU\-Turkey deal breakdown: How securitisation narratives are reproduced through externalisation
 

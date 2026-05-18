@@ -297,7 +297,7 @@ WARNING — This report is most distressing\. It includes accounts of rape camps
 
 
 
-[![](https://cdn.enabbaladi.net/english/wp-content/uploads/2021/08/syria-1-2.jpg)](https://english.enabbaladi.net/archives/2021/08/syrian-refugees-face-threats-of-deportation-from-europe-and-appropriation-of-property-rights-in-syria/?fbclid=IwAR1qTTD_m9ORq1P0A0eL8l1z5g2KzEKSqC8bkBWYMyfGihzTjcJTJmyClNQ)
+[![](../assets/aac4a7447991/syria-1-2.jpg)](https://english.enabbaladi.net/archives/2021/08/syrian-refugees-face-threats-of-deportation-from-europe-and-appropriation-of-property-rights-in-syria/?fbclid=IwAR1qTTD_m9ORq1P0A0eL8l1z5g2KzEKSqC8bkBWYMyfGihzTjcJTJmyClNQ)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

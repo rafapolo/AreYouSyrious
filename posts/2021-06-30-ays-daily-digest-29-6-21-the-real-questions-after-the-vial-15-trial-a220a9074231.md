@@ -140,7 +140,7 @@ The deeply concerning global pattern of routine human rights violations at inter
 As pushbacks receive more and more attention from the wider public, [media](https://l.facebook.com/l.php?u=https%3A%2F%2Famp.theguardian.com%2Fglobal-development%2F2021%2Fjun%2F29%2Fgreece-accused-of-refugee-pushback-after-family-avoid-being-forced-off-island%3F__twitter_impression%3Dtrue%26fbclid%3DIwAR02c_cqTse3ECLOOkxkgeh80Vf0JzzzEh10yXEPXmM-H6KLwkhpg0oYzxU&h=AT2_Y3qcxaYg_KJ07D0fxc8G6yIM6ASsrLoeAXSMvwMhQpdI60qeRImpIqPLgGBZo7nGVvvlHjW5JMZjmTYUDvvO_YTyl0qf6uSdBkZ5p88B2HITMIuCB_J56dop4fi362UxBa3KU3aELg&__tn__=R]-R&c[0]=AT3ErOzyd4haZTVvr-EnrLl6tqQMWR2ziP9f6_gnsiggTGvKkYM6tDhs28RxVLgRXhckzl-uoRFqpLI62IbFH0NgwSY9GIO9dQ4fmpGXBsG_dBLKCCvrCJGFnaQmvdQygmjAeD9_D-q1UagPCvFAqgEYeCjZfewvAKq9VYixsLJlLEqH_Zdl1n6JYv31fbW5i4nGRAPjWRo) , and — we hope — politicians in power, not much has changed in the field\. The discrepancy between the nominal solidarity and the lack of solidarity in practice is stark\. One such example of this fickle solidarity has been the great reaction to what is taking place in Palestine, while the same people ignore Palestinians who fled the horrors and are now, like everyone else, being denied rights and experiencing pushbacks:
 
 
-[![](https://idsb.tmgrup.com.tr/ly/uploads/images/2021/06/29/thumbs/800x531/125210.jpg)](https://www.dailysabah.com/world/europe/palestinian-family-hides-in-woods-to-escape-pushback-in-greece?fbclid=IwAR1jALGFkQRt6doEaAcPOSYfhRfP1rra-7r1QOmkpXZMllZbSpMKtYuCYfk)
+[![](../assets/a220a9074231/125210.jpg)](https://www.dailysabah.com/world/europe/palestinian-family-hides-in-woods-to-escape-pushback-in-greece?fbclid=IwAR1jALGFkQRt6doEaAcPOSYfhRfP1rra-7r1QOmkpXZMllZbSpMKtYuCYfk)
 
 
 Many media outlets search for ready\-made stories, less and less investigations \(apart from the NGOs and individuals dedicated to the issue\) are taking place with a transparent outcome and publically available reports, but one thing is clear — illegal and illegitimate expulsions of people who wish to express the intention to seek international protection are taking place every day, even as you read this\.
@@ -262,7 +262,7 @@ Denmark’s decision to declare Syria safe for returns has already caused outrag
 If you want to read more stories about actual people whose lives have been heavily affected by these policies, here is another read:
 
 
-[![](https://shado-mag.com/wp-content/uploads/2021/06/Untitled-design-1.jpg)](https://shado-mag.com/all/this-is-no-longer-about-politics-its-about-ethics-denmarks-goal-of-zero-asylum-seekers/?fbclid=IwAR05DqkELJxT0wRiLrRiVfg0SThNXOZQjwK5W8g31i2m0sqrNgCc7HUwVDk)
+[![](../assets/a220a9074231/Untitled-design-1.jpg)](https://shado-mag.com/all/this-is-no-longer-about-politics-its-about-ethics-denmarks-goal-of-zero-asylum-seekers/?fbclid=IwAR05DqkELJxT0wRiLrRiVfg0SThNXOZQjwK5W8g31i2m0sqrNgCc7HUwVDk)
 
 #### WORTH READING
 - A new exploratory case study from Portland State University Associate Professor of Management [Theodore Khoury](https://www.pdx.edu/business/profile/ted-khoury) reveals how Syrian refugees in Za’atari camp in Jordan reached beyond basic disaster relief support and leveraged social capital to create informal economic systems that helped improve their quality of life\. The study dispels the notion of refugees as passive aid recipients awaiting charity, and instead asserts a refugee camp as a society with complex social systems:

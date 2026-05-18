@@ -113,7 +113,7 @@ The local group from Pikpa invites everyone to join the group of support:
 Anthropologist and Associate Professor at the University of Bergen, Synnøve Kristine Nepstad Bendixsen, shares her reflections on the EU’s hotspot policy, the refugee camp as a political and repressive space, and the dire need for a new turn in Europe’s asylum policy\.
 
 
-[![](https://protectproject.w.uib.no/files/2020/09/COLOURBOX11106438-scaled.jpg)](https://protectproject.w.uib.no/understanding-the-inferno-on-lesvos/?fbclid=IwAR1zQxbPFXNs140d_XRzAh1AYA2kPMVnwqRACarUywEYFYqq1uJ6RWpfZUU)
+[![](../assets/6044f5d283fe/COLOURBOX11106438-scaled.jpg)](https://protectproject.w.uib.no/understanding-the-inferno-on-lesvos/?fbclid=IwAR1zQxbPFXNs140d_XRzAh1AYA2kPMVnwqRACarUywEYFYqq1uJ6RWpfZUU)
 
 ### Samos
 
@@ -215,19 +215,19 @@ Policy overview and analysis of the Greek situation:
 Encounters and experiences of everyday realities the unaccompanied minors relive day in, day out, across Europe \(Italian\):
 
 
-[![](https://1.bp.blogspot.com/-Hg5UebNKASs/X2r4cfladVI/AAAAAAAAEsU/jiPxFY2USCEpek26XNOVHuY7_c81-5mMACLcBGAsYHQ/w1200-h630-p-k-no-nu/2ft359w-Xmvlf5eqjLptGf7FgHxyrd8Y3ef4fkzgplbT-I9FCwnxWanQFNnhQ2-iIGbBbm-PFVyiZVjtHu_2jzazdx9El-G35cLZj_NpajYJK4pJVYjzMlv1DvM5y8igQ4SL7fJZR6AUZjxibfVGK78E-M_3LydyRXicFzKjd5MVKQZH7XC2hj9RdbsLsu_TErSlgo43whZsi.jpg)](https://minoristranierinonaccompagnati.blogspot.com/2020/09/migranti-trieste-il-corpo-dice-piu-di.html?fbclid=IwAR297YBoUTMLq-gWObPLsC7Xl_SBc7zkzPwo1dMqvLT014yk52Zl0aGczmE)
+[![](../assets/6044f5d283fe/2ft359w-Xmvlf5eqjLptGf7FgHxyrd8Y3ef4fkzgplbT-I9FCwnxWanQFNnhQ2-iIGbBbm-PFVyiZVjtHu_2jzazdx9El-G35cLZj_NpajYJK4pJVYjzMlv1DvM5y8igQ4SL7fJZR6AUZjxibfVGK78E-M_3LydyRXicFzKjd5MVKQZH7XC2hj9RdbsLsu_TErSlgo43whZsi.jpg)](https://minoristranierinonaccompagnati.blogspot.com/2020/09/migranti-trieste-il-corpo-dice-piu-di.html?fbclid=IwAR297YBoUTMLq-gWObPLsC7Xl_SBc7zkzPwo1dMqvLT014yk52Zl0aGczmE)
 
 
 A detailed report on social cohesion amongst Syrian refugees and the Turkish host population:
 
 
-[![](https://data.unhcr.org/images/documents/big_826306b73baca8b600227d55fa5c778be67e501b.jpg)](https://data2.unhcr.org/en/documents/details/78901?fbclid=IwAR1JmMsWastsjqboNxir6HrV4JLDfLBMVng06ZFaGZsSJOaL96jBXoShhGc)
+[![](../assets/6044f5d283fe/big_826306b73baca8b600227d55fa5c778be67e501b.jpg)](https://data2.unhcr.org/en/documents/details/78901?fbclid=IwAR1JmMsWastsjqboNxir6HrV4JLDfLBMVng06ZFaGZsSJOaL96jBXoShhGc)
 
 
 The challenges of being an entrepreneur in a refugee camp:
 
 
-[![](https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20200926_WBD001_0.jpg)](https://www.economist.com/business/2020/09/24/the-worlds-toughest-business-school?fbclid=IwAR26Ybk8opfwnylOC5abS6VTRWMbOeDJMqBZAyfdbSTHtR0b-414rACqhnw)
+[![](../assets/6044f5d283fe/20200926_WBD001_0.jpg)](https://www.economist.com/business/2020/09/24/the-worlds-toughest-business-school?fbclid=IwAR26Ybk8opfwnylOC5abS6VTRWMbOeDJMqBZAyfdbSTHtR0b-414rACqhnw)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

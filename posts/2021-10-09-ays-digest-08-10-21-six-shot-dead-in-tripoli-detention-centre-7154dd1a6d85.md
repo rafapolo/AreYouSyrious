@@ -283,12 +283,12 @@ Now, they say, they are “passing the torch\.”
 #### A profile of a Greek forensic scientist who attempts to identify those who die in the Evros region \(in French\)
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/1115ac007b050ceba0ad67e30d34375405876323.jpeg)](https://www.infomigrants.net/fr/post/35534/un-medecin-legiste-grec-veut-redonner-une-identite-aux-migrants-morts-dans-levros?fbclid=IwAR3kmzF69djrWtOhPRGpi4rxUDRWzf1pGp0H9HMgzMn3wYBzqJjjkXDwxoM)
+[![](../assets/7154dd1a6d85/1115ac007b050ceba0ad67e30d34375405876323.jpeg)](https://www.infomigrants.net/fr/post/35534/un-medecin-legiste-grec-veut-redonner-une-identite-aux-migrants-morts-dans-levros?fbclid=IwAR3kmzF69djrWtOhPRGpi4rxUDRWzf1pGp0H9HMgzMn3wYBzqJjjkXDwxoM)
 
 #### \(Video\) CBS news report on the situation at the Polish\-Belarusian border
 
 
-[![](https://assets1.cbsnewsstatic.com/hub/i/r/2021/10/08/057773d8-ae75-46db-a0de-424478614f81/thumbnail/1200x630/05708c63efe5f3ca8880735a86d609b4/screenshots-intervention-sokolka-cbs-news-13-13.jpg)](https://www.cbsnews.com/news/poland-belarus-eu-border-migrants-refugees-caught-in-middle-and-dying/?fbclid=IwAR1e_eDa4tpnCuG8g9oPiYCUFW0wNjAMiB5zMKzvRiCwpjE7b0GlgBsr8uQ)
+[![](../assets/7154dd1a6d85/screenshots-intervention-sokolka-cbs-news-13-13.jpg)](https://www.cbsnews.com/news/poland-belarus-eu-border-migrants-refugees-caught-in-middle-and-dying/?fbclid=IwAR1e_eDa4tpnCuG8g9oPiYCUFW0wNjAMiB5zMKzvRiCwpjE7b0GlgBsr8uQ)
 
 #### EU interior ministers want to finance border walls
 

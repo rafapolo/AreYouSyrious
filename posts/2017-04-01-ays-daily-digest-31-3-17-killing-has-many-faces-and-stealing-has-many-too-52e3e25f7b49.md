@@ -262,7 +262,7 @@ Source from [**Greek Forum of Refugees**](https://www.facebook.com/Greekforumofr
 The now\-famous Lord Alf Dubs has released a helpful guide to helping sponsor or resettle refugees in the UK\. With all the world’s attention on the triggering of article 50, it can be easy to lose sight of the practical and pragmatic ways for the community to get involved\. The guide called “Welcoming Syrian Refugees” provides comprehensive information from getting an organization assembled, to fundraising, to volunteering, to integration\. Although it is targeted at Syrian refugees, it clearly can be easily adapted to any refugee community\. Check it out below\!
 
 
-[![Welcoming Syrian Refugees]( "Welcoming Syrian Refugees")](https://cdn.embedly.com/widgets/media.html?src=%2F%2Fe.issuu.com%2Fembed.html%232137537%2F46284033&url=https%3A%2F%2Fissuu.com%2Ftheuniversityofwinchester%2Fdocs%2Fprint_refugee_brochure_2%3Fe%3D2137537%2F46284033&image=https%3A%2F%2Fimage.issuu.com%2F170329101835-7eb2fce4dc8939eb61f5714181860695%2Fjpg%2Fpage_1_thumb_large.jpg&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=issuu)
+[![Welcoming Syrian Refugees]( "Welcoming Syrian Refugees")](../assets/52e3e25f7b49/media.html&key=d04bfffea46d4aeda930ec88cc64b87c&type=text%2Fhtml&schema=issuu)
 
 
 

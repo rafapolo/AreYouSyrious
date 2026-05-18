@@ -112,7 +112,7 @@ The alert was sent yesterday by the @[alarm_phone](https://twitter.com/alarm_pho
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/59deb68951734cda5d972ad8b2f146b850e705bc.jpg)](https://www.infomigrants.net/en/post/42942/mediterranean-hundreds-of-migrants-arrive-in-italy-more-waiting-on-rescue-ships?fbclid=IwAR0pEADLJ2deIuAauQCLPakMrWhip8aUIVb4qu-rNiczw-mEY5bVhPgAbvg)
+[![](../assets/70857d33ab5/59deb68951734cda5d972ad8b2f146b850e705bc.jpg)](https://www.infomigrants.net/en/post/42942/mediterranean-hundreds-of-migrants-arrive-in-italy-more-waiting-on-rescue-ships?fbclid=IwAR0pEADLJ2deIuAauQCLPakMrWhip8aUIVb4qu-rNiczw-mEY5bVhPgAbvg)
 
 #### GREECE
 
@@ -209,7 +209,7 @@ Why did the emergency forces in a suicidal crisis not include psychological or p
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/5b99dfb662a04e68410176442c7d97bcef03dd13.png)](https://www.infomigrants.net/en/post/42927/fact-check-what-happens-to-migrants-after-smugglers-take-them-to-cyprus?fbclid=IwAR2OkqIJThrhd8bd-_w_Wgr-rWfcWgFvfMAgx-HDPKHE-9H-GgUSQSenhd8)
+[![](../assets/70857d33ab5/5b99dfb662a04e68410176442c7d97bcef03dd13.png)](https://www.infomigrants.net/en/post/42927/fact-check-what-happens-to-migrants-after-smugglers-take-them-to-cyprus?fbclid=IwAR2OkqIJThrhd8bd-_w_Wgr-rWfcWgFvfMAgx-HDPKHE-9H-GgUSQSenhd8)
 
 - Heavy fighting broke out in Libya’s capital city of Tripoli on Saturday, killing at least 32 people and raising concerns of a return to all\-out war\.
 
@@ -221,7 +221,7 @@ Why did the emergency forces in a suicidal crisis not include psychological or p
 — A “hierarchy of suffering” exacerbates asylum seekers’ mental health in Lithuania:
 
 
-[![](https://media.msf.org/AssetLink/4m24tq30r6a1n7d00k7le2ne6fk8oo03.jpg)](https://www.msf.org/discriminatory-and-cruel-migration-practices-compound-suffering-lithuania?fbclid=IwAR2fjkOzBKfNaDvOkzuTT4UhU0q2BLuUYHUm1cXpPLLQv543xwlsgMkqQok)
+[![](../assets/70857d33ab5/4m24tq30r6a1n7d00k7le2ne6fk8oo03.jpg)](https://www.msf.org/discriminatory-and-cruel-migration-practices-compound-suffering-lithuania?fbclid=IwAR2fjkOzBKfNaDvOkzuTT4UhU0q2BLuUYHUm1cXpPLLQv543xwlsgMkqQok)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

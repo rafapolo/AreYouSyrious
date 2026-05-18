@@ -233,13 +233,13 @@ According to the interior ministry, the families are to be provided with accommo
 
 
 
-[![](https://archive.cdn-thecorrespondent.com/image/0j7WOo7OLgHmZGsmtk-3lhIHdjg=/1024x576/c023c99da6b14aa19e477853cdc98b06.jpg)](https://thecorrespondent.com/606/a-key-assumption-about-migration-turns-out-to-be-wrong-taking-a-few-of-my-articles-down-with-it/663419791386-9a5c784a?fbclid=IwAR2N3G_4lryZvudEDIyf1wPEoJvzl9HVxT2n0DXAynAIyouUcbghnXbLYS4)
+[![](../assets/38f61195350e/c023c99da6b14aa19e477853cdc98b06.jpg)](https://thecorrespondent.com/606/a-key-assumption-about-migration-turns-out-to-be-wrong-taking-a-few-of-my-articles-down-with-it/663419791386-9a5c784a?fbclid=IwAR2N3G_4lryZvudEDIyf1wPEoJvzl9HVxT2n0DXAynAIyouUcbghnXbLYS4)
 
 - Photographer Murat Türemis has been travelling to the Greek islands for years and portrays children who live in refugee camps\.
 
 
 
-[![](https://cdn.prod.www.spiegel.de/images/3f5a1e32-10b1-487f-ae20-e45dad53474f_w1280_r1.77_fpx52_fpy55.jpg)](https://www.spiegel.de/politik/ausland/aufwachsen-im-fluechtlingscamp-eine-kindheit-in-moria-auf-lesbos-a-da14ea2f-281f-4cbc-a4f2-7309c76d1c2b?fbclid=IwAR2vFeBClWuYYU-4OMHvPG56hQFammxf614VVPwk2UAtziNQurETDDt6PgY)
+[![](../assets/38f61195350e/3f5a1e32-10b1-487f-ae20-e45dad53474f_w1280_r1.77_fpx52_fpy55.jpg)](https://www.spiegel.de/politik/ausland/aufwachsen-im-fluechtlingscamp-eine-kindheit-in-moria-auf-lesbos-a-da14ea2f-281f-4cbc-a4f2-7309c76d1c2b?fbclid=IwAR2vFeBClWuYYU-4OMHvPG56hQFammxf614VVPwk2UAtziNQurETDDt6PgY)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

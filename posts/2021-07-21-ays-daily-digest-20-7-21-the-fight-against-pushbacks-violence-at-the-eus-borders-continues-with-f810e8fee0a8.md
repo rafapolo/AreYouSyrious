@@ -215,7 +215,7 @@ Accused of exploiting its workers by not paying for hours worked, it seems that 
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/4b14c06314f1789c7b5f17667e47083343d85863.jpeg)](https://www.infomigrants.net/en/post/33732/mediterranean-sea-rescue-red-cross-to-support-ocean-viking-resq-to-take-over-alan-kurdi?fbclid=IwAR0dvv0RCvbIXQ2Brj3MdpJ4uVfPEF37OKtKyIWfQlJn2m7wNw1H7AMUU9A)
+[![](../assets/f810e8fee0a8/4b14c06314f1789c7b5f17667e47083343d85863.jpeg)](https://www.infomigrants.net/en/post/33732/mediterranean-sea-rescue-red-cross-to-support-ocean-viking-resq-to-take-over-alan-kurdi?fbclid=IwAR0dvv0RCvbIXQ2Brj3MdpJ4uVfPEF37OKtKyIWfQlJn2m7wNw1H7AMUU9A)
 
 - MEP Erik Marquardt has written a book on asylum policy\. A conversation about pull factors, the line between activism and politics and where he would bet a box of beer:
 

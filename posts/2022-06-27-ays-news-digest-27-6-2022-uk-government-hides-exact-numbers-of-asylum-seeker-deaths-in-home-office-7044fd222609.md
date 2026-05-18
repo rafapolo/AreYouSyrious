@@ -111,7 +111,7 @@ You can watch the meeting here:
 The Greek Coast Guard has confirmed that they were two male individuals who had tried to cross from Turkey to Greece\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/fd7e76dc63989bb7398786974c0d3425ad0e2fc3.jpg)](https://www.infomigrants.net/en/post/41502/two-migrant-bodies-discovered-on-lesbos-beach)
+[![](../assets/7044fd222609/fd7e76dc63989bb7398786974c0d3425ad0e2fc3.jpg)](https://www.infomigrants.net/en/post/41502/two-migrant-bodies-discovered-on-lesbos-beach)
 
 ### UKRAINE
 #### Europol has identified a high risk of human trafficking and exploitation of Ukrainian refugee women
@@ -121,7 +121,7 @@ Investigators checked 125 online platforms in 14 different countries, identifyin
 Europol has issued a warning to host countries, urging them to be vigilant and ensure there is appropriate safeguarding and monitoring of any potential human trafficking\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/f0b8add03df2c1657994cf53601896618f6f8f95.jpeg)](https://www.infomigrants.net/en/post/41509/europol-identifies-several-potential-trafficking-schemes-preying-on-vulnerable-ukrainians?preview=1656338593336)
+[![](../assets/7044fd222609/f0b8add03df2c1657994cf53601896618f6f8f95.jpeg)](https://www.infomigrants.net/en/post/41509/europol-identifies-several-potential-trafficking-schemes-preying-on-vulnerable-ukrainians?preview=1656338593336)
 
 #### [5\.2 million Ukrainian refugees have been displaced across Europe](https://www.washingtonpost.com/world/interactive/2022/ukraine-refugees-european-union/?utm_medium=social&utm_source=twitter&utm_campaign=wp_main) — one of the largest mass displacements since World War 2
 
@@ -322,7 +322,7 @@ In addition, since January 2020, there have 82 deaths\. Around 40 individuals we
 Many believe there are ‘systemic failures’ and gaps in the safeguarding policies within the Home Office\.
 
 
-[![](https://i.guim.co.uk/img/media/318e3d111db69f37afb723f28415c2e2cacc2ef6/0_262_7872_4723/master/7872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a92892670fa15bec02c787cb74cccfe1)](https://www.theguardian.com/uk-news/2022/jun/25/asylum-seekers-deaths-home-office-housing-data)
+[![](../assets/7044fd222609/7872.jpg)](https://www.theguardian.com/uk-news/2022/jun/25/asylum-seekers-deaths-home-office-housing-data)
 
 
 
@@ -337,13 +337,13 @@ Many believe there are ‘systemic failures’ and gaps in the safeguarding poli
 
 
 
-[![](https://assets.irinnews.org/s3fs-public/styles/responsive_large/public/tnh-cheat_sheet-thumbnail.jpg?axxrhR1mRZqruMGlgVzlx69txNvhChzZ&itok=TZp-0OEv)](https://www.thenewhumanitarian.org/news/2022/06/24/Afghan-quake-Amhara-massacre-and-South-Asia-monsoon-Cheat-Sheet?fbclid=IwAR1JFSq1ognDernMRsS7Q-jXmSGsktvDy9cglo1wX1ReH_VbPqX4MzXY7BU)
+[![](../assets/7044fd222609/tnh-cheat_sheet-thumbnail.jpg)](https://www.thenewhumanitarian.org/news/2022/06/24/Afghan-quake-Amhara-massacre-and-South-Asia-monsoon-Cheat-Sheet?fbclid=IwAR1JFSq1ognDernMRsS7Q-jXmSGsktvDy9cglo1wX1ReH_VbPqX4MzXY7BU)
 
 - Jeff Crisp, MOAS — “Detained and Deported: The UK’s Abusive Approach to New Refugee Arrivals”
 
 
 
-[![](https://www.moas.eu/wp-content/uploads/2022/07/Blog-Post-Ceci-Beth-45.png)](https://www.moas.eu/detained-and-deported-the-uks-abusive-approach-to-new-refugee-arrivals-by-jeff-crisp/)
+[![](../assets/7044fd222609/Blog-Post-Ceci-Beth-45.png)](https://www.moas.eu/detained-and-deported-the-uks-abusive-approach-to-new-refugee-arrivals-by-jeff-crisp/)
 
 - Heinrich Boll Stiftung — “More \(about\) Borders, less \(about\) Humans: Media Coverage of Migration and Asylum Seeking in Greece”
 

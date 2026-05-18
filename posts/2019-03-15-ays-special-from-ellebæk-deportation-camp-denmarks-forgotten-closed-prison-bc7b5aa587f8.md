@@ -76,7 +76,7 @@ It is worth mentioning that [the acceptance rate for asylum seekers from Iraq, A
 The other two deportations camps, Sjælsmark and Kærshovedgård, function as open prisons\. The residents here are in theory free to leave the centre as they please, yet obliged to sleep at the centre every night and register themselves in between 3–5 times a week\. Those the Danish authorities do not manage to forcefully deport will be ‘released’ to either Kærshovedgård or Sjælsmark\. Here they will carry on a life with a constant threat of being returned back to the detention center Ellebæk\.
 
 
-[![Sjælsmark camp limbo for refugees (Trailer)](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F766084126-3360f1d6dcd01001dab55a7274dc0caad4d9dad6f63396ca7acb243472766585-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Sjælsmark camp limbo for refugees (Trailer)")](https://vimeo.com/322860048)
+[![Sjælsmark camp limbo for refugees (Trailer)](../assets/bc7b5aa587f8/overlay "Sjælsmark camp limbo for refugees (Trailer)")](https://vimeo.com/322860048)
 
 
 In order to ‘motivate’ people to ‘collaborate’, it is common procedure to separate families\. Often it is the father who is detained in Ellebæk, while the remaining family member stay in Sjælsmark deportation camp\. TV2 documentary reports about Rashed Alenazi who is stateless Kuwaiti\. He has spent 3 months detained in Ellebæk prison, whilst his wife and their 6 children live in Sjælsmark\. As they are stateless they cannot be deported, yet Danish authorities believe them to be Iraqi, which Rashed and the Iraqi authorities refuses\.

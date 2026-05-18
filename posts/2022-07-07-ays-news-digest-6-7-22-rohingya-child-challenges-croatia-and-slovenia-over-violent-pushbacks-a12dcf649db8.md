@@ -44,7 +44,7 @@ He's now filed complaints at the UN Child Rights Committee - the first of their 
 The Malian government has confirmed that 22 Malians, including three children, died off the coast of Libya when their boat got into trouble towards the end of June\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/e06fad8f9d4687fb5ce5894dd999d21c9b391d15.jpg)](https://www.infomigrants.net/en/post/41737/22-malians-confirmed-dead-in-mediterranean?preview=1657115380719&fbclid=IwAR1V75Y7UZL7pItPER6VM3P5V4KecMVNgtzscGeV8cLf4EdMsMWka6lgvJc)
+[![](../assets/a12dcf649db8/e06fad8f9d4687fb5ce5894dd999d21c9b391d15.jpg)](https://www.infomigrants.net/en/post/41737/22-malians-confirmed-dead-in-mediterranean?preview=1657115380719&fbclid=IwAR1V75Y7UZL7pItPER6VM3P5V4KecMVNgtzscGeV8cLf4EdMsMWka6lgvJc)
 
 
 
@@ -305,7 +305,7 @@ As a consequence of Denmark’s cessation of some Syrian refugees’ residence p
 Open Democracy has a good piece on the topic, analysing all the shortcomings:
 
 
-[![](https://cdn2.opendemocracy.net/media/images/K8JJAYa.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/uk-home-office-launches-new-assault-on-the-rights-of-modern-slavery-survivors/?fbclid=IwAR1KATHD2gq750aWdxY7CB_1onuloU3t_LQHCNTbMQVP36zskFKcYdU3JIE)
+[![](../assets/a12dcf649db8/K8JJAYa.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/beyond-trafficking-and-slavery/uk-home-office-launches-new-assault-on-the-rights-of-modern-slavery-survivors/?fbclid=IwAR1KATHD2gq750aWdxY7CB_1onuloU3t_LQHCNTbMQVP36zskFKcYdU3JIE)
 
 ### Intrucing for of monitoring — GPS tags
 

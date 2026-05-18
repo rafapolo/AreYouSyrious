@@ -134,7 +134,7 @@ Borderline Europe issued a new interview with a member of the Legal Center Lesvo
 Balkan Insight published a story at the beginning of May that speaks to the situation of refugees in Albania\. Even registered asylum seekers go hungry in the country and have to beg for food to survive\.
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/05/Nassif-dhe-shoku-nga-Algjeria-e1588601162358.jpeg)](https://balkaninsight.com/2020/05/06/violence-and-hunger-stalk-refugees-and-migrants-in-albania/)
+[![](../assets/f40823575d13/Nassif-dhe-shoku-nga-Algjeria-e1588601162358.jpeg)](https://balkaninsight.com/2020/05/06/violence-and-hunger-stalk-refugees-and-migrants-in-albania/)
 
 ### SEA
 
@@ -183,7 +183,7 @@ NGOs have welcomed the government’s decision to automatically extend for six m
 For more information in Spanish, see:
 
 
-[![](https://img.europapress.es/fotoweb/fotonoticia_20200520145530_1200.jpg)](https://m.europapress.es/epsocial/migracion/noticia-ong-celebran-prorroga-residencia-trabajo-extranjeros-piden-paso-mas-regularizar-papeles-20200520145530.html?fbclid=IwAR1x_GUBwQB0VRZekJUE0ctSqZdXVH0YdKOV_e14LJaKSLVWZletR71QZV0)
+[![](../assets/f40823575d13/fotonoticia_20200520145530_1200.jpg)](https://m.europapress.es/epsocial/migracion/noticia-ong-celebran-prorroga-residencia-trabajo-extranjeros-piden-paso-mas-regularizar-papeles-20200520145530.html?fbclid=IwAR1x_GUBwQB0VRZekJUE0ctSqZdXVH0YdKOV_e14LJaKSLVWZletR71QZV0)
 
 ### GERMANY
 
@@ -218,7 +218,7 @@ This Guardian article details a new operation called Operation Sillath, which is
 The numbers of people who try to cross the channel by boat are increasing\. This year, 1,040 people have already tried to cross, compared to 1,890 last year and only 297 in 2018\. Since big merchant vessels routinely traverse the channel, the crossing is very dangerous\. The need for safe and dignified travel routes for people who want to claim asylum in the UK becomes clearer every day\.
 
 
-[![](https://i.guim.co.uk/img/media/c2727c9847c4cec09bc81725bcf9644cac9d9e64/0_117_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=b57272d5939fbc99cb0ddee6cae7003a)](https://www.theguardian.com/world/2020/may/21/home-office-deporting-migrants-who-cross-channel-in-small-boats?fbclid=IwAR04aCo2dwBCSIzdBtC93P5AfyGqdJQQr6c0MFGCPWcOb9ny6IN95tp8kW4)
+[![](../assets/f40823575d13/3500.jpg)](https://www.theguardian.com/world/2020/may/21/home-office-deporting-migrants-who-cross-channel-in-small-boats?fbclid=IwAR04aCo2dwBCSIzdBtC93P5AfyGqdJQQr6c0MFGCPWcOb9ny6IN95tp8kW4)
 
 
 The so called Dubs scheme, a scheme that was imposed in 2016 and was meant to relocate unaccompanied minors from European into the UK, is being closed\. 480 children came to the UK under this scheme\. Initially the scheme was meant to relocate about 3,000 children\. Local authorities have offered another 1,600 places for these children\.

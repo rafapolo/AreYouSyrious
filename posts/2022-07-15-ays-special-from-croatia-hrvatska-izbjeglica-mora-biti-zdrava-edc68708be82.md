@@ -94,7 +94,7 @@ Iako je malo potrebno da bi se ova nepravda ispravila, izgleda da nema političk
 Organizacija BRID i Are You Syrious izdali su online priručnik za Administrativni upis pacijenata pod međunarodnom zaštitom, kako bi liječnicima omogućili lakše snalaženje
 
 
-[![](https://flipbooks.fleepit.com/files/c1b633a0c50ce3eb836f648000db3abc/thumbnails/bigthumbnail.jpg)](https://flipbooks.fleepit.com/f-5442-savjeti_nositelji_meunarodne_zatite?fbclid=IwAR37nFGuZ8R6f1FPwi0lXz6kPn1bl7Z3QYVfPBjS6eET_EFzcrDXqRhxTwA)
+[![](../assets/edc68708be82/bigthumbnail.jpg)](https://flipbooks.fleepit.com/f-5442-savjeti_nositelji_meunarodne_zatite?fbclid=IwAR37nFGuZ8R6f1FPwi0lXz6kPn1bl7Z3QYVfPBjS6eET_EFzcrDXqRhxTwA)
 
 
 **_This text was written in Croatian by AYS Staff member Anamaria Macanović\. Following this, you will be able to find the English version in translation by AYS member, Sanja Matešić\._**

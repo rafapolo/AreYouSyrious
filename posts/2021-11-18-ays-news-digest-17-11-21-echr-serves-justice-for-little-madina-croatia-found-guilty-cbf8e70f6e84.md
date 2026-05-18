@@ -154,7 +154,7 @@ Polish border forces [fired water cannons and tear gas](https://anfenglish.com/n
 In the meantime, the pressure on media, press crews and other independent monitoring individuals and organisations is growing:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2021/11/h_57293537-e1637147366639.jpg)](https://balkaninsight.com/2021/11/17/polish-authorities-intimidate-journalists-at-belarus-border/?fbclid=IwAR25QX_KvXf8TJz7okYDJbRBf8wf0Nv0rUjNSuD_wjnxYmht4TwRe2bV2Xs)
+[![](../assets/cbf8e70f6e84/h_57293537-e1637147366639.jpg)](https://balkaninsight.com/2021/11/17/polish-authorities-intimidate-journalists-at-belarus-border/?fbclid=IwAR25QX_KvXf8TJz7okYDJbRBf8wf0Nv0rUjNSuD_wjnxYmht4TwRe2bV2Xs)
 
 ### Poland starts building walls on 15 December
 

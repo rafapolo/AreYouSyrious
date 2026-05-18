@@ -38,7 +38,7 @@ A documentation of Malta's inhumane practice using the example of one case our s
 For more information, see:
 
 
-[![](https://cdn-attachments.timesofmalta.com/205b0a345971e1e29e6a6b892515dbed1999f4f1-1597338164-5f357234-1200x630.jpg)](https://timesofmalta.com/articles/view/maltese-patrol-craft-trailed-migrants-boat-but-did-not-attempt-rescue.811692?fbclid=IwAR2UAjAmsXZcJmG8qbtKDZRuBE-SOtQkUM4howDe9nnoSd8xL4ljnivJAJ4)
+[![](../assets/7d604890bad4/205b0a345971e1e29e6a6b892515dbed1999f4f1-1597338164-5f357234-1200x630.jpg)](https://timesofmalta.com/articles/view/maltese-patrol-craft-trailed-migrants-boat-but-did-not-attempt-rescue.811692?fbclid=IwAR2UAjAmsXZcJmG8qbtKDZRuBE-SOtQkUM4howDe9nnoSd8xL4ljnivJAJ4)
 
 
 At the beginning of August, Malta’s Prime Minister Robert Abela said that Malta’s authorities would not rescue any boat of migrants unless it is a situation of “life and death”\.
@@ -105,7 +105,7 @@ The Turkish Coast Guard’s version of the story starts to seem more likely when
 For more information in Greek, see:
 
 
-[![](https://www.efsyn.gr/sites/default/files/styles/default/public/2020-08/limeniko.jpg?itok=Dp_Sktwh)](https://www.efsyn.gr/ellada/koinonia/255633_toys-pyrobolisan-toys-htypisan-toys-exafanisan)
+[![](../assets/7d604890bad4/limeniko.jpg)](https://www.efsyn.gr/ellada/koinonia/255633_toys-pyrobolisan-toys-htypisan-toys-exafanisan)
 
 ### BULGARIA
 
@@ -199,7 +199,7 @@ The European Asylum Support Office \(EASO\) published its new report with data o
 For the details, see:
 
 
-[![](https://euaa.europa.eu/themes/custom/euaa/images/euaa-logo-200-200.png)](https://www.easo.europa.eu/latest-asylum-trends?fbclid=IwAR0-wQ2joXQGePyUXg69u2wxGRPVC4iKM8muxEiUu9qNwr-YkLgYLdjw38Q)
+[![](../assets/7d604890bad4/euaa-logo-200-200.png)](https://www.easo.europa.eu/latest-asylum-trends?fbclid=IwAR0-wQ2joXQGePyUXg69u2wxGRPVC4iKM8muxEiUu9qNwr-YkLgYLdjw38Q)
 
 ### UK
 

@@ -113,7 +113,7 @@ According to some reports, Italy will once again support Libya, the country with
 ### Support to Sea Watch continues
 
 
-[![](https://www.repstatic.it/video/photo/2019/07/01/649050/649050-thumb-full-720-greenpeace01072019.jpg)](https://video.repubblica.it/edizione/palermo/palermo-la-solidarieta-di-greenpeace-alla-sea-watch-carola-ha-fatto-quello-che-andava-fatto/338529/339132)
+[![](../assets/2653e44bba1/649050-thumb-full-720-greenpeace01072019.jpg)](https://video.repubblica.it/edizione/palermo/palermo-la-solidarieta-di-greenpeace-alla-sea-watch-carola-ha-fatto-quello-che-andava-fatto/338529/339132)
 
 
 Many people have gathered in Ancona in front of the Prefecture, alongside the migrants who arrived in Lampedusa, in solidarity with the Sea Watch and to demand the immediate release of Carola Rackete\.

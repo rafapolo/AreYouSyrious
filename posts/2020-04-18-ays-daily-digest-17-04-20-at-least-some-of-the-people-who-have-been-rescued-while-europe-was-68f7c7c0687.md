@@ -53,7 +53,7 @@ Our press release:
 Press release:
 
 
-[![](https://sea-eye.org/wp-content/uploads/2020/04/Disembarkation_ALAN-KURDI_Palermo_3_2020_c_Cédric-Fettouche-sea-eye.org_.jpg)](https://sea-eye.org/en/odyssey-of-the-alan-kurdi-rescue-ship-ends/)
+[![](../assets/68f7c7c0687/Disembarkation_ALAN-KURDI_Palermo_3_2020_c_C%C3%A9dric-Fettouche-sea-eye.org_.jpg)](https://sea-eye.org/en/odyssey-of-the-alan-kurdi-rescue-ship-ends/)
 
 
 In non\-pandemic times the group Mediterranea Saving Humans Palermo would have been in the port to give a warm welcome to the arrivals\. These days they decided to at least send a virtual welcome card:
@@ -125,7 +125,7 @@ Also the EU Commissioner for Home Affairs, Ylva Johansson, pointed out that:
 See:
 
 
-[![](https://www.euractiv.com/wp-content/uploads/sites/2/2017/05/Migrants-off-Libya-coast-Frontex-800x450.jpg)](https://www.euractiv.com/section/global-europe/news/member-states-must-comply-with-asylum-laws-despite-covid-19-says-eu/?fbclid=IwAR1sw6WNx0CapGaAhXifG7gwDyiBxgiPcVD8JEGdpN6ntZ4FiLLK19gMNqs)
+[![](../assets/68f7c7c0687/Migrants-off-Libya-coast-Frontex-800x450.jpg)](https://www.euractiv.com/section/global-europe/news/member-states-must-comply-with-asylum-laws-despite-covid-19-says-eu/?fbclid=IwAR1sw6WNx0CapGaAhXifG7gwDyiBxgiPcVD8JEGdpN6ntZ4FiLLK19gMNqs)
 
 
 MSF published a plea to the EU on Twitter:
@@ -167,7 +167,7 @@ Press release MSF:
 
 
 
-[![](https://media.msf.org/AssetLink/43sl2cjb4oh586mls4644lyrki68662p.jpg)](https://www.msf.org/eu-states-use-covid-19-shirk-search-and-rescue-obligations)
+[![](../assets/68f7c7c0687/43sl2cjb4oh586mls4644lyrki68662p.jpg)](https://www.msf.org/eu-states-use-covid-19-shirk-search-and-rescue-obligations)
 
 ### GREECE
 
@@ -179,13 +179,13 @@ _3\. The virus spreads, evacuation:_ complete separation of healthy and infected
 See the article in German:
 
 
-[![](https://cdn.prod.www.spiegel.de/images/dc6988b9-9f6a-4510-bf90-dd5f558f0215_w1280_r1.77_fpx42_fpy53.jpg)](https://www.spiegel.de/politik/ausland/coronavirus-notfallplan-in-griechenland-fuer-corona-ausbruch-in-fluechtlingslagern-a-4fb409aa-8e84-476f-97db-f2daa8a3cc2b)
+[![](../assets/68f7c7c0687/dc6988b9-9f6a-4510-bf90-dd5f558f0215_w1280_r1.77_fpx42_fpy53.jpg)](https://www.spiegel.de/politik/ausland/coronavirus-notfallplan-in-griechenland-fuer-corona-ausbruch-in-fluechtlingslagern-a-4fb409aa-8e84-476f-97db-f2daa8a3cc2b)
 
 
 **A total of 2,300 most vulnerable people will be transferred from the islands to the mainland** \. These people are above 60 years of age or have chronic diseases\. They will be transferred together with their families\. The transfers are supposed to take place after the Orthodox Easter celebrations on April 19th\. The people will be housed in camps, apartments, and hotels\.
 
 
-[![](https://www.ekathimerini.com/wp-content/uploads/2021/01/18s8prosfg-thumb-large.jpg)](https://www.ekathimerini.com/251769/article/ekathimerini/news/more-than-2300-refugees-to-be-transferred-to-mainland-after-easter?fbclid=IwAR3i4kKFHGAn8X-ezonjZbGA-jD5pSkqGXXK_CyVwB_YCZzy7wi6Sblw5xI)
+[![](../assets/68f7c7c0687/18s8prosfg-thumb-large.jpg)](https://www.ekathimerini.com/251769/article/ekathimerini/news/more-than-2300-refugees-to-be-transferred-to-mainland-after-easter?fbclid=IwAR3i4kKFHGAn8X-ezonjZbGA-jD5pSkqGXXK_CyVwB_YCZzy7wi6Sblw5xI)
 
 
 **The Moria Corona Awarness Team and the Moria White Helmets** , two volunteer refugee groups, wrote a dramatic appeal to the European Union\.
@@ -305,7 +305,7 @@ About 7,000 people are currently stranded in the Bihac region\. About 3,300 are 
 For a longer article in German, see:
 
 
-[![](https://cdn.prod.www.spiegel.de/images/97f59a44-101f-4858-ac35-b6f0641b69fa_w1280_r1.77_fpx63.94_fpy49.96.jpg)](https://www.spiegel.de/politik/ausland/bosnien-verstecktes-fluechtlingselend-a-ac31a278-7046-4f87-aa6a-72c0eb8959dc?fbclid=IwAR2UuRbS1u81fcD1aoCMrWIhVRVYOwj1KJ1TWRkHTGe4K6B6w426O6wJoM4)
+[![](../assets/68f7c7c0687/97f59a44-101f-4858-ac35-b6f0641b69fa_w1280_r1.77_fpx63.94_fpy49.96.jpg)](https://www.spiegel.de/politik/ausland/bosnien-verstecktes-fluechtlingselend-a-ac31a278-7046-4f87-aa6a-72c0eb8959dc?fbclid=IwAR2UuRbS1u81fcD1aoCMrWIhVRVYOwj1KJ1TWRkHTGe4K6B6w426O6wJoM4)
 
 ### SLOVENIA
 
@@ -314,7 +314,7 @@ Slovenia is planning to put up more fences at its border with Croatia in order t
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/201b43d47d3e76914a6a1873a12b226dc9edc49e.jpeg)](https://www.infomigrants.net/en/post/24123/slovenia-to-erect-more-fences-along-croatia-border-to-curb-illegal-crossings)
+[![](../assets/68f7c7c0687/201b43d47d3e76914a6a1873a12b226dc9edc49e.jpeg)](https://www.infomigrants.net/en/post/24123/slovenia-to-erect-more-fences-along-croatia-border-to-curb-illegal-crossings)
 
 
 And:
@@ -336,7 +336,7 @@ As have Spain and Germany, the UK has now also introduced a fast track to make i
 For more information, see:
 
 
-[![](https://i.guim.co.uk/img/media/12cb8f1e465c6b75adf3baa34f62fa2a32f9c97c/0_270_5666_3401/master/5666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=e08e55ca0538fd5987b78fdd8f4f6dd7)](https://www.theguardian.com/global-development/2020/apr/17/refugees-among-hundreds-of-overseas-medics-to-respond-to-nhs-call?CMP=Share_iOSApp_Other&fbclid=IwAR0yXpaNwUvp9FyiXI95TpbwrmlMPnDqXL1stWc4nZeTatk5KfXytLMfGAI)
+[![](../assets/68f7c7c0687/5666.jpg)](https://www.theguardian.com/global-development/2020/apr/17/refugees-among-hundreds-of-overseas-medics-to-respond-to-nhs-call?CMP=Share_iOSApp_Other&fbclid=IwAR0yXpaNwUvp9FyiXI95TpbwrmlMPnDqXL1stWc4nZeTatk5KfXytLMfGAI)
 
 ### SPAIN
 

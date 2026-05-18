@@ -159,7 +159,7 @@ Also, the Spanish group 12D, is campaigning for a tax objection to military expe
 In Athens, groups are organising to face the imminent evictions\. Among many others, [Khora](https://web.facebook.com/KhoraAthens/posts/1467019423470661) has been supporting hundreds of people through their Freeshop and their Social Kitchen\.
 
 
-[![Khora Food Delivery](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F892918773-f45c53e08dde296feb53c374969e76deebd83d59e45300d3641beed668a75701-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Khora Food Delivery")](https://vimeo.com/418366915)
+[![Khora Food Delivery](../assets/bc903088030a/overlay "Khora Food Delivery")](https://vimeo.com/418366915)
 
 
 Khora’s fundraiser for extra food provision is still on\. Support them [HERE](https://donate.helprefugees.org/campaigns/athens-food-collective-covid-19-response) , if you can\.

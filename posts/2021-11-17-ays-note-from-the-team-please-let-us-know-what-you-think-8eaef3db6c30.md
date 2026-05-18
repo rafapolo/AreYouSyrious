@@ -31,7 +31,7 @@ your Are you Syrious? Info Team
 Link to our survey:
 
 
-[![](https://prod-8f86.kxcdn.com/s1/web-2020/images/tmp/logo-social.png)](https://www.survio.com/survey/d/W2B7R1I4A7Q3K9L1O)
+[![](../assets/8eaef3db6c30/logo-social.png)](https://www.survio.com/survey/d/W2B7R1I4A7Q3K9L1O)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

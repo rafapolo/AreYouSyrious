@@ -51,7 +51,7 @@ AMDH Nador [published a video](https://www.facebook.com/AmdhNador/?__tn__=%2Cd%2
 Activists staged a protest at the depot of Hallmark Connect, close to Heathrow airport in London, to demonstrate against their transfer services of detainees to the airport in order to be deported, Vice [reports](https://www.vice.com/en_uk/article/ywyapy/reclaim-the-power-hallmark-coaches-deportation?fbclid=IwAR1CmIMhBzA7M_1Vn656ZHo8rUMZRlyGQhUbl5juOKAzkHleC6fHitUZzHY) \. As of yet, company has not made an official response\.
 
 
-[![](https://video-images.vice.com/articles/5d3eac59172d6400085dc3de/lede/1564391416397-IMG_1051.jpeg?image-resize-opts=Y3JvcD0xeHc6MC41NTg0eGg7MHh3LDAuMjc4NXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg)](https://www.vice.com/en_uk/article/ywyapy/reclaim-the-power-hallmark-coaches-deportation?fbclid=IwAR1CmIMhBzA7M_1Vn656ZHo8rUMZRlyGQhUbl5juOKAzkHleC6fHitUZzHY)
+[![](../assets/dcaf48ce3d34/1564391416397-IMG_1051.jpeg)](https://www.vice.com/en_uk/article/ywyapy/reclaim-the-power-hallmark-coaches-deportation?fbclid=IwAR1CmIMhBzA7M_1Vn656ZHo8rUMZRlyGQhUbl5juOKAzkHleC6fHitUZzHY)
 
 ### Sea
 

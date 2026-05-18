@@ -63,7 +63,7 @@ Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)
 The clashed started, apparently, when a group of migrants and refugees started protesting the conditions of detention\.
 
 
-[![](https://www.yumpu.com/en/image/facebook/59091367.jpg)](https://www.yumpu.com/en/document/view/59091367/2017-07-05-msf-briefing-document-vulnerable-people-on-lesbos)
+[![](../assets/abfcc6c29d6f/59091367.jpg)](https://www.yumpu.com/en/document/view/59091367/2017-07-05-msf-briefing-document-vulnerable-people-on-lesbos)
 
 
 [Arash Hampay](https://www.facebook.com/arashampay) continued hunger strike even today\. Today, police and mayor tried to interrupt it\.

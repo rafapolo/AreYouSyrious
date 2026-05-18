@@ -45,7 +45,7 @@ Since 2018 [MSF](https://www.msf.org/greece-mental-health-distress-among-asylum-
 
 
 
-[![](https://media.msf.org/AssetLink/5cvrax17e84l66mixbd4o30m4gvwncva.jpg)](https://www.msf.org/child-refugees-lesbos-are-increasingly-self-harming-and-attempting-suicide)
+[![](../assets/f0d79e2727ae/5cvrax17e84l66mixbd4o30m4gvwncva.jpg)](https://www.msf.org/child-refugees-lesbos-are-increasingly-self-harming-and-attempting-suicide)
 
 
 Earlier this year [a case](https://www.theguardian.com/world/2021/feb/26/woman-who-set-herself-on-fire-in-lesbos-refugee-camp-may-face-arson-charges) gained media interest when a pregnant woman on Lesbos attempted suicide after being denied a flight to Germany\. She later was formally charged with arson and the destruction of public property\. One month later, a protest arose in a Pre\-removal Detention Facility near Athens after the death of a 24\-year\-old\. A Kurdish man who applied for asylum [took his life](https://www.infomigrants.net/en/post/31169/protests-over-kurdish-migrant-s-death-in-greek-detention-camp) after his detention was extended\.
@@ -232,7 +232,7 @@ One family from Afghanistan that lived in Moria for two years and has recently a
 Their attempt to travel inner europe had been comlicated by border controls lasting hours, for they have freedom of travel inner europe not before five years\. Afghanistan Migrants Advice and Support Organization emphasizes on that to an uncertain future and the current insecurity political instability of the country\.
 
 
-[![](https://www.tagesschau.de/multimedia/bilder/sendungsbild-773685~_v-original.jpg)](https://www.tagesschau.de/multimedia/video/video-886257.html)
+[![](../assets/f0d79e2727ae/sendungsbild-773685~_v-original.jpg)](https://www.tagesschau.de/multimedia/video/video-886257.html)
 
 #### UK
 ### **Nationality and Borders Bill targets people who apply for asylum as well as their supporters**
@@ -306,7 +306,7 @@ Fellowship allowances include amonthly scholarship \(1\.550€/2\.050€/3\.000�
 
 
 
-[![](https://reliefweb.int/sites/default/files/styles/large/public/previews/6f/60/6f602b8f-d078-3e0c-9857-aa9ea2c54d69.png)](https://reliefweb.int/report/lebanon/regional-syrian-refugee-crisis-overview-may-2021?fbclid=IwAR2L2qryraTL2kydAJwzvMdB36nvkqpy39YakbpTuvz2dbGJxpDPeTy6vPA)
+[![](../assets/f0d79e2727ae/6f602b8f-d078-3e0c-9857-aa9ea2c54d69.png)](https://reliefweb.int/report/lebanon/regional-syrian-refugee-crisis-overview-may-2021?fbclid=IwAR2L2qryraTL2kydAJwzvMdB36nvkqpy39YakbpTuvz2dbGJxpDPeTy6vPA)
 
 - Article invenstigating the effective and impact of desinformation campaigns recording humanitarians:
 
@@ -316,7 +316,7 @@ On 8th july a paper considering “The Critical Risk of Disinformation for Human
 Sean Healy and Victoria Russel are examining false claims that the non\-government organisations conducting “search and rescue of refugees, asylum seekers and migrants on the Mediterranean” are actively ‘colluding’ with people smugglers to ferry people into Europe\. In the article, the authors classify those claims as far\-right conspiracy theories and discuss the risks that may follow up for humanitarian organisations\.
 
 
-[![](https://www.manchesteropenhive.com/cover/covers/25156411.jpg)](https://www.manchesteropenhive.com/view/journals/jha/3/1/article-p28.xml?body=%3Cabstract%3E&fbclid=IwAR3HML4TY5e79abRtqTduH4p0F_IUhDWoy_xlHWldjtiLGrGUZ1JRnAVTZg)
+[![](../assets/f0d79e2727ae/25156411.jpg)](https://www.manchesteropenhive.com/view/journals/jha/3/1/article-p28.xml?body=%3Cabstract%3E&fbclid=IwAR3HML4TY5e79abRtqTduH4p0F_IUhDWoy_xlHWldjtiLGrGUZ1JRnAVTZg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

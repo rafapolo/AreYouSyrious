@@ -208,7 +208,7 @@ A man of Congoleese descent was held in custody without access to HIV medication
 
 
 
-[![](https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png)](https://www.theguardian.com/uk/commentisfree)
+[![](../assets/117acc7bd16c/fallback-logo.png)](https://www.theguardian.com/uk/commentisfree)
 
 
 

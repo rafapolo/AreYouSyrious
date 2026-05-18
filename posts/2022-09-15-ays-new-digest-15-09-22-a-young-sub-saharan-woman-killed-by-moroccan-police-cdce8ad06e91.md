@@ -70,7 +70,7 @@ According to the Turkish coastguard:
 Also here:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/09/h_56822257.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2022/9/14/at-least-six-dead-after-refugee-boat-sinks-off-turkish-coast)
+[![](../assets/cdce8ad06e91/h_56822257.jpg)](https://www.aljazeera.com/news/2022/9/14/at-least-six-dead-after-refugee-boat-sinks-off-turkish-coast)
 
 #### BALKANS
 ### Children on the move are being systematically and sexually abused along their way to Europe, reports Save the Children
@@ -182,7 +182,7 @@ The chief of Humanity 1 ship \(Sos Humanity rescue organisation\) thus condemned
 Read more here:
 
 
-[![](https://thecivilfleet.files.wordpress.com/2022/09/20220910_arez_ghaderi_-1.jpg)](https://thecivilfleet.wordpress.com/2022/09/13/rescuers-race-towards-250-people-stranded-for-days-without-food-water-or-help-from-the-european-authorities/?fbclid=IwAR2gGYvgIQjPvYKbbkXZMf1zlgv7AgN64i6T0k4ddRP_HrVO4a1uGpqHHD0)
+[![](../assets/cdce8ad06e91/20220910_arez_ghaderi_-1.jpg)](https://thecivilfleet.wordpress.com/2022/09/13/rescuers-race-towards-250-people-stranded-for-days-without-food-water-or-help-from-the-european-authorities/?fbclid=IwAR2gGYvgIQjPvYKbbkXZMf1zlgv7AgN64i6T0k4ddRP_HrVO4a1uGpqHHD0)
 
 #### GENERAL
 ### Call to protest the renewal of the Italy\-Libya memorandum

@@ -45,7 +45,7 @@ Ioanna Manoussaki\-Adamopoulou, a PhD candidate at University College London res
 For more information, see:
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/media/images/7FB21937-0C3A-4AC8-829B-5A0D8226991C.jpg?h=d1cb525d&itok=Z1C6NR_L)](https://english.alaraby.co.uk/english/indepth/2020/7/9/greek-government-faces-resistance-over-dictatorship-era-anti-protest-law?fbclid=IwAR0mtSnteuh7Jytbvwns4Uut0PWhCC8tYU1AoBntYM2Wgo4DQEELKjkqF5Q)
+[![](../assets/4ee62b8b6449/7FB21937-0C3A-4AC8-829B-5A0D8226991C.jpg)](https://english.alaraby.co.uk/english/indepth/2020/7/9/greek-government-faces-resistance-over-dictatorship-era-anti-protest-law?fbclid=IwAR0mtSnteuh7Jytbvwns4Uut0PWhCC8tYU1AoBntYM2Wgo4DQEELKjkqF5Q)
 
 ### GREECE
 
@@ -133,7 +133,7 @@ Greece has appointed a Special Envoy for Syria, which can be seen as a first ste
 Find the petition here:
 
 
-[![](https://avaazdo.s3.amazonaws.com/8d8b5f308637d9cb80a06a51d9390d27_meme.jpeg?1593099620?1644941234)](https://secure.avaaz.org/community_petitions/en/ypoyrgos_exoterikon_nikos_dendias_ellada_diakopste_kathe_epafi_me_ton_diktatora_asant/)
+[![](../assets/4ee62b8b6449/8d8b5f308637d9cb80a06a51d9390d27_meme.jpeg)](https://secure.avaaz.org/community_petitions/en/ypoyrgos_exoterikon_nikos_dendias_ellada_diakopste_kathe_epafi_me_ton_diktatora_asant/)
 
 ### CROATIA
 
@@ -153,13 +153,13 @@ Four migrant men have been sentenced to a year\-long imprisonment in Hungary for
 This video from the Hungarian Helsinki Committee provides a good insight into the situation\.
 
 
-[![World Refugee Day - 1 out of 40,000: Karox](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F912005307-91c5effb11b7180e55b57558f0f9c987d31c90c7d7e75ed7d4a47df706c34195-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "World Refugee Day - 1 out of 40,000: Karox")](https://vimeo.com/431039382)
+[![World Refugee Day - 1 out of 40,000: Karox](../assets/4ee62b8b6449/overlay "World Refugee Day - 1 out of 40,000: Karox")](https://vimeo.com/431039382)
 
 
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/b210dce67d2948106dfd7feb5f61e8a5c35297ef.jpeg)](https://www.infomigrants.net/en/post/25925/hungarian-court-jails-migrants-for-breaching-border?fbclid=IwAR3yxYg5mQPT5X1DI_Rz519aS_Aak6wKVx8QIGNxu-ghK_SlbZTQo4HmWNE)
+[![](../assets/4ee62b8b6449/b210dce67d2948106dfd7feb5f61e8a5c35297ef.jpeg)](https://www.infomigrants.net/en/post/25925/hungarian-court-jails-migrants-for-breaching-border?fbclid=IwAR3yxYg5mQPT5X1DI_Rz519aS_Aak6wKVx8QIGNxu-ghK_SlbZTQo4HmWNE)
 
 ### SEA
 
@@ -283,7 +283,7 @@ This article makes some very important points by showing how in Europe, Black pe
 This article shows how LGBT\-peoples asylum claims are routinely rejected in Europe and UK\.
 
 
-[![](https://i.guim.co.uk/img/media/09179c52283268eff9955a994d7f50cc4be51f06/0_0_5245_3148/master/5245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=15fe3ae969a03fda0d1781e07269af9f)](https://www.theguardian.com/uk-news/2020/jul/09/lgbt-asylum-seekers-routinely-see-claims-rejected-in-europe-and-uk?fbclid=IwAR01hRYi3rrsUUFw_2bcflqkIEfuYnffj2drWCArtZNUoN4mYF8VjvayMTk)
+[![](../assets/4ee62b8b6449/5245.jpg)](https://www.theguardian.com/uk-news/2020/jul/09/lgbt-asylum-seekers-routinely-see-claims-rejected-in-europe-and-uk?fbclid=IwAR01hRYi3rrsUUFw_2bcflqkIEfuYnffj2drWCArtZNUoN4mYF8VjvayMTk)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

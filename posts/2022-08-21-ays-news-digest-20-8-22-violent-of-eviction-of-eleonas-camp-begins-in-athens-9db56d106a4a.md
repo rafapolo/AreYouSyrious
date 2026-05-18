@@ -89,7 +89,7 @@ Mitarakis has also announced that the fence in the Evros River will be extended 
 [https://twitter\.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM](https://twitter.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM)
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/0c1b739fc8fa5a52e9a7810f67d222c3758a3290.jpg)](https://www.infomigrants.net/en/post/42699/dozens-of-migrants-reach-greek-island-on-sailboats?fbclid=IwAR0IsfO_loxhu9OmtwORviE6q742AbTfK2AuFwQWyIj_sBL5kSV1CtJnQho)
+[![](../assets/9db56d106a4a/0c1b739fc8fa5a52e9a7810f67d222c3758a3290.jpg)](https://www.infomigrants.net/en/post/42699/dozens-of-migrants-reach-greek-island-on-sailboats?fbclid=IwAR0IsfO_loxhu9OmtwORviE6q742AbTfK2AuFwQWyIj_sBL5kSV1CtJnQho)
 
 #### Landing in Lesvos
 
@@ -259,14 +259,14 @@ As a follow up to previous reports of forced returns and violent treatment of pe
 Border Emergency Collective have produced a 3D reconstruction of Mariam and Hamdi’s treatment on the Belarusian\-Polish border in November 2021\. Despite requesting international protection, they were repeatedly pushed back to Belarus by Polish officers\. Watch the visual report produced by the Border Emergency Collective below:
 
 
-[![ZONE OF HIDDEN VIOLENCE](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1485819232-a33a63a04c1397ccad23a906239775e54b3d9fe185f71d2428a270f35c1a488c-d_1280x360&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "ZONE OF HIDDEN VIOLENCE")](https://vimeo.com/738396988)
+[![ZONE OF HIDDEN VIOLENCE](../assets/9db56d106a4a/overlay "ZONE OF HIDDEN VIOLENCE")](https://vimeo.com/738396988)
 
 #### FOR FURTHER READING & LISTENING
 - denied access to the people he was trying to write about… :
 
 
 
-[![](https://i.guim.co.uk/img/media/c4c50a1e33a436a046fd2a5af45f8751b080cea5/0_384_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd3c9c1b5e8d3bceaff38f1b62dc842b)](https://www.theguardian.com/global-development/2022/aug/17/access-denied-i-went-to-rwanda-to-talk-firsthand-to-refugees-and-the-state-wouldnt-let-me?fbclid=IwAR2JyMuuNktL7xk9xW_H9yU5tBOvReXrEPApuyjrnYHuCdGgLMkFO1b4rqU)
+[![](../assets/9db56d106a4a/5760.jpg)](https://www.theguardian.com/global-development/2022/aug/17/access-denied-i-went-to-rwanda-to-talk-firsthand-to-refugees-and-the-state-wouldnt-let-me?fbclid=IwAR2JyMuuNktL7xk9xW_H9yU5tBOvReXrEPApuyjrnYHuCdGgLMkFO1b4rqU)
 
 - New BVMN’s Voices From the Borders episode: “You cannot describe the life of a person, you can only write the things that you see\.”
 

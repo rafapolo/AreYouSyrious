@@ -51,7 +51,7 @@ For more info, see:
 and here:
 
 
-[![](https://i.guim.co.uk/img/media/cdea0f3bf6070bdd46657c1312de4285e3547f81/177_0_4555_2734/master/4555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=1933ac39253d20612c8aae15d8a11d0b)](https://www.theguardian.com/world/2021/sep/08/eu-seeking-to-turn-migrant-database-into-mass-surveillance-tool?fbclid=IwAR1E1Eb18yjaLp7W08yIJuwJ5B4O-W58bct1ziYKedC-upa8i8cL5NqFjrc)
+[![](../assets/a149c7b077d6/4555.jpg)](https://www.theguardian.com/world/2021/sep/08/eu-seeking-to-turn-migrant-database-into-mass-surveillance-tool?fbclid=IwAR1E1Eb18yjaLp7W08yIJuwJ5B4O-W58bct1ziYKedC-upa8i8cL5NqFjrc)
 
 #### Who is profiting from Fortress Europe?
 
@@ -115,7 +115,7 @@ This timeline from our friends from BVMN helps to recall the events:
 But all the crocodile tears were shed for nothing\. Over this last year, Greece further undermined the system of refugee reception\.
 
 
-[![](https://static.dw.com/image/54875226_6.jpg)](https://www.dw.com/en/lesbos-after-moria-fire-people-are-still-living-in-tents-by-the-sea/a-59115403?fbclid=IwAR0qr3jyrdmhA_Kj4_C8MkEwv7rMAmy8lPP_YyAIbs_koaKRXs--D-IuV00)
+[![](../assets/a149c7b077d6/54875226_6.jpg)](https://www.dw.com/en/lesbos-after-moria-fire-people-are-still-living-in-tents-by-the-sea/a-59115403?fbclid=IwAR0qr3jyrdmhA_Kj4_C8MkEwv7rMAmy8lPP_YyAIbs_koaKRXs--D-IuV00)
 
 
 The conditions in Moria 2\.0 are horrendous, access is denied for journalists\.
@@ -152,7 +152,7 @@ A couple from Congo filed a criminal complaint against Samos authorities\. The c
 For more information on the case, see here:
 
 
-[![](https://thepressproject.gr/app/uploads/2021/09/1499.jpg)](https://thepressproject.gr/eftasan-sti-samo-kai-exafanistikan-tora-prosfevgoun-sti-dikaiosyni?fbclid=IwAR3tzAtVVWCorPBEQBkVJ07wBTfzsTqQsEZAFD-2DrdfveF4mdfU5cov2Gs)
+[![](../assets/a149c7b077d6/1499.jpg)](https://thepressproject.gr/eftasan-sti-samo-kai-exafanistikan-tora-prosfevgoun-sti-dikaiosyni?fbclid=IwAR3tzAtVVWCorPBEQBkVJ07wBTfzsTqQsEZAFD-2DrdfveF4mdfU5cov2Gs)
 
 #### Greece’s Deportations and Returns Law enters into effect despite criticism
 
@@ -238,7 +238,7 @@ Frederiksen should be reminded of the fact that human rights and refugee rights 
 The current government already declared its Zero Asylum Seekers aim and is inclined to open reception centres outside of the country\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3eeea16c13e23d3aa49fd581c36f021133771aed.jpeg)](https://www.infomigrants.net/en/post/34912/denmark-migrants-may-be-forced-to-work-for-welfare-benefits?fbclid=IwAR1lZsvxsJJtqvMyrQvckwABYCYV5RdygkfklhdR4qHmU42I3vhFNfzUqEU)
+[![](../assets/a149c7b077d6/3eeea16c13e23d3aa49fd581c36f021133771aed.jpeg)](https://www.infomigrants.net/en/post/34912/denmark-migrants-may-be-forced-to-work-for-welfare-benefits?fbclid=IwAR1lZsvxsJJtqvMyrQvckwABYCYV5RdygkfklhdR4qHmU42I3vhFNfzUqEU)
 
 ### READING RECOMMENDATIONS
 

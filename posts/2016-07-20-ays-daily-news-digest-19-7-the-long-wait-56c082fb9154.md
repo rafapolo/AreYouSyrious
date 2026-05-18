@@ -134,7 +134,7 @@ The island of Lesvos is especially quiet for this time of the year\. More specif
 Lets not forget Lesvos\! One way to help is by supporting these two girls in organizing Symbiosis festival\. It is starting next week and volunteers are needed\!
 
 
-[![Symbiosis Lesvos Arts Festival 2016](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F582372695-75169d523421ae00e3a7bc2cb8c271b51079c4a023cbd17fac2a47d72c285c83-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Symbiosis Lesvos Arts Festival 2016")](https://vimeo.com/175293426)
+[![Symbiosis Lesvos Arts Festival 2016](../assets/56c082fb9154/overlay "Symbiosis Lesvos Arts Festival 2016")](https://vimeo.com/175293426)
 
 ### Let the refugees cook
 
@@ -270,7 +270,7 @@ More info in [English](http://www.tuerkei.diplo.de/contentblob/4823252/Daten/661
 Participatory photography involves empowering participants by putting the cameras into their hands and giving them the skills to tell their own stories\.
 
 
-[![Welcome To Our Jungle](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F574169762-707a59b7f1060705e422b3c2c6f70d89c69f5ed6d1819d9b76ce65c9606bc6f6-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Welcome To Our Jungle")](https://vimeo.com/169446728)
+[![Welcome To Our Jungle](../assets/56c082fb9154/overlay "Welcome To Our Jungle")](https://vimeo.com/169446728)
 
 ### Art in Calais
 

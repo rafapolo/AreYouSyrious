@@ -174,7 +174,7 @@ Apparently the numbers of residents in Moria camp were never accurate\. Solomon 
 Read the full piece here:
 
 
-[![](https://wearesolomon.com/wp-content/uploads/2020/12/Morias-missing-migrants-1-1.jpg)](https://wearesolomon.com/mag/on-the-move/morias-missing-migrants/?fbclid=IwAR1oBk7oEnTSn4EscXuX2VXFqBduovy-x4EcxGn3Y6fMOW5DKz69lDpqeGE)
+[![](../assets/ed6c3791e360/Morias-missing-migrants-1-1.jpg)](https://wearesolomon.com/mag/on-the-move/morias-missing-migrants/?fbclid=IwAR1oBk7oEnTSn4EscXuX2VXFqBduovy-x4EcxGn3Y6fMOW5DKz69lDpqeGE)
 
 
 BOSNIA AND HERZEGOVINA
@@ -233,7 +233,7 @@ Meanwhile, following an information request by the leftist party, it turned out 
 This is especially disturbing as in the past there have been wild discussions about an alleged “false positive” asylum decision which, as later turned out, was not even true\. Instead, presumably thousands of asylum decisions are false negative ones\. This is yet further proof of how indispensable access to legal advice is\. Without this, even people who definitely have a right to asylum, even under the restrictive European law, are sent back to danger\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/b42a64d87d6460a5c9170ceb23dc9652086345ea.jpeg)](https://www.infomigrants.net/en/post/28966/german-courts-repeal-more-than-5-600-afghan-asylum-rejections?fbclid=IwAR02q-51EyuS4ob1UyC4mrxgJdGbfqJAmYj9_Bm3ri2WHg36oXmRMgB5nNs)
+[![](../assets/ed6c3791e360/b42a64d87d6460a5c9170ceb23dc9652086345ea.jpeg)](https://www.infomigrants.net/en/post/28966/german-courts-repeal-more-than-5-600-afghan-asylum-rejections?fbclid=IwAR02q-51EyuS4ob1UyC4mrxgJdGbfqJAmYj9_Bm3ri2WHg36oXmRMgB5nNs)
 
 
 EU

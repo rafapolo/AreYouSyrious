@@ -160,26 +160,26 @@ A number of extremely clever lawyers have been puzzling over why the new immigra
 In the meantime, people who are being held in detention suffer being locked up:
 
 
-[![](https://static.independent.co.uk/2021/07/08/11/prison-mental-health.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/home-news/immigration-detainees-prison-home-office-b1880344.html?fbclid=IwAR0xw96csL7Vfkg43N-6zPvCtiNITwxpr7ct0W3lo3ijhXGAugtKlObIwt4)
+[![](../assets/7837c7b2cf0d/prison-mental-health.jpg)](https://www.independent.co.uk/news/uk/home-news/immigration-detainees-prison-home-office-b1880344.html?fbclid=IwAR0xw96csL7Vfkg43N-6zPvCtiNITwxpr7ct0W3lo3ijhXGAugtKlObIwt4)
 
 #### WORTH READING
 - a personal story — “Eight years after fleeing from Hama to Lebanon, Youssef was desperate to leave by any route possible, even if that route took him back under the bombing he had fled\. His wife has a chronic heart condition that requires her to take medication they could no longer afford\. In 2016, the family was cut off from the monthly aid they used to receive from the United Nations, and now Youssef was out of work too\. Wanted by the authorities in Syria, returning home was not an option…”
 
 
 
-[![](https://s.lorientlejour.com/storage/attachments/1269/abby3_780946.jpeg/r/800/abby3_780946.jpeg)](https://today.lorientlejour.com/article/1268037/the-worst-adventure-in-my-life-those-desperate-to-leave-a-collapsing-lebanon-seek-ever-riskier-routes-out.html?fbclid=IwAR2HeDM8TJJXT0Qpf-PBFYXg0gXxG2kVA_21d12pJcedMBTtLbXS1QO7x6Q)
+[![](../assets/7837c7b2cf0d/abby3_780946.jpeg)](https://today.lorientlejour.com/article/1268037/the-worst-adventure-in-my-life-those-desperate-to-leave-a-collapsing-lebanon-seek-ever-riskier-routes-out.html?fbclid=IwAR2HeDM8TJJXT0Qpf-PBFYXg0gXxG2kVA_21d12pJcedMBTtLbXS1QO7x6Q)
 
 - we have previously written about the exploitation of people in the Spanish region of La Huelva’s strawberry fields\. The media are now catching on to the story, stressing the horrors some of the women there go through… Are you aware of how migrant workers and people on the move are treated in the place where you live? Let us know\!
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/07/21.-Women-workers-resist-abuse-by-establishing-relationships-of-friendship-and-solidarity_.jpg?resize=1920%2C1333)](https://www.aljazeera.com/news/2021/7/10/in-spains-strawberry-fields-migrant-women-face-sexual-abuse?fbclid=IwAR2S1yFTS3NBOfgrreZbnGa_FvttOE0v4ep4p3g3ZvWpspOwY-ut4pmD31Q)
+[![](../assets/7837c7b2cf0d/21.-Women-workers-resist-abuse-by-establishing-relationships-of-friendship-and-solidarity_.jpg)](https://www.aljazeera.com/news/2021/7/10/in-spains-strawberry-fields-migrant-women-face-sexual-abuse?fbclid=IwAR2S1yFTS3NBOfgrreZbnGa_FvttOE0v4ep4p3g3ZvWpspOwY-ut4pmD31Q)
 
 - another summary of the EU’s securitisation spasm realised through dodgy Frontex operations across the continent, and not at a small price, too:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/537dd049d206ac8954dfe6d316a21cb6cadd428f.jpeg)](https://www.infomigrants.net/en/post/33502/eu-to-spend-16-billion-on-asylum-migration-and-border-management?fbclid=IwAR2ira7eUfaFQs7T-t_PRj8IDH43r--E4URKBjVEiyGbF4XZvhb3KE4SYF4)
+[![](../assets/7837c7b2cf0d/537dd049d206ac8954dfe6d316a21cb6cadd428f.jpeg)](https://www.infomigrants.net/en/post/33502/eu-to-spend-16-billion-on-asylum-migration-and-border-management?fbclid=IwAR2ira7eUfaFQs7T-t_PRj8IDH43r--E4URKBjVEiyGbF4XZvhb3KE4SYF4)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

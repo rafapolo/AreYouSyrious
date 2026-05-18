@@ -199,7 +199,7 @@ No Name Kitchen has opened a new project in the city of Subotica in Northern Ser
 
 
 
-[![](https://www.fairplanet.org/wp-content/uploads/2022/03/cairo-6.1648036502.jpg)](https://www.fairplanet.org/?post_type=stories&p=53262&fbclid=IwAR2ySPN2TUuB4inFB-vg9jWEhgFZS6UzdrJI1Wwtabj60CwPofXMAozkNFA)
+[![](../assets/ca2805ae2053/cairo-6.1648036502.jpg)](https://www.fairplanet.org/?post_type=stories&p=53262&fbclid=IwAR2ySPN2TUuB4inFB-vg9jWEhgFZS6UzdrJI1Wwtabj60CwPofXMAozkNFA)
 
 - **Ukrainian Refugees in Poland: The Festival of Help and the Government’s Reluctance to Act**
 
@@ -211,7 +211,7 @@ No Name Kitchen has opened a new project in the city of Subotica in Northern Ser
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/02/AP22057388042462.jpg?resize=1920%2C1440)](https://www.aljazeera.com/opinions/2022/3/25/why-are-europeans-suddenly-so-interested-in-helping-refugees?fbclid=IwAR25hAXis2UjyxNeNVRvql-8OMtTgGtVjSdM4KR9CPzP0k42nzJuQQCpRB8)
+[![](../assets/ca2805ae2053/AP22057388042462.jpg)](https://www.aljazeera.com/opinions/2022/3/25/why-are-europeans-suddenly-so-interested-in-helping-refugees?fbclid=IwAR25hAXis2UjyxNeNVRvql-8OMtTgGtVjSdM4KR9CPzP0k42nzJuQQCpRB8)
 
 - **The consolidation of Europe’s border regime in Greece**
 

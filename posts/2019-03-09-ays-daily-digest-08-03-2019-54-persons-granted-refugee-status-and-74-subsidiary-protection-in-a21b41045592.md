@@ -200,7 +200,7 @@ Changeably cloudy and less warm\. Locally some rain or a shower accompanied with
 
 
 
-[![](https://1.bp.blogspot.com/-VYGlCkbqpLM/XIIp1nwmkmI/AAAAAAAAAkc/QjBqpQ827bs7tCFAN-erpoHoX97tW0tnQCLcBGAs/w1200-h630-p-k-no-nu/Ali2.jpg)](https://zdravniki4azilante.blogspot.com/2019/03/european-union-or-saudi-arabia.html?fbclid=IwAR1KPsJO82MgGcOT0sFYIarMTARMnvP2BPlnzwuevj-Zu1GMib8AgUwxwmc)
+[![](../assets/a21b41045592/Ali2.jpg)](https://zdravniki4azilante.blogspot.com/2019/03/european-union-or-saudi-arabia.html?fbclid=IwAR1KPsJO82MgGcOT0sFYIarMTARMnvP2BPlnzwuevj-Zu1GMib8AgUwxwmc)
 
 
 Bosnia’s Security Minister Dragan Mektic in [an interview](http://www.sarajevotimes.com/bihs-security-minister-we-expect-an-escalation-of-problems-with-migrants/?fbclid=IwAR2xp3ueM2TpyFy3_BCoCLfkT6ndxJ6qT1B3plkRLblij3iU6RC_zFDwnN8) has stated that “We expect an escalation of migrant problems, not just in BiH, but along that rout”\. Mektic, as well as most of the politicians in this country, incites fear from people on the move in the local population, and has been laying the ground work for hate speech, which has been increasing since people started arriving in Bosnia\. The impact of this approach is visible in Bosnia where local people are showing less and less solidarity every day\.

@@ -48,7 +48,7 @@ Complicating the current picture in Bosnia and Herzegovina is the cumbersome pol
 If you are in Budapest, please join a report and informal discussion on the situation led by Elissa Helms, Associate Professor in the Department of Gender Studies who is spending the current year in Bihać doing ethnographic research on these dynamics: **January 17th\!**
 
 
-[![](https://events.ceu.edu/sites/default/files/styles/crop_promo_image/public/images/promo/20191016_142906bihac.jpg?itok=f5ji_fHl)](https://events.ceu.edu/2020-01-17/aid-refugees-and-migrants-stuck-outside-eu-field-report-bihac-bosnia-herzegovina?fbclid=IwAR3g6rJtP8HcMXS6jIPc3Ch6AZrbqYAW_U1ygggvjoI-RdPsgf85h7zrIJs)
+[![](../assets/ce4880fe4d64/20191016_142906bihac.jpg)](https://events.ceu.edu/2020-01-17/aid-refugees-and-migrants-stuck-outside-eu-field-report-bihac-bosnia-herzegovina?fbclid=IwAR3g6rJtP8HcMXS6jIPc3Ch6AZrbqYAW_U1ygggvjoI-RdPsgf85h7zrIJs)
 
 #### BELGIUM
 

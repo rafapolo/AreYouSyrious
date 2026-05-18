@@ -74,11 +74,11 @@ The father and his lawyer now accuse the authorities of deliberately delaying an
 Two long reads can be found here:
 
 
-[![](https://static.dw.com/image/56795822_6.jpg)](https://www.dw.com/en/afghan-migrant-to-sue-greek-coast-guard-over-sons-drowning/a-56819773?fbclid=IwAR2KeNadLNBYWOqpeZMKb4gJd8lbMbmt-RGRKV8czqBLOgzQUFJHmi27Ffk)
+[![](../assets/275dc22d914e/56795822_6.jpg)](https://www.dw.com/en/afghan-migrant-to-sue-greek-coast-guard-over-sons-drowning/a-56819773?fbclid=IwAR2KeNadLNBYWOqpeZMKb4gJd8lbMbmt-RGRKV8czqBLOgzQUFJHmi27Ffk)
 
 
 
-[![](https://storage.googleapis.com/afs-prod/media/8389c2d3d3e0439a9244b99b18c2152f/3000.jpeg)](https://apnews.com/article/turkey-coronavirus-pandemic-migration-only-on-ap-greece-75f06c4a3c80f2fc1c64810083d6c0da?fbclid=IwAR1BMzgV0XpqP8Etr9ag0xfs-1QqoKfB5uWgEv1tzAVZrGbmU0ElJOgpMUo)
+[![](../assets/275dc22d914e/3000.jpeg)](https://apnews.com/article/turkey-coronavirus-pandemic-migration-only-on-ap-greece-75f06c4a3c80f2fc1c64810083d6c0da?fbclid=IwAR1BMzgV0XpqP8Etr9ag0xfs-1QqoKfB5uWgEv1tzAVZrGbmU0ElJOgpMUo)
 
 #### Pushbacks no longer denied but bragged with?
 
@@ -194,7 +194,7 @@ Offshoring desperate and vulnerable people to "Ascension Island" would actually 
 This long\-read recounts the horror a young South Sudanese man encounters in Libyan prisons and how the EU is complicit in his grim fate\. \(in German\)
 
 
-[![](https://image.profil.at/images/facebook/5006859/7-min.jpg)](https://www.profil.at/ausland/gescheiterte-ueberfahrten-und-stille-im-ozean-flucht-nach-europa/401221470?fbclid=IwAR0tgTFNHLNMQ3451ycR30C8xTNHz0WXru6JZCsZ5YkhVz6nhE5T0aNBvzc)
+[![](../assets/275dc22d914e/7-min.jpg)](https://www.profil.at/ausland/gescheiterte-ueberfahrten-und-stille-im-ozean-flucht-nach-europa/401221470?fbclid=IwAR0tgTFNHLNMQ3451ycR30C8xTNHz0WXru6JZCsZ5YkhVz6nhE5T0aNBvzc)
 
 
 [This article t](https://migrantwomenpress.com/from-one-hell-to-another-life-of-migrants-in-europe-today/?fbclid=IwAR3lnSODqA7Ht1twfSXAX_Tyki_BumBun6Q_TiO6cssMt1c481lVQ3zcqwo) ells the story of a young Afghan mother who experienced rape, Moria and pushbacks\.

@@ -60,7 +60,7 @@ The walls you are building around us, will not bring us safety, but only repress
 Aljazeera published a long\-read about fathers stuck in Bosnia, trying to reach their families in Croatia\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/05/Man_with_Daughter.jpg?resize=1200%2C675)](https://www.aljazeera.com/features/2021/5/25/the-afghan-fathers-risking-beatings-to-reach-family-in-croatia?fbclid=IwAR1F7tAuMLKngY-qlhGtySN8X4XQFBrQxjXuFjfJX-NeEnOOLqw-LHLPHas)
+[![](../assets/4bed41f3fafe/Man_with_Daughter.jpg)](https://www.aljazeera.com/features/2021/5/25/the-afghan-fathers-risking-beatings-to-reach-family-in-croatia?fbclid=IwAR1F7tAuMLKngY-qlhGtySN8X4XQFBrQxjXuFjfJX-NeEnOOLqw-LHLPHas)
 
 ### Spain
 

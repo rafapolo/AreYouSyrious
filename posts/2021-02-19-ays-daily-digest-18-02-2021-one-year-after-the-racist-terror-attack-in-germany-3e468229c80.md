@@ -259,7 +259,7 @@ Meanwhile, arrivals to Lampedusa continue\. On 17 February, 108 people arrived, 
 Members of the European Parliament Lopez Aguilar and Fabienne Keller meanwhile admitted that the Las Raices camp that is located in an old military barracks in La Laguna, Tenerife, is not sustainable and hopefully only provisional\.
 
 
-[![](https://img.europapress.es/fotoweb/fotonoticia_20210218150944_1200.jpg)](https://www.europapress.es/islas-canarias/noticia-eurodiputados-admiten-campamento-raices-no-sostenible-esperan-sea-provisional-20210218150944.html?fbclid=IwAR1cl8Kt4j8WzqWtpftfsy6tYn6pRGGnu8znWn77qU3nAYiXlRIzrSmPZP8)
+[![](../assets/3e468229c80/fotonoticia_20210218150944_1200.jpg)](https://www.europapress.es/islas-canarias/noticia-eurodiputados-admiten-campamento-raices-no-sostenible-esperan-sea-provisional-20210218150944.html?fbclid=IwAR1cl8Kt4j8WzqWtpftfsy6tYn6pRGGnu8znWn77qU3nAYiXlRIzrSmPZP8)
 
 ### FRANCE
 #### Updates from Grande\-Synthe, northern France

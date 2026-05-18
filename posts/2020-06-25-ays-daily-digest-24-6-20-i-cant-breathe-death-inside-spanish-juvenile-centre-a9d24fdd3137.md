@@ -35,7 +35,7 @@ In 2016, the Committee for the Prevention of Torture visited Tierras de Oria, de
 A petition has been launched with over 44,000 signatures to further support the family:
 
 
-[![](https://assets.change.org/photos/1/pi/js/wHpIJsYvtwuAcOQ-1600x900-noPad.jpg?1592576616)](https://www.change.org/p/juzgado-%C3%BAnico-de-purchena-justicia-para-iliass?recruiter=44998878&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition)
+[![](../assets/a9d24fdd3137/wHpIJsYvtwuAcOQ-1600x900-noPad.jpg)](https://www.change.org/p/juzgado-%C3%BAnico-de-purchena-justicia-para-iliass?recruiter=44998878&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition)
 
 ### Spain
 
@@ -82,7 +82,7 @@ FRA’s Fundamental Rights Survey collected data from 35,000 people about their 
 To read their full report, please follow the link below:
 
 
-[![](https://fra.europa.eu/sites/default/files/styles/large/public/fra_images/fra-2020-fundamental-rights-survey-trust-cover-image1_en_0.jpg?itok=x9Ysibu6)](https://fra.europa.eu/en/publication/2020/fundamental-rights-survey-trust?fbclid=IwAR0_rj1rPeyw1Y2B-akik-UINS3aRRh4t9Bz1Jop7G2wxf-jJ3SvNzZrssE#TabPubFindingsQA1)
+[![](../assets/a9d24fdd3137/fra-2020-fundamental-rights-survey-trust-cover-image1_en_0.jpg)](https://fra.europa.eu/en/publication/2020/fundamental-rights-survey-trust?fbclid=IwAR0_rj1rPeyw1Y2B-akik-UINS3aRRh4t9Bz1Jop7G2wxf-jJ3SvNzZrssE#TabPubFindingsQA1)
 
 
 The European Asylum Support Office has published its flagship report the “ _Annual Report on the Situation of Asylum in the European Union”_ \. The report describes changes to policies and legislation at European and national levels, shares best practices and summarises challenges which persist\. It presents trends in asylum patterns, key indicators and examples of case law to showcase how European and national laws are interpreted and applied in the context of the EU asylum acquis\.
@@ -94,7 +94,7 @@ Furthermore, with the contributions from a wide range of additional sources, inc
 To read the full report or to watch the accompanying webinar please follow the link below:
 
 
-[![](https://euaa.europa.eu/themes/custom/euaa/images/euaa-logo-200-200.png)](https://www.easo.europa.eu/asylum-report-2020)
+[![](../assets/a9d24fdd3137/euaa-logo-200-200.png)](https://www.easo.europa.eu/asylum-report-2020)
 
 
 

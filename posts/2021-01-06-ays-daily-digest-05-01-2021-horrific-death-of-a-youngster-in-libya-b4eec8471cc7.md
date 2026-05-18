@@ -175,7 +175,7 @@ For three months now, the Italian coast guard has not allowed the ALAN KURDI shi
 On Tuesday, four people were found dead on a boat carrying 47 people that landed on Tenerife at dawn\. Three people had to be hospitalized with dehydration and chemical burns caused by the mixture of sea water and motor fuel\. According to media, one of the four dead persons lost his/her life after reaching the beach\. Medics who were present were not able to save the person\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/dc9d216c16772da117f47d769d0a9d2b0add7a2b.jpeg)](https://www.infomigrants.net/en/post/29448/four-migrants-found-dead-on-arrival-in-canary-islands?fbclid=IwAR0GcuHVuBdfUEgHO3JCdKxlTmw7Q4jMcqXXpwbau4ONgQZc7faEeXW3zug)
+[![](../assets/b4eec8471cc7/dc9d216c16772da117f47d769d0a9d2b0add7a2b.jpeg)](https://www.infomigrants.net/en/post/29448/four-migrants-found-dead-on-arrival-in-canary-islands?fbclid=IwAR0GcuHVuBdfUEgHO3JCdKxlTmw7Q4jMcqXXpwbau4ONgQZc7faEeXW3zug)
 
 
 In total, about 96 people arrived on Tuesday 5th January on the Canary Islands\.
@@ -186,7 +186,7 @@ In 2020, the number of arrivals on the Canary Islands was eight times higher tha
 48 people, including seven women and two children, have been rescued by Salvamento Marítimo on Tuesday afternoon in the vicinity of the island of Alboran\.
 
 
-[![](https://www.lavanguardia.com/images/default.jpg?h=508b)](https://www.lavanguardia.com/vida/20210105/6168815/llegan-motril-48-inmigrantes-rescatados-cerca-alboran.html?fbclid=IwAR0OpIAWxWEdXsA7a67sjN7BDrB2ymUIlOv1OMaQTHMDD2_N4RCvGlNyIXM)
+[![](../assets/b4eec8471cc7/default.jpg)](https://www.lavanguardia.com/vida/20210105/6168815/llegan-motril-48-inmigrantes-rescatados-cerca-alboran.html?fbclid=IwAR0OpIAWxWEdXsA7a67sjN7BDrB2ymUIlOv1OMaQTHMDD2_N4RCvGlNyIXM)
 
 ### FRANCE
 #### Calais — evictions increased in December
@@ -249,7 +249,7 @@ Care4Calais promised that they
 A guide for carrying out distributions during the pandemic can be found here:
 
 
-[![](https://care4calais.org/wp-content/uploads/2021/01/distancing-4-e1609859514796.jpg)](https://care4calais.org/news/latest-restrictions-and-volunteer-guidance/?fbclid=IwAR2J9qZD5QjcUizfZg8kyHMofW9Mf7hbg_JPcm4RW28FAnls0_Iuo9wNij0)
+[![](../assets/b4eec8471cc7/distancing-4-e1609859514796.jpg)](https://care4calais.org/news/latest-restrictions-and-volunteer-guidance/?fbclid=IwAR2J9qZD5QjcUizfZg8kyHMofW9Mf7hbg_JPcm4RW28FAnls0_Iuo9wNij0)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

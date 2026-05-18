@@ -72,7 +72,7 @@ Some thoughts on the reply:
 This is the original newspaper article published in DER SPIEGEL\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/d879674f-fb12-4078-8f96-7cc4629e1235_w1280_r1.77_fpx30_fpy54.99.jpg)](https://www.spiegel.de/politik/ausland/pushbacks-in-der-aegaeis-wie-frontex-menschenrechtsverletzungen-vertuscht-a-58a43131-1797-4712-96e4-0a4579610eb5)
+[![](../assets/29433e294ce/d879674f-fb12-4078-8f96-7cc4629e1235_w1280_r1.77_fpx30_fpy54.99.jpg)](https://www.spiegel.de/politik/ausland/pushbacks-in-der-aegaeis-wie-frontex-menschenrechtsverletzungen-vertuscht-a-58a43131-1797-4712-96e4-0a4579610eb5)
 
 
 For a summery in English, see here:
@@ -113,7 +113,7 @@ It was three years before his documents were reissued\. During this time he atte
 His case will now be brought before the UN human rights committee by the Global Legal Action Network \(Glan\) and Human Rights 360\.
 
 
-[![](https://i.guim.co.uk/img/media/dded3b479b17082ffd5d3bd2b01f72d24d29f47a/0_305_4598_2760/master/4598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=a4a3227f90760bab691832a1ac3019bf)](https://www.theguardian.com/global-development/2020/nov/17/greece-faces-legal-action-over-alleged-expulsion-of-syrian-to-turkey)
+[![](../assets/29433e294ce/4598.jpg)](https://www.theguardian.com/global-development/2020/nov/17/greece-faces-legal-action-over-alleged-expulsion-of-syrian-to-turkey)
 
 
 Another complaint has been filed by a group of lawyers on behalf of A\.N\., an asylum seeker who was the victim of a violent maritime expulsion by Greek officials near the island of Samos on 13 May 2020\. The man was placed on a life raft, a practice frequently implemented by Greek authorities during spring 2020\. The complaint has been filed with the European Court for Human Rights\.

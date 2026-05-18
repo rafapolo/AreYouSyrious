@@ -185,7 +185,7 @@ To read their full guidance please follow the link below:
 A digital exhibition by Women For Refugee Women has opened showcasing the photograph of five asylum\-seeking women\. This project was founded because Asylum\-seeking women’s experiences of destitution very often go unseen and unheard\. When the media covers stories about homelessness in the UK, the imagery that accompanies these stories is frequently focused on the male experience and denies people agency over how they are portrayed\. Therefore this project aims to share their photographs and enable them to tell the stories of their own lives\.
 
 
-[![](https://pro2-bar-s3-cdn-cf1.myportfolio.com/fd9f1c37-83a9-4821-ba32-62afbf4c78b2/c178acc5-8ac0-4ac1-8b8c-0535d48a44aa_rwc_0x0x3504x2336x3504.JPG?h=275796bb41e7d016e8c6e9644f634bcc)](https://ourlives.myportfolio.com/about)
+[![](../assets/e01bc2dbd419/c178acc5-8ac0-4ac1-8b8c-0535d48a44aa_rwc_0x0x3504x2336x3504.JPG)](https://ourlives.myportfolio.com/about)
 
 ### France
 
@@ -194,7 +194,7 @@ French meal delivery company Frichti in Paris has laid off hundreds of undocumen
 Two demonstrations held against the working conditions of undocumented migrants drew nearly 200 people\. Since these protests, support has been courted from organisations such as the General Confederation of Labor \(CGT\), the CLAP and MPs from the France Unbowed party have expressed their solidarity with the undocumented deliverymen\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/1f33b12c31000a56f4d82f0d2ef8c1cd390683d0.jpeg)](https://www.infomigrants.net/en/post/25302/france-hundreds-of-undocumented-migrant-couriers-ask-to-return-to-work?fbclid=IwAR0b0tlcbNHFlrO8Vg-ENrD7Q4cYoZ8L5YVVoDwIZc2hqG4fvTg8gDaQXno)
+[![](../assets/e01bc2dbd419/1f33b12c31000a56f4d82f0d2ef8c1cd390683d0.jpeg)](https://www.infomigrants.net/en/post/25302/france-hundreds-of-undocumented-migrant-couriers-ask-to-return-to-work?fbclid=IwAR0b0tlcbNHFlrO8Vg-ENrD7Q4cYoZ8L5YVVoDwIZc2hqG4fvTg8gDaQXno)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

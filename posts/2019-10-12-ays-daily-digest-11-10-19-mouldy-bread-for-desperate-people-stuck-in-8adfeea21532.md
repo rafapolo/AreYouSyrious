@@ -211,7 +211,7 @@ As AYS previously reported \(see Daily Digest first of October\) the announcemen
 Find an article in Swedish here:
 
 
-[![](https://static-cdn.sr.se/images/83/b5dbbe02-94d1-4113-93c3-82b96e690464.jpg)](https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7319774&fbclid=IwAR16LafByePyxScp0Bmi5HNNWmvoNifJJFjFe_V0lm9DaPra0usuqcP-7og)
+[![](../assets/8adfeea21532/b5dbbe02-94d1-4113-93c3-82b96e690464.jpg)](https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7319774&fbclid=IwAR16LafByePyxScp0Bmi5HNNWmvoNifJJFjFe_V0lm9DaPra0usuqcP-7og)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

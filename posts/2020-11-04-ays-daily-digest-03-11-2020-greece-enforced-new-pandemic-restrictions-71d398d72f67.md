@@ -133,7 +133,7 @@ The case raises serious questions on the effectiveness of legal procedures in to
 For more information, see:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/04/h_55838512-e1604391576712.jpg)](https://balkaninsight.com/2020/11/03/eu-takes-hungarys-asylum-policy-to-task-again-but-budapest-shrugs/?fbclid=IwAR2qs7S-dz6hqNkccJuwQ97tBZ9tol0N9JTL_lMfCP3LpDbTjkSaqr_BjOA)
+[![](../assets/71d398d72f67/h_55838512-e1604391576712.jpg)](https://balkaninsight.com/2020/11/03/eu-takes-hungarys-asylum-policy-to-task-again-but-budapest-shrugs/?fbclid=IwAR2qs7S-dz6hqNkccJuwQ97tBZ9tol0N9JTL_lMfCP3LpDbTjkSaqr_BjOA)
 
 ### SEA
 #### Many boats in distress in the Central Mediterranean
@@ -170,7 +170,7 @@ In Nantes, a new squat has been opened with the support of the association l’A
 Info Migrants published a piece about people from Syria trying to reach the French oversee\-department French\-Guyana via Brazil\. Brazil issues humanitarian visas for Syrians\. In 2020, the number of people who try to take this detour of several thousand kilometres rose to about 150–300 each month\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/42cefc429281ce5bac0f67fc163ab30700b3c135.jpeg)](https://www.infomigrants.net/fr/post/28133/le-voyage-n-est-jamais-fini-l-improbable-exil-de-syriens-vers-la-guyane-2-3?fbclid=IwAR3ckAjayOEXFR7_G2HZvdsGfaSfAT7zdRdFFtURdbeQ29NlK_Ec5B-BEPs)
+[![](../assets/71d398d72f67/42cefc429281ce5bac0f67fc163ab30700b3c135.jpeg)](https://www.infomigrants.net/fr/post/28133/le-voyage-n-est-jamais-fini-l-improbable-exil-de-syriens-vers-la-guyane-2-3?fbclid=IwAR3ckAjayOEXFR7_G2HZvdsGfaSfAT7zdRdFFtURdbeQ29NlK_Ec5B-BEPs)
 
 
 On November 6th, the documentary “Love Child” will be released\. It was shot for more than six years in Turkey, accompanying the life of an Iranian family\. In a review, The Guardian [concludes](https://www.theguardian.com/film/2020/nov/03/love-child-review-refugee-documentary-iran-turkey?fbclid=IwAR37a3ZaLT0KRUpdf9XLuLUqwb2iszK8pP07FknhxfBvHPDPv0FPgrpV_tA) , it is a “documentary that gives off warmth like a radiator, generating huge amounts of empathy”\.

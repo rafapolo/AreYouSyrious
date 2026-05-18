@@ -123,7 +123,7 @@ A ‘voluntary’ decision borne of unfair Lebanese governmental policies does n
 The Hungarian police have [boasted](https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/hatarrendeszet/orszagos-hatarrendeszeti-osszesito-480?fbclid=IwAR2V_N-ExmgcRMpnz-0BvB8v3g3mlyslLYoE4nN0KCDbvpm9cMTwlIbhLrY) of the number of people they have prevented from entering the country in a 24 hour period on October 15th\. ‘\[I\]n accordance with the current Hungarian legislation’, people who could ‘not credibly prove their identity or the legality of their stay in Hungary’ were removed to a ‘temporary security border checkpoint’\.
 
 
-[![](https://cdn.magyarnemzet.hu/2022/10/_F9JYKavXjjCg7pQBbuy9Bz_C2XeCbm_JsqebqG8t8s/fill/850/478/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg4NjFiMWQ5OTdiZDRmNDNhZjZhZDJiNmNjMjJhODU0.jpg?c=1670676590987)](https://magyarnemzet.hu/belfold/2022/10/rengeteg-illegalis-bevandorloval-szemben-intezkedtek-a-magyar-rendorok?fbclid=IwAR1mIy8ru1LUfGB1j5ogGjs1XQM7RD5Jf8mR043uhSfETyFWSG0ALph7ZDo)
+[![](../assets/68537dea2b69/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzg4NjFiMWQ5OTdiZDRmNDNhZjZhZDJiNmNjMjJhODU0.jpg)](https://magyarnemzet.hu/belfold/2022/10/rengeteg-illegalis-bevandorloval-szemben-intezkedtek-a-magyar-rendorok?fbclid=IwAR1mIy8ru1LUfGB1j5ogGjs1XQM7RD5Jf8mR043uhSfETyFWSG0ALph7ZDo)
 
 #### BELARUS
 #### Jailed human rights defender wins Nobel Peace Prize
@@ -188,7 +188,7 @@ _‘Lord Justice Edis and Mr Justice Lane ruled: “We are concerned with a fail
 _While acknowledging that everyone was under pressure due to the “crisis of mass migration into the UK” and the political and media interest this attracted, the judges made reference to government officials who “sidestepped” and “ducked” the issue of how the policy to seize phones was applied\.’_
 
 
-[![](https://i.guim.co.uk/img/media/24efa20dfc9ea3fcdd3a0718a9fcfd5125f4d620/0_147_4928_2955/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a71e296bf45efbbab1f2b8415abf4fa)](https://www.theguardian.com/uk-news/2022/oct/14/asylum-seekers-claim-compensation-phones-seized-uk?CMP=Share_AndroidApp_Other&fbclid=IwAR3qsSC09bQYdFDuIKk4tDytlEKGrOJCHAQIQ86BUKeRS2pVbR5sK9wu2nE)
+[![](../assets/68537dea2b69/4928.jpg)](https://www.theguardian.com/uk-news/2022/oct/14/asylum-seekers-claim-compensation-phones-seized-uk?CMP=Share_AndroidApp_Other&fbclid=IwAR3qsSC09bQYdFDuIKk4tDytlEKGrOJCHAQIQ86BUKeRS2pVbR5sK9wu2nE)
 
 #### Elsewhere, the Home Office has withdrawn the Rwanda deportation letter issued to an Eritrean refugee who is 37 weeks pregnant
 
@@ -236,7 +236,7 @@ A summary of a recent ECHR report findings, spotlighting the de facto detention 
 
 
 
-[![](https://cdn2.opendemocracy.net/media/images/Episode_7.9fb8682e.fill-1200x630.jpg)](https://www.opendemocracy.net/en/podcasts/podcast-i-am-not-your-refugee/coffee-comedy-music/?fbclid=IwAR02OwuPFoXJqOZkTOr2F3QouyHTzqY5K26dXaeX0TVVpRgX818BQlxlzw8)
+[![](../assets/68537dea2b69/Episode_7.9fb8682e.fill-1200x630.jpg)](https://www.opendemocracy.net/en/podcasts/podcast-i-am-not-your-refugee/coffee-comedy-music/?fbclid=IwAR02OwuPFoXJqOZkTOr2F3QouyHTzqY5K26dXaeX0TVVpRgX818BQlxlzw8)
 
 - Guidance on **documenting international crimes**
 
@@ -252,7 +252,7 @@ In Episode 66 of [JusticeInfo\.net](https://www.justiceinfo.net/fr/) ’s _Asymm
 The Council of Europe and the ECHR are launching a platform for legal professionals and the wider public to share knowledge about ECHR case law on 18/10/22 at 14\.30 CEST\. Webcast [https://lnkd\.in/eb9biPVm](https://lnkd.in/eb9biPVm?fbclid=IwAR0nCnopZGhxQPmbe9lV_D_GmjBsFURvtsW-YNYcwDlnq6wP3GHtLY0ESFY)
 
 
-[![]()](https://vodmanager.coe.int/live/?appname=cedhpresse&image=assets/images/coe.jpg&langs=ori,en,fr)
+[![]()](../assets/68537dea2b69/live&langs=ori,en,fr)
 
 #### In Memory of Uli V\. Sanden
 

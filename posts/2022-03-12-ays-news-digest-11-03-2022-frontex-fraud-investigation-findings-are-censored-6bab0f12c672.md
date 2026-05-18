@@ -215,13 +215,13 @@ WORTH READING
 Brilliant piece by [Franziska Grillmeier](https://www.rosalux.de/profil/es_detail/2V2NVHW44C/franziska--grillmeier?cHash=80c734856e45603eb3d8f627bf25e9d8) — **A week ago I made my way from the island of Lesvos to Hungary\. On the way to the small airport in the port city of Mytilene, the thin coastal strip runs along it, where thousands of fleeing people from war regions around the world reached Europe in the years before\.**
 
 
-[![](https://www.rosalux.de/fileadmin/images/Ausland/Osteuropa/Kommentarukrainegrenze.png)](https://www.rosalux.de/news/id/46098?fbclid=IwAR0eZQc4l0mHhcL_5ZmorhVb9Rk6Pqn-S2HMVuokwnaswkkGQFHb9jtVyu4)
+[![](../assets/6bab0f12c672/Kommentarukrainegrenze.png)](https://www.rosalux.de/news/id/46098?fbclid=IwAR0eZQc4l0mHhcL_5ZmorhVb9Rk6Pqn-S2HMVuokwnaswkkGQFHb9jtVyu4)
 
 
 **At the border with Belarus, people who are trying to cross into Poland are still forced to wander in minus temperatures through thick woods, and to irregularly cross the border back to Belarus, if approached by Polish authorities\.**
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2021/10/Baranowska-scaled-e1635512886797-1024x1024.jpg)](https://verfassungsblog.de/a-tale-of-two-borders/?fbclid=IwAR1y8X6GmiH0kkqR9PyTESbDoqkmKMoV256hfo5YIewmWLXDCWBeQ8MRsS0)
+[![](../assets/6bab0f12c672/Baranowska-scaled-e1635512886797-1024x1024.jpg)](https://verfassungsblog.de/a-tale-of-two-borders/?fbclid=IwAR1y8X6GmiH0kkqR9PyTESbDoqkmKMoV256hfo5YIewmWLXDCWBeQ8MRsS0)
 
 
 **I am writing this text on the night of 7–8 March in Lviv\. This is the fourth year of my living in Lviv, and I met the war here\.**
@@ -245,13 +245,13 @@ Brilliant piece by [Franziska Grillmeier](https://www.rosalux.de/profil/es_detai
 **I’m an immigrant as well as a researcher, so I know well why the EU’s emergency response scheme isn’t as generous as it looks**
 
 
-[![](https://cdn2.opendemocracy.net/media/images/2HW25GW.7933a441.fill-1200x630.jpg)](https://www.opendemocracy.net/en/pandemic-border/ukraine-refugee-asylum-europe-temporary-protection/?fbclid=IwAR3QBdMq-6p9GmlN4mCYGkXoN-pG1lQ69Rlamv3vqx8_uKNd5td2WNxaYrI)
+[![](../assets/6bab0f12c672/2HW25GW.7933a441.fill-1200x630.jpg)](https://www.opendemocracy.net/en/pandemic-border/ukraine-refugee-asylum-europe-temporary-protection/?fbclid=IwAR3QBdMq-6p9GmlN4mCYGkXoN-pG1lQ69Rlamv3vqx8_uKNd5td2WNxaYrI)
 
 
 **Widespread anti\-racism protests have prompted long\-overdue conversations about mis\- and under\-representation of minorities as well as discrimination in the cultural scene\.**
 
 
-[![](https://www.migrationpolicy.org/sites/default/files/pub_images/pub_mpie-arts-culture-2022.jpg)](https://www.migrationpolicy.org/research/europe-migrants-minorities-arts-culture?fbclid=IwAR3M0ig9g2V1r6iihljoQvq3pLM3Gjl3q3iK5CzkOilCt1rUUpRzxwEolPM)
+[![](../assets/6bab0f12c672/pub_mpie-arts-culture-2022.jpg)](https://www.migrationpolicy.org/research/europe-migrants-minorities-arts-culture?fbclid=IwAR3M0ig9g2V1r6iihljoQvq3pLM3Gjl3q3iK5CzkOilCt1rUUpRzxwEolPM)
 
 
 **Balkan Route: Years of Pushbacks Condemned, Ombudsman Slams Commission Failure on Croatian Funding, Asylum Shortcomings in Serbia, Hungarian Border Violence\.**

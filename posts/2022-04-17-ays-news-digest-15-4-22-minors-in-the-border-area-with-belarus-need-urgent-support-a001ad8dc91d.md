@@ -198,7 +198,7 @@ Read [more](https://digit.site36.net/2022/04/14/frontex-migration-control-from-s
 
 
 
-[![](https://subvrt.org/content/images/2022/04/logo-82.png)](https://subvrt.org/miguel-duarte-highlights/?fbclid=IwAR32TQQi8oxD7n3X8Ls7qu31iCi-UOhoyDAbOxHEVAA_5UQ5AWTLJgA0c-0)
+[![](../assets/a001ad8dc91d/logo-82.png)](https://subvrt.org/miguel-duarte-highlights/?fbclid=IwAR32TQQi8oxD7n3X8Ls7qu31iCi-UOhoyDAbOxHEVAA_5UQ5AWTLJgA0c-0)
 
 - podcast with [Franziska Grillmeier](https://www.zeit.de/autoren/G/Franziska_Grillmeier/index?fbclid=IwAR1kt0MS80KfyvbzwqqBXSL6H52BkvUhO90bTms499VRtjUCYp5hKZh8BvU) on situation in Greece:
 

@@ -38,7 +38,7 @@ The main news of the morning of this publication is that Italy has assigned a sa
 At the same time, Claus\-Peter Reisch, **captain of the Eleonore** \(rescue ship of Mission Lifeline\), **is facing a fine of 300,000 Euros** for entering Italian ports without permission\. The ship entered the port of Pozallo in Sicily on September 2 after a heavy storm in a situation of emergency\. Reisch is also being prosecuted for “assistance to illegal immigration”\. A crowdfunding to help him cover legal fees can be found here:
 
 
-[![](https://res.cloudinary.com/leetchi/image/upload/c_fill,f_auto,fl_lossy,g_center,h_520,q_80,w_715/v1568130834/d8f68fb9-f764-409b-b91a-89741031b626.png)](https://www.leetchi.com/c/claus-peter-reisch?fbclid=IwAR0kpxeSNldjwCPD42P7vBuR3_MdcvGdeaQmUA2BUMIbNwC2Bmsq2MSLW8A)
+[![](../assets/ab42525c4783/d8f68fb9-f764-409b-b91a-89741031b626.png)](https://www.leetchi.com/c/claus-peter-reisch?fbclid=IwAR0kpxeSNldjwCPD42P7vBuR3_MdcvGdeaQmUA2BUMIbNwC2Bmsq2MSLW8A)
 
 
 In the latest development regarding Europe’s plan to accept responsibility and be in solidarity with other member states, Germany and France said they were each ready to welcome 25 percent of the people landing in Italy\. On September 23, a meeting of EU member states will be held on Malta in order to find a more permanent solution for an allocation scheme\. This is certainly step forward towards the “temporary mechanism” of redistribution of people who arrive this way, a project on which the European Commission is working and on which the Italian government is definitely counting, all the while blocking the European sea and soil from asylum seekers, thus denying their lawful rights\.
@@ -63,13 +63,13 @@ The mayor of a town just next to Karavomylos has already claimed that, as it is 
 Find an article in English here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3813a80ba1649f439e22e7d36655324ef84376ae.jpeg)](https://www.infomigrants.net/en/post/19498/greece-to-open-two-new-migrant-camps-amid-resistance?fbclid=IwAR0r9_PwQ6KmCDtSRn8kRR31PiFCqYYe-_6ag0l-yvnFepH08cPEgv1uvAg)
+[![](../assets/ab42525c4783/3813a80ba1649f439e22e7d36655324ef84376ae.jpeg)](https://www.infomigrants.net/en/post/19498/greece-to-open-two-new-migrant-camps-amid-resistance?fbclid=IwAR0r9_PwQ6KmCDtSRn8kRR31PiFCqYYe-_6ag0l-yvnFepH08cPEgv1uvAg)
 
 
 As already reported in the Digest of 7th and 8th September and following a statement by **MSF** , three children attempted suicide in the months of July and August in Moria and 17 injured themselves\. Find the press release of MSF here:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2019/09/msfchildren-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/13/msf-migrants-children-suicides/)
+[![](../assets/ab42525c4783/msfchildren-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/13/msf-migrants-children-suicides/)
 
 
 The **Greek Council for Refugees** is concerned about the fact that, while school started on Wednesday, September 11, m **any children are not able to attend school yet** \. Especially those in the reception centers on the islands and in hosting centers on the mainland are not able to go to school, as the transport is not yet available, a ministerial decision is lacking, and the process of vaccination that is necessary before school entrance has been suspended\.
@@ -116,7 +116,7 @@ Photo: **Medical Volunteers International**
 High temperatures and strong winds will cause a **very high risk of fire** for the coming days, the Greek Civil Protection warns\. The islands and parts of the mainland fall under the affected area\.
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2019/09/sept14fires-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/13/greece-fires-very-high-risk/)
+[![](../assets/ab42525c4783/sept14fires-660x330.jpg)](https://www.keeptalkinggreece.com/2019/09/13/greece-fires-very-high-risk/)
 
 
 **Do your Part** is in need of a volunteer for its Communitiy Center in Oinofyta from mid September to the end of November\.
@@ -132,7 +132,7 @@ In Spain in the past week 10 boats with about 200 people arrived\. As in 2018, t
 According to Italian media, **four persons are missing off the shore of Sicily\.** After three people from Tunisia were rescued by port authorities, they testified that the four persons threw themselves over board after a breakdown, trying to reach the coast clinging to empty bins\.
 
 
-[![](https://www.repstatic.it/content/nazionale/img/2019/09/13/073725850-3f9cc57f-1c62-4e3a-9b33-7f15438ff2cb.jpg)](https://www.repubblica.it/cronaca/2019/09/13/news/migranti_quattro_dispersi_in_mare_a_largo_marettimo-235872196/?ref=RHPPLF-BH-I235556120-C8-P11-S1.8-T2&fbclid=IwAR0s8UuurGZsUAWYQh_YZ9-fy8IM9-VAOPQl9L2wPcPpNgqx5aaKL-WM6hg)
+[![](../assets/ab42525c4783/073725850-3f9cc57f-1c62-4e3a-9b33-7f15438ff2cb.jpg)](https://www.repubblica.it/cronaca/2019/09/13/news/migranti_quattro_dispersi_in_mare_a_largo_marettimo-235872196/?ref=RHPPLF-BH-I235556120-C8-P11-S1.8-T2&fbclid=IwAR0s8UuurGZsUAWYQh_YZ9-fy8IM9-VAOPQl9L2wPcPpNgqx5aaKL-WM6hg)
 
 
 In the Alborán Sea, the Spanish **Salvamento Maritimo rescued 90 persons** in two operations yesterday\.

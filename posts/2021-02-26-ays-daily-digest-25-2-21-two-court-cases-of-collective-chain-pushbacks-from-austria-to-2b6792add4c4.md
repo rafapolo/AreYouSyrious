@@ -92,7 +92,7 @@ After a man was left without a lawyer for 10 months and was forced to represent 
 In another instance, the Home Office was found to have violated human rights of asylum seeker who was evicted during eighth attempt to reopen his case\. FreeMovement has the whole story:
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2020/09/facebook-link-image-3-min-1.jpeg)](https://www.freemovement.org.uk/eviction-of-failed-asylum-seeker-a-breach-of-human-rights/?utm_source=rss&utm_medium=rss&utm_campaign=eviction-of-failed-asylum-seeker-a-breach-of-human-rights&fbclid=IwAR0F6_LF-mCqePqhxwqX3AD9E4Qtvf_W7YhAwX4MHQBGy3jwlKjDx_WzbR8)
+[![](../assets/2b6792add4c4/facebook-link-image-3-min-1.jpeg)](https://www.freemovement.org.uk/eviction-of-failed-asylum-seeker-a-breach-of-human-rights/?utm_source=rss&utm_medium=rss&utm_campaign=eviction-of-failed-asylum-seeker-a-breach-of-human-rights&fbclid=IwAR0F6_LF-mCqePqhxwqX3AD9E4Qtvf_W7YhAwX4MHQBGy3jwlKjDx_WzbR8)
 
 
 An urgent inspection of asylum seeker accommodation in Derby is to take place after concerns were raised about conditions there\. 

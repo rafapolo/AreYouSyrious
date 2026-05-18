@@ -67,7 +67,7 @@ A boat with nine people on board was intercepted by Moroccan rescue units in the
 More about this in Spanish:
 
 
-[![](https://img.europapress.es/fotoweb/fotonoticia_20191018212419_1200.jpg)](https://www.europapress.es/andalucia/cadiz-00351/noticia-sucesos-rescatadas-nueve-personas-aguas-estrecho-detectada-nueva-patera-zona-20191018212419.html)
+[![](../assets/9b8db1051d0c/fotonoticia_20191018212419_1200.jpg)](https://www.europapress.es/andalucia/cadiz-00351/noticia-sucesos-rescatadas-nueve-personas-aguas-estrecho-detectada-nueva-patera-zona-20191018212419.html)
 
 
 The **Alan Kurdi** , the ship of the organisation Sea Eye, has started its seventh operation\. In charge is Captain Bärbel Beuse\.
@@ -107,7 +107,7 @@ The Minister of Citizens’ Protection explained on Thursday that **20,000 peopl
 Find an article by keeptalkinggreece:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2019/09/migrantsmoria2-660x330.jpg)](https://www.keeptalkinggreece.com/2019/10/18/greece-refugees-islands-relocation-mainland/)
+[![](../assets/9b8db1051d0c/migrantsmoria2-660x330.jpg)](https://www.keeptalkinggreece.com/2019/10/18/greece-refugees-islands-relocation-mainland/)
 
 
 **Lighthouse Relief’s Child Friendly Space** in Ritsona Camp \(mainland Greece\) is urgently in need of volunteers for the next few months to continue carrying out activities\.

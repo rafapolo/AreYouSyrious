@@ -166,7 +166,7 @@ An 18\-year\-old Syrian boy in a state of extreme exhaustion and hypothermia was
 
 
 
-[![](https://reliefweb.int/sites/default/files/styles/large/public/previews/82/7f/827f9ee3-ab37-32c4-9c53-867c47b08c07.png)](https://reliefweb.int/report/world/renewed-tragedy-rise-drowned-missing-migrants-asylum-seekers-toll-2021-enar?fbclid=IwAR2Y2_X0SsbEkPD_51MnJpDx1ZrSuQLUaNHvvMC84lGsoD6Tm3SKYb4Fvz0)
+[![](../assets/8eb20a3d82b4/827f9ee3-ab37-32c4-9c53-867c47b08c07.png)](https://reliefweb.int/report/world/renewed-tragedy-rise-drowned-missing-migrants-asylum-seekers-toll-2021-enar?fbclid=IwAR2Y2_X0SsbEkPD_51MnJpDx1ZrSuQLUaNHvvMC84lGsoD6Tm3SKYb4Fvz0)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

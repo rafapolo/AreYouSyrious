@@ -162,7 +162,7 @@ by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon?__cft__
 Here is an illustrated reminder of the fact the need to flee hardships has throughout recent history led people to board boats and go towards better places:
 
 
-[![](https://threadreaderapp.com/images/screenshots/thread/1293197739161980938.jpg)](https://threadreaderapp.com/thread/1293197739161980938.html?fbclid=IwAR1XkkjsiOCl556TYu5fEbfUTykMu9brs2DNeR9ziHJyCoYLcwevOQ5ZU9I)
+[![](../assets/985588c8bab/1293197739161980938.jpg)](https://threadreaderapp.com/thread/1293197739161980938.html?fbclid=IwAR1XkkjsiOCl556TYu5fEbfUTykMu9brs2DNeR9ziHJyCoYLcwevOQ5ZU9I)
 
 #### GENERAL
 
@@ -191,13 +191,13 @@ A researcher Thomas Lacroix [highlights](https://theconversation.com/migrants-pl
 
 
 
-[![](https://media.newyorker.com/photos/61a1951fed908c5c6975a216/16:9/w_1280,c_limit/r39473web_rd-social.gif)](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe?fbclid=IwAR3040D9ufsOou5d2IvIkWJSPazuLJWlZrpJ-vefUX_6JXDiVMMkUVK-Iio)
+[![](../assets/985588c8bab/r39473web_rd-social.gif)](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe?fbclid=IwAR3040D9ufsOou5d2IvIkWJSPazuLJWlZrpJ-vefUX_6JXDiVMMkUVK-Iio)
 
 - Living the reality of Denmark’s political decisions:
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/11/image-99.jpg?resize=1920%2C1080)](https://www.aljazeera.com/program/witness/2021/11/29/am-i-danish-ibrahim-vs-the-ghetto-laws?fbclid=IwAR3jOBAkf0b-Wtp8LmWvpkUCr5mV_ZNxpOcDHNJDFFXhKfbsVSXGDUVFvLk)
+[![](../assets/985588c8bab/image-99.jpg)](https://www.aljazeera.com/program/witness/2021/11/29/am-i-danish-ibrahim-vs-the-ghetto-laws?fbclid=IwAR3jOBAkf0b-Wtp8LmWvpkUCr5mV_ZNxpOcDHNJDFFXhKfbsVSXGDUVFvLk)
 
 - long read on the Taliban rule:
 
@@ -211,7 +211,7 @@ In connection to this, another take on the topic\- “While they blame the unfol
 
 
 
-[![](https://www.scotsman.com/webimg/b25lY21zOmI5YmU4MTkwLWY2NDctNGJkYS05ZjQzLWQ0M2ZlNzI0ZjEwODo1ZWIxZWVlNy0wOGM4LTQ4YmYtOWQxZC02MzE4N2YyM2I2NDM=.jpg?width=1200&enable=upscale)](https://www.scotsman.com/news/opinion/government-just-looks-heartless-and-out-of-ideas-as-migrants-keep-dying-christine-jardine-3473428?fbclid=IwAR3B9770x0hchTSycDZGDczq1iTYlF9jPq5JMOdBe-6ovACbKcOvEHqcOT8)
+[![](../assets/985588c8bab/b25lY21zOmI5YmU4MTkwLWY2NDctNGJkYS05ZjQzLWQ0M2ZlNzI0ZjEwODo1ZWIxZWVlNy0wOGM4LTQ4YmYtOWQxZC02MzE4N2YyM2I2NDM=.jpg)](https://www.scotsman.com/news/opinion/government-just-looks-heartless-and-out-of-ideas-as-migrants-keep-dying-christine-jardine-3473428?fbclid=IwAR3B9770x0hchTSycDZGDczq1iTYlF9jPq5JMOdBe-6ovACbKcOvEHqcOT8)
 
 - cause and effect in Bosnia and Herzegovina:
 

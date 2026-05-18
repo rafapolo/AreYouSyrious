@@ -254,19 +254,19 @@ Utopia 56 has created 10 proposals for political leaders to provide a more suppo
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/340f784acc84f1bca22f53a0c7bacf5e093e0114.jpg)](https://www.infomigrants.net/en/post/39667/canary-islands-more-migrants-risk-deadly-atlantic-route?fbclid=IwAR38RKZAPY3Z6rQVQQ0_dNLi-gj1W_zv2Fog2eZc7qf6uw8Z_UH0ELL2e0Q)
+[![](../assets/d09142e9bcdf/340f784acc84f1bca22f53a0c7bacf5e093e0114.jpg)](https://www.infomigrants.net/en/post/39667/canary-islands-more-migrants-risk-deadly-atlantic-route?fbclid=IwAR38RKZAPY3Z6rQVQQ0_dNLi-gj1W_zv2Fog2eZc7qf6uw8Z_UH0ELL2e0Q)
 
 - Los Angeles Times — ‘Flee’ didn’t win an Oscar, but its refugee story couldn’t be more timely
 
 
 
-[![](https://ca-times.brightspotcdn.com/dims4/default/fe6cefe/2147483647/strip/true/crop/3947x2072+0+143/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2Ffa%2Fb2b0b9684c079ab30ba1b2465d31%2Fla-photos-1staff-849657-en-flee-director-jonas-poher-rasmussen-jlc-1004-17019.JPG)](https://www.latimes.com/entertainment-arts/movies/story/2022-04-04/oscars-2022-flee-director-jonas-poher-rasmussen)
+[![](../assets/d09142e9bcdf/80)](https://www.latimes.com/entertainment-arts/movies/story/2022-04-04/oscars-2022-flee-director-jonas-poher-rasmussen)
 
 - The Guardian — ‘Homes for Ukraine’ is just a slogan — as I found out by trying to welcome a refugee
 
 
 
-[![](https://i.guim.co.uk/img/media/4389ce4c0f8dcc93adc0885149f306e5969ae4a0/0_334_8116_4873/master/8116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=427361eae65d1f00321ddc589c8be46f)](https://www.theguardian.com/commentisfree/2022/apr/05/homes-for-ukraine-refugee-britain-hosts)
+[![](../assets/d09142e9bcdf/8116.jpg)](https://www.theguardian.com/commentisfree/2022/apr/05/homes-for-ukraine-refugee-britain-hosts)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

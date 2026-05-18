@@ -219,7 +219,7 @@ With the spike in criminalization of human rights defenders, a database has been
 IRC reiterated that over 1 million people reliant on the Bab Al\-Hawa border crossing for humanitarian assistance risk losing life\-saving healthcare without UN Security Council reauthorization\. Find their report here:
 
 
-[![](https://www.rescue.org/sites/default/files/2022-08/og-image-logo-wide-us.png)](https://www.rescue.org/press-release/lifesaving-health-services-imminent-risk-northwest-syria-if-un-cross-border-aid-ends?edme=true&fbclid=IwAR06yds5C3-UrLoZ1LGCPesHpx6h343-3Zx0XE52HeWV2CLcwKuCwkF0KuE)
+[![](../assets/46b61b217bc0/og-image-logo-wide-us.png)](https://www.rescue.org/press-release/lifesaving-health-services-imminent-risk-northwest-syria-if-un-cross-border-aid-ends?edme=true&fbclid=IwAR06yds5C3-UrLoZ1LGCPesHpx6h343-3Zx0XE52HeWV2CLcwKuCwkF0KuE)
 
 #### WORTH READING
 - The European Court of Justice \(CJEU\) found Lithuanian legislation allowing mass detention and preventing asylum requests for irregular arrivals in violation of EU law\. Amnesty International reports on abusive practices by Lithuanian authorities\. A Polish court has declared pushbacks illegal as the no\-access border zone has been replaced with a 186 kilometer steel wall\.

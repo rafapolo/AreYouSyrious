@@ -256,7 +256,7 @@ A letter to hand in to the reporting centre @[EndHassockfield](https://twitter.c
 
 
 
-[![](https://openmigration.org/wp-content/uploads/2021/07/01-scaled.jpg)](https://openmigration.org/analisi/il-consiglio-europeo-ha-dedicato-alle-migrazioni-11-minuti/?fbclid=IwAR0mbaQ6ZE7oLbZbX4dBmQGbj0nVni1b7ymsIg73cokWBqtYGqWUdbKAyzU)
+[![](../assets/b8e0749604ad/01-scaled.jpg)](https://openmigration.org/analisi/il-consiglio-europeo-ha-dedicato-alle-migrazioni-11-minuti/?fbclid=IwAR0mbaQ6ZE7oLbZbX4dBmQGbj0nVni1b7ymsIg73cokWBqtYGqWUdbKAyzU)
 
 - The unending migrant crisis and mounting death toll in European waters presents the continent with its greatest test… one it is failing badly:
 

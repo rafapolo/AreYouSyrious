@@ -322,7 +322,7 @@ This “IPA\-project” will train migration authorities outside the EU to “co
 ### WORTH READING
 
 
-[![](https://i.guim.co.uk/img/media/8d097da90592d2a35bf717feaecdbdd37d2ac7ea/0_47_7674_4604/master/7674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjEucG5n&enable=upscale&s=490b6876a5c557b47971cd684793af07)](https://www.theguardian.com/commentisfree/2021/aug/04/migrant-detention-centre-dover-holding-facility-channel?fbclid=IwAR3Xos7ZZCTvVbnpuqvP2hTNEJTD_zWHpxzEBQhAw4-NZx6LUynbZkDqniA)
+[![](../assets/881ff264871f/7674.jpg)](https://www.theguardian.com/commentisfree/2021/aug/04/migrant-detention-centre-dover-holding-facility-channel?fbclid=IwAR3Xos7ZZCTvVbnpuqvP2hTNEJTD_zWHpxzEBQhAw4-NZx6LUynbZkDqniA)
 
 
 Diane Abbott, a member of the UK Parliament for the Labour Party, wrote about visiting the detention centre in Dover\. “The facility was terrible\. There were 56 people crammed into a small room, including women, young children and babies\. They were sitting or lying on thin mattresses which covered the entire floor, including the aisles between a small number of seats\. At night they would sleep on these same mattresses,” she writes\.
@@ -334,19 +334,19 @@ Diane Abbott, a member of the UK Parliament for the Labour Party, wrote about vi
 “A new influx of Afghan refugees is now threatening Turkey’s fragile social, economic and cultural order\[…\]In this context, will fear and the new Afghan influx prompt the EU to consider renewing the refugee agreement it signed with Turkey in 2016?”
 
 
-[![](https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/08/03/GettyImages-1230853499-scaled.jpg)](https://www.politico.eu/article/inside-immigrant-detention-centers-coronavirus-times-covid-19-europe/?fbclid=IwAR1kXz2cRoiu-XejPQopLn8xiRvWkqYT4NNCyT1YrGYiZwBx6-13SaPT4zE)
+[![](../assets/881ff264871f/GettyImages-1230853499-scaled.jpg)](https://www.politico.eu/article/inside-immigrant-detention-centers-coronavirus-times-covid-19-europe/?fbclid=IwAR1kXz2cRoiu-XejPQopLn8xiRvWkqYT4NNCyT1YrGYiZwBx6-13SaPT4zE)
 
 
 A solid piece in Politico about how the coronavirus pandemic and the ensuing lockdowns have disproportionately affected people on the move living in immigrant detention centers\.
 
 
-[![](https://english.ahram.org.eg/Media/News/2021/8/3/2021-637636220526215400-621.jpg)](https://english.ahram.org.eg/NewsContent/50/1203/418328/AlAhram-Weekly/World/Of-Iraqi-refugees-and-Europe.aspx?fbclid=IwAR3s95V9qKF47jNFtB74UOaZNFw2RwdKnxWifnsOrLZZ5HggcnTESY-tTsE)
+[![](../assets/881ff264871f/2021-637636220526215400-621.jpg)](https://english.ahram.org.eg/NewsContent/50/1203/418328/AlAhram-Weekly/World/Of-Iraqi-refugees-and-Europe.aspx?fbclid=IwAR3s95V9qKF47jNFtB74UOaZNFw2RwdKnxWifnsOrLZZ5HggcnTESY-tTsE)
 
 
 On Iraqi refugees arriving in Europe: “If the EU wants to stem a new refugee crisis, it should address the core issue of state failure in Iraq, which often appears to be out of reach of current EU diplomatic initiatives and political dynamics\.”
 
 
-[![](https://www.repstatic.it/video/photo/2021/08/03/785063/785063-thumb-full-720-keita_orizzontale_subtitle.jpg)](https://video.repubblica.it/mondo-solidale/da-rifugiato-a-fotografo-ora-insegno-ai-bambini-in-mali-quello-che-ho-imparato-in-italia/393237/393948?fbclid=IwAR12elccqXoAo_sx_GOpUZWALbhwLQ2Wk4-3Jr27LI2QxkpSGvv2bqXKKuw)
+[![](../assets/881ff264871f/785063-thumb-full-720-keita_orizzontale_subtitle.jpg)](https://video.repubblica.it/mondo-solidale/da-rifugiato-a-fotografo-ora-insegno-ai-bambini-in-mali-quello-che-ho-imparato-in-italia/393237/393948?fbclid=IwAR12elccqXoAo_sx_GOpUZWALbhwLQ2Wk4-3Jr27LI2QxkpSGvv2bqXKKuw)
 
 
 From refugee to photographer: “Now I teach children in Mali what I learned in Italy\.”

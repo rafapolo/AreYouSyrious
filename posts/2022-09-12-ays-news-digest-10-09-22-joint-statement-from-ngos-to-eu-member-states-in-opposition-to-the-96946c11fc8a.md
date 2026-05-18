@@ -195,7 +195,7 @@ Also worth reading:
 
 
 
-[![](https://cdn.prod.www.spiegel.de/images/823bcab0-2abd-4c0a-9481-21ffc06b2086_w1280_r1.77_fpx71_fpy45.jpg)](https://www.spiegel.de/international/europe/border-lawlessness-greece-s-slide-toward-authoritarianism-a-57099e2b-b855-4eea-a14a-477b075107b9?fbclid=IwAR2mKOl6ayNSqkt1SUiSsDasRKm7FCR4ck68iRtSNKwTSJw8eaEDpjQhie4)
+[![](../assets/96946c11fc8a/823bcab0-2abd-4c0a-9481-21ffc06b2086_w1280_r1.77_fpx71_fpy45.jpg)](https://www.spiegel.de/international/europe/border-lawlessness-greece-s-slide-toward-authoritarianism-a-57099e2b-b855-4eea-a14a-477b075107b9?fbclid=IwAR2mKOl6ayNSqkt1SUiSsDasRKm7FCR4ck68iRtSNKwTSJw8eaEDpjQhie4)
 
 #### Data safeguards required under EU law absent from Asylum Surveillance Systems recently launched in Greece
 
@@ -318,13 +318,13 @@ _“This blogpost shows that Frontex is playing an increasingly important role i
 Read her piece in detail:
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2022/08/sarah-tas.jpg)](https://verfassungsblog.de/frontex-and-data-protection/?fbclid=IwAR2mKOl6ayNSqkt1SUiSsDasRKm7FCR4ck68iRtSNKwTSJw8eaEDpjQhie4)
+[![](../assets/96946c11fc8a/sarah-tas.jpg)](https://verfassungsblog.de/frontex-and-data-protection/?fbclid=IwAR2mKOl6ayNSqkt1SUiSsDasRKm7FCR4ck68iRtSNKwTSJw8eaEDpjQhie4)
 
 
 And another piece on \(lack of\) public access to documents:
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2022/09/Laura-Salzano.jpeg)](https://verfassungsblog.de/the-secretiveness-over-the-olaf-report-on-frontex-investigations/?fbclid=IwAR2NXtuWXHMonsKuTLvaSXdRni5_Q-7vfVJem_Qpj7cDYQQuIstXLCaUWXg)
+[![](../assets/96946c11fc8a/Laura-Salzano.jpeg)](https://verfassungsblog.de/the-secretiveness-over-the-olaf-report-on-frontex-investigations/?fbclid=IwAR2NXtuWXHMonsKuTLvaSXdRni5_Q-7vfVJem_Qpj7cDYQQuIstXLCaUWXg)
 
 #### Vincent Cochetel \(UN special envoy\) apologises for blaming the mothers of the disappeared in Tunisia for the disappearance of their children
 

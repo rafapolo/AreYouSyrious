@@ -179,7 +179,7 @@ In an incredible [show of cynicism](https://thecivilfleet.wordpress.com/2022/01/
 
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2022/01/138950823_849054932550750_3847929738324263681_n.jpg)](https://balkaninsight.com/2022/01/28/in-croatia-solidarity-stands-up-to-a-toxic-minority/?fbclid=IwAR3NJHSQMJFblXDwoLI99esamS8DJEybdRnzI1RH5JRWhrwfCH3bdRswUEw)
+[![](../assets/31da275ab953/138950823_849054932550750_3847929738324263681_n.jpg)](https://balkaninsight.com/2022/01/28/in-croatia-solidarity-stands-up-to-a-toxic-minority/?fbclid=IwAR3NJHSQMJFblXDwoLI99esamS8DJEybdRnzI1RH5JRWhrwfCH3bdRswUEw)
 
 - ECRE report on the Balkan route :
 

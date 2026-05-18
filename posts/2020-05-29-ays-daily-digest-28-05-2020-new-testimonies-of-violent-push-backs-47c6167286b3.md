@@ -63,21 +63,21 @@ Criticism on the way the Greek government is handling the corona pandemic in reg
 The newspaper Kathimerini got insight into a confidential report by an international organisation that critically addresses several issues\. The main point are financial mismanagement when creating a new facility for refugees in Malasaka, the creation of a parallel system of unspecialised civil servants instead of competent administrative structures, heralding unrealistic measure like mass transfers of migrants to the mainland and the closure of reception facilities, not to have a plan for thousands of people who are facing homelessness because they will have to leave their accommodations soon, and the ministry’s falsely presentation of a positive picture of the whole situation\.
 
 
-[![](https://www.ekathimerini.com/wp-content/uploads/2020/05/gkat_03_2705_page_1_image_0002-thumb-large.jpg)](https://www.ekathimerini.com/253125/article/ekathimerini/news/confidential-report-shows-mismanagement-in-response-to-migration?fbclid=IwAR3gjahYY2x8yyoDgwpkWRxIGFbgE8QzGm4atveQWvGncYfnRU3FKN9S0So)
+[![](../assets/47c6167286b3/gkat_03_2705_page_1_image_0002-thumb-large.jpg)](https://www.ekathimerini.com/253125/article/ekathimerini/news/confidential-report-shows-mismanagement-in-response-to-migration?fbclid=IwAR3gjahYY2x8yyoDgwpkWRxIGFbgE8QzGm4atveQWvGncYfnRU3FKN9S0So)
 
 
 Just some weeks ago, the Migration Minister Mitarakis has been heavily criticised for setting up a black fund to finance projects on behalf of the Ministry for Migration\. The documentation of the fund will be destroyed every six months\. Only payments of more than 25\.000 € will be submitted to a special committee of the Greek parliament\. Some analysts fear that with the money from this fund, the Migration Ministry will try to pay off opponents of its policies, for example when it comes to the construction of new facilities to host refugees\. 
 For more information on this black fund, see:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/05/h_55929266-e1589271665522.jpg)](https://balkaninsight.com/2020/05/13/transparency-concerns-in-greece-over-migration-ministry-black-fund/?fbclid=IwAR2h6NjWdtv5BxuX-a-H9HFmy8_mskLvdV1JzzHtxR2SdAvXx0Q5t4hvRSs)
+[![](../assets/47c6167286b3/h_55929266-e1589271665522.jpg)](https://balkaninsight.com/2020/05/13/transparency-concerns-in-greece-over-migration-ministry-black-fund/?fbclid=IwAR2h6NjWdtv5BxuX-a-H9HFmy8_mskLvdV1JzzHtxR2SdAvXx0Q5t4hvRSs)
 
 
 This and various other measures that have been taken in the last weeks seem to undermine parliamentarian control over the government’s action\. At the moment, only few new laws are legislated, while most of the government’s work is done through ministerial decisions and legislative decrees\. 
 For more information on the lack of transparency in the Greek government’s current actions:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/04/h_56017705-e1587998838546.jpg)](https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-oversight/?fbclid=IwAR2Y6Agl83Rz8TKuk-nk6dK1_7nUxvxytE9Bpfix7Uy4oobC2CpM8B6nJmE)
+[![](../assets/47c6167286b3/h_56017705-e1587998838546.jpg)](https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-oversight/?fbclid=IwAR2Y6Agl83Rz8TKuk-nk6dK1_7nUxvxytE9Bpfix7Uy4oobC2CpM8B6nJmE)
 
 
 
@@ -107,7 +107,7 @@ No Border Kitchen Lesvos states in their post:
 For more information also see:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2020/02/refugeescamp-660x330.jpg)](https://www.keeptalkinggreece.com/2020/05/28/greece-11000-recognized-refugees-asylumseekers-eviction)
+[![](../assets/47c6167286b3/refugeescamp-660x330.jpg)](https://www.keeptalkinggreece.com/2020/05/28/greece-11000-recognized-refugees-asylumseekers-eviction)
 
 
 The Moria Corona Awareness Team published an apology on their Facebook account\. In an interview with a Norwegian Newspaper, one person has been citied with talking about the “Greek side of Lesvos Island”, when referring to the outside of Moria camp\. This prompted sharp criticism, as some people apparently read from this that the MCAT regards Moria as “their” non\-Greek side of Lesvos\. 
@@ -146,7 +146,7 @@ New details emerge about an incident of humiliating and violent actions against 
 For the full article see here:
 
 
-[![](https://i.guim.co.uk/img/media/1702f9dbe1446b21c74729c30eab4bfa5273e9e8/0_269_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=55a99ba6136e0d83059c597a2014e8e8)](https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police?fbclid=IwAR2zv4TKIeJmH0UCvrME43aB2kZMCNoEkYIg5V1EVYBc7NLQeoykjI_0YSA)
+[![](../assets/47c6167286b3/1200.jpg)](https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police?fbclid=IwAR2zv4TKIeJmH0UCvrME43aB2kZMCNoEkYIg5V1EVYBc7NLQeoykjI_0YSA)
 
 ### AFGHANISTAN
 
@@ -159,7 +159,7 @@ Nevertheless, yesterday over 200 people were intercepted in the Mediterranean wh
 For more information on what happens to people who are intercepted and brought back to Libya, see here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/4dfb8072f2b55408a8e189c31f6fd3fefff04240.jpeg)](https://www.infomigrants.net/en/post/25040/98-migrants-returned-to-libya-after-being-rescued-by-commerical-ship?fbclid=IwAR37y-5HvGilAYXAsTC9meyKuRnQT7pneN4uNXPzuRPEtmOAFJXPzJ3Hh_0)
+[![](../assets/47c6167286b3/4dfb8072f2b55408a8e189c31f6fd3fefff04240.jpeg)](https://www.infomigrants.net/en/post/25040/98-migrants-returned-to-libya-after-being-rescued-by-commerical-ship?fbclid=IwAR37y-5HvGilAYXAsTC9meyKuRnQT7pneN4uNXPzuRPEtmOAFJXPzJ3Hh_0)
 
 
 The Mixed Migration Center published a report on the impact of Covid\-19 on the Mobility of refugees and migrants in Libya\. See [here](http://www.mixedmigration.org/resource/4mi-snapshot-the-impact-of-covid-19-on-the-mobility-of-refugees-and-migrants-in-libya/?fbclid=IwAR1fw-k8F_nX3tuY-CuPucalWlMX6HEMxCoizUi_Q1n9cXUCL6XfwSBrn4Q) \.
@@ -188,7 +188,7 @@ Maltese government apparently has chartered a forth tourist boat to hold people 
 For more information, see:
 
 
-[![](https://cdn-attachments.timesofmalta.com/b2a1d68c14c3da12d1d244792fa46513fa53d19f-1590658156-5ecf846c-1200x630.jpg)](https://timesofmalta.com/articles/view/malta-commissions-fourth-tourist-boat-as-425-migrants-held-offshore.794873?fbclid=IwAR32Wk7jfPOAkiu3LTZ3QVuBT37Ip-pr2HYlQR68Dxc2Tk0vAGyDuiVUonA)
+[![](../assets/47c6167286b3/b2a1d68c14c3da12d1d244792fa46513fa53d19f-1590658156-5ecf846c-1200x630.jpg)](https://timesofmalta.com/articles/view/malta-commissions-fourth-tourist-boat-as-425-migrants-held-offshore.794873?fbclid=IwAR32Wk7jfPOAkiu3LTZ3QVuBT37Ip-pr2HYlQR68Dxc2Tk0vAGyDuiVUonA)
 
 ### NETHERLANDS
 
@@ -199,7 +199,7 @@ Following the decrease of arrivals in the UK, also the number of filed asylum cl
 For more information, see here:
 
 
-[![](https://i.guim.co.uk/img/media/0601b72d57cbc06d3696ffbe2f3154e06bbcbafc/0_231_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=b3a17e8368fa028cfbcba4b0ccf41697)](https://www.theguardian.com/uk-news/2020/may/28/uk-asylum-applications-fall-sharply-during-lockdown?fbclid=IwAR1Lm8T38SHrG-DnUhl72ewB0F-VDywf6xjqH5JZFLU-VTMNpYNIsJDPokk#maincontent)
+[![](../assets/47c6167286b3/3500.jpg)](https://www.theguardian.com/uk-news/2020/may/28/uk-asylum-applications-fall-sharply-during-lockdown?fbclid=IwAR1Lm8T38SHrG-DnUhl72ewB0F-VDywf6xjqH5JZFLU-VTMNpYNIsJDPokk#maincontent)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

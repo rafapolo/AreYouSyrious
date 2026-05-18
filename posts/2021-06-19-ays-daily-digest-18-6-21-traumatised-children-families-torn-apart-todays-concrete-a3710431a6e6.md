@@ -39,7 +39,7 @@ But, from Josoor’s [Sleepless Mind series](https://www.josoor.net/post/the-rea
 Read the testimonies of people on board the MSF\-chartered search and rescue vessel Geo Barents:
 
 
-[![](https://media.msf.org/AssetLink/2aj24l53aq1atbo0pf881850olap8702.jpg)](https://www.msf.org/witnessing-harrowing-crossings-onboard-geo-barents?fbclid=IwAR0TtdP2op9wgBNGiueBL_HmdZSizN9QNX30SSG6OaIvITMZjhIanchYAeY)
+[![](../assets/a3710431a6e6/2aj24l53aq1atbo0pf881850olap8702.jpg)](https://www.msf.org/witnessing-harrowing-crossings-onboard-geo-barents?fbclid=IwAR0TtdP2op9wgBNGiueBL_HmdZSizN9QNX30SSG6OaIvITMZjhIanchYAeY)
 
 #### GREECE
 ### Living proofs of pushbacks and the fight to ask for protection
@@ -55,7 +55,7 @@ It is rare for pushback cases to involve people managing to stay behind\. This t
 
 
 
-[![](https://racistcrimeswatch.files.wordpress.com/2021/06/shutterstock_1090230443_807349237a62c113cb6ba73378f90d7e.jpg)](https://racistcrimeswatch.wordpress.com/2021/06/18/1-1202/?fbclid=IwAR011FtiwsJxEMC7IGKQXgS941B1Dr_OtB2PXnzoZ467JIEz50badgLYtRc)
+[![](../assets/a3710431a6e6/shutterstock_1090230443_807349237a62c113cb6ba73378f90d7e.jpg)](https://racistcrimeswatch.wordpress.com/2021/06/18/1-1202/?fbclid=IwAR011FtiwsJxEMC7IGKQXgS941B1Dr_OtB2PXnzoZ467JIEz50badgLYtRc)
 
 
 At the same time, others are going through a new low in the way they are treated while applying for asylum\. [HIASGreece](https://twitter.com/HIASGreece) reported that a group of approximately 20 asylum seekers who arrived on Lesvos on Wednesday were placed in quarantine for just one day and then hastily taken to the Asylum Service to register their asylum application, where they were questioned not about their case and reasons for leaving their home country, but about Turkey as a safe country\. Reportedly, they were not given any possibility to access information and legal advice or prepare for their interview\.
@@ -244,7 +244,7 @@ Some of the most important facts:
 
 
 
-[![](https://rsaegean.org/wp-content/uploads/2021/06/202106-rsa-cover.png)](https://rsaegean.org/en/europe-turns-greece-into-a-laboratory-of-anti-refugee-policies/?fbclid=IwAR2MzMD72q8hemem9NAy2D5K3D5HUaBS5o5C6tcOBkqrOw6Be8x6_ulrPgQ)
+[![](../assets/a3710431a6e6/202106-rsa-cover.png)](https://rsaegean.org/en/europe-turns-greece-into-a-laboratory-of-anti-refugee-policies/?fbclid=IwAR2MzMD72q8hemem9NAy2D5K3D5HUaBS5o5C6tcOBkqrOw6Be8x6_ulrPgQ)
 
 - Domestic workers in Senegal enjoyed extensive legal protections long before the passage of the International Labour Organization Convention 189\. But the gap between the laws as they exist on paper and how they are applied in practice remains wide, to say the least:
 

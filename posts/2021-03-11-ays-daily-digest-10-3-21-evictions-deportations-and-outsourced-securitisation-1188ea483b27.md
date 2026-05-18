@@ -213,7 +213,7 @@ As a result of such a decision, the country has recently stripped
 
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2021/03/h_55327654-1-e1614785359506.jpg)](https://balkaninsight.com/2021/03/10/growing-alarm-over-threats-to-media-freedoms-in-greece?fbclid=IwAR28vvydN-Xre_RqzjSJMsnqYL5f5Um21qKDCaq3eLCyl1UQm7rDZU3UXGE)
+[![](../assets/1188ea483b27/h_55327654-1-e1614785359506.jpg)](https://balkaninsight.com/2021/03/10/growing-alarm-over-threats-to-media-freedoms-in-greece?fbclid=IwAR28vvydN-Xre_RqzjSJMsnqYL5f5Um21qKDCaq3eLCyl1UQm7rDZU3UXGE)
 
 
 Along with this, it is good to be reminded of some of the images that are hard to watch, coming with first\-hand information about the reality \(updated before this News Digest was published\):

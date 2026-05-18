@@ -162,7 +162,7 @@ Khora Community Kitchen invites anyone interested in getting involved to their o
 Since the beginning of the year, of a total of 14,000 illegal crossings were identified by the Slovenian authorities, more than 9,000 people have been expelled to Croatia, while 4,000 others have lodged asylum applications\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/97cd00543b0dfb0ad16384f6ce6925781da8e63c.jpeg)](https://www.infomigrants.net/en/post/20945/vic-the-asylum-seeker-center-in-slovenia-where-almost-no-one-is-left-2-3?fbclid=IwAR04JLYH7tEZP6ZAEiSycK9rr3qNR1Utuzv1r92Xh_bvxxeiBRmzvPO7XbI)
+[![](../assets/d2a60f4a6cd1/97cd00543b0dfb0ad16384f6ce6925781da8e63c.jpeg)](https://www.infomigrants.net/en/post/20945/vic-the-asylum-seeker-center-in-slovenia-where-almost-no-one-is-left-2-3?fbclid=IwAR04JLYH7tEZP6ZAEiSycK9rr3qNR1Utuzv1r92Xh_bvxxeiBRmzvPO7XbI)
 
 
 The Vič reception centre is the only and central centre for asylum seekers in the country\. It has two annexes: one in the Kotnikova neighborhood of the capital, which can accommodate 90 people \(mainly single men\) and one in Logatec, 30 minutes from Ljubljana, which can accommodate 100 people \(mainly families and single women\) \.

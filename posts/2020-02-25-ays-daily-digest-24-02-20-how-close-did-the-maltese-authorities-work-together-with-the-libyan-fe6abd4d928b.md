@@ -123,7 +123,7 @@ Tension rose tonight on Lesvos and Chios when the arrival of a ferry with riot p
 Find more information here:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2020/02/lesvosMAt5-660x330.jpg)](https://www.keeptalkinggreece.com/2020/02/25/lesvos-chios-riot-police-locals-block/)
+[![](../assets/fe6abd4d928b/lesvosMAt5-660x330.jpg)](https://www.keeptalkinggreece.com/2020/02/25/lesvos-chios-riot-police-locals-block/)
 
 #### BOSNIA AND HERZEGOVINA
 

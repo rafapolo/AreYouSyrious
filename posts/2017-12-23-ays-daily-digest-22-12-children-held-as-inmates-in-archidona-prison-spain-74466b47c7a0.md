@@ -343,7 +343,7 @@ A petition has been made for the immediate release of S\.H\.A, an 18\-year\-old 
 
 
 
-[![](https://assets.change.org/photos/7/xy/qf/yLXYQfOBlphyMjH-1600x900-noPad.jpg?1513541996)](https://www.change.org/p/mark-harbers-state-secretary-for-immigration-and-asylum-affairs-give-s-h-a-asylum-detained-on-the-verge-of-deportation-to-afghanistan)
+[![](../assets/74466b47c7a0/yLXYQfOBlphyMjH-1600x900-noPad.jpg)](https://www.change.org/p/mark-harbers-state-secretary-for-immigration-and-asylum-affairs-give-s-h-a-asylum-detained-on-the-verge-of-deportation-to-afghanistan)
 
 ### **France:**
 

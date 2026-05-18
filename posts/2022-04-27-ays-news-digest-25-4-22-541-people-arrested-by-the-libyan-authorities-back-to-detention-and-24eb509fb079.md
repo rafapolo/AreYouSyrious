@@ -59,7 +59,7 @@ Sea\-Watch crew memb reports first\-hand the rescue of people drowning in the Me
 
 
 
-[![](https://thecivilfleet.files.wordpress.com/2022/04/fq9t6bhx0amaplf.jpg)](https://thecivilfleet.wordpress.com/2022/04/24/i-knew-we-wouldnt-be-able-to-save-them-all/?fbclid=IwAR362r4PST-rNGp4a8a3wCWwvaVpPMJcJwiXKXbAZsmJpT6WXMk0RZlsWIU)
+[![](../assets/24eb509fb079/fq9t6bhx0amaplf.jpg)](https://thecivilfleet.wordpress.com/2022/04/24/i-knew-we-wouldnt-be-able-to-save-them-all/?fbclid=IwAR362r4PST-rNGp4a8a3wCWwvaVpPMJcJwiXKXbAZsmJpT6WXMk0RZlsWIU)
 
 ### **On the Ionian side**
 

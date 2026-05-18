@@ -203,7 +203,7 @@ Still, the overall situation is not changing\. Numerous reports of people being 
 People are reporting drownings in the border area rivers Korana and possible drownings in Mrežnica, but nobody officially reports on these deaths, so in order to help those in search of their loved ones, each time, the chain of \(mis\)information is a long and dreadful process\. We are aware that the morgue in Croatian capital recently had up to a dozen unidentified bodies, possibly of people in transit\. However, with no one reaching out in order to find their relatives, organisations who are willing to help, or even to report such deaths, are unable to\.
 
 
-[![](https://transbalkanskasolidarnosthome.files.wordpress.com/2020/06/ruza.jpg?w=1200)](https://transbalkanskasolidarnost.home.blog/nepodnosljiva-lakoca-kriminalizacije-solidarnosti/?fbclid=IwAR2xmKOPTaKWybnPBLB3-uQVjZUcus6_xSyX923i6wouuFHgLzcOU26E3lo)
+[![](../assets/a24cc60cbff0/ruza.jpg)](https://transbalkanskasolidarnost.home.blog/nepodnosljiva-lakoca-kriminalizacije-solidarnosti/?fbclid=IwAR2xmKOPTaKWybnPBLB3-uQVjZUcus6_xSyX923i6wouuFHgLzcOU26E3lo)
 
 #### SLOVENIA
 

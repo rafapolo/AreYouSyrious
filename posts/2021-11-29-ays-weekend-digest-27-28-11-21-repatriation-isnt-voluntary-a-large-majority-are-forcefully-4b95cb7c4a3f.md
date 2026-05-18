@@ -69,7 +69,7 @@ Organised movements, groups, initiatives and people in general have multiple tim
 RSA reminds of one such example:
 
 
-[![](https://rsaegean.org/wp-content/uploads/2020/12/rsa-cover-pikpa.png)](https://rsaegean.org/en/forcible-evacuation-of-pikpa-in-contempt-of-strasbourg-proceedings-the-timeline/)
+[![](../assets/4b95cb7c4a3f/rsa-cover-pikpa.png)](https://rsaegean.org/en/forcible-evacuation-of-pikpa-in-contempt-of-strasbourg-proceedings-the-timeline/)
 
 
 During the opening of the new facilities on the islands of Kos and Leros, many bizarre things have been said, central among them being the statement of the Vice\-President of the European Commission that “these structures reflect our values and European ways of life\.”
@@ -221,7 +221,7 @@ Read more in a story by Martin Lemberg\-Pedersen, Zachary Whyte and Ahlam Chemla
 
 
 
-[![](https://i.guim.co.uk/img/media/2a6d70f4d2fa1153847fa72f941ce1209fe2c05e/0_294_6144_3686/master/6144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=54ec176c0874ba71eff709f86afd3f6e)](https://www.theguardian.com/world/2021/nov/27/inside-dunkirks-desperate-refugee-camps-they-take-risks-because-they-feel-they-have-no-choice?fbclid=IwAR16Kg2MtBz2kIwXLGklT251OMSPMMEjeXC_89xRGBzCcTQeQcxoMNO6Gfo)
+[![](../assets/4b95cb7c4a3f/6144.jpg)](https://www.theguardian.com/world/2021/nov/27/inside-dunkirks-desperate-refugee-camps-they-take-risks-because-they-feel-they-have-no-choice?fbclid=IwAR16Kg2MtBz2kIwXLGklT251OMSPMMEjeXC_89xRGBzCcTQeQcxoMNO6Gfo)
 
 - “ _Since 2017, aerial surveillance has become central to EU attempts to identify, deter and return intercepted migrants to Libya\. As a result, struggles between the EU and civil society rescue actors have also shifted from the seas to the skies\.”_
 

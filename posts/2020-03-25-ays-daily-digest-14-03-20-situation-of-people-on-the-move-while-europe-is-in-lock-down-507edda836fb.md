@@ -98,7 +98,7 @@ In the village of Lipa some 30 kilometres away from Bihac, a tent settlement is 
 Read more about it in English here:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/03/h_55703202-e1585042548549.jpg)](https://balkaninsight.com/2020/03/24/bosnian-serbs-oppose-building-of-new-migrant-camp/?fbclid=IwAR0pPbpSFBsZE7DgZHYWpWWcctYQVW9TgsdpFp3yOeNd9uVsme-0mJlAuQQ)
+[![](../assets/507edda836fb/h_55703202-e1585042548549.jpg)](https://balkaninsight.com/2020/03/24/bosnian-serbs-oppose-building-of-new-migrant-camp/?fbclid=IwAR0pPbpSFBsZE7DgZHYWpWWcctYQVW9TgsdpFp3yOeNd9uVsme-0mJlAuQQ)
 
 
 In Bosnia and Herzegovina the situation for people on the move is worsened by winter weather with snowfall and temperatures below zero\. In this situation, thousands of them are without a roof above their head which makes them obviously even more vulnerable to infection due to an already stressed immune system\.

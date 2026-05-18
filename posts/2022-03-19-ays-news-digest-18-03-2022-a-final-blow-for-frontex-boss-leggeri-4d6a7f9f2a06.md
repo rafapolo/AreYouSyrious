@@ -188,19 +188,19 @@ The Mediterranean [continues to be a fast\-growing cemetery](https://gds.it/foto
 
 
 
-[![](https://i.guim.co.uk/img/media/b9ac9a698fa46cf6bc03c52bb98a3c5617371e52/0_93_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=09e499cee453b4175525ebe1416e1b7a)](https://www.theguardian.com/commentisfree/2022/mar/19/response-ukraine-laudable-british-afghan-jealous-kabul-crisis)
+[![](../assets/4d6a7f9f2a06/5000.jpg)](https://www.theguardian.com/commentisfree/2022/mar/19/response-ukraine-laudable-british-afghan-jealous-kabul-crisis)
 
 - **Two refugees, both on Poland’s border\. But worlds apart\.**
 
 
 
-[![](https://static01.nyt.com/images/2022/03/14/world/14europe-refugees1/14europe-refugees1-facebookJumbo.jpg)](https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html)
+[![](../assets/4d6a7f9f2a06/14europe-refugees1-facebookJumbo.jpg)](https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html)
 
 - A dispatch from Ukraine’s Mariupol, from the last international journalists present in the city:
 
 
 
-[![](https://storage.googleapis.com/afs-prod/media/51030d9888f3411e9f702ee4029d5288/3000.jpeg)](https://apnews.com/article/russia-ukraine-war-mariupol-descends-into-despair-708cb8f4a171ce3f1c1b0b8d090e38e3)
+[![](../assets/4d6a7f9f2a06/3000.jpeg)](https://apnews.com/article/russia-ukraine-war-mariupol-descends-into-despair-708cb8f4a171ce3f1c1b0b8d090e38e3)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

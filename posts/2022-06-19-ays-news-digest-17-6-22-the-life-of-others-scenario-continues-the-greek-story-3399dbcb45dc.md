@@ -42,7 +42,7 @@ This report is based on interviews with 26 Afghans, 23 of whom who were pushed b
 Read more on what our colleagues from Josoor and MIT had to say:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/06/AP20060572700634.jpg?resize=1920%2C1440)](https://www.aljazeera.com/features/2022/6/17/greece-accused-of-using-migrants-to-push-back-other-migrants?fbclid=IwAR1KOR6PA-QwZ0XqZxP6PjTHuCEqgRN6TDYmHBqIVcko_zmpkUKPwuUmKvc)
+[![](../assets/3399dbcb45dc/AP20060572700634.jpg)](https://www.aljazeera.com/features/2022/6/17/greece-accused-of-using-migrants-to-push-back-other-migrants?fbclid=IwAR1KOR6PA-QwZ0XqZxP6PjTHuCEqgRN6TDYmHBqIVcko_zmpkUKPwuUmKvc)
 
 
 **At the same time, the European Parliament’s LIBE Committee has denounced the Greek pushbacks\.**
@@ -232,7 +232,7 @@ Balkan Route: Irregular Arrivals Increase Says Frontex, Pushbacks Continue Says 
 
 
 
-[![](https://helsinki.hu/en/wp-content/uploads/sites/2/2022/03/7j9rn0KsE6IX1R0xLs-lg.jpeg)](https://helsinki.hu/en/it-is-backfiring-now-that-the-government-destroyed-the-asylum-system-after-2015/)
+[![](../assets/3399dbcb45dc/7j9rn0KsE6IX1R0xLs-lg.jpeg)](https://helsinki.hu/en/it-is-backfiring-now-that-the-government-destroyed-the-asylum-system-after-2015/)
 
 - new feature from Save the Children on violence targeting minors on the move through Europe:
 

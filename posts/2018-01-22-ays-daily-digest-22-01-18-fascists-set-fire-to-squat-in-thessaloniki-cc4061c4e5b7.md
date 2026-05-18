@@ -78,7 +78,7 @@ Guardamar Polyhymnia arrived at midnight to Almeria after having rescued 34 peop
 HarvardX has put together a course teaching the principles of humanitarian responses to crises\. The course will span 5 weeks and will use the situations in Goma, Somalia, the Balkans, Afghanistan, and Pakistan as case studies for humanitarian aid as a whole\. Registration may be found below\.
 
 
-[![](https://prod-discovery.edx-cdn.org/media/course/image/4178fda1-e8c7-476c-81e8-8a6b453a6a76-569208c21635.small.png)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=304931&clickref=&p=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fhumanitarian-response-conflict-disaster-harvardx-ph558x-0)
+[![](../assets/cc4061c4e5b7/4178fda1-e8c7-476c-81e8-8a6b453a6a76-569208c21635.small.png)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=304931&clickref=&p=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fhumanitarian-response-conflict-disaster-harvardx-ph558x-0)
 
 
 

@@ -20,7 +20,7 @@ Border Violence Monitoring Network \(BVMN\) has published a new visual investiga
 The investigation conducted by _Josoor and No Name Kitchen_ focuses on a series of four videos filmed on 11 July showing masked men on a medium\-sized vessel approaching a dingy filled with women and children\. The man who filmed this video sent the materials over to Josoor while still on the dinghy, after this he reported being returned to Turkey and held in detention for a period of two weeks\. The purpose of this analysis is to better identify the individuals and the vessel involved in the operation, which resulted in the pushback of the group\.
 
 
-[![Animated GIF - Find & Share on GIPHY](https://media1.giphy.com/media/U6MK9HH9ZdM33U74aA/giphy.gif?cid=790b7611e87f244cb89e8acc322844053c0d3a3ac0b0c13b&rid=giphy.gif&ct=g "Animated GIF - Find & Share on GIPHY")](https://giphy.com/gifs/U6MK9HH9ZdM33U74aA)
+[![Animated GIF - Find & Share on GIPHY](../assets/8448e247d3d4/giphy.gif&ct=g "Animated GIF - Find & Share on GIPHY")](https://giphy.com/gifs/U6MK9HH9ZdM33U74aA)
 
 
 Using the distinct mountain lines featured in the background in two of the clips and Google Earth’s topographic satellite renders of the Aegean Sea, the investigators were able to geolocate the incident and demonstrate that the dinghy was being chased east towards Diliki, Turkey as it was intercepted by the HCG vessel\. This geolocated area matches with information [posted](https://en.sg.gov.tr/current-operations-10-13-july-2020) from Turkish Coast Guard of a rescue operation on 11 July at 10:00 am off the coast of Dikili, Turkey\. It was their only reported rescue of that day\.
@@ -283,7 +283,7 @@ But after four years, despite having a series of temporary contracts, Tanina rec
 BBC: Syrian refugees left feeling helpless — again — by Beirut blast
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/6FEF/production/_114055682_d303edcb-e973-4f25-9c61-11fd70f15465.png)](https://www.bbc.co.uk/news/world-middle-east-53864501?fbclid=IwAR2aQwU_Cj2vIvqST-wNFEm-3ROhmHQB2C9VT73G_8RxJ-qN642KIMDnfIc)
+[![](../assets/8448e247d3d4/_114055682_d303edcb-e973-4f25-9c61-11fd70f15465.png)](https://www.bbc.co.uk/news/world-middle-east-53864501?fbclid=IwAR2aQwU_Cj2vIvqST-wNFEm-3ROhmHQB2C9VT73G_8RxJ-qN642KIMDnfIc)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

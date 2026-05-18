@@ -231,7 +231,7 @@ A 27\-year\-old Afghan journalist, who worked in his country for a television st
 A petition in support of the young journalist is available:
 
 
-[![](https://assets.change.org/photos/8/ws/fv/pBwsFVhMwmnPMZL-1600x900-noPad.jpg?1616753531)](https://www.change.org/p/le-journaliste-afghan-elyaas-ehsas-ne-doit-pas-%C3%AAtre-expuls%C3%A9-non-%C3%A0-l-expulsion-dur?utm_content=cl_sharecopy_28018726_fr-FR%3A6&recruiter=712450475&recruited_by_id=b98327a0-29b1-11e7-b323-417f3cba9193&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_abi)
+[![](../assets/10aeae72092b/pBwsFVhMwmnPMZL-1600x900-noPad.jpg)](https://www.change.org/p/le-journaliste-afghan-elyaas-ehsas-ne-doit-pas-%C3%AAtre-expuls%C3%A9-non-%C3%A0-l-expulsion-dur?utm_content=cl_sharecopy_28018726_fr-FR%3A6&recruiter=712450475&recruited_by_id=b98327a0-29b1-11e7-b323-417f3cba9193&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_abi)
 
 #### SPAIN
 ### Three deceased after a boat with more than 50 people on board overturned in the Tenerife area

@@ -161,7 +161,7 @@ She explains that the number is of enormous importance for Denmark and that the 
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/d58834f46b4330d7c98a7414f764ac9d713e5c97.jpeg)](https://www.infomigrants.net/en/post/29818/western-sahara-a-migrant-smuggling-hotspot?fbclid=IwAR1gvp_8lzvWM992p73bJKX4xUSWIvbnPH5gmJdhgC1QMooL9IPK7nDCgA8)
+[![](../assets/419c308e3ae3/d58834f46b4330d7c98a7414f764ac9d713e5c97.jpeg)](https://www.infomigrants.net/en/post/29818/western-sahara-a-migrant-smuggling-hotspot?fbclid=IwAR1gvp_8lzvWM992p73bJKX4xUSWIvbnPH5gmJdhgC1QMooL9IPK7nDCgA8)
 
 
 
@@ -201,7 +201,7 @@ Less than half of voters in the UK want immigration to be reduced, a new survey 
 
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2021/01/8035396680_31ed820eb3_b-1.jpg)](https://www.freemovement.org.uk/when-can-an-immigration-decision-involving-human-rights-be-appealed/?utm_source=rss&utm_medium=rss&utm_campaign=when-can-an-immigration-decision-involving-human-rights-be-appealed&fbclid=IwAR2wwDWdiKpAyPL5bkOXQ6oPms0852Z7grHeZKXGZJ6sVfd48kD1IoiAjGw)
+[![](../assets/419c308e3ae3/8035396680_31ed820eb3_b-1.jpg)](https://www.freemovement.org.uk/when-can-an-immigration-decision-involving-human-rights-be-appealed/?utm_source=rss&utm_medium=rss&utm_campaign=when-can-an-immigration-decision-involving-human-rights-be-appealed&fbclid=IwAR2wwDWdiKpAyPL5bkOXQ6oPms0852Z7grHeZKXGZJ6sVfd48kD1IoiAjGw)
 
 ### EU
 
@@ -254,7 +254,7 @@ They urge the executive director to immediately provide the missing information 
 **Frontex’s growing pains**
 
 
-[![](https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/01/20/frontexfinalcrop-scaled.jpg)](https://www.politico.eu/article/frontex-growing-pains-europe-migration-border-coast-guards-hiring-chaos/?fbclid=IwAR0RcTkIYKQURT3jSASopfFeWAgt_h-YYDqqJORFPdce9IGviDX0rpN2TAc)
+[![](../assets/419c308e3ae3/frontexfinalcrop-scaled.jpg)](https://www.politico.eu/article/frontex-growing-pains-europe-migration-border-coast-guards-hiring-chaos/?fbclid=IwAR0RcTkIYKQURT3jSASopfFeWAgt_h-YYDqqJORFPdce9IGviDX0rpN2TAc)
 
 
 **Worth Reading:**

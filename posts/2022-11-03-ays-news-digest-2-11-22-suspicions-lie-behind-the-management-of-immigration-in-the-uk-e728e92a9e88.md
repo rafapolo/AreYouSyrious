@@ -68,7 +68,7 @@ Stated Home Secretary Suella Braverman\. Enver Solomon, chief executive of the R
 And at the following link, an article, with its focus on numbers, from an Albanian newspaper:
 
 
-[![](https://albaniandailynews.com/foto/2022/11/20221101093309_art.jpg)](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
+[![](../assets/e728e92a9e88/20221101093309_art.jpg)](https://albaniandailynews.com/news/institutions-to-take-measures-on-lowering-migrants-numbers?fbclid=IwAR19psFtCak328D7hn8eY-IMF6NSqbFNJMwuNx8EaxmSYrxU6WrGWIWb8Nw)
 
 
 No visas\. No regular access\. And once they arrive, risking their lives: No reception\. Overcrowding at the Manston centre is inflaming the political debate these days\. Between the organisations and people who denounced the situation, Soas Detainee Support\. Here is their thread about the Manston centre:
@@ -97,7 +97,7 @@ Since the beginning of the year, almost 300 people have died on the Aegean Sea, 
 Read more [here](https://www.infomigrants.net/en/post/44437/hope-running-out-for-dozens-missing-in-aegean-migrant-boat-sinking?fbclid=IwAR2XONg2lkaet3yVId2rxGxZsRvdepNg6oyMxuutw4UBoKLG0-K9hzbO9Wg) and at the following link:
 
 
-[![](https://storage.googleapis.com/afs-prod/media/80b9812a26584be59b1dde990bb99eab/1800.jpeg)](https://apnews.com/article/europe-middle-east-greece-turkey-migration-13554e5667b20326a8ae9b2d6615dd61?fbclid=IwAR2rcz1CY5fCq-mPLS9GkLZNElAwa5zAoU3rySWvwaQ6foF1TtwQoW26d5c)
+[![](../assets/e728e92a9e88/1800.jpeg)](https://apnews.com/article/europe-middle-east-greece-turkey-migration-13554e5667b20326a8ae9b2d6615dd61?fbclid=IwAR2rcz1CY5fCq-mPLS9GkLZNElAwa5zAoU3rySWvwaQ6foF1TtwQoW26d5c)
 
 #### SERBIA
 ### Belgrade — a crucial but hostile layover on the Balkan route

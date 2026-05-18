@@ -138,7 +138,7 @@ InfoMigrants also [reports](http://www.infomigrants.net/en/post/12091/no-asylum-
 Reporter Anelise Borges interviewed Reward, the last person to disembark the Aquarius in June, who’s now living in Bilbao, Spain, as he waits for the ruling that will decide his fate\. “This is the beginning, the first step” on the way to achieving his ultimate dream of becoming a pilot, he tells her, but “it could take a really really long time\. It might happen, but I don’t know\.” Meanwhile, he is plagued by memories of his friend, who died while in prison in Libya\.
 
 
-[![](https://static.euronews.com/articles/stories/03/32/31/14/1000x563_cmsv2_286ffaec-0385-5ae3-86a4-aa73f2334791-3323114.jpg)](https://www.euronews.com/2018/09/18/raw-politics-aquarius-migrant-s-frustration-on-the-path-to-asylum)
+[![](../assets/af196c943744/1000x563_cmsv2_286ffaec-0385-5ae3-86a4-aa73f2334791-3323114.jpg)](https://www.euronews.com/2018/09/18/raw-politics-aquarius-migrant-s-frustration-on-the-path-to-asylum)
 
 #### France
 

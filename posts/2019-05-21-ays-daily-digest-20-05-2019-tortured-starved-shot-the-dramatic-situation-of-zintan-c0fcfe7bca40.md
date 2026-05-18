@@ -72,7 +72,7 @@ As is the case elsewhere, there are local citizens’ initiatives in small group
 AYS is also trying to support these groups in different places, through direct donations or financially, thanks to the help of others, to cover at least some of the basic needs\. One such group in Montenegro is currently collecting funds to cover the expenses at the facility where they welcome people:
 
 
-[![](https://images.gofundme.com/m9fzN1E9kVP-dHSKQXfQhHEPjlc=/720x405/https://d2g8igdw686xgo.cloudfront.net/38816430_1556462571493001_r.jpeg)](https://www.gofundme.com/bona-fide-ngo-montenegro?utm_source=facebook&utm_medium=social&utm_campaign=fb_dn_cpgntopnavlarge_r&fbclid=IwAR3-DLUIR8O7WV-Ud_I3NWllGhmuC4qzoPA37aPwaefcftZK3_NaxwHv7Tk)
+[![](../assets/c0fcfe7bca40/38816430_1556462571493001_r.jpeg)](https://www.gofundme.com/bona-fide-ngo-montenegro?utm_source=facebook&utm_medium=social&utm_campaign=fb_dn_cpgntopnavlarge_r&fbclid=IwAR3-DLUIR8O7WV-Ud_I3NWllGhmuC4qzoPA37aPwaefcftZK3_NaxwHv7Tk)
 
 ### France: Airport occupied
 

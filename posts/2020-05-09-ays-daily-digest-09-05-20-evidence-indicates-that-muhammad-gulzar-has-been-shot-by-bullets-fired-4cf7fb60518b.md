@@ -45,11 +45,11 @@ The evidence gathered will be handed over to investigating authorities, once inv
 Find the full reports on the investigations here:
 
 
-[![](https://cdn.prod.www.spiegel.de/images/208cd790-e7af-4bbf-8602-6e298d5ee878_w1280_r1.77_fpx45.26_fpy50.jpg)](https://www.spiegel.de/international/europe/greek-turkish-border-the-killing-of-muhammad-gulzar-a-7652ff68-8959-4e0d-9101-a1841a944161)
+[![](../assets/4cf7fb60518b/208cd790-e7af-4bbf-8602-6e298d5ee878_w1280_r1.77_fpx45.26_fpy50.jpg)](https://www.spiegel.de/international/europe/greek-turkish-border-the-killing-of-muhammad-gulzar-a-7652ff68-8959-4e0d-9101-a1841a944161)
 
 
 
-[![](https://www.bellingcat.com/app/uploads/2020/05/Gulzar.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/05/08/the-killing-of-muhammad-gulzar/?fbclid=IwAR3CJISCkPCa2wW_dLc60RSYSlz_4S8ln-S6SYP9qXpiXwRNnEk29ARJ_xg)
+[![](../assets/4cf7fb60518b/Gulzar.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/05/08/the-killing-of-muhammad-gulzar/?fbclid=IwAR3CJISCkPCa2wW_dLc60RSYSlz_4S8ln-S6SYP9qXpiXwRNnEk29ARJ_xg)
 
 
 
@@ -115,7 +115,7 @@ For more information on the ongoing fighting in Libya and the destruction of hea
 For a longer article on the situation in Libya at the moment, see here:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2020/05/28400d1fd91a4f59b1f05e4934276619_18.jpeg?resize=1200%2C675)](https://www.aljazeera.com/news/2020/05/libya-killed-tripoli-shelling-blamed-haftar-forces-200508060216549.html)
+[![](../assets/4cf7fb60518b/28400d1fd91a4f59b1f05e4934276619_18.jpeg)](https://www.aljazeera.com/news/2020/05/libya-killed-tripoli-shelling-blamed-haftar-forces-200508060216549.html)
 
 ### TUNISIA
 
@@ -123,7 +123,7 @@ Also in Tunisia, migrants suffer under the consequences of the measures taken ag
 Meanwhile two interceptions took place off the coast of Tunisia, with 52 people in total being returned to Tunisia\. According to this article, legal action will be taken against these people\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/02cc956880dbc824a0fb60be977eb34f88dd0bc4.jpeg)](https://www.infomigrants.net/en/post/24614/53-of-migrants-lost-jobs-in-tunisia-in-covid-19-lockdown?fbclid=IwAR10XvoULzMtYsEN19_AMNvMJyg65VV7jLjOxrgihXuL4giPzl2oCaeDRbc)
+[![](../assets/4cf7fb60518b/02cc956880dbc824a0fb60be977eb34f88dd0bc4.jpeg)](https://www.infomigrants.net/en/post/24614/53-of-migrants-lost-jobs-in-tunisia-in-covid-19-lockdown?fbclid=IwAR10XvoULzMtYsEN19_AMNvMJyg65VV7jLjOxrgihXuL4giPzl2oCaeDRbc)
 
 ### TURKEY
 
@@ -141,7 +141,7 @@ This led Frontex to anticipate an increase of people trying to enter the EU, onc
 For the full article, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/de3cd1e44dc8caabdbff541a258341be6cb3ed42.jpeg)](https://www.infomigrants.net/en/post/24629/frontex-expects-more-migrants-will-try-to-enter-eu-from-turkey?fbclid=IwAR2eUPpGy2VnQMd66DETKL1yP6r8vsJ7YIPW7gXnuMIBuQsY-RVLPkEcj3w)
+[![](../assets/4cf7fb60518b/de3cd1e44dc8caabdbff541a258341be6cb3ed42.jpeg)](https://www.infomigrants.net/en/post/24629/frontex-expects-more-migrants-will-try-to-enter-eu-from-turkey?fbclid=IwAR2eUPpGy2VnQMd66DETKL1yP6r8vsJ7YIPW7gXnuMIBuQsY-RVLPkEcj3w)
 
 
 [This](https://www.rudaw.net/english/middleeast/turkey/lockdown-solidarity-tarlabasi-refugees-08052020?fbclid=IwAR1arz1yPvPY7_4aDHqM5EZ_a3DIMcV6xRLWuz6UejmMIaVNyTJHswe8fH8) article gives a good account of the situation at the border at the end of February and the hard life of the people who did not make it into Greece, but also of the solidarity networks established amongst refugees in Turkey\.
@@ -177,7 +177,7 @@ Aegean Boat Report reported that a new camp to quarantine newly arrived people w
 This article gives an insight into the work of on\-the\-ground NGOs in times of the corona pandemic\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/c53842c2766b75c331aae9262fe2f7e85a73570f.jpeg)](https://www.infomigrants.net/en/post/24600/coronavirus-aid-workers-and-migrants-on-lesbos-concerned-but-not-afraid?fbclid=IwAR3zuAoXUu397Fq16Yp1UM0itMt9knADsuKaMn0S3NLp3JrjcAUFCMOizcQ)
+[![](../assets/4cf7fb60518b/c53842c2766b75c331aae9262fe2f7e85a73570f.jpeg)](https://www.infomigrants.net/en/post/24600/coronavirus-aid-workers-and-migrants-on-lesbos-concerned-but-not-afraid?fbclid=IwAR3zuAoXUu397Fq16Yp1UM0itMt9knADsuKaMn0S3NLp3JrjcAUFCMOizcQ)
 
 ### SEA
 
@@ -205,7 +205,7 @@ The Spokesperson for the UN High Commissioner for Human Rights, Rupert Colville,
 For the full statement, see here:
 
 
-[![](https://reliefweb.int/modules/custom/reliefweb_meta/images/disaster-type/EP.png)](https://reliefweb.int/report/world/press-briefing-note-migrant-rescues-mediterranean-spokesperson-un-high-commissioner)
+[![](../assets/4cf7fb60518b/EP.png)](https://reliefweb.int/report/world/press-briefing-note-migrant-rescues-mediterranean-spokesperson-un-high-commissioner)
 
 ### EU
 

@@ -288,7 +288,7 @@ On 10 May, don’t miss [the free webinar “From the ashes to Europe’s audien
 
 
 
-[![](https://static01.nyt.com/images/2022/05/08/fashion/08MODERN-COLLEGEWINNER/08MODERN-COLLEGEWINNER-facebookJumbo.jpg)](https://www.nytimes.com/2022/05/06/style/modern-love-college-essay-winner-syrian-war-whatsapp-group-chat.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDm4ciP8JEoyNvELKaad5YZ432CqWAdRGNLsiS_E3w_RENl0oVAiupJae3Y8UOSQ8r8esV3lzwJLEQasx6SevYXO-Nf86z722o1SGLD20S7WjuRBMQG0eqoA5PRyix2pbheqeQLsixNIqiPwrUpgtWWgGZHSVu_XiCAEuPdvQchjd71IyC74PCTqCysWOqO5VKHUkAl3BS3J05244-YkcbItRZPCjWkZmLMnugrwRCXhqKJOrAPAxRovTkrZqtN3duEDGiZr2l7htSvIi7P6TuX26NV0vVLqSIFz2OzcbvzRM8Uha0CW29U5PwH8Ztumzly8LtN7Afg&smid=url-share&fbclid=IwAR3pdiWw2dOpIetvPYSb9QzVPja2ddA4jwePdPY2c4peQDWRIbFz7C8-Zgs)
+[![](../assets/30cca1556e27/08MODERN-COLLEGEWINNER-facebookJumbo.jpg)](https://www.nytimes.com/2022/05/06/style/modern-love-college-essay-winner-syrian-war-whatsapp-group-chat.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDm4ciP8JEoyNvELKaad5YZ432CqWAdRGNLsiS_E3w_RENl0oVAiupJae3Y8UOSQ8r8esV3lzwJLEQasx6SevYXO-Nf86z722o1SGLD20S7WjuRBMQG0eqoA5PRyix2pbheqeQLsixNIqiPwrUpgtWWgGZHSVu_XiCAEuPdvQchjd71IyC74PCTqCysWOqO5VKHUkAl3BS3J05244-YkcbItRZPCjWkZmLMnugrwRCXhqKJOrAPAxRovTkrZqtN3duEDGiZr2l7htSvIi7P6TuX26NV0vVLqSIFz2OzcbvzRM8Uha0CW29U5PwH8Ztumzly8LtN7Afg&smid=url-share&fbclid=IwAR3pdiWw2dOpIetvPYSb9QzVPja2ddA4jwePdPY2c4peQDWRIbFz7C8-Zgs)
 
 - What Ukraine, Afghanistan and Syria Have Taught Us About the Political Will Behind International Refugee Law
 
@@ -300,7 +300,7 @@ On 10 May, don’t miss [the free webinar “From the ashes to Europe’s audien
 
 
 
-[![](https://i2-prod.buzz.ie/incoming/article26696109.ece/ALTERNATES/s1200/0_GettyImages-506926698.jpg)](https://www.buzz.ie/culture/sally-hayden-book-refugees-europe-26696191?fbclid=IwAR1GBpoDiiHvC5kYpkn1Wz4Ues_aL3V8C3y8LE8XcToZYTEUrUHrtJfoNvk)
+[![](../assets/30cca1556e27/0_GettyImages-506926698.jpg)](https://www.buzz.ie/culture/sally-hayden-book-refugees-europe-26696191?fbclid=IwAR1GBpoDiiHvC5kYpkn1Wz4Ues_aL3V8C3y8LE8XcToZYTEUrUHrtJfoNvk)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

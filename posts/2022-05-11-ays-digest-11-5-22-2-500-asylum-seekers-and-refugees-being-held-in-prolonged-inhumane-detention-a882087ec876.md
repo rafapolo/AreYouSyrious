@@ -31,7 +31,7 @@ In the midst of economic and political turmoil, there are increasing anti\-refug
 European countries should be arguing against any ideas of implementing forced returns, and should be reinforcing the commitment to the safety and dignity of Syrian refugees\.
 
 
-[![](https://ecfr.eu/wp-content/uploads/2022/05/265974970-1-scaled-e1652104505905-864x486-c-center.jpg)](https://ecfr.eu/article/turkeys-open-door-closes-how-europe-can-better-support-syrian-refugees/)
+[![](../assets/a882087ec876/265974970-1-scaled-e1652104505905-864x486-c-center.jpg)](https://ecfr.eu/article/turkeys-open-door-closes-how-europe-can-better-support-syrian-refugees/)
 
 
 Further reading:
@@ -196,7 +196,7 @@ Many have been detained since 2021, at a time when there was a rise in the numbe
 MSF has further added that members of the LGBTQ\+ are especially at risk of discrimination and mental health decline\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/c3e23c165f5ec8cf57bb0f19aa63f0962ad3129a.jpg)](https://www.infomigrants.net/en/post/40404/lithuania-2500-migrants-arbitrarily-detained-says-msf?fbclid=IwAR3qQOPUnf4JN-0Iqut1EvS9Q5iTo_0HWlLkLOYV0v6ck_3gfssaDUXmiDk)
+[![](../assets/a882087ec876/c3e23c165f5ec8cf57bb0f19aa63f0962ad3129a.jpg)](https://www.infomigrants.net/en/post/40404/lithuania-2500-migrants-arbitrarily-detained-says-msf?fbclid=IwAR3qQOPUnf4JN-0Iqut1EvS9Q5iTo_0HWlLkLOYV0v6ck_3gfssaDUXmiDk)
 
 ### **CYPRUS**
 
@@ -242,7 +242,7 @@ The first boat was first spotted on Monday morning\. By the time the coastguard 
 A second boat was spotted on Tuesday, and 59 people were brought to safety\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/435fc7b280d57de293466a0472a704047216e816.jpg)](https://www.infomigrants.net/en/post/40401/canary-islands-72-rescued-at-least-28-missing?fbclid=IwAR1i_tCW9zFAz2mwhz7i0zTEOAGjgHwqcqofUkilbODQ3xdw4-IS8r0BICs)
+[![](../assets/a882087ec876/435fc7b280d57de293466a0472a704047216e816.jpg)](https://www.infomigrants.net/en/post/40401/canary-islands-72-rescued-at-least-28-missing?fbclid=IwAR1i_tCW9zFAz2mwhz7i0zTEOAGjgHwqcqofUkilbODQ3xdw4-IS8r0BICs)
 
 
 
@@ -375,7 +375,7 @@ The move to introduce a 'Bill of Rights' will diminish the ability of people to 
 The British Red Cross and the Refugee Council have stated that some asylum seekers have disappeared from hotels for fear of being sent to Rwanda\.
 
 
-[![](https://static.euronews.com/articles/stories/06/69/46/00/1024x538_cmsv2_fffc7068-8716-5e73-b018-2e747fe7b659-6694600.jpg)](https://www.africanews.com/2022/05/11/uk-asylum-seekers-go-into-hiding-to-avoid-rwanda-deal/?fbclid=IwAR13znZO3WsLgYgFf1Ysy1320tXM7esdCEA9painaOt55ZGfdV8lwWh8gSw)
+[![](../assets/a882087ec876/1024x538_cmsv2_fffc7068-8716-5e73-b018-2e747fe7b659-6694600.jpg)](https://www.africanews.com/2022/05/11/uk-asylum-seekers-go-into-hiding-to-avoid-rwanda-deal/?fbclid=IwAR13znZO3WsLgYgFf1Ysy1320tXM7esdCEA9painaOt55ZGfdV8lwWh8gSw)
 
 
 **UK to notify first group of individuals being sent to Rwanda**
@@ -394,7 +394,7 @@ Source: InfoMigrants, 11th May 2022
 Immigration minister Tom Pursglove did not deny that those who fled from Ukraine could also be considered to be sent to Rwanda\. Furthermore, he also refused to state whether Afghan nationals who worked alongside the British army could be deported\.
 
 
-[![](https://static.independent.co.uk/2022/05/11/13/SEI101613450.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/politics/ukraine-rwanda-refugees-tom-pursglove-home-office-uk-b2076493.html?fbclid=IwAR0DVIQ7FHbFxHZ88YYcCLUVYnYqK4q8yRS49eAKtQHIE53iMyVThIufXDo)
+[![](../assets/a882087ec876/SEI101613450.jpg)](https://www.independent.co.uk/news/uk/politics/ukraine-rwanda-refugees-tom-pursglove-home-office-uk-b2076493.html?fbclid=IwAR0DVIQ7FHbFxHZ88YYcCLUVYnYqK4q8yRS49eAKtQHIE53iMyVThIufXDo)
 
 
 
@@ -425,13 +425,13 @@ Immigration minister Tom Pursglove did not deny that those who fled from Ukraine
 
 
 
-[![](https://pro.drc.ngo/media/2dxnnomp/whatsapp-image-2021-10-11-at-13-41-43.jpeg?anchor=center&mode=crop&rnd=133116983525570000)](https://drc.ngo/our-work/resources/pushbacks/prab/?fbclid=IwAR0ZA4m2lLutELdHT2xGx8PkxkzIXCEGqJYtluVTeOU2vctVKx-DOiqMXlY)
+[![](../assets/a882087ec876/whatsapp-image-2021-10-11-at-13-41-43.jpeg)](https://drc.ngo/our-work/resources/pushbacks/prab/?fbclid=IwAR0ZA4m2lLutELdHT2xGx8PkxkzIXCEGqJYtluVTeOU2vctVKx-DOiqMXlY)
 
 - Further updates on the UK\-Rwanda Deal:
 
 
 
-[![](https://i.guim.co.uk/img/media/a68c5a36ce7a0da242612ba0c4fac9dc1ed92d26/0_474_7114_4269/master/7114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59acf3af7619702edb4d5ca8a5caa30a)](https://www.theguardian.com/uk-news/2022/may/11/ukraine-refugees-who-enter-uk-via-ireland-may-be-sent-to-rwanda-mps-told)
+[![](../assets/a882087ec876/7114.jpg)](https://www.theguardian.com/uk-news/2022/may/11/ukraine-refugees-who-enter-uk-via-ireland-may-be-sent-to-rwanda-mps-told)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

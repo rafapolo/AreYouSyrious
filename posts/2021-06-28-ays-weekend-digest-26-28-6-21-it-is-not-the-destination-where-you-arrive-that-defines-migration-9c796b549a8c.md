@@ -151,13 +151,13 @@ The UNHCR has [called on the EU](https://www.rnd.de/politik/un-hilfswerk-fordert
 
 
 
-[![](https://www.thenation.com/wp-content/uploads/2021/06/Washington-Syria-ftr-getty_img.jpg)](https://www.thenation.com/article/world/syria-war-humanitarian-crisis/?fbclid=IwAR3PVE5ADIby0-zW5wtYLz0g0ijNIV-x39cxZORC5GugdETbHy_Cp7NSoOQ)
+[![](../assets/9c796b549a8c/Washington-Syria-ftr-getty_img.jpg)](https://www.thenation.com/article/world/syria-war-humanitarian-crisis/?fbclid=IwAR3PVE5ADIby0-zW5wtYLz0g0ijNIV-x39cxZORC5GugdETbHy_Cp7NSoOQ)
 
 - Gorana Mlinarević’s important take on solidarity:
 
 
 
-[![](https://www.rosalux.de/fileadmin/images/EnglishWS/kosovo20/balkan-route_feature_final__1_.jpeg)](https://www.rosalux.de/en/news/id/44572/feminist-solidarity-on-the-long-road-west?fbclid=IwAR2YVM_QLUI-IphQotWldAxzp1bL13jcgsIJNAsqAR8SbcCl-twT8oATJI4)
+[![](../assets/9c796b549a8c/balkan-route_feature_final__1_.jpeg)](https://www.rosalux.de/en/news/id/44572/feminist-solidarity-on-the-long-road-west?fbclid=IwAR2YVM_QLUI-IphQotWldAxzp1bL13jcgsIJNAsqAR8SbcCl-twT8oATJI4)
 
 ### Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.
 

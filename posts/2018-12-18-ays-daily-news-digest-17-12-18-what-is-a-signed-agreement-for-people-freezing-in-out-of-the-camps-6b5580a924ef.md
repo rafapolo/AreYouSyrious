@@ -235,7 +235,7 @@ Seeking Sanctuary is a group that aims to raise awareness about people displaced
 Its special concern is for the 1,000 or so people who are stuck in north\-eastern France trying to reach the UK\. There have been 19 cases involving 162 people between November 8 and last Saturday, Kent Online reports:
 
 
-[![](https://www.kentonline.co.uk/_media/img/2JYQU4F2HBNG3SKHCXP9.jpg)](https://www.kentonline.co.uk/dover/news/migrants-memorial-for-those-who-perished-195494/?fbclid=IwAR1YMD4QNUg8n9pM9JfkW-lwf0bO2OudXi1TVAPivR1l6gIuzI-TH0xTJ2c)
+[![](../assets/6b5580a924ef/2JYQU4F2HBNG3SKHCXP9.jpg)](https://www.kentonline.co.uk/dover/news/migrants-memorial-for-those-who-perished-195494/?fbclid=IwAR1YMD4QNUg8n9pM9JfkW-lwf0bO2OudXi1TVAPivR1l6gIuzI-TH0xTJ2c)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

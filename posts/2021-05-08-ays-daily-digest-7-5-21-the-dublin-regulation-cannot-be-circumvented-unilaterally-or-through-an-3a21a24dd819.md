@@ -140,19 +140,19 @@ Read more on the recent developments on Frontex in the weekend News Digest and b
 
 
 
-[![](https://reasonstobecheerful.world/wp-content/uploads/2021/04/020-Camini-Rc-Laboratorio-Tessile-Ama-La-Aprile-2021-scaled-e1619800230474.jpg)](https://reasonstobecheerful.world/when-italians-abandoned-this-village-refugees-brought-it-back-to-life/?fbclid=IwAR04VRr3lZ0VIyT1ipGHkEhwW0_MQ0pvjCy5qIuaE5Aze3DgQt9N9R7feSw)
+[![](../assets/3a21a24dd819/020-Camini-Rc-Laboratorio-Tessile-Ama-La-Aprile-2021-scaled-e1619800230474.jpg)](https://reasonstobecheerful.world/when-italians-abandoned-this-village-refugees-brought-it-back-to-life/?fbclid=IwAR04VRr3lZ0VIyT1ipGHkEhwW0_MQ0pvjCy5qIuaE5Aze3DgQt9N9R7feSw)
 
 - The clashing realities of the Canary Islands:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3d940619aa72403d1d962853017a7fcb9240e143.jpeg)](https://www.infomigrants.net/en/post/32052/audio-report-migrants-on-canary-islands?fbclid=IwAR1w6CaWim1TNsHyesGc_bNmCFCfTJ6m1MjqzovCiw4RPrkfMsUTmkUzGSc)
+[![](../assets/3a21a24dd819/3d940619aa72403d1d962853017a7fcb9240e143.jpeg)](https://www.infomigrants.net/en/post/32052/audio-report-migrants-on-canary-islands?fbclid=IwAR1w6CaWim1TNsHyesGc_bNmCFCfTJ6m1MjqzovCiw4RPrkfMsUTmkUzGSc)
 
 - Tens of millions are excluded from national Covid\-19 vaccination programmes, according to World Health Organization research:
 
 
 
-[![](https://i.guim.co.uk/img/media/9347de63ae13d8e643d86707889df9d3803ac69f/0_218_4126_2477/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=47fd19623152e6bcaf56900c8ea8565b)](https://www.theguardian.com/world/2021/may/07/at-least-46m-displaced-people-excluded-from-covid-jabs-who-study-shows?fbclid=IwAR2fZinzKWc1B_R2uEpPPdeea5k3LDa4Dl_XiikBRCjYXDVMS-Gt1fi4wdc)
+[![](../assets/3a21a24dd819/4126.jpg)](https://www.theguardian.com/world/2021/may/07/at-least-46m-displaced-people-excluded-from-covid-jabs-who-study-shows?fbclid=IwAR2fZinzKWc1B_R2uEpPPdeea5k3LDa4Dl_XiikBRCjYXDVMS-Gt1fi4wdc)
 
 - an insightful story on how migrant smuggling became one of Lebanon’s latest businesses:
 

@@ -207,20 +207,20 @@ If this wasn’t enough, the barracks have become targets for the far\-right\. I
 
 
 
-[![](https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/2005/Silent+night+2.jpg?v=1608218272000)](https://act.refugee-action.org.uk/page/73095/action/1?fbclid=IwAR1R_41KR8m4WpA30vn9e5nQP4IHdtgKKpFgQed5AT_utEaD828wv8jwmys)
+[![](../assets/eb014bc284f0/Silent+night+2.jpg)](https://act.refugee-action.org.uk/page/73095/action/1?fbclid=IwAR1R_41KR8m4WpA30vn9e5nQP4IHdtgKKpFgQed5AT_utEaD828wv8jwmys)
 
 #### FOR FURTHER READING
 - MSF’s mental health teams in Lesbos and Samos have continued to observe concerning levels of mental health distress among their patients:
 
 
 
-[![](https://media.msf.org/AssetLink/860t2y343s64vtei0n7l03s23xp5x40x.jpg)](https://www.msf.org/greece-mental-health-distress-among-asylum-seekers?fbclid=IwAR0iu_p2Kl9yDVJfzjg_ULmu0irgrB11OMd8it9iN0F24sLWXYrPUkXdvxQ)
+[![](../assets/eb014bc284f0/860t2y343s64vtei0n7l03s23xp5x40x.jpg)](https://www.msf.org/greece-mental-health-distress-among-asylum-seekers?fbclid=IwAR0iu_p2Kl9yDVJfzjg_ULmu0irgrB11OMd8it9iN0F24sLWXYrPUkXdvxQ)
 
 - \[GERMAN\] On the topic of deportation we wrote more extensively about in yesterday’s digest, here are the details on the resumed deportations\. Since December 2016 **Germany has deported 937 people to Afghanistan** :
 
 
 
-[![](https://thruttig.files.wordpress.com/2018/09/europ-action-week-dont-send-afghans-back-pin-e1538059107826.jpg)](https://thruttig.wordpress.com/2020/12/17/afghanistan-abschiebeflug-nr-34-aus-deutschland-eingetroffen/)
+[![](../assets/eb014bc284f0/europ-action-week-dont-send-afghans-back-pin-e1538059107826.jpg)](https://thruttig.wordpress.com/2020/12/17/afghanistan-abschiebeflug-nr-34-aus-deutschland-eingetroffen/)
 
 - more on the situation in Bosnia and Herzegovina:
 

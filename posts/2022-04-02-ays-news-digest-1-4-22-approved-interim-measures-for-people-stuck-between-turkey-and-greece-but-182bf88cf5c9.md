@@ -391,7 +391,7 @@ If this last finding is sound, it suggests a pathway by which immigration does i
 
 
 
-[![](https://www.investigativejournalismforeu.net/wp-content/uploads/2022/03/85101.jpg)](https://www.investigativejournalismforeu.net/ij4eu-impact-award-2022-winners-announced/?fbclid=IwAR1xNkzdFvgSG2kFrOwAK3zKVb5WG5SEg9qxxDOTcQN6yaJe-ndTyOrL3fM)
+[![](../assets/182bf88cf5c9/85101.jpg)](https://www.investigativejournalismforeu.net/ij4eu-impact-award-2022-winners-announced/?fbclid=IwAR1xNkzdFvgSG2kFrOwAK3zKVb5WG5SEg9qxxDOTcQN6yaJe-ndTyOrL3fM)
 
 
 
@@ -422,7 +422,7 @@ Hypocrisy in different versions:
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/03/2016-01-05T120000Z_141835939_GF10000283211_RTRMADP_3_EUROPE-MIGRANTS-GREECE.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2022/4/1/greece-embraces-ukrainians-as-picture-darkens-for-other-refugees?fbclid=IwAR33HMVEpU3MOjRrNSqf75fv6XWc4I_n7YiSkYzsZdEitMk-sVYpihpz3xY)
+[![](../assets/182bf88cf5c9/2016-01-05T120000Z_141835939_GF10000283211_RTRMADP_3_EUROPE-MIGRANTS-GREECE.jpg)](https://www.aljazeera.com/news/2022/4/1/greece-embraces-ukrainians-as-picture-darkens-for-other-refugees?fbclid=IwAR33HMVEpU3MOjRrNSqf75fv6XWc4I_n7YiSkYzsZdEitMk-sVYpihpz3xY)
 
 - does it make sense to compare the arrival of more than a million people at Europe’s southern borders in 2015, with the arrival of more than 4 million people across borders between Eastern European countries in 2022 \(so far\)? And if so, what are the similarities and differences?
 

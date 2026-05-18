@@ -34,7 +34,7 @@ With 400 to 600 Lira \(currently about 40 to 60 Euros according to the current e
 For comparison: Numerous families receive financial support through the Red Cross\. “That’s around 140 Lira per person — that’s nothing for them,” Karali knows from the talks\. Even though he estimates that around 80 percent of the families in the district get this benefit\. Especially in view of the rampant inflation, this amount is worth less and less\.
 
 
-> 458\.495 People from Syria have found temporary shelter in Gaziantep\. \(As of [October 14, 2021\)](https://en.goc.gov.tr/kurumlar/en.goc/istatistikler/2021/10-Ekim/18-Ekim/ENG_I%CC%87statistik-Hepsi_03.jpg) 
+> 458\.495 People from Syria have found temporary shelter in Gaziantep\. \(As of [October 14, 2021\)](../assets/da4eef2772e6/ENG_I%CC%87statistik-Hepsi_03.jpg) 
 
 
 

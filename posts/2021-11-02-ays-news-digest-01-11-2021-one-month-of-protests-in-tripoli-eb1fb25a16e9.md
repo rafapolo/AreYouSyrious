@@ -192,7 +192,7 @@ On Monday 1 November, 65 people arrived to the most eastern of the Canary Island
 The construction of a wall at the Polish border with Belarus has been approved by the Polish parliament\. The wall has a budget of 353 million Euros and will span 100 kilometers\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/cfeeb2d7cac44a588e94a3d5fbb8b17631d053e2.jpg)](https://www.infomigrants.net/en/post/36133/poland-lawmakers-approve-belarus-border-wall-amid-migrant-surge?fbclid=IwAR38juz3cy3J-t0afj6WjtEMkWkdlxgxUBsisPU5-AnpZqnRtYhmubwANJQ)
+[![](../assets/eb1fb25a16e9/cfeeb2d7cac44a588e94a3d5fbb8b17631d053e2.jpg)](https://www.infomigrants.net/en/post/36133/poland-lawmakers-approve-belarus-border-wall-amid-migrant-surge?fbclid=IwAR38juz3cy3J-t0afj6WjtEMkWkdlxgxUBsisPU5-AnpZqnRtYhmubwANJQ)
 
 
 [Meanwhile, a Polish TV program used a scene from a Netflix series to promote racist anti\-migrant stereotypes](https://www.euractiv.com/section/all/short_news/polands-most-watched-news-programme-uses-netflix-series-to-call-refugees-criminals/?fbclid=IwAR32KykyxSpmXpLAmcPSUuTIMeY5jX8PpKUx3ZnLxkHGTVYUltT9NKCrErk) \. The violent sequence from the series was introduced as showing Swedish reality\.
@@ -202,7 +202,7 @@ The construction of a wall at the Polish border with Belarus has been approved b
 In France, hundreds of undocumented people working for delivery services, waste collection and catering went on strike\. They demand their employment status to be legalized\. During the pandemic, their situation became even more precarious, as they had no access to state benefits\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/de8a7d4ffc56204ae429f18b602aeac139da56fe.jpg)](https://www.infomigrants.net/en/post/36119/hundreds-of-undocumented-workers-go-on-strike-in-france-to-demand-their-rights?fbclid=IwAR3OrLPiHLH8MMLdOxIToJZZfRq5pp3Us_gje6h94Dn7BeFDJouWzKznGiY)
+[![](../assets/eb1fb25a16e9/de8a7d4ffc56204ae429f18b602aeac139da56fe.jpg)](https://www.infomigrants.net/en/post/36119/hundreds-of-undocumented-workers-go-on-strike-in-france-to-demand-their-rights?fbclid=IwAR3OrLPiHLH8MMLdOxIToJZZfRq5pp3Us_gje6h94Dn7BeFDJouWzKznGiY)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

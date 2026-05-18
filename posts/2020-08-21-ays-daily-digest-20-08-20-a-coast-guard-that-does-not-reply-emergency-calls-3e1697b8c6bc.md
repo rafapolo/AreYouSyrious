@@ -107,7 +107,7 @@ Sakellaropoulou said
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/39f54f4921352e149f1661f7d2a73ee7545c4380.jpeg)](https://www.infomigrants.net/en/post/26742/greece-lesbos-grandmas-honored-in-state-visit?fbclid=IwAR1Hb3VZPA-jR6mGK2NKY33DJF9EwMvnc33FjpS4DMP6bPR0aUW_7rLVM-E)
+[![](../assets/3e1697b8c6bc/39f54f4921352e149f1661f7d2a73ee7545c4380.jpeg)](https://www.infomigrants.net/en/post/26742/greece-lesbos-grandmas-honored-in-state-visit?fbclid=IwAR1Hb3VZPA-jR6mGK2NKY33DJF9EwMvnc33FjpS4DMP6bPR0aUW_7rLVM-E)
 
 
 Interviewed by CNN Chief International Anchor Christiane Amanpour, the Greek Prime Minister Kyriakos Mitsotakis still stood by his statement that no illegal expulsions of people on the move have happened in the Aegean Sea between Greece and Turkey\. Instead, he once again denounced the reports about the incidents as results of a Turkish misinformation campaign\.
@@ -139,13 +139,13 @@ It is ridiculous that the Greek Prime Minister still stands by his denial\.
 For the article from The New York Times, see:
 
 
-[![](https://static01.nyt.com/images/2020/08/10/world/00Greece-Expulsions1/merlin_169901013_2ee21bbe-2bd4-47a4-a426-745b00744b37-facebookJumbo.jpg?year=2020&h=550&w=1050&s=a82495ebb24554c86f34866cc88d9e228b1973b7c2c7507a9cc460e60f69a3fe&k=ZQJBKqZ0VN)](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
+[![](../assets/3e1697b8c6bc/merlin_169901013_2ee21bbe-2bd4-47a4-a426-745b00744b37-facebookJumbo.jpg)](https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html)
 
 
 Here you can find a very informative interview with Niamh Keady\-Tabbal, an expert from the Irish Centre on Human Rights:
 
 
-[![](https://s.france24.com/media/display/453b3e36-e200-11ea-bfe5-005056bf87d6/w:1280/p:16x9/EN_20200819_100842_101522_CS.jpg)](https://www.france24.com/en/video/20200819-eu-migrant-crisis-migrants-endure-severe-beating-before-being-abandoned-at-sea?fbclid=IwAR0iTOy4ZgC-RnNjMNYgFH5zdHn4E8eARFAZMVb56kt1-P-BHXCZsvI6ZhM)
+[![](../assets/3e1697b8c6bc/EN_20200819_100842_101522_CS.jpg)](https://www.france24.com/en/video/20200819-eu-migrant-crisis-migrants-endure-severe-beating-before-being-abandoned-at-sea?fbclid=IwAR0iTOy4ZgC-RnNjMNYgFH5zdHn4E8eARFAZMVb56kt1-P-BHXCZsvI6ZhM)
 
 
 The lawyer Vera Magali Keller has put together a very useful thread about the systematic restrictions of asylum seekers’ rights on Lesvos since January this year\. The change in law provided for much harsher living conditions for asylum seekers\. According to Keller, some 229 unaccompanied minors are currently held in administrative detention\.
@@ -166,7 +166,7 @@ UNHCR has published July’s factsheet on Greece\. According to the paper, 600 p
 For the full report, see:
 
 
-[![](https://reliefweb.int/sites/default/files/styles/large/public/previews/80/a8/80a859d0-6298-3c07-8a20-78dfed35d14b.png)](https://reliefweb.int/report/greece/unhcr-greece-factsheet-july-2020?fbclid=IwAR0IJ2PTOm80gNyhSj4MO5IbgkzQZWS1YbbT34iYwqZhxLcOX60C2Dop7DU)
+[![](../assets/3e1697b8c6bc/80a859d0-6298-3c07-8a20-78dfed35d14b.png)](https://reliefweb.int/report/greece/unhcr-greece-factsheet-july-2020?fbclid=IwAR0IJ2PTOm80gNyhSj4MO5IbgkzQZWS1YbbT34iYwqZhxLcOX60C2Dop7DU)
 
 ### SEA
 
@@ -187,7 +187,7 @@ Various accounts of violent incidents against people on the move have been repor
 A short film has been published by Aljazeera documenting the abuse and exploitation faced by many of the at least 11,000 Indian economic migrants working on local farms in Agro\-Pontino in central Italy\. The region is one of the country’s main areas of food production\. The people from India who live there are mainly Sikhs from the Punjab region\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2020/08/98348d39791f4dadb8f88b294ac7ac50_18.jpeg?resize=1200%2C675)](https://www.aljazeera.com/programmes/peopleandpower/2020/08/italy-sikh-slaves-200819073932216.html?utm_campaign=trueAnthem%3A%20Trending%20Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3TVtaQ0Fi93t3QUGioGd6XzM4L7Tntg7F0FkGENWk250FP6B4iF7Lin3w)
+[![](../assets/3e1697b8c6bc/98348d39791f4dadb8f88b294ac7ac50_18.jpeg)](https://www.aljazeera.com/programmes/peopleandpower/2020/08/italy-sikh-slaves-200819073932216.html?utm_campaign=trueAnthem%3A%20Trending%20Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=IwAR3TVtaQ0Fi93t3QUGioGd6XzM4L7Tntg7F0FkGENWk250FP6B4iF7Lin3w)
 
 ### MALTA
 
@@ -243,13 +243,13 @@ Until now, deportation flights under Dublin regulations have continued, mostly t
 For more information, see here:
 
 
-[![](https://i.guim.co.uk/img/media/b3931ba4429adab893d1a703a2da42f673121c7d/235_0_3031_1820/master/3031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=5cef3e9c10d7c5b82e9753242b3f4853)](https://www.theguardian.com/politics/2020/aug/20/eu-rejects-british-plan-for-post-brexit-return-of-asylum-seekers?fbclid=IwAR2BZ2LdGWCabtKybVCyxa4whb0oLhGXXegLHbW_CCD8DxrLOqXd5iTN5K0)
+[![](../assets/3e1697b8c6bc/3031.jpg)](https://www.theguardian.com/politics/2020/aug/20/eu-rejects-british-plan-for-post-brexit-return-of-asylum-seekers?fbclid=IwAR2BZ2LdGWCabtKybVCyxa4whb0oLhGXXegLHbW_CCD8DxrLOqXd5iTN5K0)
 
 
 and here:
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/364B/production/_113899831_hi062859090.jpg)](https://www.bbc.com/news/uk-england-53650537?fbclid=IwAR1_XGklPBYgcxyG8RKBZgdKlMCdh6GPSip9j15E60Mxu7ze5ZflzpSEomY)
+[![](../assets/3e1697b8c6bc/_113899831_hi062859090.jpg)](https://www.bbc.com/news/uk-england-53650537?fbclid=IwAR1_XGklPBYgcxyG8RKBZgdKlMCdh6GPSip9j15E60Mxu7ze5ZflzpSEomY)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

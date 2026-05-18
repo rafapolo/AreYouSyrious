@@ -68,7 +68,7 @@ Forensic scientists in Tunisia have emphasized the importance of identifying and
 They claim, citing AFP \(official sources that we usually tend to question and check, but this time we have no alternative sources\), that since 2017, the Tunisian authorities have been making sure, via a team of forensic scientists, that they carefully identify and catalogue each of the bodies they recover of migrants who drown in the Mediterranean\. Read more here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/7a2df202192067497889f70a1b1f3675d670805d.jpeg)](https://www.infomigrants.net/en/post/25820/journeys-that-end-in-tragedy-tunisians-catalog-bodies-of-drowned-migrants?fbclid=IwAR0xg__mrj-OXZXaQtF90D9skE8wrRBSki0aXBXRDUwUE91q53XitgYLiH4)
+[![](../assets/74b934763ee7/7a2df202192067497889f70a1b1f3675d670805d.jpeg)](https://www.infomigrants.net/en/post/25820/journeys-that-end-in-tragedy-tunisians-catalog-bodies-of-drowned-migrants?fbclid=IwAR0xg__mrj-OXZXaQtF90D9skE8wrRBSki0aXBXRDUwUE91q53XitgYLiH4)
 
 
 This snapshot explores the impact that COVID\-19 and the measures to prevent its spread have had on refugees’ and migrants’ employment and livelihood opportunities\. It aims to inform the work of humanitarian and development actors assisting affected refugees and migrants\. This snapshot is based on 1,172 surveys and 12 key informant interviews with refugees and migrants in Tunisia conducted between April 6th and June 15th, 2020\. Respondents were surveyed in 15 cities across the country\.
@@ -164,7 +164,7 @@ The Norwegian scheme is three\-year and flexible, which means that if fewer refu
 The coronavirus pandemic has exacerbated inequalities, highlighting the importance of often invisible frontline workers in Italy\. Caporalato has been compared to modern\-day slavery, as it is set up in such a way that intermediaries between the worker and the employer siphon off a large part of their meager wages\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/b6834d858694dc1166cb1040ccdf8692e44f36b8.jpeg)](https://www.infomigrants.net/en/post/25748/trade-unionist-aboubakar-soumahoro-on-hunger-strike-against-exploitation?fbclid=IwAR2gPejyHtV5vbht0DFWt2YtTs-5DT6OxhZjoIvZoSr2i3VLR62TDVVgBGY)
+[![](../assets/74b934763ee7/b6834d858694dc1166cb1040ccdf8692e44f36b8.jpeg)](https://www.infomigrants.net/en/post/25748/trade-unionist-aboubakar-soumahoro-on-hunger-strike-against-exploitation?fbclid=IwAR2gPejyHtV5vbht0DFWt2YtTs-5DT6OxhZjoIvZoSr2i3VLR62TDVVgBGY)
 
 
 Jeff Crisp writes about the the current outlook for refugee protection that has arguably never been bleaker, please take time to read his piece:

@@ -100,7 +100,7 @@ Said Mirka Schäfer, advocacy officer of the NGO Sos Humanity, as it is reported
 <<<<<<< HEAD
 
 
-[![](https://media.internazionale.it/images/2022/11/07/176418-sd.jpg)](https://www.essenziale.it/notizie/annalisa-camilli/2022/11/07/ong-decreto-sbarco-selettivo)
+[![](../assets/5c38c740f6ff/176418-sd.jpg)](https://www.essenziale.it/notizie/annalisa-camilli/2022/11/07/ong-decreto-sbarco-selettivo)
 
 
 For these reasons, rescue NGOs have appealed to the Regional Administrative Court \(TAR\) \. The captain of Sos Humanity stated:
@@ -145,7 +145,7 @@ Open the ports!!!
 Read more about the topic here:
 
 
-[![](https://static.ilmanifesto.it/2022/11/whatsapp-image-2022-11-07-at-16.46.01.jpeg)](https://ilmanifesto.it/il-grido-dei-naufraghi-in-ostaggio-aiutateci-partono-i-ricorsi)
+[![](../assets/5c38c740f6ff/whatsapp-image-2022-11-07-at-16.46.01.jpeg)](https://ilmanifesto.it/il-grido-dei-naufraghi-in-ostaggio-aiutateci-partono-i-ricorsi)
 
 
 And here it is explained why Italy is not welcoming people and not allowing them to disembark, with some questions and answers\.

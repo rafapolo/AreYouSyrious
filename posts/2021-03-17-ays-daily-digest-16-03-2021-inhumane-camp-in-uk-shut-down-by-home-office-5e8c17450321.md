@@ -323,7 +323,7 @@ EU Home Affairs Commissioner Ylva Johansson said on Monday that it is “importa
 A look at the Iuventa crew and the criminalization of SAR from Maurice Stierl, a researcher and fellow at the University of Warwick\.
 
 
-[![](https://cdn2.opendemocracy.net/media/images/Picture3_FWpftwi.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/can-europe-make-it/lawfare-solidarity-sea-mediterranean-rescuers-facing-trial/?fbclid=IwAR1rS9A_vglJ8GHCayJOvEODfjXzJEaIxK8uyKhQleRZcaKFSCaVrw5zn8A)
+[![](../assets/5e8c17450321/Picture3_FWpftwi.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/can-europe-make-it/lawfare-solidarity-sea-mediterranean-rescuers-facing-trial/?fbclid=IwAR1rS9A_vglJ8GHCayJOvEODfjXzJEaIxK8uyKhQleRZcaKFSCaVrw5zn8A)
 
 
 Also, today at 16:00 GMT Stierl will give an online talk hosted by Sussex University entitled, “Europe’s unsafe environment: anti\-migrant violence in COVID times\.”

@@ -294,7 +294,7 @@ See more [here\.](https://english.enabbaladi.net/archives/2020/07/new-project-en
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2020/07/0bff2f7560e1457eb07a350621555d17_18.jpeg?resize=1200%2C675)](https://www.aljazeera.com/news/2020/07/air-strikes-afghanistan-kill-45-civilians-taliban-fighters-200722203403995.html?fbclid=IwAR1q0ob0OvIgJwEaMHIRnIlMn1VXV78IzTbb72UgtnJJILKbu26G54S-PIw)
+[![](../assets/1c4721f377aa/0bff2f7560e1457eb07a350621555d17_18.jpeg)](https://www.aljazeera.com/news/2020/07/air-strikes-afghanistan-kill-45-civilians-taliban-fighters-200722203403995.html?fbclid=IwAR1q0ob0OvIgJwEaMHIRnIlMn1VXV78IzTbb72UgtnJJILKbu26G54S-PIw)
 
 - Marina Sitrin & Colectiva Sembrar put together a book, “Pandemic Solidarity: Mutual Aid During the Coronavirus Crisis,” that is out now\. You can order the book [here](https://pandemicsolidarity.net/?fbclid=IwAR14kPGKxt6KpTdmwEIN-CYqfNPeY55mABF1jU5c2niahCqKCkZdknbJ5T4) and read more about the project, including a few excerpts, [here](https://roarmag.org/essays/pandemic-solidarity-care-love-and-mutual-aid/?fbclid=IwAR0GUt7DrlH34N984Wg9Pa3wFf8rPq32ZD-Q0H5-yHs__eCL0zGn_r-Wd5o) \.
 

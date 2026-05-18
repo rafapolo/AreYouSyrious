@@ -130,7 +130,7 @@ Apparently one **rescue operation** was carried out by **Italian coast guards** 
 Find an article in Italian here:
 
 
-[![](https://www.repstatic.it/content/nazionale/img/2019/09/17/092202123-23192e11-3d7b-42b4-b9f9-d139f1c2ea6f.jpg)](https://www.repubblica.it/cronaca/2019/09/17/news/migranti_il_tweet_di_alarm_phone_la_guardia_costiera_salva_90_persone_-236212039/)
+[![](../assets/f709d030b7f4/092202123-23192e11-3d7b-42b4-b9f9-d139f1c2ea6f.jpg)](https://www.repubblica.it/cronaca/2019/09/17/news/migranti_il_tweet_di_alarm_phone_la_guardia_costiera_salva_90_persone_-236212039/)
 
 
 10 people autonomously landed on Lampedusa\.
@@ -145,7 +145,7 @@ On Saturday night, a wheelchair user was attacked violently and racist insulted\
 Find an article in German here:
 
 
-[![](https://www.tagesspiegel.de/berlin/polizei-justiz/images/blaulicht-polizei-7384/alternates/BASE_16_9_W1400/blaulicht-polizei-7384.jpeg)](https://www.tagesspiegel.de/politik/rechtsextreme-tat-in-chemnitz-rollstuhlfahrer-aus-libyen-geschlagen-und-beleidigt/25022866.html?fbclid=IwAR32YMVyBIaYD1ItJ5sii-VJ-bMdpJsd4JfuxUiFz6PBKXBHnOShw5TEruQ)
+[![](../assets/f709d030b7f4/blaulicht-polizei-7384.jpeg)](https://www.tagesspiegel.de/politik/rechtsextreme-tat-in-chemnitz-rollstuhlfahrer-aus-libyen-geschlagen-und-beleidigt/25022866.html?fbclid=IwAR32YMVyBIaYD1ItJ5sii-VJ-bMdpJsd4JfuxUiFz6PBKXBHnOShw5TEruQ)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

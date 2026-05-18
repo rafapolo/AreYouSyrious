@@ -15,7 +15,7 @@ image:
 _Two years since the EU\-Turkey deal was implemented, and the world continues to warm, wars continue to hurt, and people are continuing to be forced onto the move\. Perhaps it is time to acknowledge that fortification and exclusion are not working\. Hannah Wallace Bowman from Lighthouse Relief Hellas writes for AYS on the deal and its consequences\._
 
 
-[!["Refugee"](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F687082564-f75280b871b4a1bf29ae15f641eb65e7a7dfeac98ac9beac1e9b15b5235fb4c0-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png ""Refugee"")](https://vimeo.com/258804752)
+[!["Refugee"](../assets/527b15d4b1e/overlay ""Refugee"")](https://vimeo.com/258804752)
 
 
 _“In this video, the refugees want to come into a European country\. The police of Turkey want to attack the refugees — they come in front of the refugee boat and crash into them\. Most of the refugees fell into the water\. Maybe five people or ten people died\. I was in the water too, but I had a life jacket” —_ Satar, 16 years old, Afghanistan\.

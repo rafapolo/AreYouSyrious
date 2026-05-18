@@ -119,7 +119,7 @@ In a previous article the past week, MSF reported that over 100 people have drow
 
 
 
-[![](https://media.msf.org/AssetLink/54k7kn4rshg8ih24436nk246asmp27vg.jpg)](https://www.msf.org/over-100-deaths-one-week-central-mediterranean)
+[![](../assets/b4dd01037cf9/54k7kn4rshg8ih24436nk246asmp27vg.jpg)](https://www.msf.org/over-100-deaths-one-week-central-mediterranean)
 
 ### **100 people at risk at sea in Malta**
 
@@ -248,7 +248,7 @@ In other news, on March 25, Polish **authorities [detained](https://oko.press/ak
 
 
 
-[![](https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2021/02/4feb2021featured.jpg)](https://blogs.lse.ac.uk/europpblog/2022/04/11/criminalisation-at-europes-borders-uncovering-the-risks-faced-by-those-who-support-asylum-seekers/?fbclid=IwAR0eogdCGgfF4WhQx9EGuFvkKBVNnd9cceqQnOnxHKGvV1x8v19nVx_CKMY)
+[![](../assets/b4dd01037cf9/4feb2021featured.jpg)](https://blogs.lse.ac.uk/europpblog/2022/04/11/criminalisation-at-europes-borders-uncovering-the-risks-faced-by-those-who-support-asylum-seekers/?fbclid=IwAR0eogdCGgfF4WhQx9EGuFvkKBVNnd9cceqQnOnxHKGvV1x8v19nVx_CKMY)
 
 - The EU Policy of Containment of Asylum Seekers at the Borders of Europe: \(1\) The Hotspot Approach
 

@@ -296,7 +296,7 @@ It is not the first time that Frontex opted for a strategy of intimidation when 
 Lawsuits against Frontex — don’t miss this powerful story on the historical take of a young person in the most vulnerable position making a move against the most powerful ones:
 
 
-[![](https://wearesolomon.com/wp-content/uploads/2021/10/Νόμιζα-ότι-στην-Ευρώπη-επικρατεί-ο-νόμος.jpg)](https://wearesolomon.com/mag/logodosia/nomiza-oti-sthn-evropi-epikratei-o-nomos/?lang=el&fbclid=IwAR3B0f_mGaE5PjD1w2VTwrtz9jtIiAYbsCrxZUIuKEEjrQFUG3ph8DmdrjY)
+[![](../assets/cc11e2f85a3b/%CE%9D%CF%8C%CE%BC%CE%B9%CE%B6%CE%B1-%CF%8C%CF%84%CE%B9-%CF%83%CF%84%CE%B7%CE%BD-%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7-%CE%B5%CF%80%CE%B9%CE%BA%CF%81%CE%B1%CF%84%CE%B5%CE%AF-%CE%BF-%CE%BD%CF%8C%CE%BC%CE%BF%CF%82.jpg)](https://wearesolomon.com/mag/logodosia/nomiza-oti-sthn-evropi-epikratei-o-nomos/?lang=el&fbclid=IwAR3B0f_mGaE5PjD1w2VTwrtz9jtIiAYbsCrxZUIuKEEjrQFUG3ph8DmdrjY)
 
 - LIBYA — between the Libyan hammer and the EU’s anvil
 

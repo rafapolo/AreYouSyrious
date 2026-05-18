@@ -232,7 +232,7 @@ More migrants than ever before crossed the English Channel by boat in the first 
 A photo essay on a fragmented European border strategy\.
 
 
-[![](https://cdn2.opendemocracy.net/media/images/H981034-R1-07-7-3.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/can-europe-make-it/administration-orders-analogy-madness-and-migration-leros/?fbclid=IwAR27mrA8cFyRWsqkX3CiMa3oozUfjmt6synlWEzEjFdLam58b5OsTObHq18)
+[![](../assets/e39a84bd1785/H981034-R1-07-7-3.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/can-europe-make-it/administration-orders-analogy-madness-and-migration-leros/?fbclid=IwAR27mrA8cFyRWsqkX3CiMa3oozUfjmt6synlWEzEjFdLam58b5OsTObHq18)
 
 
 Thematic Focus: ICTs & Other Technologies from the Forced Migration Current Awareness site

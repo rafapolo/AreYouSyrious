@@ -209,7 +209,7 @@ Braderie solidaire — a [solidarity sale](https://www.facebook.com/events/30445
 A short video documenting the real state of emergency on the streets of Paris, regarding the living conditions of refugees, was recently released\.
 
 
-[![The Real State of Emergency](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F632131434-e9035f0f685bef6ac5777ec1742cbed73ba963051d7a418d03636dec84d4be38-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "The Real State of Emergency")](https://vimeo.com/215420647)
+[![The Real State of Emergency](../assets/b7f5ba2edae2/overlay "The Real State of Emergency")](https://vimeo.com/215420647)
 
 
 Urgent material donations needed at Dunkirk\. See more [here](https://www.dunkirkrefugeewomenscentre.com/single-post/2017/05/04/Urgent-List-of-Needs-Womens-Centre-Material-Donation-Relaunched) \.

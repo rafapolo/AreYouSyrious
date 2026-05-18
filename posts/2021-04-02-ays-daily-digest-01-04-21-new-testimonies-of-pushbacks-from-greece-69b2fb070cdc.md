@@ -61,7 +61,7 @@ Deutsche Welle published a video analyzing the hotspot system for asylum seekers
 Der Spiegel documented the fates of four unaccompanied minors in Moria\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/21b5f5ff-0002-0004-0000-000061535a99_w1280_r1.77_fpx71_fpy41.jpg)](https://www.spiegel.de/international/europe/underage-refugees-the-desperate-children-of-moria-a-097dfddb-756f-4f49-bc76-6bc3acf5de77?fbclid=IwAR2Vxck9Cmc91cHcAQuo-2164QvQQm23RNj3sfBmdo0aU4r6CgtxMjjsE4I)
+[![](../assets/69b2fb070cdc/21b5f5ff-0002-0004-0000-000061535a99_w1280_r1.77_fpx71_fpy41.jpg)](https://www.spiegel.de/international/europe/underage-refugees-the-desperate-children-of-moria-a-097dfddb-756f-4f49-bc76-6bc3acf5de77?fbclid=IwAR2Vxck9Cmc91cHcAQuo-2164QvQQm23RNj3sfBmdo0aU4r6CgtxMjjsE4I)
 
 ### Niger
 

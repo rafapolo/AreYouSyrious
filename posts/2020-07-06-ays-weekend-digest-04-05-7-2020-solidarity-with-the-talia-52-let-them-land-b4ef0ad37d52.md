@@ -259,7 +259,7 @@ The Fundamental Rights Agency has published its annual update of the Forced Retu
 To read more please follow the link:
 
 
-[![](https://fra.europa.eu/sites/default/files/styles/large/public/fra_images/data-vis.jpg?itok=qmmLT1GM)](https://fra.europa.eu/en/publication/2020/forced-return-monitoring-systems-2020-update?fbclid=IwAR1DsfjFJc1aMA8W8mgrhFqpeKE96XPCyRtkcXYWEFJii5CjOds628FumBs)
+[![](../assets/b4ef0ad37d52/data-vis.jpg)](https://fra.europa.eu/en/publication/2020/forced-return-monitoring-systems-2020-update?fbclid=IwAR1DsfjFJc1aMA8W8mgrhFqpeKE96XPCyRtkcXYWEFJii5CjOds628FumBs)
 
 
 Info Migrants have produced a helpful guide to understanding the Dublin Regulation\. The Dublin Regulation \(sometimes referred to as Dublin III\) determines which country is responsible for examining an asylum application — normally the country where the asylum seeker first entered Europe\.
@@ -269,7 +269,7 @@ This guide outlines the main principles of the Dublin Regulation, provides guide
 To read more please follow the link:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/640a0071b7e36040a6fd1eee5b5f1cb41611301d.jpeg)](https://www.infomigrants.net/en/post/25622/the-dublin-regulation-your-questions-answered?fbclid=IwAR1w26552sPDDQt-1zwh_2cmY5dwgX0cen5QnufOFZaM1QgGPx3kQ5ihi08)
+[![](../assets/b4ef0ad37d52/640a0071b7e36040a6fd1eee5b5f1cb41611301d.jpeg)](https://www.infomigrants.net/en/post/25622/the-dublin-regulation-your-questions-answered?fbclid=IwAR1w26552sPDDQt-1zwh_2cmY5dwgX0cen5QnufOFZaM1QgGPx3kQ5ihi08)
 
 
 Journalist Sofian Philip Naceur has penned a powerful piece for resalux\.de asking “ _could a new era for EU border control be on the horizon?_ ”\.
@@ -283,7 +283,7 @@ Another article from the ICMPD describes a different but albeit still hostile fu
 To read the full article please follow the link below:
 
 
-[![](https://www.rosalux.de/fileadmin/images/EnglishWS/frontexalbania.jpg)](https://www.rosalux.de/en/publication/id/42597/covid-19-is-grist-to-the-border-regime-mill?fbclid=IwAR36RDDjLo9_F97FcMCF5m-iqQQ7IAbtAXyNrbucOVZhnlEdf_Q0AaALpkU)
+[![](../assets/b4ef0ad37d52/frontexalbania.jpg)](https://www.rosalux.de/en/publication/id/42597/covid-19-is-grist-to-the-border-regime-mill?fbclid=IwAR36RDDjLo9_F97FcMCF5m-iqQQ7IAbtAXyNrbucOVZhnlEdf_Q0AaALpkU)
 
 ### Bosnia and Herzegovina
 
@@ -311,13 +311,13 @@ The European Center for Constitutional and Human Rights \(ECCHR\) is a non\-prof
 This glossary explains many of the basic terms often used in the area of migration and human rights\.
 
 
-[![](https://www.ecchr.eu/fileadmin/_processed_/a/4/csm_MRmitjurMitteln_EN_FB_581253ab18.png)](https://www.ecchr.eu/en/glossar-dictionary/?fbclid=IwAR3mjfRE9SOKb70Hz5ZVXlARG8b06UZ4ZUGf5FmhfTSm5kJGMdHl7YLqC5Q)
+[![](../assets/b4ef0ad37d52/csm_MRmitjurMitteln_EN_FB_581253ab18.png)](https://www.ecchr.eu/en/glossar-dictionary/?fbclid=IwAR3mjfRE9SOKb70Hz5ZVXlARG8b06UZ4ZUGf5FmhfTSm5kJGMdHl7YLqC5Q)
 
 
 The Migrant Offshore Aid Station is appealing for the creation of safe and legal migration routes\. To read their appeal and sign their petition please follow the link:
 
 
-[![](https://www.moas.eu/wp-content/uploads/2022/07/33.png)](https://www.moas.eu/safeandlegalroutes/?fbclid=IwAR1ix3wo1p0XzhHwlFCwLij028JvMb_3WXgBnr_JEURYi-bG9U-zvsUam74)
+[![](../assets/b4ef0ad37d52/33.png)](https://www.moas.eu/safeandlegalroutes/?fbclid=IwAR1ix3wo1p0XzhHwlFCwLij028JvMb_3WXgBnr_JEURYi-bG9U-zvsUam74)
 
 
 The Coronavirus and Mobility Forum is a forum that facilitates discussion among researchers from multiple disciplines across the world to deepen our understandings of the crisis, and to explore new tools in migration research that will help us to make sense of the fast\-moving world\. The forum is a platform for ongoing reflections and discussions, and is not currently a defined research project\. The views expressed in the forum are of individual authors, rather than those of COMPAS\.

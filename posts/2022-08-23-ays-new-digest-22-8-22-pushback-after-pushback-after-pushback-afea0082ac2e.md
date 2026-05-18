@@ -209,7 +209,7 @@ At their side are their lawyers from @[GCRefugees](https://twitter.com/GCRefugee
 The boat had been adrift for five days after leaving Turkey for Europe\. Within the group, there was one pregnant woman, and seven of the children were under the age of five\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/ce12213ede7edc30c6be3801b1eeafa402fc5b37.jpg)](https://www.infomigrants.net/en/post/42771/geo-barents-rescues-106-migrants-in-mediterranean)
+[![](../assets/afea0082ac2e/ce12213ede7edc30c6be3801b1eeafa402fc5b37.jpg)](https://www.infomigrants.net/en/post/42771/geo-barents-rescues-106-migrants-in-mediterranean)
 
 #### Open Arms Uno is also looking for a safe port for the 100 people currently onboard
 
@@ -247,7 +247,7 @@ Out of those who refuse the vaccine, the reasons can vary from not having enough
 The IOM conducted this research in order to boost their awareness campaigns and better understand the views of migrant groups towards getting vaccinated\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/677e1e5bb71df39df3af7099757ae1bbed8b3229.jpg)](https://www.infomigrants.net/en/post/42773/52-of-migrants-in-morocco-without-access-to-covid-vaccine)
+[![](../assets/afea0082ac2e/677e1e5bb71df39df3af7099757ae1bbed8b3229.jpg)](https://www.infomigrants.net/en/post/42773/52-of-migrants-in-morocco-without-access-to-covid-vaccine)
 
 #### SPAIN
 ### Alarm Phone reports two bodies were found on a beach in Melilla on the morning of 22nd August
@@ -285,7 +285,7 @@ It has become apparent that the Government have been using ‘mini\-charter flig
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/edb3b59a02dfc11669eccdcd799cc2e74b85284e.jpeg)](https://www.infomigrants.net/en/post/42779/germany-over-6000-deportations-in-first-half-of-2022)
+[![](../assets/afea0082ac2e/edb3b59a02dfc11669eccdcd799cc2e74b85284e.jpeg)](https://www.infomigrants.net/en/post/42779/germany-over-6000-deportations-in-first-half-of-2022)
 
 
 
@@ -350,7 +350,7 @@ Around 1500 individuals attempted to claim they were underage, but this claim di
 The idea of running medical tests has been put forward in the past, such as conducting X\-rays to look at an individual’s bone structure\. However, human rights organisations have raised concerns of the ethics of such testing\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/02ba34611fab0efe6e61d9a4f431d74aa027c8f6.jpg)](https://www.infomigrants.net/en/post/42734/false-migrant-age-claims-skyrocketing-in-uk)
+[![](../assets/afea0082ac2e/02ba34611fab0efe6e61d9a4f431d74aa027c8f6.jpg)](https://www.infomigrants.net/en/post/42734/false-migrant-age-claims-skyrocketing-in-uk)
 
 #### [A great guide](https://gal-dem.com/guide-stopping-deportation-flight-immigration/) to getting actively involved in stopping deportations and immigration raids\. They refer to a few organisations that you can join and emphasise the importance of collective resistance\.
 #### Flying Kites in Solidarity
@@ -384,13 +384,13 @@ The idea of running medical tests has been put forward in the past, such as cond
 
 
 
-[![](https://thediplomat.com/wp-content/uploads/2022/08/sizes/td-story-s-2/thediplomat_2022-08-22-131300.jpg)](https://thediplomat.com/2022/08/who-will-champion-the-rohingya/)
+[![](../assets/afea0082ac2e/thediplomat_2022-08-22-131300.jpg)](https://thediplomat.com/2022/08/who-will-champion-the-rohingya/)
 
 - _InfoMigrants_ — UNHCR operators who have had lived experience of forced displacement — Mohamed and Oleksandra
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/4411b5f8e4f9ccf38e96f5b9a7bd2297d9dec5b4.jpg)](https://www.infomigrants.net/en/post/42770/unhcr-operators-draw-on-firsthand-experience-as-refugees?preview=1661162366406)
+[![](../assets/afea0082ac2e/4411b5f8e4f9ccf38e96f5b9a7bd2297d9dec5b4.jpg)](https://www.infomigrants.net/en/post/42770/unhcr-operators-draw-on-firsthand-experience-as-refugees?preview=1661162366406)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

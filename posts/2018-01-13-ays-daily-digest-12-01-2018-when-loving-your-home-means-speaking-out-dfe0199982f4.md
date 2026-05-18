@@ -85,7 +85,7 @@ The journalist was detained for sharing the video\. Unfortunately, it seems that
 The Athens Legal Support team published a video detailing the conditions in “limbo land\.”
 
 
-[!["Camps Limbo" Denouncement](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F676886175-152f7f60f365e4aec5191c841deec5a45c820a51126d8958a5d535fe509e930b-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png ""Camps Limbo" Denouncement")](https://vimeo.com/250713081)
+[!["Camps Limbo" Denouncement](../assets/dfe0199982f4/overlay ""Camps Limbo" Denouncement")](https://vimeo.com/250713081)
 
 ### HUNGARY
 

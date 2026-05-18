@@ -47,7 +47,7 @@ Calling Denmark to immediately reconsider this dangerous announcement, Euro\-Med
 As in many other cases along the so called Balkan Route, where translators \(or better said, people who were engaged as translators by the police, and were linguistically lowest of the low, but politically very spiked\) ultimately decided on people’s futures and had great role in many being _dublined_ to Croatia’s infamous detention Sector 3, as it turns out, in Denmark the situation was similar to some point\. Some of the translators during this process made it clear to the refugees they did not support the Syrian revolution while there might have been errors in translations during the interview process\.
 
 
-[![](https://euromedmonitor.org/uploads/2021/April/denpress.jpg)](https://euromedmonitor.org/en/article/4303/Denmark%E2%80%99s-designation-of-Syria-as-%E2%80%98safe%E2%80%99-is-dangerous,-inhumane,-and-illegal?fbclid=IwAR2LJ7Cimufyeg4X-naP03aVzBeFWkeeIAfVEMjGLW-ZcVdCQR-XwyCZP7g)
+[![](../assets/3f5b8befbb2e/denpress.jpg)](https://euromedmonitor.org/en/article/4303/Denmark%E2%80%99s-designation-of-Syria-as-%E2%80%98safe%E2%80%99-is-dangerous,-inhumane,-and-illegal?fbclid=IwAR2LJ7Cimufyeg4X-naP03aVzBeFWkeeIAfVEMjGLW-ZcVdCQR-XwyCZP7g)
 
 
 

@@ -103,7 +103,7 @@ October 2013 saw two of the most grave shipwrecks happening in the Mediterranean
 Relatives of victims of the first shipwreck now uncovered that some bodies have been moved from the burial ground and were put into a mass grave, [as Info Migrants reports\.](https://www.infomigrants.net/en/post/35644/lampedusa-shipwreck-victims-reburied-in-mass-grave?fbclid=IwAR3qttXPGyiTNDdtPhNLrAUNV1p6TcEIQe22AxbDJ4tftwSyuj4S7udbHYg) It was argued by local authorities at the request of the relatives that the remains of these people were reburied in a mass grave because the municipality was lacking burial grounds and the victims have never been identified\. The Mayor of the town Sciacca in southern Sicily promised to investigate on how this could happen\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/b102442fb8ca609f14e9ec4da31741f3fdc346f7.jpg)](https://www.infomigrants.net/en/post/35644/lampedusa-shipwreck-victims-reburied-in-mass-grave?fbclid=IwAR3HFdlmTtpF90tzC-0XepnM6sLrGR7XLK5XiB2cXwc8ifnxivtlB3_oV1I)
+[![](../assets/d8c883a329e1/b102442fb8ca609f14e9ec4da31741f3fdc346f7.jpg)](https://www.infomigrants.net/en/post/35644/lampedusa-shipwreck-victims-reburied-in-mass-grave?fbclid=IwAR3HFdlmTtpF90tzC-0XepnM6sLrGR7XLK5XiB2cXwc8ifnxivtlB3_oV1I)
 
 ### GREECE
 #### New border fences for Greece?
@@ -165,13 +165,13 @@ Following Denmark's declaration of Syria being safe to return for Syrians, many 
 In the resent weeks, the UK Home Office pushed hard to make pushbacks in the Channel the number one strategy on dealing with people who try to cross\. This blog post provides an overview over the legal situation concerning obligations to rescue people in distress in British and international law:
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2020/09/12895192953_481ab13fb7_c-min.jpg)](https://www.freemovement.org.uk/refugee-pushbacks-english-channel-borders-bill-briefing/?fbclid=IwAR3KzRAsCQ3Pmo3rSv2W7XoaAWpo3dqBt2bKCbFPx7bSeYKmW4MJgKyAPk0)
+[![](../assets/d8c883a329e1/12895192953_481ab13fb7_c-min.jpg)](https://www.freemovement.org.uk/refugee-pushbacks-english-channel-borders-bill-briefing/?fbclid=IwAR3KzRAsCQ3Pmo3rSv2W7XoaAWpo3dqBt2bKCbFPx7bSeYKmW4MJgKyAPk0)
 
 
 In the last years, many young people who recently arrived to the UK and had insecure prospects on their asylum status, took their own lives\. This article looks deeper into the tragedy and how the British asylum system is harming peoples’ mental health situation\.
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/17027/production/_120874249_screenshot_20211004_133533_com.whatsapp-1.jpg)](https://www.bbc.com/news/uk-england-coventry-warwickshire-58791463.amp?fbclid=IwAR3HyJbzZfZLuwAaYTUpuj72QiKn45muVd5wKffsRsK3xvaqxHroKUqxtu8)
+[![](../assets/d8c883a329e1/_120874249_screenshot_20211004_133533_com.whatsapp-1.jpg)](https://www.bbc.com/news/uk-england-coventry-warwickshire-58791463.amp?fbclid=IwAR3HyJbzZfZLuwAaYTUpuj72QiKn45muVd5wKffsRsK3xvaqxHroKUqxtu8)
 
 ### WORTH READING
 #### New Mixed Migration Update is out\! The weekly Newsletter collects updated on migration from all around the world:

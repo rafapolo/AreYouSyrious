@@ -45,7 +45,7 @@ After several days at sea, there is still no news about the missing 37 people wh
 More on the arrivals to the Canary islands in this story:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/0d9935665af3f2e71ef5a37effa8a8f404c1bae1.png)](https://www.infomigrants.net/en/post/29654/each-boat-is-in-danger-the-rescue-of-migrants-trying-to-reach-the-canary-islands?fbclid=IwAR0ecmthe7yB-FpB9t3NKb2cLYOS9gvy8cKb8KJhcubqPjZRpivrC6Lm1Is)
+[![](../assets/8cc3f314b16a/0d9935665af3f2e71ef5a37effa8a8f404c1bae1.png)](https://www.infomigrants.net/en/post/29654/each-boat-is-in-danger-the-rescue-of-migrants-trying-to-reach-the-canary-islands?fbclid=IwAR0ecmthe7yB-FpB9t3NKb2cLYOS9gvy8cKb8KJhcubqPjZRpivrC6Lm1Is)
 
 
 Alarm Phone [reported](https://twitter.com/alarm_phone/status/1350095064949784583?s=20) more missing people in the Mediterranean — “Over the past days, 6 people tried repeatedly to enter Melilla by swimming\. A survivor informed us that 2 of them went missing in Spanish waters on January 13\. Local police refuse to give any info if they were found and survived\! Friends and relatives of the missing demand answers\!”
@@ -114,7 +114,7 @@ At the same time, following the protests at the Penally, Home Secretary Priti Pa
 Activists will occupy public spaces in Vienna and Innsbruck with tents to raise awareness for the situation of tens of thousands of people stuck in Greece and Bosnia\. In Innsbruck, a group has been continuing this action since Christmas\.
 
 
-[![](https://i.ds.at/AMyv7g/rs:fill:1200:600/plain/2021/01/15/Camp-Moria-Wien-Innsbruck.jpg)](https://www.derstandard.at/story/2000123338495/protestcamp-fuer-moria-ab-samstag-in-innsbruck-und-wien?fbclid=IwAR2gknBJrOfTIdyzVrb4wsCtuPisWeY1yrD-x9eeou4toPkoAteHN1AEQ4g)
+[![](../assets/8cc3f314b16a/Camp-Moria-Wien-Innsbruck.jpg)](https://www.derstandard.at/story/2000123338495/protestcamp-fuer-moria-ab-samstag-in-innsbruck-und-wien?fbclid=IwAR2gknBJrOfTIdyzVrb4wsCtuPisWeY1yrD-x9eeou4toPkoAteHN1AEQ4g)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

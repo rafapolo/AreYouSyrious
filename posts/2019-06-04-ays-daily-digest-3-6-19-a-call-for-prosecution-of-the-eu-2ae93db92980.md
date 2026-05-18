@@ -67,7 +67,7 @@ Statements from the French president, the German chancellor and other top Europe
 France has already dismissed the accusations as “senseless” and lacking “any legal foundations\.”
 
 
-[![](https://img.lemde.fr/2019/06/02/0/0/3499/2333/1440/960/60/0/b217027_GGG-BAG501_EUROPE-MIGRANTS-LIBYA_0602_11.JPG)](https://www.lemonde.fr/international/article/2019/06/03/plainte-contre-l-union-europeenne-devant-la-cpi-pour-le-traitement-des-migrants-en-libye_5470685_3210.html?utm_medium=Social&utm_source=Twitter#Echobox=1559550616)
+[![](../assets/2ae93db92980/b217027_GGG-BAG501_EUROPE-MIGRANTS-LIBYA_0602_11.JPG)](https://www.lemonde.fr/international/article/2019/06/03/plainte-contre-l-union-europeenne-devant-la-cpi-pour-le-traitement-des-migrants-en-libye_5470685_3210.html?utm_medium=Social&utm_source=Twitter#Echobox=1559550616)
 
 
 A very vague official statement was issued immediately after the official press conference held in Paris\.

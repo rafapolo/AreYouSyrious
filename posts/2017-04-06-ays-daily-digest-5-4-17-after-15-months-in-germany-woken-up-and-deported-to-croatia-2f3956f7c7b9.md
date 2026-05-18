@@ -216,7 +216,7 @@ Eight months imprisonment with probation and a two\-year ban from French territo
 Francesca, [activist and volunteer](https://www.facebook.com/events/269083503503891/?hc_location=ufi) , was arrested when she helped 8 people, including one family with a 6 month old baby cross the border from Italy to France\. Before that, her story had become known when she helped reunite a mother with her five year old daughter who had to cross the Mediterranean on her own\.
 
 
-[![13H15 - LOZA](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F591107672-13f40f8c66ab2585986f8fde51c8dfb8c704579bca6ad68ebcb7ae4661496764-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "13H15 - LOZA")](https://vimeo.com/182203722)
+[![13H15 - LOZA](../assets/2f3956f7c7b9/overlay "13H15 - LOZA")](https://vimeo.com/182203722)
 
 
 Unconfirmed rumors state that at the CIE \(center for identification and expulsion\) in Torino, the last such center open in Northern Italy, refugees are preparing a hunger strike to protest against living conditions in the center and detention\. Yesterday night, sounds of uproar such as screaming, whistling, and beating objects against metal grates could be heard from outside, Italian [media report](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.lastampa.it%2F2017%2F04%2F05%2Fcronaca%2Fproteste-nella-notte-al-cie-di-torino-Lvz63moNH284zpU4Kh5tvN%2Fpagina.html&h=ATOcv_5WdIntD9UoKRFi_7xwNxUR09FWjHFm08PM8tfIZiRFVE5HS7JcUAH2HJBTnP3gqZI17uRrFIXatypsH_5HLOdhgWSSjkynWOuCVx4zgNMBsdtxHZdizVw_10EDDi8U) \.

@@ -266,7 +266,7 @@ More information can be found [here](https://twitter.com/Arrif_Tweets) \.
 
 
 
-[![](https://static.euronews.com/articles/stories/03/84/67/46/1000x563_cmsv2_c39b781d-f3f5-5d73-809e-bc41e4def521-3846746.jpg)](https://www.euronews.com/2019/05/02/orban-and-salvini-inspect-hungary-s-border-fence-with-serbia?fbclid=IwAR3i9zYVq2i_lHimBL2negc2ZXENkGYjo8AkXaRBDH4hrJsxb47PFwipawI)
+[![](../assets/1ff892d073f0/1000x563_cmsv2_c39b781d-f3f5-5d73-809e-bc41e4def521-3846746.jpg)](https://www.euronews.com/2019/05/02/orban-and-salvini-inspect-hungary-s-border-fence-with-serbia?fbclid=IwAR3i9zYVq2i_lHimBL2negc2ZXENkGYjo8AkXaRBDH4hrJsxb47PFwipawI)
 
 #### AYS and the Daily News Digest — How to Get Involved?
 

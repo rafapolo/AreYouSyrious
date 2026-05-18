@@ -36,7 +36,7 @@ Other NGO’s and Human Rights activists also expressed their deepest concerns\.
 More information:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2019/08/lesvos5006-660x330.jpg)](https://www.keeptalkinggreece.com/2019/08/31/greece-migrants-refugees-measures-kysea)
+[![](../assets/3dd9c0c6065/lesvos5006-660x330.jpg)](https://www.keeptalkinggreece.com/2019/08/31/greece-migrants-refugees-measures-kysea)
 
 ### GREECE
 
@@ -132,7 +132,7 @@ Un pas vers demain together with Paris d’Exile launched a crowd funder to help
 Paris d’Exile Mineurs also calls for support in order to buy new public transport tickets for minors to allow them a safe passage to school\.
 
 
-[![](https://cdn.helloasso.com/img/photos/131413-621f0c6d3f6a4b3dbd1eb95061eb5390.jpg)](https://www.helloasso.com/associations/paris-d-exil-mineurs?fbclid=IwAR1upSZOTMGwxvxp4w_zfOITji2QKXgB096V725ti1AeNn7zO9u8b4lDcFQ)
+[![](../assets/3dd9c0c6065/131413-621f0c6d3f6a4b3dbd1eb95061eb5390.jpg)](https://www.helloasso.com/associations/paris-d-exil-mineurs?fbclid=IwAR1upSZOTMGwxvxp4w_zfOITji2QKXgB096V725ti1AeNn7zO9u8b4lDcFQ)
 
 
 In Rennes, Association Bulles Solidaires is in urgent need of hygiene products to distribute amongst about 400 people who according to the organization were forced to live in the Parc des Gayeulles for several weeks because of a lack of proper accommodation\.
@@ -173,7 +173,7 @@ Worrying news from the UK in the case of a no\-deal Brexit, reported by the Guar
 The full article can be found here:
 
 
-[![](https://i.guim.co.uk/img/media/fbc0bfa98e256918776b3fa0aa1d599b1d50d083/398_1020_8300_4980/master/8300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=a2ffe23a50301e009ae5ac7d8ee0f431)](https://www.theguardian.com/global-development/2019/sep/01/home-office-planning-to-end-family-reunion-for-children-after-brexit?CMP=Share_iOSApp_Other&fbclid=IwAR2cWsQL7bk5yGQmKn041y12dnwFr_pu3wlPhwieWOV81Ku0vtQIBzRUTw0)
+[![](../assets/3dd9c0c6065/8300.jpg)](https://www.theguardian.com/global-development/2019/sep/01/home-office-planning-to-end-family-reunion-for-children-after-brexit?CMP=Share_iOSApp_Other&fbclid=IwAR2cWsQL7bk5yGQmKn041y12dnwFr_pu3wlPhwieWOV81Ku0vtQIBzRUTw0)
 
 ### SWEDEN
 

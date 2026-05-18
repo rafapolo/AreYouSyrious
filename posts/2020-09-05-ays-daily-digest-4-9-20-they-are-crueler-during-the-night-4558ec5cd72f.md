@@ -70,7 +70,7 @@ The _Maersk Etienne_ , currently at Hurd’s Bank, is at double its usual carryi
 One of the 27 refugees stuck on a merchant ship that has been blocked from Malta’s ports for four weeks threatened to kill himself by jumping overboard, the captain has warned\.
 
 
-[![](https://thecivilfleet.files.wordpress.com/2020/09/200827_chrisgrodotzki_3503.jpg?w=1200)](https://thecivilfleet.wordpress.com/2020/09/04/refugee-threatened-to-jump-overboard-from-merchant-ship-blockaded-by-malta-for-four-weeks/?fbclid=IwAR0EXyXJk1ptz48WGvZUpYYCtZq71M5rd3afZMMjlNHRkSrOWeFKwWgFWDM)
+[![](../assets/4558ec5cd72f/200827_chrisgrodotzki_3503.jpg)](https://thecivilfleet.wordpress.com/2020/09/04/refugee-threatened-to-jump-overboard-from-merchant-ship-blockaded-by-malta-for-four-weeks/?fbclid=IwAR0EXyXJk1ptz48WGvZUpYYCtZq71M5rd3afZMMjlNHRkSrOWeFKwWgFWDM)
 
 
 Maersk say that it is the longest time a commercial vessel has been stuck at sea due to a migration\-related standoff, media [report\.](https://timesofmalta.com/articles/view/watch-captain-makes-desperate-appeal-following-four-week-standoff.816162?fbclid=IwAR1aLRCct9aU84KbV1htdv136AO8HU9CvsnpaoLuk55xm9kblT-H4YFWsXc)
@@ -318,7 +318,7 @@ Evidence presented to the Home Affairs committee of MPs on 3 September makes cle
 More than 400 people on the move have been trapped between Una\-Sana and Republic of Srpska, with no food, water and possibility to be medically treated\. Here is one of the reports on the mounting number of troubles for the people there\.
 
 
-[![](https://detektor.ba/wp-content/uploads/2020/09/001-scaled-e1599220756880.jpg)](https://detektor.ba/2020/09/04/izbjeglice-na-nicijoj-zemlji-izmedju-saosjecanja-politike-i-napada?fbclid=IwAR1aLRCct9aU84KbV1htdv136AO8HU9CvsnpaoLuk55xm9kblT-H4YFWsXc)
+[![](../assets/4558ec5cd72f/001-scaled-e1599220756880.jpg)](https://detektor.ba/2020/09/04/izbjeglice-na-nicijoj-zemlji-izmedju-saosjecanja-politike-i-napada?fbclid=IwAR1aLRCct9aU84KbV1htdv136AO8HU9CvsnpaoLuk55xm9kblT-H4YFWsXc)
 
 
 What happens if you come to Europe with a tourist visa and claim asylum?

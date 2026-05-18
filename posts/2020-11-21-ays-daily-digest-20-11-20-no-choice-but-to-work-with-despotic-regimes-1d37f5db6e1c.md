@@ -146,7 +146,7 @@ According to information from the Ministry of the Interior, as of June 2019, abo
 
 
 
-[![](https://assets.change.org/photos/5/tu/zi/QTTUZidJHbccpqB-1600x900-noPad.jpg?1604566136)](https://www.change.org/p/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%BD%D0%B0%D1%82%D0%B0-%D0%B2%D0%BB%D0%B0%D1%81%D1%82-%D0%BF%D1%8A%D1%82%D0%B5%D0%BA%D0%B0-%D0%B7%D0%B0-%D1%85%D0%BE%D1%80%D0%B0%D1%82%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=1b83a250-3d5b-11e8-bc6c-1df753192b00&fbclid=IwAR03k17kU9FYXK5XQj7bXdWsM8Fj6gL87mUI5NZCo-PLw6UmHQj3ZlLdMkk)
+[![](../assets/1d37f5db6e1c/QTTUZidJHbccpqB-1600x900-noPad.jpg)](https://www.change.org/p/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%BD%D0%B0%D1%82%D0%B0-%D0%B2%D0%BB%D0%B0%D1%81%D1%82-%D0%BF%D1%8A%D1%82%D0%B5%D0%BA%D0%B0-%D0%B7%D0%B0-%D1%85%D0%BE%D1%80%D0%B0%D1%82%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=1b83a250-3d5b-11e8-bc6c-1df753192b00&fbclid=IwAR03k17kU9FYXK5XQj7bXdWsM8Fj6gL87mUI5NZCo-PLw6UmHQj3ZlLdMkk)
 
 #### FRANCE
 
@@ -200,7 +200,7 @@ So far, the conditions in such temporary accommodation have never been designed 
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/f693f05e5a36166bda0aceb1838f6b5061fef1d2.jpeg)](https://www.infomigrants.net/en/post/28605/covid-19-information-for-migrants-and-refugees-in-germany?fbclid=IwAR2ZZ1wNmR1F3gucbyPiL9knSuGDGj8c6QUeLYmMIw9v0k27X9R7V-zDU60)
+[![](../assets/1d37f5db6e1c/f693f05e5a36166bda0aceb1838f6b5061fef1d2.jpeg)](https://www.infomigrants.net/en/post/28605/covid-19-information-for-migrants-and-refugees-in-germany?fbclid=IwAR2ZZ1wNmR1F3gucbyPiL9knSuGDGj8c6QUeLYmMIw9v0k27X9R7V-zDU60)
 
 #### FINLAND
 ### Reception centre occupancy at historically low level

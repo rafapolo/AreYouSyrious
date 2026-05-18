@@ -195,7 +195,7 @@ On one visit to Moria 2\.0 with the official press tour:
 Read the full interview here:
 
 
-[![](https://www.mappingmediafreedom.org/wp-content/uploads/2021/06/Moria-nach-Brand.jpg)](https://www.mappingmediafreedom.org/2021/06/20/reportit-reduction-of-press-freedom-as-the-price-for-eu-border-security/?fbclid=IwAR2PdUwWD3kgFwAHYkTaaGQWFQf9yPo8QYm3kKG3fX6jpg-bKrXKs_2sUaI)
+[![](../assets/ae10acb65034/Moria-nach-Brand.jpg)](https://www.mappingmediafreedom.org/2021/06/20/reportit-reduction-of-press-freedom-as-the-price-for-eu-border-security/?fbclid=IwAR2PdUwWD3kgFwAHYkTaaGQWFQf9yPo8QYm3kKG3fX6jpg-bKrXKs_2sUaI)
 
 #### Samos: residents\-led research in Camp Vathy
 
@@ -283,7 +283,7 @@ Meanwhile, EU Commissioner for Home Affairs Ylva Johannson visited Serbia for th
 Italian Interior Minister Luciana Lamorgese announced the signing of an agreement to take in 500 people from Libya\. She also called on other EU member states not to leave the countries of first arrival alone\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/03148a158e9c5540765b556e7c99c82085bf329a.jpeg)](https://www.infomigrants.net/en/post/33036/italy-announces-humanitarian-corridor-to-bring-500-migrants-from-libya?fbclid=IwAR0-7NWdE1PORGTDpbgv40HvePxesENQqpRUW-qJ3d_ckoJ6DJqJkEaRRbY)
+[![](../assets/ae10acb65034/03148a158e9c5540765b556e7c99c82085bf329a.jpeg)](https://www.infomigrants.net/en/post/33036/italy-announces-humanitarian-corridor-to-bring-500-migrants-from-libya?fbclid=IwAR0-7NWdE1PORGTDpbgv40HvePxesENQqpRUW-qJ3d_ckoJ6DJqJkEaRRbY)
 
 #### Landings on Lampedusa
 

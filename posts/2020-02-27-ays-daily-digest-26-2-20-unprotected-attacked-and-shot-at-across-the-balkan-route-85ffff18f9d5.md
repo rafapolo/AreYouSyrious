@@ -134,7 +134,7 @@ More than 714,000 people applied for asylum or some form of international protec
 Lena Meurer and Julian Pahlke from Sea\-Eye, who are operating the civil rescue ship ALAN KURDI on the Mediterranean, are asking for support with signatures to their petition\.
 
 
-[![](https://assets.change.org/photos/2/da/gn/brDagnMKuBRupZL-1600x900-noPad.jpg?1582721173)](https://www.change.org/p/europas-schiffe-m%C3%BCssen-retten?recruiter=false&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&recruited_by_id=e8be4780-58c4-11ea-920d-478e7b0db603&fbclid=IwAR3DT5R8BjcBrCbOwwzSPSRKdS2paoNVMmLDNQbz5jNDLg1TbGaoB2aQVBI)
+[![](../assets/85ffff18f9d5/brDagnMKuBRupZL-1600x900-noPad.jpg)](https://www.change.org/p/europas-schiffe-m%C3%BCssen-retten?recruiter=false&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&recruited_by_id=e8be4780-58c4-11ea-920d-478e7b0db603&fbclid=IwAR3DT5R8BjcBrCbOwwzSPSRKdS2paoNVMmLDNQbz5jNDLg1TbGaoB2aQVBI)
 
 
 

@@ -145,7 +145,7 @@ Even if people at sea are rescued as they should be, most of the time they have 
 Read here more:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/6723a7bb642e7cb32a522fd58d0b44c4b9b9b141.jpg)](https://www.infomigrants.net/en/post/43072/ocean-viking-rescue-ship-docks-in-italy-after-8day-wait?fbclid=IwAR1jcUD_gTvsEmQ1KUPuaMINJlB1tH6ER4r8en5iloFknZ_YSulrdPLJDfU)
+[![](../assets/b45e72a16933/6723a7bb642e7cb32a522fd58d0b44c4b9b9b141.jpg)](https://www.infomigrants.net/en/post/43072/ocean-viking-rescue-ship-docks-in-italy-after-8day-wait?fbclid=IwAR1jcUD_gTvsEmQ1KUPuaMINJlB1tH6ER4r8en5iloFknZ_YSulrdPLJDfU)
 
 
 Other people reached the Calabria region of Italy\. Over the past two days MSF \(Doctor without borders\) assisted 495 people who had departed from Lebanon, Turkey, Syria, and said in [tweet](https://twitter.com/MSF_Sea/status/1566853839738781696?t=yKwQ96qZuLQO4zqIUmmnRw&s=19&fbclid=IwAR3pF1h5FXBtUMvM619eWTn7Yu1X8D3xtuxMRpiyC9wxUit-9Q8QFFi4gJs)
@@ -166,7 +166,7 @@ A mother embracing her son\. It would be a sweet image, if it were not happening
 Since the navy denies the accusations, the hope of the families was that the recovery of the ship could provide proof to investigators\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/f0c54addfb2ef98a89917c9b3768812793ef1282.jpg)](https://www.infomigrants.net/en/post/43088/little-boy-found-hugging-his-mother-on-the-bottom-of-the-sea-off-lebanese-coast?fbclid=IwAR0NZCbJkUeRfTP6M1_Lw4MN2nw0pSle-gJ0M-deW8VSCBiUVr2lI7d0kFY)
+[![](../assets/b45e72a16933/f0c54addfb2ef98a89917c9b3768812793ef1282.jpg)](https://www.infomigrants.net/en/post/43088/little-boy-found-hugging-his-mother-on-the-bottom-of-the-sea-off-lebanese-coast?fbclid=IwAR0NZCbJkUeRfTP6M1_Lw4MN2nw0pSle-gJ0M-deW8VSCBiUVr2lI7d0kFY)
 
 #### Turkey
 ### Hate crimes against Syrian refugees in Turkey increase
@@ -182,7 +182,7 @@ While there are only mild condemnations from politicians of the violence towards
 Read here more:
 
 
-[![](https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/09/05/3426251-1704963078.jpg?itok=64iWSJRj)](https://www.arabnews.com/node/2156836/middle-east)
+[![](../assets/b45e72a16933/3426251-1704963078.jpg)](https://www.arabnews.com/node/2156836/middle-east)
 
 #### GREECE
 ### Militarisation of borders continues in Greece
@@ -214,7 +214,7 @@ Wars, climate catastrophes, financial crises, and the residual effects of the CO
 Read more here:
 
 
-[![](https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/09/05/3424866-1070823203.jpg?itok=iAZTu3Va)](https://www.arabnews.com/node/2156296/world)
+[![](../assets/b45e72a16933/3424866-1070823203.jpg)](https://www.arabnews.com/node/2156296/world)
 
 #### Germany
 ### Lack of facilities for refugees and racial behaviors by German authorities
@@ -226,7 +226,7 @@ This is also compounded by the poor reception capacity of the school system, str
 New arrivals from the Czech Republic in particular are blamed by the German authorities, highlighting different treatment according to origin\. This is clearly shown by the checks carried out by the German police at the Dresden station since 25 August\. Since the end of August, the Federal Police have been specifically controlling non\-white people on the railway line from the Czech Republic to Germany and at Dresden Main Station, in particular those from Afghanistan\. PRO ASYL and the Saxon Refugee Council denounced this treatment and called for an end to the discriminatory practice of racial profiling\. Read more here
 
 
-[![](https://www.saechsischer-fluechtlingsrat.de/wp-content/uploads/2022/09/polizei-dresden-hbf-scaled.jpg)](https://www.saechsischer-fluechtlingsrat.de/de/2022/09/05/gemeinsame-pressemitteilung-von-pro-asyl-und-dem-saechsischen-fluechtlingsrat-racial-profiling-durch-die-bundespolizei-muss-sofort-beendet-werden/?fbclid=IwAR0H_N93zwIxbVfy2HqMFF2fEry41_rX7naD0pvH1m9KmYVfTQq5VK2dyp4)
+[![](../assets/b45e72a16933/polizei-dresden-hbf-scaled.jpg)](https://www.saechsischer-fluechtlingsrat.de/de/2022/09/05/gemeinsame-pressemitteilung-von-pro-asyl-und-dem-saechsischen-fluechtlingsrat-racial-profiling-durch-die-bundespolizei-muss-sofort-beendet-werden/?fbclid=IwAR0H_N93zwIxbVfy2HqMFF2fEry41_rX7naD0pvH1m9KmYVfTQq5VK2dyp4)
 
 #### France
 ### In France, the life of the inhabitants of Calais is made impossible
@@ -286,7 +286,7 @@ In other article by The Guardian, some Syrian asylum seekers who arrived by boat
 
 
 
-[![](https://i.guim.co.uk/img/media/3579ecf7d8298c79b9ae24d30a107d645e957ab0/0_0_4929_2957/master/4929.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63c871aafb660646c5bb9187508ee17c)](https://www.theguardian.com/uk-news/2022/sep/04/rwanda-asylum-seekers-uk-living-in-fear?fbclid=IwAR1_mnp6mq3G29qQmrsy9P0E2o1PBdhe1_sH6rUJO883ztsKnEMg8zbQkM0)
+[![](../assets/b45e72a16933/4929.jpg)](https://www.theguardian.com/uk-news/2022/sep/04/rwanda-asylum-seekers-uk-living-in-fear?fbclid=IwAR1_mnp6mq3G29qQmrsy9P0E2o1PBdhe1_sH6rUJO883ztsKnEMg8zbQkM0)
 
 
 The psychological effect of deportations to Rwanda would be devastating\. Also Rwanda is not a safe country\.
@@ -331,7 +331,7 @@ My letter to Prime Minister @[BorisJohnson](https://twitter.com/BorisJohnson) �
 A few days before the trial started nearly 1,000 people on the move crossed the English Channel in small boats on Saturday, 2 September\. Another 200 were forced to return to France\. Here more:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/84f3c494fc2fe21c45dd729f82fd2ac5c80182b9.jpg)](https://www.infomigrants.net/en/post/43074/nearly-1000-migrants-cross-channel-scores-rescued-by-france?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc)
+[![](../assets/b45e72a16933/84f3c494fc2fe21c45dd729f82fd2ac5c80182b9.jpg)](https://www.infomigrants.net/en/post/43074/nearly-1000-migrants-cross-channel-scores-rescued-by-france?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc)
 
 #### EU and FRONTEX
 ### LIBE didn’t grant discharge for Frontex agency
@@ -383,7 +383,7 @@ A Guardian investigation showed the operator has been accused of ‘gross neglig
 Read more here:
 
 
-[![](https://i.guim.co.uk/img/media/9f42a7817b6b52f110cb3d392b2a9640cfc763d5/0_0_4000_2402/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f182041acfdbea5ef5ddab1c988e95b5)](https://www.theguardian.com/australia-news/2022/sep/05/the-egregious-history-of-likely-new-nauru-operator-includes-allegations-of-gang-and-in-its-us-prisons?CMP=share_btn_tw&fbclid=IwAR3Xza3RrzIjpMJk71y9zo93_vOIuRvwIetDvKA1UKluAcWBD004r8U2Xyw)
+[![](../assets/b45e72a16933/4000.jpg)](https://www.theguardian.com/australia-news/2022/sep/05/the-egregious-history-of-likely-new-nauru-operator-includes-allegations-of-gang-and-in-its-us-prisons?CMP=share_btn_tw&fbclid=IwAR3Xza3RrzIjpMJk71y9zo93_vOIuRvwIetDvKA1UKluAcWBD004r8U2Xyw)
 
 #### Worth reading :
 - Read the new hebdo mixed migration: Here the importance of recognising the mistakes in Afghanistan made by the international community is given special attention\. Together with other news about migration
@@ -396,7 +396,7 @@ Read more here:
 \- The article highlights how Libyan women novelists have rethematised and interpreted the country’s history in the post\-Gaddafi era
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/02/AP110928013454.jpg?resize=1920%2C1333)](https://www.aljazeera.com/features/2022/9/1/writers-retelling-libya-history-feminist-lens?fbclid=IwAR00PZob5IM6PPLC2h3PqugPN4beiHXs-7u-8HFSU3WdUW8ZoG7nv9fIAgw)
+[![](../assets/b45e72a16933/AP110928013454.jpg)](https://www.aljazeera.com/features/2022/9/1/writers-retelling-libya-history-feminist-lens?fbclid=IwAR00PZob5IM6PPLC2h3PqugPN4beiHXs-7u-8HFSU3WdUW8ZoG7nv9fIAgw)
 
 
 Upcoming events

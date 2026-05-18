@@ -343,7 +343,7 @@ Lesvos Solidarity — Pipka calls you to join their solidarity actions to protes
 
 
 
-[![7th Denouncement: Unaccompanied Minors - Athens Legal Support Team](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F675181982-950b99b1e252072d8cb21404e71817d267dc290cfaf6691b541a57525e1986d6-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "7th Denouncement: Unaccompanied Minors - Athens Legal Support Team")](https://vimeo.com/249294267)
+[![7th Denouncement: Unaccompanied Minors - Athens Legal Support Team](../assets/751f6e0625db/overlay "7th Denouncement: Unaccompanied Minors - Athens Legal Support Team")](https://vimeo.com/249294267)
 
 ### List of current volunteer opportunities
 

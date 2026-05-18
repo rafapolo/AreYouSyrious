@@ -174,7 +174,7 @@ Another group operating in Athens, [Dentists 4 All](https://www.facebook.com/den
 There have been 30 percent fewer sea arrivals in Italy in 2017 than there were in 2016\.
 
 
-[![](https://data.unhcr.org/images/documents/big_7ea484c2d15f8261f5ed4dfd7bf2c48383b7b57f.jpg)](https://data2.unhcr.org/en/documents/details/60780)
+[![](../assets/ec8349cbfbc/big_7ea484c2d15f8261f5ed4dfd7bf2c48383b7b57f.jpg)](https://data2.unhcr.org/en/documents/details/60780)
 
 
 Monthly arrivals have slowed even more since July 2017\. In the month of October 2017 only 5,979 persons reached Italy by sea, compared to the 27,384 refugees who arrived in October 2016\.

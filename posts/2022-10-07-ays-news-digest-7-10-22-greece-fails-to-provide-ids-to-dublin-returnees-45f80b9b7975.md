@@ -66,7 +66,7 @@ Residents of Berlin celebrated ten years of OPlatz\. The name originates from Or
 A trafficker has been extradited from Ethopia to the Netherlands, facing charges of running a human trafficking ring\. The man from Eritrea was arrested two years ago and already sentenced to 18 years\. “Human rights groups say Eritreans flee their country because of forced indefinite conscription, enslavement, torture, and mass imprisonment,” Leakblast [explains](https://leakblast.com/notorious-people-smuggler-extradited-to-netherlands/?fbclid=IwAR31wpXDJ40Rzy_WtjmU_lamaF36NGZH8CqGlVSogNYVTtdLFPdWgEXYs88) \. While the prices surpass the ones people can afford, their families are tortured in case of late payment\. The Guardian wrote a detailed story about him last year\.
 
 
-[![](https://i.guim.co.uk/img/media/06a553944609f56270a9dde3002b465da9ca1db3/0_384_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=c70ed8ea83ba4b8c3363f6fb871233ca)](https://www.theguardian.com/global-development/2021/apr/30/cruel-trafficker-accused-of-torturing-refugees-found-guilty-in-ethiopia?fbclid=IwAR2k1AuKPs_Z0u875jVuKlK6PHBxBSOpkrtmjjEybQbIMI-8oyQbDdRl91Y)
+[![](../assets/45f80b9b7975/5760.jpg)](https://www.theguardian.com/global-development/2021/apr/30/cruel-trafficker-accused-of-torturing-refugees-found-guilty-in-ethiopia?fbclid=IwAR2k1AuKPs_Z0u875jVuKlK6PHBxBSOpkrtmjjEybQbIMI-8oyQbDdRl91Y)
 
 ### EU
 

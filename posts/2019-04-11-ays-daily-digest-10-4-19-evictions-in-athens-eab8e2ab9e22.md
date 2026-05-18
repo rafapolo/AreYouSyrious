@@ -265,7 +265,7 @@ As we have reported earlier, Doctors Without Borders and 18 other associations, 
 Find their press release here:
 
 
-[![](https://www.msf.fr/sites/default/files/styles/social_large/public/2019-04/MSF246894.jpg)](https://www.msf.fr/communiques-presse/fichage-des-enfants-le-conseil-d-etat-refuse-de-suspendre-le-dispositif-nos-organisations-continuent-de-demander-son)
+[![](../assets/eab8e2ab9e22/MSF246894.jpg)](https://www.msf.fr/communiques-presse/fichage-des-enfants-le-conseil-d-etat-refuse-de-suspendre-le-dispositif-nos-organisations-continuent-de-demander-son)
 
 #### SPAIN
 ### Barcelona

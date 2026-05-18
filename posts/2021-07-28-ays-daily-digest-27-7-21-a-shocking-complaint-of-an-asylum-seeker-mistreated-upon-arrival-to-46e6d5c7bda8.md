@@ -55,7 +55,7 @@ Since the US and NATO began their withdrawal from the country, the Taliban has m
 While the Taliban have said they do not want to monopolize power, they have also said there will be no peace until the current government and Afghan President Ashraf Ghani are unseated\.
 
 
-[![](https://amasosite.files.wordpress.com/2021/07/germany-is-putting-presure-on-afghan-ministry.jpg)](https://amasosite.wordpress.com/2021/07/27/press-statement-germany/?fbclid=IwAR3h65PpGRGZrpdkqPKlC-SyA9ny0e20n1V-xz6ivobCFm4AfRtpac-AKbo)
+[![](../assets/46e6d5c7bda8/germany-is-putting-presure-on-afghan-ministry.jpg)](https://amasosite.wordpress.com/2021/07/27/press-statement-germany/?fbclid=IwAR3h65PpGRGZrpdkqPKlC-SyA9ny0e20n1V-xz6ivobCFm4AfRtpac-AKbo)
 
 ### Germany is putting pressure on Afghanistan to accept upcoming deportation
 
@@ -184,7 +184,7 @@ On Monday, Berlin’s senat announced the “state federal reception decree Leba
 The selection process, which is currently being prepared, will be conducted by UNHCR in accordance with its [Refugee Status Determination](https://www.unhcr.org/refugee-status-determination.html) \(RSD\) rules\. Berlin’s state police will then conduct a security check with support from federal security agencies\. The first families are expected to arrive in Berlin later this year\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/0565bef57109e758f9181e7beb589bb20c71e976.jpeg)](https://www.infomigrants.net/en/post/33901/berlin-says-it-will-take-in-syrian-and-iraqi-refugees-from-lebanon?fbclid=IwAR0H95RyanjpCuTSkLI9rTNTyvGL43WLvJ2S_nvUudzvHDY-rf8ojzmOFs8)
+[![](../assets/46e6d5c7bda8/0565bef57109e758f9181e7beb589bb20c71e976.jpeg)](https://www.infomigrants.net/en/post/33901/berlin-says-it-will-take-in-syrian-and-iraqi-refugees-from-lebanon?fbclid=IwAR0H95RyanjpCuTSkLI9rTNTyvGL43WLvJ2S_nvUudzvHDY-rf8ojzmOFs8)
 
 
 Due to the people still located outside the European Union, transferring them would not interfere with the rules of the Dublin Regulation, it was reported\. The current situation in Lebanon is seeing many people driven into poverty and destitution, with the aftermath of the explosion in Beirut’s port last year, and the local currency losing about 90 percent of its value\.

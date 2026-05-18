@@ -345,7 +345,7 @@ Their latest blog reviews the recently\-released detention trends from the last 
 
 
 
-[![46: Should refugees be grateful? by Talking Migration](https://i1.sndcdn.com/avatars-SB2cN7IRhcIUpLF3-aZCClA-t500x500.jpg "46: Should refugees be grateful? by Talking Migration")](https://soundcloud.com/user-223351495/46-should-refugees-be-grateful)
+[![46: Should refugees be grateful? by Talking Migration](../assets/ad4f82d37959/avatars-SB2cN7IRhcIUpLF3-aZCClA-t500x500.jpg "46: Should refugees be grateful? by Talking Migration")](https://soundcloud.com/user-223351495/46-should-refugees-be-grateful)
 
 
 

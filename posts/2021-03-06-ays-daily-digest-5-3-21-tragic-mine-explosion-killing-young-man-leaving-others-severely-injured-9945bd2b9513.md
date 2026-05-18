@@ -204,7 +204,7 @@ Final Report of the Frontex Management Board Working Group:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/25ee43a457efb0224a90d2959cd04d6e2fac6852.jpeg)](https://www.infomigrants.net/en/post/30666/migrant-detention-centers-in-france-what-you-need-to-know?fbclid=IwAR0Xb3cAcd5ZjwuNkX7B3J4B--PdlOLhhUzv9oSVIm_T--BFEzJetPDpg4E)
+[![](../assets/9945bd2b9513/25ee43a457efb0224a90d2959cd04d6e2fac6852.jpeg)](https://www.infomigrants.net/en/post/30666/migrant-detention-centers-in-france-what-you-need-to-know?fbclid=IwAR0Xb3cAcd5ZjwuNkX7B3J4B--PdlOLhhUzv9oSVIm_T--BFEzJetPDpg4E)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

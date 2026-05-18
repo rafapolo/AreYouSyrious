@@ -222,7 +222,7 @@ _Joao Pequeno, AYS editor_
 ### Protect unaccompanied minors looking for shelter
 
 
-[![Mineurs étrangers, isolés à Paris](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F603545781-ae438388d4b4afad9f9d694e70cfbd0402ffe652c95b1c64eba450682ff2f157-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Mineurs étrangers, isolés à Paris")](https://vimeo.com/192244459)
+[![Mineurs étrangers, isolés à Paris](../assets/106066f0bf74/overlay "Mineurs étrangers, isolés à Paris")](https://vimeo.com/192244459)
 
 
 France’s New Year’s resolution should be to provide unaccompanied minors with the protection they deserve, after forcing them to sleep in the streets of Paris in 2016\. DEMIE, the organism that is supposed to protect them in Paris, turned down 60% to 80% of kids looking for shelter, often arguing they lack the ID papers that could prove they are underage\. The office refuses to give them the benefit of the doubt, even when it is undeniable that they are still kids, and prefers to send them back into the streets where they have to cope with hunger and cold and are at the mercy of traffickers\. Volunteers are able to host some of them, for a few days to a couple of months, but it is never enough\. In 2017, France should immediately protect unaccompanied minors looking for help in the ‘country of human rights’ — it should take their vulnerable state into account and shelter them, like they would for any French kid finding himself in a similar desperate situation\. By doing so, it would simply fulfill a promise it made in 1989, when it signed the Convention on the Rights of the Child\.

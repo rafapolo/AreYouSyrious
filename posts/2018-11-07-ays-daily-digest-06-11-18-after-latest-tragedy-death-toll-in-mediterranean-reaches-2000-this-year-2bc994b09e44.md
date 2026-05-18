@@ -244,7 +244,7 @@ You can find the German text [here](https://www.facebook.com/plattform.refugees.
 ### Germany
 
 
-[![Donauwörth police attack - Court proceedings in Augsburg from Nov 7, 2018 (MobiVideo)](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F734214445-3e6b2935907070e3a268448f4542f36c7c00239b8e38e02b30df6e6f63dee889-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Donauwörth police attack - Court proceedings in Augsburg from Nov 7, 2018 (MobiVideo)")](https://vimeo.com/296717141)
+[![Donauwörth police attack - Court proceedings in Augsburg from Nov 7, 2018 (MobiVideo)](../assets/2bc994b09e44/overlay "Donauwörth police attack - Court proceedings in Augsburg from Nov 7, 2018 (MobiVideo)")](https://vimeo.com/296717141)
 
 
 This past march, the German police brutally raided the Donauwörth refugee camp\. Two of the residents will defending themselves against accusations of halting a deportation — which police claimed triggered their raid — in court tomorrow\.

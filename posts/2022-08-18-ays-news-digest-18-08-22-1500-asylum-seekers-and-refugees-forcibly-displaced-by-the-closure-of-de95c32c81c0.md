@@ -47,7 +47,7 @@ About 7000 people have entered Greece from Turkey this year, either across the l
 Read Melissa Pawson’s brilliant article in full here:
 
 
-[![](https://assets.irinnews.org/s3fs-public/styles/responsive_large/public/greece-tnh-link-thumbnail.jpg?xz6zvCpoW7gsWKVOt47EJ06Po8bBfkzZ)](https://www.thenewhumanitarian.org/news-feature/2022/08/16/Greece-refugees-Ukraine-asylum-system-application)
+[![](../assets/de95c32c81c0/greece-tnh-link-thumbnail.jpg)](https://www.thenewhumanitarian.org/news-feature/2022/08/16/Greece-refugees-Ukraine-asylum-system-application)
 
 #### 49 people stranded on an islet at the Evros river border, including 16 children and a pregnant woman
 
@@ -183,7 +183,7 @@ Full article [here](http://www.infomigrants.net/en/post/42660/three-dead-45-migr
 There have been reports of 46 separate incidents between 12–15th August, with 657 individuals either stopped from crossing or rescued after their boats came into trouble\. As Tunisia’s economic and political situation deteriorates, more people seek to cross the Mediterranean to escape rising unemployment\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/59dd7a6ef08c067b8fc09a7febda2ba6783121f8.jpg)](https://www.infomigrants.net/en/post/42656/tunisia-intercepts-more-than-650-migrants-at-sea?fbclid=IwAR1z3CAURLo-Dx59SuGtVxJbQ0mLejagzhq46bRVqnGe25TluApafw7QDT0)
+[![](../assets/de95c32c81c0/59dd7a6ef08c067b8fc09a7febda2ba6783121f8.jpg)](https://www.infomigrants.net/en/post/42656/tunisia-intercepts-more-than-650-migrants-at-sea?fbclid=IwAR1z3CAURLo-Dx59SuGtVxJbQ0mLejagzhq46bRVqnGe25TluApafw7QDT0)
 
 #### MOROCCO
 
@@ -254,7 +254,7 @@ InfoMigrants reports that the whole operation could be a cover up for the deaths
 More here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/17239128e47a00688fa849393d6a6ca60ffeed4a.jpeg)](https://www.infomigrants.net/en/post/42644/dozens-of-migrants-detained-in-libya-during-police-raids?fbclid=IwAR25PjYiFhCEAYKF9jarxktlkDdSQ8DJqEyl8vMNUTfUYI1cHIrw2_r-S6s)
+[![](../assets/de95c32c81c0/17239128e47a00688fa849393d6a6ca60ffeed4a.jpeg)](https://www.infomigrants.net/en/post/42644/dozens-of-migrants-detained-in-libya-during-police-raids?fbclid=IwAR25PjYiFhCEAYKF9jarxktlkDdSQ8DJqEyl8vMNUTfUYI1cHIrw2_r-S6s)
 
 
 
@@ -281,7 +281,7 @@ However, unless Germany brings the matter to the ICAO, the International Civil A
 More detail here:
 
 
-[![](https://www.migazin.de/wp-content/uploads/2022/08/sea-watch-flugzeug_einsatz_mittelmeer_seenotrettung_luft.jpg)](https://www.migazin.de/2022/08/16/seenotrettung-vor-libyen-flugverbote-verstossen-gegen-internationales-recht/?fbclid=IwAR3FivOeCruw4glilvUGCgWxXEtj8PhNzv7_R84ngZaMa40WZbYowOYzoU4)
+[![](../assets/de95c32c81c0/sea-watch-flugzeug_einsatz_mittelmeer_seenotrettung_luft.jpg)](https://www.migazin.de/2022/08/16/seenotrettung-vor-libyen-flugverbote-verstossen-gegen-internationales-recht/?fbclid=IwAR3FivOeCruw4glilvUGCgWxXEtj8PhNzv7_R84ngZaMa40WZbYowOYzoU4)
 
 
 and an English language version here:
@@ -311,7 +311,7 @@ Last week he received a promotion to the rank of lieutenant\-colonel\.
 _Il Fatto Quotidiano_ cites an ANSA \(Italy’s National Associated Press Agency\) report, detailing the stories of minors on un\-crewed vessels that cross the central Mediterranean\. The smugglers and human traffickers never board the boats themselves, whilst minors fleeing conflict and persecution are charged\. Watch ANSA’s report here:
 
 
-[![](https://st.ilfattoquotidiano.it/wp-content/uploads/2022/08/02/15312408_large-1.jpg)](https://www.ilfattoquotidiano.it/2022/08/14/migranti-le-storie-dei-minori-accusati-di-essere-scafisti-ma-processati-e-incarcerati-come-adulti-i-veri-trafficanti-stanno-in-libia-il-reportage-ansa/6750671/?fbclid=IwAR0kymfqVV4_Wcw4bAcZp12FXoslCRCTIZk7ynCFZTaTcaBdZYLFgMLD39s)
+[![](../assets/de95c32c81c0/15312408_large-1.jpg)](https://www.ilfattoquotidiano.it/2022/08/14/migranti-le-storie-dei-minori-accusati-di-essere-scafisti-ma-processati-e-incarcerati-come-adulti-i-veri-trafficanti-stanno-in-libia-il-reportage-ansa/6750671/?fbclid=IwAR0kymfqVV4_Wcw4bAcZp12FXoslCRCTIZk7ynCFZTaTcaBdZYLFgMLD39s)
 
 #### The southern Italian region of Calabria allocates €10 million to create an environmentally sustainable ‘village’ for non\-EU workers
 
@@ -419,7 +419,7 @@ Josoor’s position in Turkey has become untenable, and this is a worrying examp
 
 
 
-[![](http://www.ansamed.info/webimages/foto_large/2022/8/16/1414d6cc7ee5db186dd26a9b28c447ab.jpg)](https://www.ansamed.info/ansamed/en/news/sections/generalnews/2022/08/16/tunisia-unhcr-launches-animated-series-for-asylum-seekers_38b8eff4-8a08-4d82-944d-137b94466be3.html?fbclid=IwAR0Qvt_WmE81aFsvJAhuea3Y898LhnEunSr6OJfnledqbJLL-HzhhACY01Q)
+[![](../assets/de95c32c81c0/1414d6cc7ee5db186dd26a9b28c447ab.jpg)](https://www.ansamed.info/ansamed/en/news/sections/generalnews/2022/08/16/tunisia-unhcr-launches-animated-series-for-asylum-seekers_38b8eff4-8a08-4d82-944d-137b94466be3.html?fbclid=IwAR0Qvt_WmE81aFsvJAhuea3Y898LhnEunSr6OJfnledqbJLL-HzhhACY01Q)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

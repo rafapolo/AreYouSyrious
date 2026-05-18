@@ -88,7 +88,7 @@ Athens Legal support team posted their 9th denouncement video\. This one is abou
 “ We denounce the asylum system regime which functions from a perspective that some nationalities are ‘ineligible’ and so leaves human beings who are in great need on the streets with no proper or official access to basic services, information or legal advice\.”
 
 
-[![#9 denouncement: uneligible_nationalities](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F679315208-78bc60d55675665d9e9c770ac47420c20db7f59372e86e9c5c9a588c1487cefe-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "#9 denouncement: uneligible_nationalities")](https://vimeo.com/252626359)
+[![#9 denouncement: uneligible_nationalities](../assets/f1c4b6283936/overlay "#9 denouncement: uneligible_nationalities")](https://vimeo.com/252626359)
 
 
 AlJazeera [wrote](http://www.aljazeera.com/news/2018/01/evros-river-forced-pushback-refugees-edge-eu-180128105408674.html) about some refugees trying to enter Greece near the Evros river, through its northern land border with Turkey, who were threatened and forced to go back, in breach of international humanitarian law\. The Greek police have denied the allegations\. The land crossing between Turkey and Greece is becoming an increasingly popular route for smugglers\.

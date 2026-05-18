@@ -64,7 +64,7 @@ MSF said the following in their [instagram channel](https://www.instagram.com/p/
 While many people are forced to sleep in the area around the centre, the government is searching for other solutions and places where to accommodate asylum seekers\. However, the discontent and resentment of the right\-wing segment of the population is creating obstacles\. Recently, racist protests have “welcomed” new refugees across the country\. [A recent example](https://www.euronews.com/2022/08/25/investigation-after-baby-dies-in-inhumane-conditions-at-dutch-asylum-centre?fbclid=IwAR0mAPPa09XCL8p7EiHHyOnOuOXGwA7nKH6R5L4k1zRtbf7nyVWOba4Uszw) : residents of the small city of Albergen have been demonstrating against plans to house up to 300 asylum seekers in a local hotel there\. Other racist protests were held in the past few days\. Find out more here:
 
 
-[![](https://static.euronews.com/articles/stories/06/00/82/84/1000x563_cmsv2_6217674b-e92d-51eb-a233-1216e15ce3d1-6008284.jpg)](https://www.euronews.com/2021/08/25/dutch-protesters-burn-tyres-outside-military-base-housing-afghan-refugees?fbclid=IwAR0jjIgCcdy2kvjGAhBvCqJR5L8aLzpRTDI376X65YGCpXU_paTwRRUQ-g0)
+[![](../assets/1675f6014bbb/1000x563_cmsv2_6217674b-e92d-51eb-a233-1216e15ce3d1-6008284.jpg)](https://www.euronews.com/2021/08/25/dutch-protesters-burn-tyres-outside-military-base-housing-afghan-refugees?fbclid=IwAR0jjIgCcdy2kvjGAhBvCqJR5L8aLzpRTDI376X65YGCpXU_paTwRRUQ-g0)
 
 
 This is an alarm pinting to the general political scenario\. The situation has reached an extreme point as a consequence of failing European asylum policies\. MSF have called for a change in the entire European approach to migration and asylum as stated in their twitter [thread](https://twitter.com/MSF_Sea/status/1563076447983792128) :
@@ -209,7 +209,7 @@ Last Friday, August 25th, a man from Albania was taken to Harmondsworth removal 
 On Thursday 25th, the British Home Office announced a plan for the fast\-track removal of rejected asylum seekers [\. Read more here](https://www.infomigrants.net/en/post/42859/uk-continues-to-limit-immigration-by-signing-cooperation-deal-with-albanian-government) :
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/1e31affa499c92598beda87e20d0ab872766508c.jpeg)](https://www.infomigrants.net/en/post/42859/uk-continues-to-limit-immigration-by-signing-cooperation-deal-with-albanian-government)
+[![](../assets/1675f6014bbb/1e31affa499c92598beda87e20d0ab872766508c.jpeg)](https://www.infomigrants.net/en/post/42859/uk-continues-to-limit-immigration-by-signing-cooperation-deal-with-albanian-government)
 
 
 The Home secretary Priti Patel said:
@@ -226,7 +226,7 @@ According to the authorities, 2\.165 Albanians arrived in the country in 2022, c
 British immigration officers will immediately process asylum claims made by Albanians entering the UK on small boats, and those with no right to remain in the country will be removed\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/06/000_328C2TG.jpg?resize=1200%2C675)](https://www.aljazeera.com/news/2022/8/25/uk-to-fast-track-deportations-of-albanian-asylum-seekers)
+[![](../assets/1675f6014bbb/000_328C2TG.jpg)](https://www.aljazeera.com/news/2022/8/25/uk-to-fast-track-deportations-of-albanian-asylum-seekers)
 
 
 This adds to the ongoing attempt to criminalize everyone who arrives across the Channel\. The inability to obtain legal access leads many asylum seekers to reach the UK by boat\.
@@ -237,7 +237,7 @@ Recently, some newly arrived asylum seekers have received letters telling them t
 
 
 
-[![](http://assets.irinnews.org/s3fs-public/styles/responsive_large/public/bangladesh-rohingya-thumbnail.jpg?BRht31GCD5W8joSp_Af4H3IPqOZX8IIh)](https://www.thenewhumanitarian.org/in-depth/myanmar-rohingya-refugee-crisis-humanitarian-aid-bangladesh)
+[![](../assets/1675f6014bbb/bangladesh-rohingya-thumbnail.jpg)](https://www.thenewhumanitarian.org/in-depth/myanmar-rohingya-refugee-crisis-humanitarian-aid-bangladesh)
 
 
 The rohingya detention scenario in Myanmar is described instead in the [Human Rights Watch](https://www.hrw.org/feature/2022/06/14/nothing-called-freedom/a-decade-of-detention-for-rohingya-in-myanmars-rakhine-state) report
@@ -249,7 +249,7 @@ The rohingya detention scenario in Myanmar is described instead in the [Human Ri
 
 
 
-[![](https://i.guim.co.uk/img/media/cfab3e8aed4e2976719d3cc79af04dc0a3cb4718/111_443_4432_2659/master/4432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bb56d8e9bd0c06d6ba44dfff9dec801)](https://www.theguardian.com/world/2022/aug/24/colombia-venezuela-border-gustavo-petro)
+[![](../assets/1675f6014bbb/4432.jpg)](https://www.theguardian.com/world/2022/aug/24/colombia-venezuela-border-gustavo-petro)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

@@ -225,7 +225,7 @@ Our friends from The Border Violence Monitoring Network published a policy analy
 This long read from September gives useful background on the criminalization of rescue missions in the Mediterranean:
 
 
-[![](https://i.guim.co.uk/img/media/3c2a47300f527a8a82690d7130abfba6e6e5f205/0_67_3861_2317/master/3861.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56e340e42ba822226b7e5b333f484a54)](https://www.theguardian.com/news/2020/sep/22/how-rescuing-drowning-migrants-became-a-crime-iuventa-salvini-italy?fbclid=IwAR2ui3IdxKcn-vQ_1Rt21aX0WgZD-QozFG3NMSmyCiw3X_7W9Dll9i2T0JM)
+[![](../assets/66fb7f2de604/3861.jpg)](https://www.theguardian.com/news/2020/sep/22/how-rescuing-drowning-migrants-became-a-crime-iuventa-salvini-italy?fbclid=IwAR2ui3IdxKcn-vQ_1Rt21aX0WgZD-QozFG3NMSmyCiw3X_7W9Dll9i2T0JM)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

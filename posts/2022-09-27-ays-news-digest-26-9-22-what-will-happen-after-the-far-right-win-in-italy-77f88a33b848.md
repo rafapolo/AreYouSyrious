@@ -124,7 +124,7 @@ In 2011, a boat carrying 72 asylum seekers was left adrift for two weeks off the
 New evidence has triggered the reopening of the case\. Survivors have claimed that they were abandoned and left adrift by the western military navy, including the French navy\. The new evidence of this includes log books for all planes and ships in the area, a cross inquiry in Italy, Belgium, and Spain, among other information\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/66b84a189993821e46157e3f308d017c0400f434.jpg)](https://www.infomigrants.net/en/post/43581/france-reopens-inquiry-on-2011-migrant-boat-of-death-tragedy-in-mediterranean?fbclid=IwAR3R_bNAmGo2-rkdcfoRL_MuZx2e0y5gfJYFUXyEv9E1OdmtvvcHL0gAUAU)
+[![](../assets/77f88a33b848/66b84a189993821e46157e3f308d017c0400f434.jpg)](https://www.infomigrants.net/en/post/43581/france-reopens-inquiry-on-2011-migrant-boat-of-death-tragedy-in-mediterranean?fbclid=IwAR3R_bNAmGo2-rkdcfoRL_MuZx2e0y5gfJYFUXyEv9E1OdmtvvcHL0gAUAU)
 
 #### UK
 ### Increasing death rates in Home Office accommodation
@@ -179,7 +179,7 @@ Further delays in asylum claims were seen by residents at the Gatwick immigratio
 The centre has also seen an increase in residents, resulting in overcrowded conditions, a lack of outdoor space, and more noise\.
 
 
-[![](https://www.sussexexpress.co.uk/webimg/b25lY21zOmNmZGY1ZWU1LTBkMGItNDhmMC1iMDNhLTY1Njc2YTUyNjBkMzpiMThmY2I4OC0yYmQzLTQxYWItYWI1Mi02ZjFhOThhODAyZmI=.jpg?width=1200&enable=upscale)](https://www.sussexexpress.co.uk/news/people/people-kept-unacceptably-long-time-at-gatwick-immigration-removal-centre-3853784)
+[![](../assets/77f88a33b848/b25lY21zOmNmZGY1ZWU1LTBkMGItNDhmMC1iMDNhLTY1Njc2YTUyNjBkMzpiMThmY2I4OC0yYmQzLTQxYWItYWI1Mi02ZjFhOThhODAyZmI=.jpg)](https://www.sussexexpress.co.uk/news/people/people-kept-unacceptably-long-time-at-gatwick-immigration-removal-centre-3853784)
 
 ### No for the rights, but yes for the profits
 
@@ -188,20 +188,20 @@ In the face of a recession, Liz Truss, the UK’s new Prime Minister, has announ
 The hospitality sector in particular has struggled with employee intake and has felt frustrated with the lack of governmental response, especially in regard to the visa system\.
 
 
-[![](https://i.guim.co.uk/img/media/22fcae1b8b3079e1a240b07910de6af225bf3b57/0_64_3018_1811/master/3018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdfffed7ada2362e78b326dc3f495a53)](https://www.theguardian.com/uk-news/2022/sep/24/liz-truss-plans-to-loosen-immigration-rules-to-boost-uk-economy)
+[![](../assets/77f88a33b848/3018.jpg)](https://www.theguardian.com/uk-news/2022/sep/24/liz-truss-plans-to-loosen-immigration-rules-to-boost-uk-economy)
 
 ### WORTH READING:
 - ‘Love, determination and risking all to cross the Mediterranean’, Al Jazeera, 25/9/2022
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/07/Set-A-23-04-22_MSF_2695.jpg.jpg?resize=1920%2C1440)](https://www.aljazeera.com/features/2022/9/25/love-determination-and-risking-all-to-cross-the-mediterranean)
+[![](../assets/77f88a33b848/Set-A-23-04-22_MSF_2695.jpg.jpg)](https://www.aljazeera.com/features/2022/9/25/love-determination-and-risking-all-to-cross-the-mediterranean)
 
 - ‘Coping Strategies: Domestic and International Courts in Times of Backlash’, VerfBlog, 26/9/22
 
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2020/10/Basak-Cali.jpeg)](https://verfassungsblog.de/coping-strategies-domestic-and-international-courts-in-times-of-backlash/?fbclid=IwAR1jm3BdBLcQO2qtR_4hByjB1_t0SwdbesHYj-TVLHbl5y_RyNhLeSbkisg)
+[![](../assets/77f88a33b848/Basak-Cali.jpeg)](https://verfassungsblog.de/coping-strategies-domestic-and-international-courts-in-times-of-backlash/?fbclid=IwAR1jm3BdBLcQO2qtR_4hByjB1_t0SwdbesHYj-TVLHbl5y_RyNhLeSbkisg)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the Info Gathering team, please let us know\!**

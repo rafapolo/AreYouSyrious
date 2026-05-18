@@ -129,7 +129,7 @@ Hundreds of people are left on their own in Paris, with no place to go, no basic
 Read his full story here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/a0a58c14ba10ba09ce38229586f293d326186590.jpeg)](https://www.infomigrants.net/en/post/29970/ali-16-at-night-i-need-to-keep-walking-to-stop-my-feet-from-freezing?fbclid=IwAR1qoXH8iyAbrRtG_TfWmHnjjXeUdOiV06wPYl20g_2UnUsVov6OxJwrPrs)
+[![](../assets/855655b58ca7/a0a58c14ba10ba09ce38229586f293d326186590.jpeg)](https://www.infomigrants.net/en/post/29970/ali-16-at-night-i-need-to-keep-walking-to-stop-my-feet-from-freezing?fbclid=IwAR1qoXH8iyAbrRtG_TfWmHnjjXeUdOiV06wPYl20g_2UnUsVov6OxJwrPrs)
 
 
 Solidarité Migrants Wilson is one of the groups that tries to support those living on the streets\. They started distributions of tea and soup with motorcycles\.

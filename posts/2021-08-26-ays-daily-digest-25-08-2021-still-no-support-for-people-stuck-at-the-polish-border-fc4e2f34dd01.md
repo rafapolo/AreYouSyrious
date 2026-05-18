@@ -77,7 +77,7 @@ This final notion sparks fears that the Court could once again follow a line of 
 For more information on the situation along the Belarusian border, see:
 
 
-[![](https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/08/23/GettyImages-1234773494-scaled.jpg)](https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-belarus-border-migration-hotspot-lithuania-poland-latvia-alexander-lukashenko/amp/?fbclid=IwAR14JyPVg28bFf5MjnZjWngGlxvcwwirZY2NWkdwRXeWmGB3Qrdha_1abME)
+[![](../assets/fc4e2f34dd01/GettyImages-1234773494-scaled.jpg)](https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-belarus-border-migration-hotspot-lithuania-poland-latvia-alexander-lukashenko/amp/?fbclid=IwAR14JyPVg28bFf5MjnZjWngGlxvcwwirZY2NWkdwRXeWmGB3Qrdha_1abME)
 
 ### AFGHANISTAN
 #### Chaos and despair at Kabul airport

@@ -104,19 +104,19 @@ Fili’s overall argument is that whilst the UK Home Secretary is impressed by t
 
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2022/04/Screenshot-2022-04-14-114611.jpg)](https://freemovement.org.uk/is-it-legal-to-outsource-the-uks-refugee-responsibilities-to-rwanda/)
+[![](../assets/1334d964017b/Screenshot-2022-04-14-114611.jpg)](https://freemovement.org.uk/is-it-legal-to-outsource-the-uks-refugee-responsibilities-to-rwanda/)
 
 - _Freemovement_ , UK\-Rwanda refugee deal: first thoughts:
 
 
 
-[![](https://freemovement.org.uk/wp-content/uploads/2022/04/alexandre-debieve-pGq1nxpLGL4-unsplash-scaled-e1649947349251.jpg)](https://freemovement.org.uk/uk-rwanda-refugee-offshoring-deal-first-thoughts/?fbclid=IwAR34BZjRUNjzdaJJ0WbkKaMeQCVJ8Vw-THHNZbQxn9vh8C5k4Zk5KLOxdJ4)
+[![](../assets/1334d964017b/alexandre-debieve-pGq1nxpLGL4-unsplash-scaled-e1649947349251.jpg)](https://freemovement.org.uk/uk-rwanda-refugee-offshoring-deal-first-thoughts/?fbclid=IwAR34BZjRUNjzdaJJ0WbkKaMeQCVJ8Vw-THHNZbQxn9vh8C5k4Zk5KLOxdJ4)
 
 - _OpenDemocracy_ , The Rwanda deal is yet another act of colonial violence:
 
 
 
-[![](https://cdn2.opendemocracy.net/media/images/2J4DRD2.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/oureconomy/patel-rwanda-asylum-borders-colonial/?source=in-article-related-story)
+[![](../assets/1334d964017b/2J4DRD2.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/oureconomy/patel-rwanda-asylum-borders-colonial/?source=in-article-related-story)
 
 
 **BALKANS**
@@ -462,7 +462,7 @@ Wo genau Einsätze erfolgen ist unklar. Erreichbar wären die SAR-Zonen in Griec
 **Radio & Podcasts:**
 
 
-[![](https://ibp.info6tm.fr/api/v1/files/62600fe50be5d623a603eb26/methodes/cover_mag/image.jpg)](https://www.ash.tm.fr/asile-immigration/a-calais-une-radio-pour-faire-entendre-la-voix-des-exiles-694726.php?fbclid=IwAR3mBULzF4hp6fqH5-C20h9cLf7ICsw4NSRmEvOrwNRGZiIHj53LEMzo6c4)
+[![](../assets/1334d964017b/image.jpg)](https://www.ash.tm.fr/asile-immigration/a-calais-une-radio-pour-faire-entendre-la-voix-des-exiles-694726.php?fbclid=IwAR3mBULzF4hp6fqH5-C20h9cLf7ICsw4NSRmEvOrwNRGZiIHj53LEMzo6c4)
 
 
 

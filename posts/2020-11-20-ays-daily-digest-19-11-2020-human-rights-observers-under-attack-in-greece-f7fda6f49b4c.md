@@ -113,7 +113,7 @@ The Sea\-Eye NGO is currently raising money in order to buy and prepare a new sh
 More funds are needed, you can support Sea\-Eye here:
 
 
-[![](https://sea-eye.org/wp-content/uploads/2020/11/SEA-EYE-4_Rettungsschiff_Nov.-2020_Sea-Eye_3.1_c_Katarzyna-Gmitrzak-sea-eye.org_.jpg)](https://sea-eye.org/aufruf-von-sea-eye-schatzmeister-gunther-schmidt/?fbclid=IwAR26fM4ER108jiV6Sh6Gbxoy2lR5yJ4XTG9407TT_Fky783oiZPaPnwXpFE)
+[![](../assets/f7fda6f49b4c/SEA-EYE-4_Rettungsschiff_Nov.-2020_Sea-Eye_3.1_c_Katarzyna-Gmitrzak-sea-eye.org_.jpg)](https://sea-eye.org/aufruf-von-sea-eye-schatzmeister-gunther-schmidt/?fbclid=IwAR26fM4ER108jiV6Sh6Gbxoy2lR5yJ4XTG9407TT_Fky783oiZPaPnwXpFE)
 
 #### Testimony of Yusuf’s mother
 
@@ -147,7 +147,7 @@ For updates about the situation in the CPRs, see:
 A new hotspot will open on Lampedusa, with space to host an additional 136 people\. While some of the people who arrive to Lampedusa have been saved by NGOs, many also manage to reach the island independently\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/d763fe4d991d3dcbf458de25d6c1376822362489.jpeg)](https://www.infomigrants.net/en/post/28610/italy-lampedusa-hotspot-will-have-room-for-136-additional-migrants?fbclid=IwAR3rZPorh3f1vcYVcSpVgOe4UFPAUdyxf3oKKYFZebiONLqBfA_L6CfR4xs)
+[![](../assets/f7fda6f49b4c/d763fe4d991d3dcbf458de25d6c1376822362489.jpeg)](https://www.infomigrants.net/en/post/28610/italy-lampedusa-hotspot-will-have-room-for-136-additional-migrants?fbclid=IwAR3rZPorh3f1vcYVcSpVgOe4UFPAUdyxf3oKKYFZebiONLqBfA_L6CfR4xs)
 
 ### SPAIN
 #### New Rulings of high Spanish Courts

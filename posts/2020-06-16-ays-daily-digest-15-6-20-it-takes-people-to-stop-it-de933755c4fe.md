@@ -34,7 +34,7 @@ Now, after the documents leaked proving they were about to falsely report to the
 Here is the story:
 
 
-[![](https://i.guim.co.uk/img/media/0a348744e44d1ce1c252dfb576042d9637c5b626/0_227_3411_2047/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=9e724eb373a835c706ef015a5b5568ce)](https://www.theguardian.com/global-development/2020/jun/15/eu-covered-up-croatias-failure-to-protect-migrants-from-border-brutality?CMP=share_btn_tw&fbclid=IwAR0Kz0d4jzPs4ziU62H-PSj3GRDSCNBsOAz1HrK6GYe4UHrHjopso39mCvs)
+[![](../assets/de933755c4fe/3411.jpg)](https://www.theguardian.com/global-development/2020/jun/15/eu-covered-up-croatias-failure-to-protect-migrants-from-border-brutality?CMP=share_btn_tw&fbclid=IwAR0Kz0d4jzPs4ziU62H-PSj3GRDSCNBsOAz1HrK6GYe4UHrHjopso39mCvs)
 
 
 To explain in simple terms, the European Commission claimed to have in the past funded monitoring missions in Croatia to ensure rights were being respected\. According to the Croatian government, the UNHCR, under its own funding, and a local NGO carried out the monitoring\. However, this is not true\. They examined the documents of people who had been lucky enough to have their intention to seek asylum recorded and who managed \(by some miracle or statistical need\) to ask for international protection in one of the police stations, something that was impossible for thousands who entered police stations across the country\. Mind you, all of this is NOT at the border\. The UNHCR in Croatia, as well as the Croatian Law Centre, have had no access to the green border, nor have they had access to the places where push\-backs were actually happening\.

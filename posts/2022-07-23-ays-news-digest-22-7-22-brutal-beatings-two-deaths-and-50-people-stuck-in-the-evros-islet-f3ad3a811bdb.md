@@ -81,7 +81,7 @@ Still, people keep being pushed back to the Libyan Coast Guard and to the countr
 In the latest turn of events, Libya’s SSA security force \(not subject to scrutiny\) is accused of abusing people on the move\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/78fb632d4fe63dfac2fb2fc2258fede0d83a8423.jpeg)](https://www.infomigrants.net/en/post/42104/libyas-ssa-security-force-accused-of-abusing-migrants?fbclid=IwAR27pUsfZr3RsWRFe4nIfBOVCNHjydcPE7XOWZwAVDz34MtJT854VbncGPE)
+[![](../assets/f3ad3a811bdb/78fb632d4fe63dfac2fb2fc2258fede0d83a8423.jpeg)](https://www.infomigrants.net/en/post/42104/libyas-ssa-security-force-accused-of-abusing-migrants?fbclid=IwAR27pUsfZr3RsWRFe4nIfBOVCNHjydcPE7XOWZwAVDz34MtJT854VbncGPE)
 
 #### ITALY
 ### At least 10,000 people exploited on farms

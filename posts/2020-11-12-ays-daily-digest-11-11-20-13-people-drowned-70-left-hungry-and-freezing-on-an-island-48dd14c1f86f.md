@@ -199,7 +199,7 @@ All those people have been left with no protection or assistance while they wait
 If someone you know is infected with COVID\-19, here is what they should do:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/a5577153fab1fe86e1e9b72c7bbba9729cb24924.jpeg)](https://www.infomigrants.net/en/post/28340/what-to-do-if-you-re-a-migrant-in-france-and-have-covid-19-symptoms?fbclid=IwAR3PFbfQi-ua-sMyPF98Zm4QHamzNda_msWb1X2yt7GFVAu0YvsUS20h-U4)
+[![](../assets/48dd14c1f86f/a5577153fab1fe86e1e9b72c7bbba9729cb24924.jpeg)](https://www.infomigrants.net/en/post/28340/what-to-do-if-you-re-a-migrant-in-france-and-have-covid-19-symptoms?fbclid=IwAR3PFbfQi-ua-sMyPF98Zm4QHamzNda_msWb1X2yt7GFVAu0YvsUS20h-U4)
 
 #### SPAIN
 
@@ -263,7 +263,7 @@ We suggest reading [this story](https://www.latimes.com/world-nation/story/2020-
 In trying to understand the circumstances people are fleeing, listening to people’s stories and getting informed is one of the most effective ways\. Here is a story of young people striving to change their lives, only to end up in unimaginable circumstances in today’s Europe:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/7da52a77bb0c56da643d51b7215bed3789b245ba.png)](https://www.infomigrants.net/en/post/28425/migrant-worker-in-italy-if-you-told-someone-in-africa-how-we-are-living-they-wouldn-t-believe-you?fbclid=IwAR0G6Z1Z2VYocXxNKwYj8BfhjtnH2QNgcbL9gRLHzyhh1WYAIt5fkycPbp8)
+[![](../assets/48dd14c1f86f/7da52a77bb0c56da643d51b7215bed3789b245ba.png)](https://www.infomigrants.net/en/post/28425/migrant-worker-in-italy-if-you-told-someone-in-africa-how-we-are-living-they-wouldn-t-believe-you?fbclid=IwAR0G6Z1Z2VYocXxNKwYj8BfhjtnH2QNgcbL9gRLHzyhh1WYAIt5fkycPbp8)
 
 
 A project featuring the individual life stories is also that of our friends from Graz who are giving portraits of people who have arrived:

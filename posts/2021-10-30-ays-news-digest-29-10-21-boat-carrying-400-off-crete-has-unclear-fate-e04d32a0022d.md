@@ -248,7 +248,7 @@ Meanwhile, as the new building is being planned, Frontex is [organizing](https:/
 #### Solomon: Young Roma shot dead by Greek police \(feature\)
 
 
-[![](https://wearesolomon.com/wp-content/uploads/2021/10/police-violence-artwork.jpg)](https://wearesolomon.com/mag/accountability/young-roma-shot-dead-by-greek-police-yet-another-case-of-police-impunity-part-1/?fbclid=IwAR1SUfJcItfJ3PXCQa2MSGGBxGfXO4-J4bfwADGe33us3cm-75lKXrdm0XE)
+[![](../assets/e04d32a0022d/police-violence-artwork.jpg)](https://wearesolomon.com/mag/accountability/young-roma-shot-dead-by-greek-police-yet-another-case-of-police-impunity-part-1/?fbclid=IwAR1SUfJcItfJ3PXCQa2MSGGBxGfXO4-J4bfwADGe33us3cm-75lKXrdm0XE)
 
 #### Border Criminologies: on unaccompanied minors in Ceuta
 
@@ -263,7 +263,7 @@ Meanwhile, as the new building is being planned, Frontex is [organizing](https:/
 #### Bangladeshi asylum claims rejected in France without review \(feature\)
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/28594bdc63e2373bc405fd7040b9d05f0eff6d55.jpg)](https://www.infomigrants.net/en/post/36106/france-many-bangladeshi-asylum-claims-rejected-without-hearing?fbclid=IwAR0zSvYXKuWKqlRqWu_9HWiYEf5X4DtseICASVlnZAxeYRnN5Ri9D9CoWIA)
+[![](../assets/e04d32a0022d/28594bdc63e2373bc405fd7040b9d05f0eff6d55.jpg)](https://www.infomigrants.net/en/post/36106/france-many-bangladeshi-asylum-claims-rejected-without-hearing?fbclid=IwAR0zSvYXKuWKqlRqWu_9HWiYEf5X4DtseICASVlnZAxeYRnN5Ri9D9CoWIA)
 
 #### Statewatch: New study released on ‘alarming expansion’ of biometric mass surveillance in Europe
 

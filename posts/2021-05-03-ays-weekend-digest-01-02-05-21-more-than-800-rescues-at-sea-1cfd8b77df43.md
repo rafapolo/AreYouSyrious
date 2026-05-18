@@ -136,7 +136,7 @@ In an open letter, 4refugeewomen criticizes the immigration plans of home secret
 Following several reports of Frontex staff being involved in illegal pushbacks and the agency’s collaboration with the so\-called Libyan Coast Guard, several MEPs demand head Fabrice Leggeri to leave his position\. “The Frontex director should stop fooling us\. It’s time for the EU commission to react and demand his dismissal,” Spanish MEP Sira Rego said\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/d4614f93-83c8-490f-b057-f58ec7864374_w1280_r1.77_fpx24_fpy47.jpg)](https://www.spiegel.de/politik/ausland/frontex-skandal-europapolitiker-fordern-ruecktritt-von-fabrice-leggeri-a-c8c447f3-1982-4d07-80ee-cf2592736254?fbclid=IwAR3sRKQkgGji8DS6RLsAv7lsR_DBcra1GT0_KPrpmFM_7ebjkF90kUbhxF4)
+[![](../assets/1cfd8b77df43/d4614f93-83c8-490f-b057-f58ec7864374_w1280_r1.77_fpx24_fpy47.jpg)](https://www.spiegel.de/politik/ausland/frontex-skandal-europapolitiker-fordern-ruecktritt-von-fabrice-leggeri-a-c8c447f3-1982-4d07-80ee-cf2592736254?fbclid=IwAR3sRKQkgGji8DS6RLsAv7lsR_DBcra1GT0_KPrpmFM_7ebjkF90kUbhxF4)
 
 
 **Worth attending:**

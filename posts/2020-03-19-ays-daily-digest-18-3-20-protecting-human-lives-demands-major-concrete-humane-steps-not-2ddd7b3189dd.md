@@ -61,7 +61,7 @@ Fencing and restrictions on the movement of the people living in the hotspots in
 In an address to the public during the pandemic, some of the doctors compared the irresponsible walking around and staying in close proximity to other people and not respecting the safety measures to carrying a gun and potentially killing people\. Does that imply that the EU states are intentionally about to kill the weakest among the population fleeing their homes in search of international protection?
 
 
-[![](https://rsaegean.org/wp-content/uploads/2015/03/202003-rsa-4-years-of-eu-turkey-toxic-deal.jpg)](https://rsaegean.org/en/the-inheritance-of-the-toxic-eu-turkey-deal-four-years-later/?fbclid=IwAR0e7_Chvs_Mb4a3t32ojyngF11rcfQajeXDZWY9XNF9kw1c7w8hxCiWRws)
+[![](../assets/2ddd7b3189dd/202003-rsa-4-years-of-eu-turkey-toxic-deal.jpg)](https://rsaegean.org/en/the-inheritance-of-the-toxic-eu-turkey-deal-four-years-later/?fbclid=IwAR0e7_Chvs_Mb4a3t32ojyngF11rcfQajeXDZWY9XNF9kw1c7w8hxCiWRws)
 
 
 

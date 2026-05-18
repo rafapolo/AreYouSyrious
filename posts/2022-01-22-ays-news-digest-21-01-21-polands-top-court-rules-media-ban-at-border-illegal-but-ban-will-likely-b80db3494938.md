@@ -29,9 +29,9 @@ In fact, the Supreme Court found that denying entry to the zone is contrary to t
 Importantly, the Court also emphasized that the ban violated the protection of human rights, as the Polish Red Cross could not enter the border zone to give medical aid\. The Council of Ministers’ move also violated the right to freedom of movement within the country, the Court ruled\.
 
 
-![Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](https://commons.wikimedia.org/wiki/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)](../assets/b80db3494938/1*aJxGv126qj4Tmy0Jhwk4bw.jpeg)
+![Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](../assets/b80db3494938/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)](../assets/b80db3494938/1*aJxGv126qj4Tmy0Jhwk4bw.jpeg)
 
-Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](https://commons.wikimedia.org/wiki/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)
+Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](../assets/b80db3494938/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)
 
 The case in the landmark ruling stems from the arrests last September of three journalists, one from Agence France\-Presse in Warsaw and two from the German\-French TV ARTE, who entered the zone of the state of emergency\.
 

@@ -229,7 +229,7 @@ On their call to action, they write “ _The time has come — people all over E
 On Wednesday, 23 September 2020, 17:00 CET, the German Law Journal will host a webinar on the New EU Migration Pact\.
 
 
-[![](https://www.hertie-school.org/fileadmin/_processed_/3/2/csm_Centre_for_Fundamental_Rights_logo_FB_size_9e76880109.jpg)](https://www.hertie-school.org/en/events/23-09-20-spotlight-on-hotspots?fbclid=IwAR2Y4O4W0NBE-Cyg-cYi64ZLrlmkcX-6DLHnn8N5ahFgo7xh3ZthmiKNq4Q)
+[![](../assets/a27b93e6a2a7/csm_Centre_for_Fundamental_Rights_logo_FB_size_9e76880109.jpg)](https://www.hertie-school.org/en/events/23-09-20-spotlight-on-hotspots?fbclid=IwAR2Y4O4W0NBE-Cyg-cYi64ZLrlmkcX-6DLHnn8N5ahFgo7xh3ZthmiKNq4Q)
 
 
 **Lecture:** consequences of deterrence as migration control
@@ -239,7 +239,7 @@ On Thursday next week, Professor Michael Collyer from the University of Sussex w
 BBC News: Migrant crisis 2015 — What happened to Nujeen Mustafa
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/172DC/production/_114404949_p08rqgn3.jpg)](https://www.bbc.co.uk/news/av/world-54165869)
+[![](../assets/a27b93e6a2a7/_114404949_p08rqgn3.jpg)](https://www.bbc.co.uk/news/av/world-54165869)
 
 
 Sara Creta and Jan M\. Scäfer: End of the Line Libya — Europe Isolates Itself
@@ -251,7 +251,7 @@ Sara Creta and Jan M\. Scäfer: End of the Line Libya — Europe Isolates Itself
 Dear World: Portraits of Strength — Syrian Refugees
 
 
-[![](https://assets1.cbsnewsstatic.com/hub/i/r/2013/10/30/aa79e72a-477f-11e3-a5af-047d7b15b92e/thumbnail/1200x630/b46c4698f5d7abf70f3168ae87304797/006_tumblr_mu4a7pJrYr1sk9gujo1_128-2849571562-O.jpg)](https://www.cbsnews.com/pictures/portraits-of-strength-syrian-refugees/?fbclid=IwAR0Ks9PjItQIRNR1VX9TUTBB42eu1uOiXWXn9h8lZxtgGckjm1iohGCCLtU)
+[![](../assets/a27b93e6a2a7/006_tumblr_mu4a7pJrYr1sk9gujo1_128-2849571562-O.jpg)](https://www.cbsnews.com/pictures/portraits-of-strength-syrian-refugees/?fbclid=IwAR0Ks9PjItQIRNR1VX9TUTBB42eu1uOiXWXn9h8lZxtgGckjm1iohGCCLtU)
 
 
 **Find daily updates and special reports on our Medium page\.** 

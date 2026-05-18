@@ -285,7 +285,7 @@ A veteran war reporter goes undercover to document a world where movement is sur
 After the U\.S\. withdrawal and with their country’s economy collapsing, countless Afghans are trying to escape\. Who does the West consider worthy of saving?
 
 
-[![](https://static01.nyt.com/images/2022/02/20/opinion/sunday/14aikins/14aikins-facebookJumbo-v4.jpg)](https://www.nytimes.com/2022/02/14/opinion/refugees-migrants-afghanistan.html?fbclid=IwAR3nWVyahUweqj5McI2maJdesu0GMA-9ouXOvXsyXlx43Q8xpa-ukOuflmk)
+[![](../assets/2fc8f869e7b0/14aikins-facebookJumbo-v4.jpg)](https://www.nytimes.com/2022/02/14/opinion/refugees-migrants-afghanistan.html?fbclid=IwAR3nWVyahUweqj5McI2maJdesu0GMA-9ouXOvXsyXlx43Q8xpa-ukOuflmk)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

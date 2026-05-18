@@ -115,7 +115,7 @@ An increasing number of families and children are being locked up in detention c
 
 Families are supposed to stay a maximum of one or two days in these centers, but one family has been detained in Mesnil\-Amelot for eight days\. Other than the cold, one of the main problems is the noise, the center is 10 minutes from the airport and directly on an aerial corridor for planes\. They have no sanitary wipes or baby bottles and the elder children are asking questions about why they can’t go back to school and see their friends\. Officials did not wish to comment on these reports\.
 
-La Cimade has been fighting against the lock\-up of families in detention centers for years, and a petition has collected 92\.000 signatures\. According to their statistics, there have been 30 children in detention centers since the beginning of the year \(more numbers can be found [**here**](https://media.nouvelobs.com/ext/uri/ureferentiel.nouvelobs.com/file/16450970.JPG) \) \.
+La Cimade has been fighting against the lock\-up of families in detention centers for years, and a petition has collected 92\.000 signatures\. According to their statistics, there have been 30 children in detention centers since the beginning of the year \(more numbers can be found [**here**](../assets/f1254de7081/16450970.JPG) \) \.
 
 Despite the European Court of Human Rights condemning France in 2016 because of the “degrading practice” of locking up children, and the Defendant of Human Rights in France, Jacques Toubon pointing out that France is violating the international convention on children’ rights, nothing has changed since, and the number of detained children is, in fact, increasing\.
 

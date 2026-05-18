@@ -64,7 +64,7 @@ Zone of educational priorities: [https://goo\.gl/x5uzY3](https://goo.gl/x5uzY3)
 The organization, which furnishes refugees with clothing, is asking that those in a position to do so donate to the organization\. They need to raise 1,500 euros by the end of the month to cover the next installment of rent\. They say that in the last 5 months, over 2,000 people have come to them for necessities\. You can donate through the link below\.
 
 
-[![](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/050/552/crop_original_bp1658302305_Mail_Banner1.png)](https://www.betterplace.org/en/projects/50552-truckshop-a-free-shop-for-refugees)
+[![](../assets/b76ab47cf9f0/crop_original_bp1658302305_Mail_Banner1.png)](https://www.betterplace.org/en/projects/50552-truckshop-a-free-shop-for-refugees)
 
 #### Italy
 

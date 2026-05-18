@@ -15,9 +15,9 @@ image:
 ### FEATURE — The Violent, Wild ‘Centaur’: Surveillance, Knowledge and Power in Greece’s New Refugee Camps
 
 
-![A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](https://commons.wikimedia.org/wiki/File:Panopticon_prison.jpg) \)](../assets/dbae650584d0/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg)
+![A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](../assets/dbae650584d0/File:Panopticon_prison.jpg) \)](../assets/dbae650584d0/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg)
 
-A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](https://commons.wikimedia.org/wiki/File:Panopticon_prison.jpg) \)
+A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](../assets/dbae650584d0/File:Panopticon_prison.jpg) \)
 
 In yesterday’s digest we reported on the recent opening of the highly\-criticized new camp on Samos\. Located in the Zervou area of the island, far from Samos town and any resources, the prison\-like camp is designed to host up to 3,000 people\. The facility is surrounded by barbed wire, and the entry and exit points are controlled by metal detectors; indeed, camp residents can enter only by scanning their electronic ID card and their fingerprints\. The camp’s opening this week was met with protests from camp residents, solidarity workers and local residents\. Still, of course, [transfers to the new facility continue](https://www.facebook.com/24samos/posts/4232942090167666) \.
 
@@ -290,7 +290,7 @@ So Ylva says that Afghans are good, democracy\-loving people who “need our hel
 What is ‘resignation syndrome’, and why are so many young Swedish asylum\-seekers suffering from it?
 
 
-[![](https://s26162.pcdn.co/wp-content/uploads/2021/09/ugcs3_entry_OQho6wmMSH2wwwi4Fujm_resignationsyndrome.jpeg)](https://lithub.com/hundreds-of-young-swedish-asylum-seekers-are-falling-unconscious-why/?fbclid=IwAR2q7r5VqxJ0AOnfUXN_7nu-iqFD-CRM5akfCQFgU2x0x0V70KxPk6HX_JI)
+[![](../assets/dbae650584d0/ugcs3_entry_OQho6wmMSH2wwwi4Fujm_resignationsyndrome.jpeg)](https://lithub.com/hundreds-of-young-swedish-asylum-seekers-are-falling-unconscious-why/?fbclid=IwAR2q7r5VqxJ0AOnfUXN_7nu-iqFD-CRM5akfCQFgU2x0x0V70KxPk6HX_JI)
 
 
 \(In Spanish\) From No Name Kitchen and Solidarity Wheels, an update on the situation at some points on EU borders, with testimonies from volunteers on the ground in Bihać \(BiH\), Šid \(Serbia\), and Spain\.
@@ -308,7 +308,7 @@ ROAR and the Resistance Studies Initiative are collaborating on an ongoing serie
 An informative new podcast, ‘Refugee Law & Refugee Lives’, which explores the increasingly temporary terms of asylum in Europe and globally\.
 
 
-[![Refugee law and refugee lives](https://i1.sndcdn.com/avatars-zUSlFrZzWM60uSe8-0lHTMw-t500x500.jpg "Refugee law and refugee lives")](https://soundcloud.com/refugeelives?fbclid=IwAR30qDucOOBQXbrx2mFXBgaKkecfKYxrtuNGFoPToTd_HWXSvmG5kIrRkyA)
+[![Refugee law and refugee lives](../assets/dbae650584d0/avatars-zUSlFrZzWM60uSe8-0lHTMw-t500x500.jpg "Refugee law and refugee lives")](https://soundcloud.com/refugeelives?fbclid=IwAR30qDucOOBQXbrx2mFXBgaKkecfKYxrtuNGFoPToTd_HWXSvmG5kIrRkyA)
 
 
 In August the Border Violence Monitoring Network \(BVMN\) recorded 30 pushbacks, impacting 324 people across migratory routes in the Balkans\. This report brings together these testimonies with field observations from across the region, highlighting the various types of border violence being enacted by the EU and other states\.

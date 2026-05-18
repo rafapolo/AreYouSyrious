@@ -69,7 +69,7 @@ Read their policy paper in full here:
 This article from March 2022 reflects on the way in which language has cleaved migration into racialised camps of the ‘deserving’ and ‘undeserving’, the product of narrative failures: it must be ensured that refugee voices are central to any conversation about refugees\. [As such, pejorative language, harmful narratives and stereotypes of fleeing are much less likely to emerge\.](https://pursuit.unimelb.edu.au/articles/changing-the-narrative-on-refugees?fbclid=IwAR3oF17L_4TB4vJ7QNX-6S-YC56AgihVmqvA6Hrzk5TIofz0kAzU3wx9Xqc)
 
 
-[![](https://i.guim.co.uk/img/media/c1462e57717fb1dcfb87105a7b0fea313c0b6d03/0_115_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=33c491c8962072170293b0cb9e571468)](https://www.theguardian.com/world/commentisfree/2022/mar/10/europe-compassion-refugees-white-european)
+[![](../assets/4aebc977ddfd/2500.jpg)](https://www.theguardian.com/world/commentisfree/2022/mar/10/europe-compassion-refugees-white-european)
 
 #### SEARCH AND RESCUE
 #### Malta has AGAIN failed to assist people in danger, in contravention of maritime law, on the Italian\-Maltese sea border
@@ -418,7 +418,7 @@ Connection eV write the following:
 
 
 
-[![](https://de.connection-ev.org/img/logoheader.png)](https://de.connection-ev.org/?fbclid=IwAR3yGmNDqcLgX1TiwAxYzBrTHvPP8MhH7RviCXCRtfdWfUZsbJdka8VUTM8)
+[![](../assets/4aebc977ddfd/logoheader.png)](https://de.connection-ev.org/?fbclid=IwAR3yGmNDqcLgX1TiwAxYzBrTHvPP8MhH7RviCXCRtfdWfUZsbJdka8VUTM8)
 
 #### Protest in Berlin against the Italy\-Libya Memorandum on 15th October at 2pm in front of the EU Commission:
 

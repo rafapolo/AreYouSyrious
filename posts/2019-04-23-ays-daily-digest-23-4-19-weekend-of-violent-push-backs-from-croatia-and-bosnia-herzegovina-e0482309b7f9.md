@@ -168,7 +168,7 @@ Those resettled to Slovenia, Croatia, Austria and Italy can use a recently put u
 An updated version of the short guide _How to support people in detention_ is available on the page [Resources](https://calaismigrantsolidarity.wordpress.com/videos-and-articles-2/) of the following blog:
 
 
-[![](https://calaismigrantsolidarity.files.wordpress.com/2020/06/cropped-logo-cms.png?w=200)](https://calaismigrantsolidarity.wordpress.com/2019/04/22/soutenir-les-personnes-en-retention-support-people-in-retention/?fbclid=IwAR0l3x1veshvEkJtM8I6iDrE5Rm7Op0t1uCw32EgE-ZQdn9a4JMCoV1dAlY)
+[![](../assets/e0482309b7f9/cropped-logo-cms.png)](https://calaismigrantsolidarity.wordpress.com/2019/04/22/soutenir-les-personnes-en-retention-support-people-in-retention/?fbclid=IwAR0l3x1veshvEkJtM8I6iDrE5Rm7Op0t1uCw32EgE-ZQdn9a4JMCoV1dAlY)
 
 
 A new document containing the list of the French deportation centres with their contacts and basic information, is also available\.

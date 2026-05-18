@@ -286,7 +286,7 @@ Sua Santità Papa Francesco a #CTCF https://t.co/Qlnm5uX8Iq
 
 
 
-[![](https://static.dw.com/image/58754294_6.jpg)](https://www.dw.com/en/why-do-bangladeshi-migrants-take-irregular-routes-to-italy/a-60683932?fbclid=IwAR0-tXpm1wn1ro6xWaB9VgRsPKAJIzreiyMR0vzKA__yJ4JMog-kYUpVS9E)
+[![](../assets/1102d5eb6c2/58754294_6.jpg)](https://www.dw.com/en/why-do-bangladeshi-migrants-take-irregular-routes-to-italy/a-60683932?fbclid=IwAR0-tXpm1wn1ro6xWaB9VgRsPKAJIzreiyMR0vzKA__yJ4JMog-kYUpVS9E)
 
 - The fearless Duncan Lewis Public Law team, known for their groundbreaking challenges to government policies, ranked 1 in Immigration and Human Rights work in the Legal 500, now brings you The No Walls Podcast\! This is a podcast about all things human rights and refugee law, including the people working within it and the clients we represent\.
 
@@ -298,7 +298,7 @@ Sua Santità Papa Francesco a #CTCF https://t.co/Qlnm5uX8Iq
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/039320f100d3ecb01549bcca7d3b3b684163c239.png)](https://www.infomigrants.net/en/post/38346/france-eastern-pyrenees-is-the-new-crossing-point-for-migrants-arriving-from-spain?fbclid=IwAR0_KHfwiFF3cQgP8j9QUpI7USmOGwGIbsDIiuG5DqeRJUb2weY6d2cEqNE)
+[![](../assets/1102d5eb6c2/039320f100d3ecb01549bcca7d3b3b684163c239.png)](https://www.infomigrants.net/en/post/38346/france-eastern-pyrenees-is-the-new-crossing-point-for-migrants-arriving-from-spain?fbclid=IwAR0_KHfwiFF3cQgP8j9QUpI7USmOGwGIbsDIiuG5DqeRJUb2weY6d2cEqNE)
 
 - New Civil Fleet podcast episode:
 

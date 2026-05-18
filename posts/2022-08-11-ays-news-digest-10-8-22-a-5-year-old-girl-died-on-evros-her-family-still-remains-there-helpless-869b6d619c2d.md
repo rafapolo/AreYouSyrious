@@ -42,7 +42,7 @@ On the islet of Evros east of the village of Kissari, people are still stranded\
 A scorpion bite is reportedly the direct cause of death of the little Maria, and it also stung a nine\-year\-old girl, Agia, who remained helpless on the island with fever and vomiting for the second day yesterday\. According to what the people there report, Maria’s lifeless body remains unburied\. “To preserve it as much as they can, the refugees have put it in the cold waters of the river, while her mother is grieving on the riverbank”, says the tragic report published in the Greek [media](https://www.efsyn.gr/ellada/dikaiomata/355170_egklima-diarkeias-ston-ebro) \.
 
 
-[![Το ηχητικό μήνυμα που έστειλε στην "Εφ.Συν." η Μπαϊντά Α. by efsyn.gr](https://i1.sndcdn.com/artworks-MJwhun15YBrjIkFc-MHHSAg-t500x500.jpg "Το ηχητικό μήνυμα που έστειλε στην "Εφ.Συν." η Μπαϊντά Α. by efsyn.gr")](https://soundcloud.com/efsyn-gr/to-ichitiko-minyma-poy-esteile)
+[![Το ηχητικό μήνυμα που έστειλε στην "Εφ.Συν." η Μπαϊντά Α. by efsyn.gr](../assets/869b6d619c2d/artworks-MJwhun15YBrjIkFc-MHHSAg-t500x500.jpg "Το ηχητικό μήνυμα που έστειλε στην "Εφ.Συν." η Μπαϊντά Α. by efsyn.gr")](https://soundcloud.com/efsyn-gr/to-ichitiko-minyma-poy-esteile)
 
 
 The media report that “one Syrian refugee from the group died on the Greek bank of the Evros after a violent attempt by the Greek authorities, and two others tragically drowned when they fell into the river from the boat during their transport to the islet by the Greek authorities\.”

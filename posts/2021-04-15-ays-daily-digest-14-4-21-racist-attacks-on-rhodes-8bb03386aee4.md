@@ -165,7 +165,7 @@ Read more: [duncanlewis.co.uk/news/Court_of_…](https://www.duncanlewis.co.uk/n
 
 
 
-[![](https://cdn.enabbaladi.net/english/wp-content/uploads/2021/04/MicrosoftTeams-image-16.jpg)](https://english.enabbaladi.net/archives/2021/04/is-europe-turning-into-a-prison-decisions-to-deport-syrian-refugees-crash-against-international-law/?fbclid=IwAR0-2bHA6Uz3AakCOIPIlAtu_EUbIh7fwgsQjklZ9zimsGeHgIX-SYuGHyU)
+[![](../assets/8bb03386aee4/MicrosoftTeams-image-16.jpg)](https://english.enabbaladi.net/archives/2021/04/is-europe-turning-into-a-prison-decisions-to-deport-syrian-refugees-crash-against-international-law/?fbclid=IwAR0-2bHA6Uz3AakCOIPIlAtu_EUbIh7fwgsQjklZ9zimsGeHgIX-SYuGHyU)
 
 - This report seeks to address the gap and join the dots between Europe’s outsourcing of migrant detention to third countries and the notorious conditions within the migrant detention centres:
 

@@ -59,7 +59,7 @@ This adds to the mounting evidence relating to the restrictions against the pres
 #### RSA reports the data on asylum seekers reaching Greece in the first half of 2022
 
 
-[![](https://rsaegean.org/wp-content/uploads/2022/09/RSA_HalfYear_2022_EN-cover-scaled.jpg)](https://rsaegean.org/en/the-greek-asylum-procedure-in-the-first-half-of-2022/?fbclid=IwAR3bE87sCkwvAmi7DgDpA85WZy2iI_M9C1-fxPVSUf53E7IB6MYJCrv1XuY)
+[![](../assets/dea0eff8b5e3/RSA_HalfYear_2022_EN-cover-scaled.jpg)](https://rsaegean.org/en/the-greek-asylum-procedure-in-the-first-half-of-2022/?fbclid=IwAR3bE87sCkwvAmi7DgDpA85WZy2iI_M9C1-fxPVSUf53E7IB6MYJCrv1XuY)
 
 #### Issues already arising with the new asylum registration system in Greece
 
@@ -101,7 +101,7 @@ Jonas Grimheden, fundamental rights officer at FRONTEX, was hired to ensure that
 He came into the role at a time when NGOs were calling for FRONTEX to be abolished, however, he argues FRONTEX is very much needed\. There have been numerous reports of FRONTEX involvement in pushbacks, however, Grimheden states that the organisation is attempting to resolve these previous malpractices and they are recruiting lots more fundamental rights officers\.
 
 
-[![](https://i.guim.co.uk/img/media/bb3dab23716f7d6bc111d7a0416ac558ddcf0681/0_117_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=730fef4f584c68920e584b3aec692cdd)](https://www.theguardian.com/world/2022/aug/31/greece-should-face-more-checks-over-asylum-seeker-treatment-eu-official?fbclid=IwAR30H5eSAtgQKubjB2TlYYulImbrGYu6AkgCj764kIZSBq5BYgQ5d3zsJyk)
+[![](../assets/dea0eff8b5e3/3500.jpg)](https://www.theguardian.com/world/2022/aug/31/greece-should-face-more-checks-over-asylum-seeker-treatment-eu-official?fbclid=IwAR30H5eSAtgQKubjB2TlYYulImbrGYu6AkgCj764kIZSBq5BYgQ5d3zsJyk)
 
 
 
@@ -247,7 +247,7 @@ They have been waiting eight days to disembark and there are many with severe me
 _“We have never experienced such level of severe medical cases on board Ocean Viking before\. The survivors were found in the middle of high seas in unimaginable situations\. In a desperate attempt to find safety, they were near to die at sea, either by drowning, or by dehydration\. Per maritime law, their rescues will only be completed when they will have reached a Place of Safety\. The current blockade for their disembarkation must find an end without further delay,” — Xavier Lauth, SOS MEDITERRANEE Director of Operations_
 
 
-[![](https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2022-09/20220831_Tara%20Lambourne_%20SOS%20MEDITERRANEE__I1A2970%201280x720.jpg?itok=bJ1-gOyJ)](https://www.ifrc.org/press-release/eight-days-waiting-onboard-ocean-viking-amid-overwhelming-medical-needs-sos?fbclid=IwAR2MbmQGFdqcNG5zcgoIPxDTYSjEYVI4G0LWCte_YtoJf0zkJU1eEJUIr98)
+[![](../assets/dea0eff8b5e3/20220831_Tara%20Lambourne_%20SOS%20MEDITERRANEE__I1A2970%201280x720.jpg)](https://www.ifrc.org/press-release/eight-days-waiting-onboard-ocean-viking-amid-overwhelming-medical-needs-sos?fbclid=IwAR2MbmQGFdqcNG5zcgoIPxDTYSjEYVI4G0LWCte_YtoJf0zkJU1eEJUIr98)
 
 
 
@@ -272,7 +272,7 @@ In the evening, a merchant ship was told by Malta’s rescue coordination centre
 This is not the first time Malta has been accused of not assisting boats in distress\.
 
 
-[![](https://thecivilfleet.files.wordpress.com/2022/08/fbwf6xowqaex74j.jpg?w=1200)](https://thecivilfleet.wordpress.com/2022/08/31/malta-abandons-80-people-in-distress-in-its-search-and-rescue-area/?fbclid=IwAR0UnsvTmoV4WirpJzDsz3B7exhI48a2EQWSNytYaJ23q4H8KtTf2fotWZg)
+[![](../assets/dea0eff8b5e3/fbwf6xowqaex74j.jpg)](https://thecivilfleet.wordpress.com/2022/08/31/malta-abandons-80-people-in-distress-in-its-search-and-rescue-area/?fbclid=IwAR0UnsvTmoV4WirpJzDsz3B7exhI48a2EQWSNytYaJ23q4H8KtTf2fotWZg)
 
 #### ITALY
 ### Five bodies found off the coast of Sardinia
@@ -280,7 +280,7 @@ This is not the first time Malta has been accused of not assisting boats in dist
 The wreckage of the boat has not been found yet, but the bodies were all found within a space of 48 hours\. The coast guard and financial police have been searching for the wreckage\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/ebe789f12cda012c66743da74a290606877c2644.jpg)](https://www.infomigrants.net/en/post/43046/5-bodies-found-off-sardinia-after-migrantladen-boat-sinks)
+[![](../assets/dea0eff8b5e3/ebe789f12cda012c66743da74a290606877c2644.jpg)](https://www.infomigrants.net/en/post/43046/5-bodies-found-off-sardinia-after-migrantladen-boat-sinks)
 
 #### FRANCE
 

@@ -26,7 +26,7 @@ See original source [here](https://www.keeptalkinggreece.com/2019/08/05/frontex-
 Frontex is rapidly growing in size\. It is scheduled that by 2024 the number of staff will increase from 1,500 to 10,000\. At the same time, the budget will increase by approximately 500%\. Frontex has few democratic means of control\. A German article concerning this new information, and the general lack of oversight of Frontex, can be found here:
 
 
-[![](https://correctiv.org/wp-content/uploads/2019/08/frontex_hubschrauber_2-768x454.jpg)](https://correctiv.org/top-stories/2019/08/04/frontex-transparenz/)
+[![](../assets/cb216f70954c/frontex_hubschrauber_2-768x454.jpg)](https://correctiv.org/top-stories/2019/08/04/frontex-transparenz/)
 
 
 On Twitter, Frontex has denied all accusations:
@@ -70,7 +70,7 @@ According to NoBorders Greece, [two young men were arrested](https://twitter.com
 A list of courses, activities and services offered for refugees in Athens in August can be found here:
 
 
-[![](https://www.migrant.gr/ftp/articlepics/objects/190731125016.jpg)](https://www.migrant.gr/cgi-bin/pages/index.pl?arlang=English&argenkat=%CE%95%CE%A1%CE%93%CE%91%20%CE%9A%CE%91%CE%99%20%CE%94%CE%A1%CE%91%CE%A3%CE%95%CE%99%CE%A3%20-%20%CE%9D%CE%95%CE%9F%CE%A3%20%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%97%CE%A3&arcode=190731124539&type=article&fbclid=IwAR2XbW76sEumMMlRnSFVs8o3E8xOUIgDZJkvcLRQpagHudVXoVTshADkOm0)
+[![](../assets/cb216f70954c/190731125016.jpg)](https://www.migrant.gr/cgi-bin/pages/index.pl?arlang=English&argenkat=%CE%95%CE%A1%CE%93%CE%91%20%CE%9A%CE%91%CE%99%20%CE%94%CE%A1%CE%91%CE%A3%CE%95%CE%99%CE%A3%20-%20%CE%9D%CE%95%CE%9F%CE%A3%20%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%97%CE%A3&arcode=190731124539&type=article&fbclid=IwAR2XbW76sEumMMlRnSFVs8o3E8xOUIgDZJkvcLRQpagHudVXoVTshADkOm0)
 
 #### CENTRAL AND WESTERN MEDITERRANEAN
 

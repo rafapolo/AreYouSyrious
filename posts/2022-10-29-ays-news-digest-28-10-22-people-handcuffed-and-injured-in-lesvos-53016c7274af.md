@@ -70,7 +70,7 @@ It is not known who is responsible, but it cannot be ruled out that it is a typi
 Read here more:
 
 
-[![](https://media.msf.org/AssetLink/6mcq2j67420c1u73t340k2l270m80l8n.jpg)](https://www.msf.org/people-found-handcuffed-and-injured-aegean-island-lesvos-greece?fbclid=IwAR0bfLmfdHcD_5BWUu6cwtHnpPT4Cp-Q3IHQi6L04lcf7wUEvZvlFh5ztmM)
+[![](../assets/53016c7274af/6mcq2j67420c1u73t340k2l270m80l8n.jpg)](https://www.msf.org/people-found-handcuffed-and-injured-aegean-island-lesvos-greece?fbclid=IwAR0bfLmfdHcD_5BWUu6cwtHnpPT4Cp-Q3IHQi6L04lcf7wUEvZvlFh5ztmM)
 
 #### LEBANON
 ### Lebanon starts a ‘voluntary return’ programme for refugees in Syria, with NGOs concerned about human rights
@@ -85,7 +85,7 @@ According to the Lebanese authorities, 751 Syrian refugees ‘voluntarily’ ret
 Read more here:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2015/02/1df458ed9afb48f7b7cdef09d39bee2b_18.jpeg?resize=1200%2C675)](https://www.aljazeera.com/news/2022/10/26/lebanon-begins-voluntary-repatriation-of-syrian-refugees?fbclid=IwAR0Xje2g9W3aIuDGn379jAomAkKgVXC-lVUNUxkzaIyL0SFEcq2xSpjO6lk)
+[![](../assets/53016c7274af/1df458ed9afb48f7b7cdef09d39bee2b_18.jpeg)](https://www.aljazeera.com/news/2022/10/26/lebanon-begins-voluntary-repatriation-of-syrian-refugees?fbclid=IwAR0Xje2g9W3aIuDGn379jAomAkKgVXC-lVUNUxkzaIyL0SFEcq2xSpjO6lk)
 
 #### TURKEY
 ### People trying to cross Agean Sea intercepted by Turkish coast guard
@@ -93,7 +93,7 @@ Read more here:
 On October 25th, Turkish authorities stopped 103 people trying to leave in a makeshift boat from Turkey to a safe country\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/47d167e0eae55079f2084f6899211815578036a9.jpeg)](https://www.infomigrants.net/en/post/44346/more-than-103-migrants-intercepted-by-turkish-coast-guard-in-aegean-waters?fbclid=IwAR2zSSuB99-DtBWETBaiiDmh-ClQEgqCP_gw7SphvA9ALG2d4RAH9ewTpgo)
+[![](../assets/53016c7274af/47d167e0eae55079f2084f6899211815578036a9.jpeg)](https://www.infomigrants.net/en/post/44346/more-than-103-migrants-intercepted-by-turkish-coast-guard-in-aegean-waters?fbclid=IwAR2zSSuB99-DtBWETBaiiDmh-ClQEgqCP_gw7SphvA9ALG2d4RAH9ewTpgo)
 
 
 People on the move attempting the sea crossing from Turkey are on the rise, as are those trying to reach the EU from the Balkan route\. It should be remembered that Turkey deports to Syria and Afghanistan despite the danger to those being returned \( [read more here](https://www.infomigrants.net/en/post/44223/turkey-accused-of-deporting-hundreds-of-refugees-to-syria) \)
@@ -185,7 +185,7 @@ After risking their lives, 64 people were reached by libyan coast guard
 Clashes broke out at the Pournaras reception facility, a migrant center about 22 km from Nicosia\. Because the facility is overcrowded, tensions between groups easily reach their limits\. In fact, tensions between the groups were the explosive spark\. Police responded with tear gas and three people were taken to the hospital once the situation calmed down\. Read more [here](https://www.reuters.com/world/middle-east/clashes-break-out-cyprus-migrant-centre-fires-lit-2022-10-28/?fbclid=IwAR3a3WzrY4V55utjQtPUcYMIu9fKkASCQBVgMcEtIc3MeufLTRFRnQ4gckU) and at the following link:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/10/2022-10-28T121405Z_1414431052_RC2BAX9W56OY_RTRMADP_3_EUROPE-MIGRANTS-CYPRUS-CLASHES.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2022/10/28/clashes-break-out-fires-lit-at-overcrowded-cyprus-migrant-centre?fbclid=IwAR3hmYjomIXln3GqLuj1ZDOEYgX4oiB3Exk3A5V0nw2tdZSTHMpEGOsQzbg#:~:text=Clashes%20appear%20to%20have%20broken,reception%20centre%2C%20according%20to%20police.&text=Police%20have%20fired%20tear%20gas,according%20to%20police%20and%20witnesses)
+[![](../assets/53016c7274af/2022-10-28T121405Z_1414431052_RC2BAX9W56OY_RTRMADP_3_EUROPE-MIGRANTS-CYPRUS-CLASHES.jpg)](https://www.aljazeera.com/news/2022/10/28/clashes-break-out-fires-lit-at-overcrowded-cyprus-migrant-centre?fbclid=IwAR3hmYjomIXln3GqLuj1ZDOEYgX4oiB3Exk3A5V0nw2tdZSTHMpEGOsQzbg#:~:text=Clashes%20appear%20to%20have%20broken,reception%20centre%2C%20according%20to%20police.&text=Police%20have%20fired%20tear%20gas,according%20to%20police%20and%20witnesses)
 
 #### MALTA
 ### The Libyan Coast Guard threatened to shoot down a Sea\-Watch aircraft inside the European search and rescue area
@@ -206,7 +206,7 @@ There is still no comment on the matter from spokesmen for the Libyan authoritie
 Cooperation between Bosnia and Herzegovina and the European agency Frontex on the control of Europe’s external borders is strengthened
 
 
-[![](https://sarajevotimes.com/wp-content/uploads/2022/10/40C34C91-168D-43E8-9625-D36C9820239B.jpeg)](https://sarajevotimes.com/bih-delegation-participates-at-frontex-border-police-conference-in-poland/?fbclid=IwAR3ZOkN8K_XmmPwqY3awt9uvkv39av9g4bvrH5o7TyHyinDrn6y0b1UTuiI)
+[![](../assets/53016c7274af/40C34C91-168D-43E8-9625-D36C9820239B.jpeg)](https://sarajevotimes.com/bih-delegation-participates-at-frontex-border-police-conference-in-poland/?fbclid=IwAR3ZOkN8K_XmmPwqY3awt9uvkv39av9g4bvrH5o7TyHyinDrn6y0b1UTuiI)
 
 #### SLOVAKIA
 ### Elections soon in Slovakia bring migration topic as public discourse main focus
@@ -241,7 +241,7 @@ Read more [here](https://www.schengenvisainfo.com/news/czechia-prolongs-border-c
 Giorgia Meloni’s new far\-right government immediately demonstrates its securitarian and criminalising approach to people crossing the Mediterranean and the NGOs that rescue them\. Already during the political propaganda period, Meloni had declared that she wanted to implement a ‘naval blockade’ and curb any new arrivals of boats from North Africa\. These days more than 400 people rescued by Ocean Viking and other NGOs are waiting to be disembarked\. Read more here:
 
 
-[![](https://i.guim.co.uk/img/media/a7dfa6b8c66465a96cebc70cac54d59bc0df3a2f/0_244_3936_2362/master/3936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=688459f719501e635009862ccb7d7a84)](https://www.theguardian.com/world/2022/oct/26/georgia-meloni-faces-first-migration-test-from-two-ngo-rescue-boats?fbclid=IwAR22xWYFzWnTrfcAjVLfJY-wUGuHsysUcyl5LF7isEop23WZyUQSIY2Gxk4)
+[![](../assets/53016c7274af/3936.jpg)](https://www.theguardian.com/world/2022/oct/26/georgia-meloni-faces-first-migration-test-from-two-ngo-rescue-boats?fbclid=IwAR22xWYFzWnTrfcAjVLfJY-wUGuHsysUcyl5LF7isEop23WZyUQSIY2Gxk4)
 
 
 The mismanagement of the new arrivals is also causing great pressure on the island of Lampedusa where the mayor has complained that the island has been left ‘almost alone’\.
@@ -249,7 +249,7 @@ The mismanagement of the new arrivals is also causing great pressure on the isla
 Read more here:
 
 
-[![](https://static.euronews.com/articles/stories/07/14/54/88/1000x563_cmsv2_5de17d6d-050a-539c-ad15-47dee1881d12-7145488.jpg)](https://www.euronews.com/2022/10/27/we-are-almost-alone-amid-hundreds-of-migrant-arrivals-says-lampedusa-mayor?fbclid=IwAR22T-Ap8TtGHmnVpsmUWblg2XhypkK6nR1THcR1nDMqN0gXA4-HjXesLC8)
+[![](../assets/53016c7274af/1000x563_cmsv2_5de17d6d-050a-539c-ad15-47dee1881d12-7145488.jpg)](https://www.euronews.com/2022/10/27/we-are-almost-alone-amid-hundreds-of-migrant-arrivals-says-lampedusa-mayor?fbclid=IwAR22T-Ap8TtGHmnVpsmUWblg2XhypkK6nR1THcR1nDMqN0gXA4-HjXesLC8)
 
 
 This criminalising line is not only characteristic of the new government : indeed the second day of the [Iuventa Crew](https://www.borderline-europe.de/unsere-arbeit/iuventa-wir-riskieren-20-jahre-haft-aber-sie-werden-die-solidarit%C3%A4t-nicht-beenden?fbclid=IwAR3x5KB6CuHV1piNVZnVhSej-y2Di3gkGBaXw_Sl3g7d65broDqZGpC0nIQ) trial takes place on Saturday 29th October\. Members, accused of smuggling, risk at least 20 years in prison
@@ -334,7 +334,7 @@ Read a summary here⬇️🧵
 The migration issue was extensively discussed in the meeting with Jordan’s King Abdullah \. Read here more:
 
 
-[![](https://menafn.com/updates/pr/2022-10/28/JT_447abimage_story.jpg)](https://menafn.com/1105094217/King-Receives-Delegation-From-UK-House-Of-Commons-International-Development-Committee?fbclid=IwAR3lGeiVdUR4Y3BAw41-XQzMt4Pvl09rakmXiU6XJ13xXTljpLR6BOjvZZo)
+[![](../assets/53016c7274af/JT_447abimage_story.jpg)](https://menafn.com/1105094217/King-Receives-Delegation-From-UK-House-Of-Commons-International-Development-Committee?fbclid=IwAR3lGeiVdUR4Y3BAw41-XQzMt4Pvl09rakmXiU6XJ13xXTljpLR6BOjvZZo)
 
 #### GENERAL
 ### The Border Violence Reporting Network report of September is out

@@ -139,7 +139,7 @@ The report says:
 If there is anything we’ve learned from our sisters who have fled violence, conflict and persecution here in Greece, is that the human spirit is resilient\. After an initial successful pilot phase since May 18th post lockdown, we are proud to present the Pomegranate Project, shaped by our sisters’ voices\.
 
 
-[![](https://prod-chuffedcontent.s3.amazonaws.com/images/pw6vEzmRTaSFyQZ0xNk8_images/gyM2zyMKQVu8wK3KgPb3_Screenshot%202020-07-08%20at%2016.34.09.png)](https://chuffed.org/project/secure-safe-housing-for-displaced-women?fbclid=IwAR30IB_YvUIc3coNsKusXRhYfR1788lHba-zFQL0x17ss0Pkr-Kv3-8KnZI#)
+[![](../assets/927c3495abc2/gyM2zyMKQVu8wK3KgPb3_Screenshot%202020-07-08%20at%2016.34.09.png)](https://chuffed.org/project/secure-safe-housing-for-displaced-women?fbclid=IwAR30IB_YvUIc3coNsKusXRhYfR1788lHba-zFQL0x17ss0Pkr-Kv3-8KnZI#)
 
 
 The pomegranate is the Greek and Persian symbol of regeneration, strength and new life\. Its seeds symbolise the lives each woman is striving to rebuild which we collectively work to protect and empower each other\.
@@ -249,14 +249,14 @@ In July alone, according to PA, more than 1000 people were picked up as they cro
 Podcast: “Will or can’t the EU states agree? Are human rights being sacrificed in the face of political interests? Should the devastating conditions stop any fugitives? How can the refugee drama be stopped?”
 
 
-[![](https://assets.deutschlandfunk.de/FILE_761695bbfef0071d6b81a5e78b04ef1c/original.jpg?t=1597561973268)](https://www.deutschlandfunkkultur.de/armutszeugnis-fuer-europa-wie-beenden-wir-das.1083.de.html?dram%3Aarticle_id=481796&fbclid=IwAR2JfzK-TvIRSntE7OMpbHUOVPMfeiT_Q9uroLjewCoZBzNYE7ri1p8S2AU)
+[![](../assets/927c3495abc2/original.jpg)](https://www.deutschlandfunkkultur.de/armutszeugnis-fuer-europa-wie-beenden-wir-das.1083.de.html?dram%3Aarticle_id=481796&fbclid=IwAR2JfzK-TvIRSntE7OMpbHUOVPMfeiT_Q9uroLjewCoZBzNYE7ri1p8S2AU)
 
 
 Amadou Diallo fled child labour in an African gold mine\. 
 Only by proving his ability to an elite university has he won the right to a future in Europe, here is his story:
 
 
-[![](https://i.guim.co.uk/img/media/0812497c98d284c1460c487ff3b39a75233c3fcb/0_508_4427_2658/master/4427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c23e264ab92576aee52a1ae41d74be2d)](https://www.theguardian.com/world/2020/aug/07/never-give-up-greek-asylum-fight-is-gifted-students-hardest-lesson?fbclid=IwAR3DmsUmMGIz0J70MmNa7PTI2glHQhUMqHIKBltD8-KgfWXs7iWU5X0DPwM)
+[![](../assets/927c3495abc2/4427.jpg)](https://www.theguardian.com/world/2020/aug/07/never-give-up-greek-asylum-fight-is-gifted-students-hardest-lesson?fbclid=IwAR3DmsUmMGIz0J70MmNa7PTI2glHQhUMqHIKBltD8-KgfWXs7iWU5X0DPwM)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -30,7 +30,7 @@ Sandberg claims that these Afghanistan cases highlight an inhumanity inconsisten
 Similar stories about rejections and deportations are \(re\)appearing in **Denmark, Sweden** and other countries, based on the same kind of practice in which even small discrepancies in the background stories of asylum seekers are used as a pretense\.
 
 
-[![](https://www.dagbladet.no/images/71196109.jpg?imageId=71196109&panow=72.35142118863&panoh=16.752136752137&panox=7.4935400516796&panoy=26.153846153846&heightw=0&heighth=0&heightx=0&heighty=0&width=1200&height=630)](https://www.dagbladet.no/kultur/saken-har-plaget-meg-siden-jeg-sluttet-i-udi/71195730?fbclid=IwAR26ZUZAEME8kRf3G6D2IjZqea1O92zAbCftdH0D75Pwy2BKNiZyAdKZtPs)
+[![](../assets/6bc32a8ed2b7/71196109.jpg)](https://www.dagbladet.no/kultur/saken-har-plaget-meg-siden-jeg-sluttet-i-udi/71195730?fbclid=IwAR26ZUZAEME8kRf3G6D2IjZqea1O92zAbCftdH0D75Pwy2BKNiZyAdKZtPs)
 
 
 More individual cases where hopeless situations arise due to the need to leave the country, either via deportation or refused demands for prolongation of international protection\. 

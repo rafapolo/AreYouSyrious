@@ -57,7 +57,7 @@ The police escalated a peaceful protest on Moria yesterday morning by deploying 
 A sit\-in took place outside of the German embassy in Athens\. There is a limit on 70 reunifications from Greece to Germany per month, which forces many with family members in Germany to be trapped in a legal limbo for months or even years\. Please sign the petition associated with the protesters’ at the following link\.
 
 
-[![](https://assets.change.org/photos/5/ig/zu/qRigzUIIhnKDCbi-1600x900-noPad.jpg?1509150936)](https://www.change.org/p/family-reunification-from-greece-let-them-be-together-again)
+[![](../assets/8d7ce4d3b06b/qRigzUIIhnKDCbi-1600x900-noPad.jpg)](https://www.change.org/p/family-reunification-from-greece-let-them-be-together-again)
 
 ### Numbers
 

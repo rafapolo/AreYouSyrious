@@ -43,7 +43,7 @@ Photos from United Rescue Aid
 A video was published depicting police beating migrants who revolted on Tuesday, 18/7 due to long delays in examining their asylum claims, but also because of the circumstances in which they are forced to live in Moria\.
 
 
-[![Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F645848477-59c26620a7db37d0a53394e390764e12d2f5d4d92fe1fedb696710a06fe9cd21-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας")](https://vimeo.com/226277179)
+[![Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας](../assets/2c4db66ec873/overlay "Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας")](https://vimeo.com/226277179)
 
 #### Solidarity prevails
 

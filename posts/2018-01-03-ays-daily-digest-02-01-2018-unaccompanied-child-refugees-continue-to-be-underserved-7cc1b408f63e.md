@@ -27,7 +27,7 @@ While such cases have indeed been documented, this does not cancel out the very 
 In its “Denouncement” series, the Athens Legal Support Team highlights the various aspects of the dangerous consequences of the EU policy\. This is the seventh such video, and this installment deals particularly with the issue of unaccompanied minors and the failures of the system in defending them\. As a result of which, most of the child minors in the country live in unsafe conditions while by law they are to be given special protections\.
 
 
-[![7th Denouncement: Unaccompanied Minors - Athens Legal Support Team](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F675181982-950b99b1e252072d8cb21404e71817d267dc290cfaf6691b541a57525e1986d6-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "7th Denouncement: Unaccompanied Minors - Athens Legal Support Team")](https://vimeo.com/249294267)
+[![7th Denouncement: Unaccompanied Minors - Athens Legal Support Team](../assets/7cc1b408f63e/overlay "7th Denouncement: Unaccompanied Minors - Athens Legal Support Team")](https://vimeo.com/249294267)
 
 
 The situation is indeed dire\.

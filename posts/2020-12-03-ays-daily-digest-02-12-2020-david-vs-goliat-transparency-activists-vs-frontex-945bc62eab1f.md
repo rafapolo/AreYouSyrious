@@ -215,7 +215,7 @@ When questioned by the Parliament’s Home Affairs Committee on Wednesday, Chris
 For more, see here:
 
 
-[![](https://static.independent.co.uk/2020/11/04/19/PRI165744078.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/politics/english-channel-crossings-wave-machine-island-b1765077.html?fbclid=IwAR2RUWuSpjDOfAOUFggYKFsXgCFQK4nvRZZKhixm10-6aBuFiHTlWrC_v9U)
+[![](../assets/945bc62eab1f/PRI165744078.jpg)](https://www.independent.co.uk/news/uk/politics/english-channel-crossings-wave-machine-island-b1765077.html?fbclid=IwAR2RUWuSpjDOfAOUFggYKFsXgCFQK4nvRZZKhixm10-6aBuFiHTlWrC_v9U)
 
 #### Volunteers needed in Manchester
 
@@ -262,7 +262,7 @@ This 10 minutes movie tells the story of people trapped on Lesvos and is definit
 This photo essay collects pictures of objects people left behind when the fire broke out in Moria camp on 8 September\. They tell stories of enduring pain, of resilience, of attachment and belief\.
 
 
-[![](https://i.guim.co.uk/img/media/7545e0af02d44abc9e0c89b55c0a5eb0fb15c1e6/846_801_3434_2061/master/3434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb20caa985a234429783938bb1f296d1)](https://www.theguardian.com/artanddesign/2020/dec/02/aftermath-moria-refugee-camp-fire-photo-essay?fbclid=IwAR2kjSz7Ucw3MbCsHeXpGwF_Y_JiERYrTDfpJyOqbvjIZf4lU8o4JkhnxOk)
+[![](../assets/945bc62eab1f/3434.jpg)](https://www.theguardian.com/artanddesign/2020/dec/02/aftermath-moria-refugee-camp-fire-photo-essay?fbclid=IwAR2kjSz7Ucw3MbCsHeXpGwF_Y_JiERYrTDfpJyOqbvjIZf4lU8o4JkhnxOk)
 
 ### EVENTS
 #### Sea\-Watch: We continue \(in German\)
@@ -273,7 +273,7 @@ Tonight, 3 December, at 8 pm \(UTC\+1\), Sea\-Watch is hosting an event about th
 Webinar discussion with UNHCR and researchers on development and dynamics of cessation practice in Northern Europe:
 
 
-[![](https://www.cmi.no/img/800/14671-Tempro-header.jpg)](https://www.cmi.no/events/2619-cessation-of-refugee-status-in-the-nordic-region-developments-dilemmas?fbclid=IwAR2Tgqzwjg_UoqqrxLcJJMJcnoAiXJTeJiULaQrnJnq0rlnpKLaZEdoV3i8)
+[![](../assets/945bc62eab1f/14671-Tempro-header.jpg)](https://www.cmi.no/events/2619-cessation-of-refugee-status-in-the-nordic-region-developments-dilemmas?fbclid=IwAR2Tgqzwjg_UoqqrxLcJJMJcnoAiXJTeJiULaQrnJnq0rlnpKLaZEdoV3i8)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

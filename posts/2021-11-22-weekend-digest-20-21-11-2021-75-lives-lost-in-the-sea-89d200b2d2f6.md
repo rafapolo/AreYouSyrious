@@ -218,7 +218,7 @@ Meanwhile, British soldiers arrived on the Polish side of the border to support 
 This article provides a good overview on what happens to people who are pushed back along the border and explains how and why these pushbacks are illegal:
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/2FB1/production/_121690221_gettyimages-1236662279.jpg)](https://www.bbc.com/news/59348337?fbclid=IwAR2TQm_95SwiJu8TLnPzTp7yG3HqQxLMj7qgnFv1qhzlzWZQgPt8kpx0OGs)
+[![](../assets/89d200b2d2f6/_121690221_gettyimages-1236662279.jpg)](https://www.bbc.com/news/59348337?fbclid=IwAR2TQm_95SwiJu8TLnPzTp7yG3HqQxLMj7qgnFv1qhzlzWZQgPt8kpx0OGs)
 
 
 Alarm Phone, one of the most important responders for people in distress at the various hotspots of the European border regime, received an emergency call from a group of 12 people stuck at the border, amongst them one person with heart problems:

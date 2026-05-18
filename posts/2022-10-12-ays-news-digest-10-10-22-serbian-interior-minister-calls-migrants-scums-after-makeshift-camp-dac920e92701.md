@@ -86,7 +86,7 @@ The video shows mobile phones and cash being siezed, despite the Minister claimi
 These raids are not new in Serbia; there have been a multitude of raids in different areas in Serbia, such as in Belgrade and Subotica\. In the months of March and April 2022, raids took place on an almost daily basis in Subotica\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/0835c25ef4aa1def54d35eb704a7376992328514.jpg)](https://www.infomigrants.net/en/post/43814/serbia-minister-condemns-migrants-following-police-raid?fbclid=IwAR001dwncvexvJy0Fm4wYlbCb5NZLMUesj3GYO-owjnKAVrDBvb_BZKR56M)
+[![](../assets/dac920e92701/0835c25ef4aa1def54d35eb704a7376992328514.jpg)](https://www.infomigrants.net/en/post/43814/serbia-minister-condemns-migrants-following-police-raid?fbclid=IwAR001dwncvexvJy0Fm4wYlbCb5NZLMUesj3GYO-owjnKAVrDBvb_BZKR56M)
 
 
 You can watch a short video posted by NoNameKitchen here: [https://www\.facebook\.com/reel/767615651003757](https://www.facebook.com/reel/767615651003757)
@@ -115,7 +115,7 @@ Białowieża. Noc z wczoraj na dzisiaj. https://t.co/k6e5rv8UNK
 The camp is exceptionally dangerous, police do not even go into the camp\. There is little to no organisation and very limited infrastructure\. The conditions are inhumane, with very little access to electricity and water\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/a37574f88c57256a79c51966492590dc15e1e644.jpg)](https://www.infomigrants.net/en/post/43809/between-olive-groves-and-no-mans-land-migrant-workers-in-western-sicily?fbclid=IwAR1jGEYz0udvKtLjk-mJ5_8Mfl_JwDttJyto9gDRLF5NxwpcLTcXvxPcTMw)
+[![](../assets/dac920e92701/a37574f88c57256a79c51966492590dc15e1e644.jpg)](https://www.infomigrants.net/en/post/43809/between-olive-groves-and-no-mans-land-migrant-workers-in-western-sicily?fbclid=IwAR1jGEYz0udvKtLjk-mJ5_8Mfl_JwDttJyto9gDRLF5NxwpcLTcXvxPcTMw)
 
 #### GERMANY
 ### **Germany’s interior minister, Nancy Faeser, has called for a stop to deportations to Iran**
@@ -134,11 +134,11 @@ Josefine Paul, the North Rhine\-Westphalian Minister for Flight and Integration 
 So far in 2022, [31 people have been deported to Iran](https://www.migazin.de/2022/10/09/faser-abschiebung-in-jahr31-menschen/?fbclid=IwAR087aXNB7MV0VgYdVSg1buTgstGqTa-28H_xJrJyLsvUzJ4Una8QFPfKy4) \.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/0cd267c11703de0304b2c02065a54cede6151a2b.jpg)](https://www.infomigrants.net/en/post/43865/deportations-to-iran-should-be-stopped-german-interior-minister?fbclid=IwAR001dwncvexvJy0Fm4wYlbCb5NZLMUesj3GYO-owjnKAVrDBvb_BZKR56M)
+[![](../assets/dac920e92701/0cd267c11703de0304b2c02065a54cede6151a2b.jpg)](https://www.infomigrants.net/en/post/43865/deportations-to-iran-should-be-stopped-german-interior-minister?fbclid=IwAR001dwncvexvJy0Fm4wYlbCb5NZLMUesj3GYO-owjnKAVrDBvb_BZKR56M)
 
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/13922/production/_127026108_a74e8093ddb01124159742ba10b2343505a8ca05.jpg)](https://www.bbc.co.uk/news/world-middle-east-63195358)
+[![](../assets/dac920e92701/_127026108_a74e8093ddb01124159742ba10b2343505a8ca05.jpg)](https://www.bbc.co.uk/news/world-middle-east-63195358)
 
 
 
@@ -171,7 +171,7 @@ AGAINST the dying in the Mediterranean Sea https://t.co/yh8un1NKQy
 The Channel is one of the most dangerous and busiest shipping lanes in the world, making it a highly precarious and risky sea to cross\.
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/898D/production/_127031253_66259d6d9db4cee8382dba08e53a8f7b6421099e.jpg)](https://www.bbc.co.uk/news/uk-england-kent-63201048?fbclid=IwAR1BaUzhlJScUaHn5Le2jNrRlwaMdbiVb6PM8Vd864bm4zu9Ma0pDSagvXI)
+[![](../assets/dac920e92701/_127031253_66259d6d9db4cee8382dba08e53a8f7b6421099e.jpg)](https://www.bbc.co.uk/news/uk-england-kent-63201048?fbclid=IwAR1BaUzhlJScUaHn5Le2jNrRlwaMdbiVb6PM8Vd864bm4zu9Ma0pDSagvXI)
 
 #### SEA/SAR
 ### 15 bodies found on a beach in Libya

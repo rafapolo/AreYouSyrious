@@ -407,7 +407,7 @@ Majeed Sheikh questions this two\-tier criminal system and how it reflects on th
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/efbfaedf3df9de04c6ba92160e9ce8db22ab2a99.jpg)](https://www.infomigrants.net/en/post/40266/reports-of-abuse-of-afghan-refugees-as-iran-continues-deportations?fbclid=IwAR3a5UY1ou9Xg7EeJoFVCj1fO9ZPqw0WuKzDfsHUjtl--Lbz5EZsAPZBEH0)
+[![](../assets/ed9a5942b541/efbfaedf3df9de04c6ba92160e9ce8db22ab2a99.jpg)](https://www.infomigrants.net/en/post/40266/reports-of-abuse-of-afghan-refugees-as-iran-continues-deportations?fbclid=IwAR3a5UY1ou9Xg7EeJoFVCj1fO9ZPqw0WuKzDfsHUjtl--Lbz5EZsAPZBEH0)
 
 
 
@@ -415,7 +415,7 @@ Majeed Sheikh questions this two\-tier criminal system and how it reflects on th
 
 
 
-[![](https://cdnuploads.aa.com.tr/uploads/Contents/2022/04/26/thumbs_b_c_c31acd2d0d82c102a40355b24ed0e1c5.jpg?v=120825)](https://www.aa.com.tr/en/middle-east/cruel-action-on-afghan-refugees-in-iran-sparks-outrage/2573111?fbclid=IwAR0bKUG9ojmlrwQWPNZgl9toAJr861oE6zmC9xjKlmg-LgkdfGy5lQPG1C4)
+[![](../assets/ed9a5942b541/thumbs_b_c_c31acd2d0d82c102a40355b24ed0e1c5.jpg)](https://www.aa.com.tr/en/middle-east/cruel-action-on-afghan-refugees-in-iran-sparks-outrage/2573111?fbclid=IwAR0bKUG9ojmlrwQWPNZgl9toAJr861oE6zmC9xjKlmg-LgkdfGy5lQPG1C4)
 
 - Documentary: “ _The European Dream”\._ This documentary tells the story of Idrissa Toure who travelled from Senegal to Spain, and details the complex and dangerous route, as well as the violence he experienced at the borders\.
 
@@ -434,7 +434,7 @@ Majeed Sheikh questions this two\-tier criminal system and how it reflects on th
 
 
 
-[![](https://i.guim.co.uk/img/media/412e618d376260b3005f912b8fe12d4ad0d6a7c1/0_120_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a89b845d6a5fd0364612dac30639901)](https://www.theguardian.com/world/2022/may/02/denmark-accused-racism-anti-ghetto-law-ukraine-refugees?fbclid=IwAR3t-PywbiQVs1YquuZSpjZE9J8B-HgXnl5das87BqENeKlLiPvErEd9-S0)
+[![](../assets/ed9a5942b541/3600.jpg)](https://www.theguardian.com/world/2022/may/02/denmark-accused-racism-anti-ghetto-law-ukraine-refugees?fbclid=IwAR3t-PywbiQVs1YquuZSpjZE9J8B-HgXnl5das87BqENeKlLiPvErEd9-S0)
 
 - Statewatch, _Spain and Morocco renew security cooperation agreement linking organised crime and “irregular” immigration_ \.
 

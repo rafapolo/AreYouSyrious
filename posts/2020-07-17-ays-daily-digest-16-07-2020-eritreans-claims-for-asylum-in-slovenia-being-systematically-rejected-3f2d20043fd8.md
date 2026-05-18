@@ -168,7 +168,7 @@ Meanwhile, the Italian government is in search for a new ship to host people who
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/5ecd6b32eb9e329b99e8cb063c3ea9202370d6e8.jpeg)](https://www.infomigrants.net/en/post/26051/italy-covid-19-positive-migrants-transferred-to-military-hospital-in-rome?preview=1594883956178&fbclid=IwAR3J_NCkre1G66jKlqU5gUSN0If7_M0GknHi32KRbDgyBVI4LZE9FHnZ4QA)
+[![](../assets/3f2d20043fd8/5ecd6b32eb9e329b99e8cb063c3ea9202370d6e8.jpeg)](https://www.infomigrants.net/en/post/26051/italy-covid-19-positive-migrants-transferred-to-military-hospital-in-rome?preview=1594883956178&fbclid=IwAR3J_NCkre1G66jKlqU5gUSN0If7_M0GknHi32KRbDgyBVI4LZE9FHnZ4QA)
 
 ### SPAIN
 
@@ -179,7 +179,7 @@ Months after Germany halted deportations because of the Corona pandemic, a first
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/a7bab8481aa6c727cabea0b27cfc1d8e86e91187.jpeg)](https://www.infomigrants.net/en/post/26068/germany-and-greece-deport-failed-asylum-seekers-to-pakistan?fbclid=IwAR3nlxyKRl1PqtVN2kT2JgWS4SozuXiFMFPYIkJq2jjyfbzE-BGQ8F6GBaA)
+[![](../assets/3f2d20043fd8/a7bab8481aa6c727cabea0b27cfc1d8e86e91187.jpeg)](https://www.infomigrants.net/en/post/26068/germany-and-greece-deport-failed-asylum-seekers-to-pakistan?fbclid=IwAR3nlxyKRl1PqtVN2kT2JgWS4SozuXiFMFPYIkJq2jjyfbzE-BGQ8F6GBaA)
 
 
 A German man faced trial for having promoted a “civil society asylum” \(Bürgerasyl\) \. The man was alleged to have been maintaining a website that supported the idea of helping failed asylum seekers by sheltering and eventually hiding them in private households\. The jury acquitted him of the charges on Thursday\.
@@ -209,7 +209,7 @@ On July 8, the French State Council confirmed that the French Ministry of the In
 People have the right to an individual procedure, even if they pass from one EU member state into another\. The first step of the procedure would be a Dublin check that would determine whether or not another country is responsible for carrying out the procedure\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/4ee5e09d10991f732c2cc91ae73bf9a6d2f3b9e3.jpeg)](https://www.infomigrants.net/en/post/26062/caritas-ventimiglia-says-france-is-pushing-back-100-migrants-per-day?preview=1594893256468&fbclid=IwAR2fIllXiNBsGXQsVegyKpGoVYAEEp8K-1u9pw9y-oZU55VDSD3QT2YrfeU)
+[![](../assets/3f2d20043fd8/4ee5e09d10991f732c2cc91ae73bf9a6d2f3b9e3.jpeg)](https://www.infomigrants.net/en/post/26062/caritas-ventimiglia-says-france-is-pushing-back-100-migrants-per-day?preview=1594893256468&fbclid=IwAR2fIllXiNBsGXQsVegyKpGoVYAEEp8K-1u9pw9y-oZU55VDSD3QT2YrfeU)
 
 
 This is what a central European capital looks like today:

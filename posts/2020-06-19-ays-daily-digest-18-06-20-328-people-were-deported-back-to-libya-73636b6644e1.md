@@ -202,7 +202,7 @@ When people arrive from one EU member state to another, they have the right to a
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/551517da8f3591eba50615c3d451e216a71c6dfa.jpeg)](https://www.infomigrants.net/en/post/25436/italy-11-universities-to-help-refugee-students?fbclid=IwAR0LeME870Xw088SBn_KBrLdfldQwoBk6tgAOG0BEPJVoiJM0KddqG-_dN8)
+[![](../assets/73636b6644e1/551517da8f3591eba50615c3d451e216a71c6dfa.jpeg)](https://www.infomigrants.net/en/post/25436/italy-11-universities-to-help-refugee-students?fbclid=IwAR0LeME870Xw088SBn_KBrLdfldQwoBk6tgAOG0BEPJVoiJM0KddqG-_dN8)
 
 ### BOSNIA AND HERZEGOVINA
 
@@ -211,7 +211,7 @@ According to a recent newspaper article, the European Commissioner for Home Affa
 For more information in French, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/f9b13f3997527c7d7f010aec2f85b5c9cf2a89da.jpeg)](https://www.infomigrants.net/fr/post/25461/bosnie-l-ue-menace-de-retirer-son-aide-financiere-en-faveur-des-migrants?fbclid=IwAR1kpB3As8q-gNF796ynbzSTaIhIQTkjEaWe1P7Avx4aHXo7VPyv8KkHZVg)
+[![](../assets/73636b6644e1/f9b13f3997527c7d7f010aec2f85b5c9cf2a89da.jpeg)](https://www.infomigrants.net/fr/post/25461/bosnie-l-ue-menace-de-retirer-son-aide-financiere-en-faveur-des-migrants?fbclid=IwAR1kpB3As8q-gNF796ynbzSTaIhIQTkjEaWe1P7Avx4aHXo7VPyv8KkHZVg)
 
 ### SERBIA
 

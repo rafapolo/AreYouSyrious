@@ -212,7 +212,7 @@ The tweet below provides a breakdown of how many people on each date had been pi
 At the same time, the Moroccan Navy rescued 105 individuals between 17–20 June\. They were provided with medical assistance and brought to the nearest Moroccan ports\. They have taken a stronger stance on human trafficking and smuggling\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/554ddd5ae4e01a0de2cac94526f8f683a9036203.jpg)](https://www.infomigrants.net/en/post/41382/iom-libya-returns-590-migrants-in-under-a-week?fbclid=IwAR2QbKQI8IOU-wWs_Gpvb_ENBZLeyfFI3j4abLgKNUA1tegP6IWC2ghWPpM)
+[![](../assets/91c959d5f69d/554ddd5ae4e01a0de2cac94526f8f683a9036203.jpg)](https://www.infomigrants.net/en/post/41382/iom-libya-returns-590-migrants-in-under-a-week?fbclid=IwAR2QbKQI8IOU-wWs_Gpvb_ENBZLeyfFI3j4abLgKNUA1tegP6IWC2ghWPpM)
 
 ### FRONTEX
 #### Annual report by the Frontex Fundamental Rights Officer has been published for 2021
@@ -337,7 +337,7 @@ This all comes at a time when the British government has proposed the Human Righ
 
 
 
-[![](https://s.france24.com/media/display/a071dbea-f19c-11ec-842a-005056a97e36/w:1280/p:16x9/DN164359-A-01-20220616.jpg)](https://www.france24.com/en/tv-shows/focus/20220622-refugees-recount-living-hell-of-detention-centres-in-libya?fbclid=IwAR2cnBmAifA-VaD5bAPi_bK4i9YPZvH8MK_uVxMPZycGRHFS3zCXW1Irbg4)
+[![](../assets/91c959d5f69d/DN164359-A-01-20220616.jpg)](https://www.france24.com/en/tv-shows/focus/20220622-refugees-recount-living-hell-of-detention-centres-in-libya?fbclid=IwAR2cnBmAifA-VaD5bAPi_bK4i9YPZvH8MK_uVxMPZycGRHFS3zCXW1Irbg4)
 
 - Solidarity among activists and refugees in Bern, Switzerland
 

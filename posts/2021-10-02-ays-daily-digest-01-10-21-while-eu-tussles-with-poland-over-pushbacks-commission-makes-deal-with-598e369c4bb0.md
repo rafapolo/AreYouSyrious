@@ -221,17 +221,17 @@ More information can be found [here](https://refugeeswelcome.dk/rapporter/pdf/?f
 #### ‘I pleaded for help\. No one wrote back’: the pain of watching my country fall to the Taliban
 
 
-[![](https://i.guim.co.uk/img/media/4d5b86b6fdaedc2a621affdfc92300a3fd6f311a/0_401_2362_1418/master/2362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3cbed2d565b614ed4e458bb1d1bdc39)](https://www.theguardian.com/world/2021/sep/30/i-pleaded-for-help-no-one-wrote-back-the-pain-of-watching-my-country-fall-to-the-taliban?fbclid=IwAR1yd_HiXd7xCYgvft2F5JK0U7bQpPXUIz5GDUhLTb1KljLHMSVsdT5W8nQ)
+[![](../assets/598e369c4bb0/2362.jpg)](https://www.theguardian.com/world/2021/sep/30/i-pleaded-for-help-no-one-wrote-back-the-pain-of-watching-my-country-fall-to-the-taliban?fbclid=IwAR1yd_HiXd7xCYgvft2F5JK0U7bQpPXUIz5GDUhLTb1KljLHMSVsdT5W8nQ)
 
 #### Beirut to Belarus: Syrian refugees embark on new, perilous route toward longed\-for EU asylum
 
 
-[![](https://s.lorientlejour.com/storage/attachments/1277/AG101_EUROPE-MIGRANTS-BELARUS-POLAND_0928_11-1632842854_847515.jpg/r/800/AG101_EUROPE-MIGRANTS-BELARUS-POLAND_0928_11-1632842854_847515.jpg)](https://today.lorientlejour.com/article/1276364/beirut-to-belarus-syrian-refugees-embark-on-new-perilous-route-toward-longed-for-eu-asylum.html?fbclid=IwAR07sc0bzIpvxJUZestuzIid24ZFvel4ubk8gmeZZJfxB7zJYsfqw2d0qwc)
+[![](../assets/598e369c4bb0/AG101_EUROPE-MIGRANTS-BELARUS-POLAND_0928_11-1632842854_847515.jpg)](https://today.lorientlejour.com/article/1276364/beirut-to-belarus-syrian-refugees-embark-on-new-perilous-route-toward-longed-for-eu-asylum.html?fbclid=IwAR07sc0bzIpvxJUZestuzIid24ZFvel4ubk8gmeZZJfxB7zJYsfqw2d0qwc)
 
 #### How Frontex intimidates a German NGO — despite resistance from the European Parliament \(in German\)
 
 
-[![](https://cdn.prod.www.spiegel.de/images/5137ad5d-0de1-4b46-9944-d4b61191cd12_w1280_r1.77_fpx29.94_fpy48.98.jpg)](https://www.spiegel.de/ausland/frontex-schuechtert-die-deutsche-ngo-frag-den-staat-ein-trotz-widerstand-des-europaparlaments-a-4c60e614-15c9-412c-8456-970fd0caaa6c?fbclid=IwAR2h5mf1SdWGLVCitoasKXAA_nYRh4UBCnD7J4cl5HCfDvPvyMvZN8UPW9w)
+[![](../assets/598e369c4bb0/5137ad5d-0de1-4b46-9944-d4b61191cd12_w1280_r1.77_fpx29.94_fpy48.98.jpg)](https://www.spiegel.de/ausland/frontex-schuechtert-die-deutsche-ngo-frag-den-staat-ein-trotz-widerstand-des-europaparlaments-a-4c60e614-15c9-412c-8456-970fd0caaa6c?fbclid=IwAR2h5mf1SdWGLVCitoasKXAA_nYRh4UBCnD7J4cl5HCfDvPvyMvZN8UPW9w)
 
 #### Frontex steps over European Parliament, makes final push for legal fees
 

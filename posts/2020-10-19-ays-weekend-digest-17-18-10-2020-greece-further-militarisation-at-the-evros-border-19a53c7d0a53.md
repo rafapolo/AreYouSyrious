@@ -308,7 +308,7 @@ FRANCE
 On Saturday 17th of October the third act of the [Marches of Solidarity](https://solidaires.org/Acte-3-marche-nationale-des-Sans-Papiers) took place in Paris\. Thousands of _sans papiers_ and people in solidarity took to the streets of the capital, demanding regularisation, the closure of CRAs and housing for all\.
 
 
-[![President Macron: The Sans-Papiers want a response](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F974920744-60661f7373080dfaafbf6cb5eb01dd8fd79678146846cc7a2612782b661a164a-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "President Macron: The Sans-Papiers want a response")](https://vimeo.com/468059214)
+[![President Macron: The Sans-Papiers want a response](../assets/19a53c7d0a53/overlay "President Macron: The Sans-Papiers want a response")](https://vimeo.com/468059214)
 
 
 

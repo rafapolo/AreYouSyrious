@@ -89,7 +89,7 @@ In order to make the voices of these marginalized people heard Carola will host 
 Various other Webinars will take place during the week\. Find more information here:
 
 
-[![](https://1.bp.blogspot.com/-qagOu76q6mM/Xve5cBQO9BI/AAAAAAAAWO0/P8X8v6dpf5YiL3iKb5JuyCMthRcRW4uOQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Webinar%2BDoing%2Bresearch_card2.png)](https://fm-cab.blogspot.com/2020/06/events-various-webinars-taking-place.html?fbclid=IwAR3xT0r5_bRlfM_h-cmMo4ofxrJDq7idE5RAo3TB0-Bx7QXcl1KfHyr9KP8)
+[![](../assets/33a3d6768d8d/Webinar%2BDoing%2Bresearch_card2.png)](https://fm-cab.blogspot.com/2020/06/events-various-webinars-taking-place.html?fbclid=IwAR3xT0r5_bRlfM_h-cmMo4ofxrJDq7idE5RAo3TB0-Bx7QXcl1KfHyr9KP8)
 
 ### GREECE
 
@@ -148,7 +148,7 @@ Trans\-Balkan Solidarity and the Trans\-Balkan Network want to raise awareness f
 For more information, see:
 
 
-[![](https://transbalkanskasolidarnosthome.files.wordpress.com/2020/06/no-one-is-illegal-flag-1.jpg?w=1200)](https://transbalkanskasolidarnost.home.blog/podignite-zastavu-duginih-boja/?fbclid=IwAR0clt_bvojQKBpwQ2y3RgACU7V3CmCLAuDtucMWrv6Yo_HSADCeaIfvBFo)
+[![](../assets/33a3d6768d8d/no-one-is-illegal-flag-1.jpg)](https://transbalkanskasolidarnost.home.blog/podignite-zastavu-duginih-boja/?fbclid=IwAR0clt_bvojQKBpwQ2y3RgACU7V3CmCLAuDtucMWrv6Yo_HSADCeaIfvBFo)
 
 
 Members of _SOS Balkanroute_ handed the _Border Violence Monitoring Network’s_ report about border violence along the Balkan corridor over to various German and Austrian Members of Parliament\. The 1673 page report collects testimonies of 500 violent push\-backs at the Croatian border alone\. By handing these documents over to politicians, the activists want to make sure that the topic is not left aside\.
@@ -201,7 +201,7 @@ In 2019, more than 27,000 people were returned to the border in Mayotte, 99% of 
 For more information in French, see:
 
 
-[![](https://s.france24.com/media/display/c7451c5a-b6c5-11ea-bad1-005056bf87d6/w:1280/p:16x9/RTR308PN.jpg)](https://www.france24.com/fr/20200625-la-france-condamn%C3%A9e-pour-l-expulsion-de-deux-enfants-comoriens-entr%C3%A9s-ill%C3%A9galement-%C3%A0-mayotte?fbclid=IwAR0GcffWirtLaHicDwr-5rvQ8LKPlKi9A_pytYWKyN4TIoMxyWf3KCAbYuU)
+[![](../assets/33a3d6768d8d/RTR308PN.jpg)](https://www.france24.com/fr/20200625-la-france-condamn%C3%A9e-pour-l-expulsion-de-deux-enfants-comoriens-entr%C3%A9s-ill%C3%A9galement-%C3%A0-mayotte?fbclid=IwAR0GcffWirtLaHicDwr-5rvQ8LKPlKi9A_pytYWKyN4TIoMxyWf3KCAbYuU)
 
 ### UK
 
@@ -227,7 +227,7 @@ The situation in the city is strained, after members of the far\-right National 
 For further reading, see:
 
 
-[![](https://i.guim.co.uk/img/media/a72076f066bf7d38133cb317b5fc1ccc1f7aa4c6/0_73_6048_3629/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=73d3dc120f7018d26f6964ab648aac1c)](https://www.theguardian.com/uk-news/2020/jun/27/glasgow-hotel-attack-stabbing-suspect-park-inn-mental-health?fbclid=IwAR1U4T_4i046h61j_37IUxJDuw-0LrCCNlD-eWqimhsr8g64Zjc6kqfE3Fw)
+[![](../assets/33a3d6768d8d/6048.jpg)](https://www.theguardian.com/uk-news/2020/jun/27/glasgow-hotel-attack-stabbing-suspect-park-inn-mental-health?fbclid=IwAR1U4T_4i046h61j_37IUxJDuw-0LrCCNlD-eWqimhsr8g64Zjc6kqfE3Fw)
 
 
 

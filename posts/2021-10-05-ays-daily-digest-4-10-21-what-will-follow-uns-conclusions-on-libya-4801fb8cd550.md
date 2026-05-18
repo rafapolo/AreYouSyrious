@@ -116,7 +116,7 @@ The idea came up some 3 years ago and, although such dislocated detention camp p
 
 
 
-[![](https://www.civicus.org/images/Maddalena_Avon.jpeg)](https://www.civicus.org/index.php/media-resources/news/interviews/5315-migration-the-spread-of-covid-19-is-no-excuse-to-confront-vulnerable-people-with-even-more-violence)
+[![](../assets/4801fb8cd550/Maddalena_Avon.jpeg)](https://www.civicus.org/index.php/media-resources/news/interviews/5315-migration-the-spread-of-covid-19-is-no-excuse-to-confront-vulnerable-people-with-even-more-violence)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

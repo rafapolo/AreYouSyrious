@@ -288,7 +288,7 @@ This story received a great deal of traction in mainstream media, so we won’t 
 Torn apart in the deadly chaos of an air raid, a Syrian family of seven has been reunited, against the odds, three years later at a refugee shelter in Greece’s second city of Thessaloniki, a centuries\-old meeting point of cultures overlooking the Aegean Sea\.
 
 
-[![](https://www.ekathimerini.com/wp-content/uploads/2021/05/Syrian-family-AP-960x600.jpg)](https://www.ekathimerini.com/society/1161023/syrian-family-reunited-against-the-odds-in-greece/?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR08Q9IXwld6WE_n2CN9O2wEpLlZCoaUdhhRF3jgZN6JQou3QIMf-dv81cU)
+[![](../assets/a02013048365/Syrian-family-AP-960x600.jpg)](https://www.ekathimerini.com/society/1161023/syrian-family-reunited-against-the-odds-in-greece/?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR08Q9IXwld6WE_n2CN9O2wEpLlZCoaUdhhRF3jgZN6JQou3QIMf-dv81cU)
 
 #### Report: Protecting Rights at Borders
 
@@ -298,26 +298,26 @@ The [first report](https://drc.ngo/media/mnglzsro/prab-report-january-may-2021-_
 A well\-rounded summary of everything happening in the UK, from crossings to the harshening of asylum procedures
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/34ad1e63bb1a96759cb0db908a765f9a2971a332.jpeg)](https://www.infomigrants.net/en/post/32188/navigating-the-minefield-of-the-uk-asylum-system?fbclid=IwAR2iCKm8pVNyMjvRgP4BqSrl693hpgdTVrI1kMdcBWIpnxKgV2LNr7GjxWQ)
+[![](../assets/a02013048365/34ad1e63bb1a96759cb0db908a765f9a2971a332.jpeg)](https://www.infomigrants.net/en/post/32188/navigating-the-minefield-of-the-uk-asylum-system?fbclid=IwAR2iCKm8pVNyMjvRgP4BqSrl693hpgdTVrI1kMdcBWIpnxKgV2LNr7GjxWQ)
 
 #### A French Millionaire Wants to “Welcome Migrants with Dignity”
 
 Two years ago, former industry boss Olivier Legrain created an endowment fund to support migrants in France\. The fund enabled the purchase of a “hospitality house” on the Italian border, which is scheduled to open its doors this summer\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/b776dbb8a1dbd75904d24269793f19f2b769b8c6.jpeg)](https://www.infomigrants.net/en/post/32127/millionaire-olivier-legrain-welcome-migrants-with-dignity?fbclid=IwAR0g_cZ6xmYtSk48WBHfoEAMkX3pEZXAfsOJcZ6Kp2tPMAdr1dceo9VYCFg)
+[![](../assets/a02013048365/b776dbb8a1dbd75904d24269793f19f2b769b8c6.jpeg)](https://www.infomigrants.net/en/post/32127/millionaire-olivier-legrain-welcome-migrants-with-dignity?fbclid=IwAR0g_cZ6xmYtSk48WBHfoEAMkX3pEZXAfsOJcZ6Kp2tPMAdr1dceo9VYCFg)
 
 #### A Journey Across the Algerian Desert
 
 At the age of 15, Aboubacar, now a refugee in France, fled Guinea\. When he crossed the Algerian desert to reach Libya, he was one of only two survivors\. Aboubacar told InfoMigrants about this traumatic journey\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/8e61b38b59bc8edb2cb65a6b9c4b20fb07380ebf.jpeg)](https://www.infomigrants.net/en/post/32080/crossing-the-algerian-desert-there-were-15-of-us-at-the-start-and-only-two-at-the-finish?fbclid=IwAR0zq9FAckwBWagG4UkOYhbuRV0Vw9QBIUBYnbYAheCzBhBWpC8SeLE3VSg)
+[![](../assets/a02013048365/8e61b38b59bc8edb2cb65a6b9c4b20fb07380ebf.jpeg)](https://www.infomigrants.net/en/post/32080/crossing-the-algerian-desert-there-were-15-of-us-at-the-start-and-only-two-at-the-finish?fbclid=IwAR0zq9FAckwBWagG4UkOYhbuRV0Vw9QBIUBYnbYAheCzBhBWpC8SeLE3VSg)
 
 #### In pictures: the Balkan Route
 
 
-[![](https://i.natgeofe.com/n/f796b551-d06d-4398-9615-e2251affb6ad/ZGA_VII010_16x9.jpg?w=1200)](https://www.nationalgeographic.com/culture/article/at-europes-doorstep-war-scarred-country-pushes-migrants-to-fringes?fbclid=IwAR3JxK2FQ1l8iskMPWFDi8-Elp9I2wvAv8Sdyo9z_tdDQE1jIAfpwGvIKA4)
+[![](../assets/a02013048365/ZGA_VII010_16x9.jpg)](https://www.nationalgeographic.com/culture/article/at-europes-doorstep-war-scarred-country-pushes-migrants-to-fringes?fbclid=IwAR3JxK2FQ1l8iskMPWFDi8-Elp9I2wvAv8Sdyo9z_tdDQE1jIAfpwGvIKA4)
 
 #### Film : Zaatari: Jordan’s Newest City
 

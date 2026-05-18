@@ -27,7 +27,7 @@ One boat with 37 people was picked up by the Greek coastguard on Lesvos this mor
 The [Legal Centre Lesbos](http://www.legalcentrelesbos.org/2017/07/30/free-the-moria-35/) reports that 31 of the 35 people arrested after the Moria protests got charged with exaggerated crimes of arson, attempted assault, resisting arrest, rioting, damage to private property and disturbing the public peace\. Pre\-trial detention was ordered for 30 of those charged, despite many of them having vulnerability status and/or serious mental and physical health conditions which should preclude incarceration\. 20 of the individuals charged were transferred to prisons in Athens, and 2 to Chios\. The centre adds that police used excessive force during clashes with protesters and that many of the 35 arrested were not even part of the protests\.
 
 
-[![Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F645848477-59c26620a7db37d0a53394e390764e12d2f5d4d92fe1fedb696710a06fe9cd21-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας")](https://vimeo.com/226277179)
+[![Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας](../assets/8ddb6acf9ded/overlay "Ξυλοδαρμοί μεταναστών στο Κέντρο Κράτησης της Μόριας")](https://vimeo.com/226277179)
 
 
 Videos show police throwing stones at protestors, repeatedly hitting individuals with truncheons and plain clothes officers beating people up\.

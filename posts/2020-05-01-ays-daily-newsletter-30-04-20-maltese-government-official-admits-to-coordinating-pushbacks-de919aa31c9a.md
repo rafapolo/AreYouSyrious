@@ -135,7 +135,7 @@ EFSYN notes that despite the fully documented report from their newspaper, which
 To read their full report, please follow the link below:
 
 
-[![](https://www.efsyn.gr/sites/default/files/styles/default/public/2019-11/limeniko_0.jpg?itok=gXJX-_b7)](https://www.efsyn.gr/ellada/koinonia/241320_synehizontai-oi-epanaproothiseis-me-plotes-skines)
+[![](../assets/de919aa31c9a/limeniko_0.jpg)](https://www.efsyn.gr/ellada/koinonia/241320_synehizontai-oi-epanaproothiseis-me-plotes-skines)
 
 ### Bosnia and Herzegovina
 
@@ -163,7 +163,7 @@ Today is Armin’s 11th birthday, and — much like last year — he’s spendin
 The BBC has previously published a short documentary about Armin’s detention between the Hungarian\-Serbian border:
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/14BE6/production/_109766948_fish.jpg)](https://www.bbc.com/news/av/world-europe-50492139/i-made-my-film-fish-to-keep-my-son-s-dreams-alive)
+[![](../assets/de919aa31c9a/_109766948_fish.jpg)](https://www.bbc.com/news/av/world-europe-50492139/i-made-my-film-fish-to-keep-my-son-s-dreams-alive)
 
 ### Italy
 

@@ -79,7 +79,7 @@ Speaking to the state\-run Athens\-Macedonian News Agency, Mayor Apostolos Kalog
 For a full list of organisations please follow the link:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/66c8378cdaf8f76637d595324fb5370ebef98e7f.jpeg)](https://www.infomigrants.net/en/post/23948/help-for-refugees-and-undocumented-migrants-in-greece?fbclid=IwAR1KNeONQTaWq7QcfISXRxnFO93__a525mOSJs80uUCgbYncKr0ZnmincQ0)
+[![](../assets/71f045fa5531/66c8378cdaf8f76637d595324fb5370ebef98e7f.jpeg)](https://www.infomigrants.net/en/post/23948/help-for-refugees-and-undocumented-migrants-in-greece?fbclid=IwAR1KNeONQTaWq7QcfISXRxnFO93__a525mOSJs80uUCgbYncKr0ZnmincQ0)
 
 
 Following the death of a young boy in the Moria camp, hundreds of people have decided to peacefully protest against the camp’s current security situation\. Demonstrators held banners saying “Moria is not safe for Hazara people” and “We want rights and security”\. The anger and frustration of the camp residents come after a continuing deterioration of the situation within the camp, with three tents having caught fire and one young boy tragically dying within the last 24 hours\.
@@ -161,14 +161,14 @@ In addition to publishing information for Greece, Info migrants have also compil
 For the full list please visit the link below:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/e735543653b6827a81e5eb6f1a0ad4d354670407.jpeg)](https://www.infomigrants.net/en/post/23879/help-for-migrants-in-corona-hit-italy)
+[![](../assets/71f045fa5531/e735543653b6827a81e5eb6f1a0ad4d354670407.jpeg)](https://www.infomigrants.net/en/post/23879/help-for-migrants-in-corona-hit-italy)
 
 ### UK
 
 Fergal Keane for the BBC reports on how the coronavirus pandemic is affecting refugees and migrants who have fled to the UK escaping persecution and poverty\. The short documentary highlights how many charities have had to cease operations due to the ongoing coronavirus crisis, reducing support for large numbers of vulnerable people, plunging thousands more deeper into poverty and desperation\. The UK government claims that it provides support for people who need it, but as the documentary shows, this clearly isn’t being accessed or simply the level of support is not enough\.
 
 
-[![](https://ichef.bbci.co.uk/news/1024/branded_news/5375/production/_111756312_p08994ps.jpg)](https://www.bbc.com/news/av/world-europe-52234123/coronavirus-virus-deepens-struggle-for-migrants?fbclid=IwAR0zKYNQryIuSeU2fqQsnhD0xgX1PHQXCfF5l2U-z8jbrQAXyhOfTaRzks0)
+[![](../assets/71f045fa5531/_111756312_p08994ps.jpg)](https://www.bbc.com/news/av/world-europe-52234123/coronavirus-virus-deepens-struggle-for-migrants?fbclid=IwAR0zKYNQryIuSeU2fqQsnhD0xgX1PHQXCfF5l2U-z8jbrQAXyhOfTaRzks0)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -149,7 +149,7 @@ In the House of Commons on Monday night, the Conservative members of Parliament 
 For more information, see:
 
 
-[![](https://i.guim.co.uk/img/media/779aa0424e2b123b1eaa9d0582791c6eb8815fd4/0_0_1620_972/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjAucG5n&enable=upscale&s=870044afab3f3a42964dfaae45dc472b)](https://www.theguardian.com/global-development/2020/oct/20/the-loss-of-family-reunion-rights-will-lead-to-enormous-suffering-for-child-refugees?fbclid=IwAR0d9eAlYGgvV_5P4pxjKKK39QxLk5YVjFS9BGAa2OKxO4QNWxbOqVc6EoE)
+[![](../assets/2b7042c8e990/1620.jpg)](https://www.theguardian.com/global-development/2020/oct/20/the-loss-of-family-reunion-rights-will-lead-to-enormous-suffering-for-child-refugees?fbclid=IwAR0d9eAlYGgvV_5P4pxjKKK39QxLk5YVjFS9BGAa2OKxO4QNWxbOqVc6EoE)
 
 
 People who made it to the UK are faced with right\-wing activists\. In various incidences over the past months, people have intruded into refugee accommodations, filming and threatening the residents\. According to a video published by Channel4, right wing activists are patrolling the shores of Kent to spot people who arrive by boat — part of a worrying turn of events\.

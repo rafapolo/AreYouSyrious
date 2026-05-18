@@ -126,7 +126,7 @@ For further information about who is included in this category of ‘Urban’ [p
 New documentary about refugees is available\. The film titled Waiting Area \(Greece 2016\) is part of the project finacied through the crowdfunding Route to Europe, and it shown two weeks in Greece of a group of volunteers, from Athens to Thessaloniki\.
 
 
-[![Waiting Area](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F582145269-e9eb5ab4dc2df572ca5846b3e28bb671f31f46e5a501a2ddae2b5acccc7f4650-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Waiting Area")](https://vimeo.com/173747078)
+[![Waiting Area](../assets/d4784fbb28e9/overlay "Waiting Area")](https://vimeo.com/173747078)
 
 #### Serbia
 ### Hundreds of people asking for help in Belgrade

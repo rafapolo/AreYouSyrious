@@ -281,7 +281,7 @@ Consider helping the team in ways available to you\.
 
 
 
-[![](https://assets.change.org/photos/9/wj/kk/MpwJkKkHlzZPwUM-1600x900-noPad.jpg?1541445408)](https://www.change.org/p/rescatar-vidas-no-es-un-crimen-libertad-para-el-barco-de-open-arms?recruiter=18459187&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive)
+[![](../assets/988160f8a0df/MpwJkKkHlzZPwUM-1600x900-noPad.jpg)](https://www.change.org/p/rescatar-vidas-no-es-un-crimen-libertad-para-el-barco-de-open-arms?recruiter=18459187&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive)
 
 
 In the meantime, the Spanish Minister of Foreign Affairs stated: “We are working to clarify the situation of the [@openarms\_fund](https://twitter.com/openarms_fund) ship in Italy\. The Consulate of Spain in Naples and the Honorary Consul in Catania are in contact with the Captain of the Ship and the leadership of the NGO\.”

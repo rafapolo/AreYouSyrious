@@ -83,7 +83,7 @@ Forced evictions of people on the move in the north of France continue, and loca
 
 
 
-[![](https://newsinteractives.cbc.ca/craft-assets/images/social/13-Pavlos-Pavlidis-examines-a-photograph-of-a-corpse-taken-at-the-time-of-its-discovery.-“It-is-my-job-to-find-the-answers”-he-says.jpg)](https://newsinteractives.cbc.ca/longform/evros-river-greece-crossing-asylum-seekers?fbclid=IwAR0-8jp9EVcLNOEvhWiFooCRGe9DnCD5RslVwIiuh1l-f356Nv2qUxo4_RU)
+[![](../assets/76f00f66c82e/13-Pavlos-Pavlidis-examines-a-photograph-of-a-corpse-taken-at-the-time-of-its-discovery.-%E2%80%9CIt-is-my-job-to-find-the-answers%E2%80%9D-he-says.jpg)](https://newsinteractives.cbc.ca/longform/evros-river-greece-crossing-asylum-seekers?fbclid=IwAR0-8jp9EVcLNOEvhWiFooCRGe9DnCD5RslVwIiuh1l-f356Nv2qUxo4_RU)
 
 - The obstructive and secretive practices of the Frontex agency with regard to its activities in general and the access to information requests in particular has been broadly criticised:
 

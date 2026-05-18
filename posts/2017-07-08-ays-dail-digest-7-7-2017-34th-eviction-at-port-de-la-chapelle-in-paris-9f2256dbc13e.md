@@ -27,7 +27,7 @@ Between 1\.200 and 2\.700 people were taken to temporary shelters \(different so
 As for the others, they will be lodged in CAOs \(Centre of reception and orientation\) for 3–6 months, to get their asylum application started\. This happens at the “PADA” \(Platform d’accueil \- reception platform\), and is followed by an individual interview at the GU \(guichet unique — unique counter\) \. Then the normal route would be to wait the decision while living at a “CADA” \(another form of reception center, Centre d’accueil pour demandeurs d’asile — reception centers for asylum seekers\) \. However, since these centers are overcrowded, and there is not enough of them, some people are lodged in hotels, and some in supplementary structures called “HUDA” \(herbergement d’urgency — urgency shelter, on the regional level\), or on the national level, in ATSAs \(Accueil temporaire, service de l’asile — temporary reception, asylum service\) \.
 
 
-[![PARIS LE 7 JUILLET 2017](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F643706777-201dc3fa77c6a2cad656577a695271929471f419e7f4aaca662262435093159a-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "PARIS LE 7 JUILLET 2017")](https://vimeo.com/224623912)
+[![PARIS LE 7 JUILLET 2017](../assets/9f2256dbc13e/overlay "PARIS LE 7 JUILLET 2017")](https://vimeo.com/224623912)
 
 
 It is very difficult to say how many people were in the area of Porte de la Chapelle\. According to some estimates, between 80 and 200 arrive every day\. The center in this area has the capacity of only 400, and those who enter can stay up to 10 days\.

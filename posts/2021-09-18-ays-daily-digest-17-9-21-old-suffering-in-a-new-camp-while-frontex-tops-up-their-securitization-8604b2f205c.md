@@ -90,7 +90,7 @@ As the new camp on Samos opens and treatment of people very likely remains the s
 MSF has issued an opinion that clearly states the failure to change — anything\.
 
 
-[![](https://media.msf.org/AssetLink/5k72r0j0ss3sr44l158j0618sha303gi.jpg)](https://www.msf.org/we-can-only-help-refugees-survive-new-camp-greek-island)
+[![](../assets/8604b2f205c/5k72r0j0ss3sr44l158j0618sha303gi.jpg)](https://www.msf.org/we-can-only-help-refugees-survive-new-camp-greek-island)
 
 
 Europe Must Act also [decried the new camp and called for it to close](https://www.facebook.com/europemustact/posts/374765834136117), and a collective group of activists and organizations are staging a protest against the opening of the new camp (https://twitter.com/AdvocacySamos/status/1438801738014863369?fbclid=IwAR30tRy_LZ5jTpuRYm6RUeo97BvhrzSJHrhGqssF3i8vtNz_B9DIvvIP6m8) , citing its isolation from the rest of the area and the restrictions it will put on residents’ freedom of movement to access services or exit the area for work or leisure\. 

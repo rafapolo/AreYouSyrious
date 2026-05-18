@@ -30,7 +30,7 @@ UN agencies, IOM and UNHCR in particular, have been actively involved in discuss
 Reactions to the recently published comments by the agencies and other international community representatives were critically referred to by local activists, once again highlighting the responsibility of international organisations and the EU for the situation:
 
 
-[![](https://transbalkanskasolidarnosthome.files.wordpress.com/2020/10/sfv-3.jpg)](https://transbalkanskasolidarnost.home.blog/bira-i-miral/?fbclid=IwAR3cmbzuJ3wSoCQtVhwuT0ONie_Ne1A7PHOhDCFPq82Lx9tc7V4jnJf0Ryk)
+[![](../assets/9fefe1066f77/sfv-3.jpg)](https://transbalkanskasolidarnost.home.blog/bira-i-miral/?fbclid=IwAR3cmbzuJ3wSoCQtVhwuT0ONie_Ne1A7PHOhDCFPq82Lx9tc7V4jnJf0Ryk)
 
 
 There are different reactions among the local community, but everyone shares the disappointment with their representatives in the talks with the international community, and all those taking decisions or avoiding to do so\. Some of them keep warning the situation will only get worse precisely because nobody is changing what they are doing, how they are managing the situation, placing the responsibility for the people in need on the exhausted locals who have no capacity to provide support anymore\. Here is part of [one of the comments](https://www.facebook.com/Aida-Sejdi%C4%87-605935066198735/) from Bihać:

@@ -84,7 +84,7 @@ Restrictive measures will likely be taken on migration and asylum, promoting the
 
 
 
-[![](https://systemicjustice.ngo/wp-content/uploads/2022/09/Screenshot-2022-09-28-at-10.02.06.png)](https://systemicjustice.ngo/communityview/)
+[![](../assets/e21b99010021/Screenshot-2022-09-28-at-10.02.06.png)](https://systemicjustice.ngo/communityview/)
 
 - The Ecre weekly bulletin is out:
 

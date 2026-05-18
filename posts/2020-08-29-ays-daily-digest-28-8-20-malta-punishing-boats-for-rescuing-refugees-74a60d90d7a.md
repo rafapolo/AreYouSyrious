@@ -339,7 +339,7 @@ A spokesperson for the _Tyne and Wear Anti\-Fascist Association_ , which monitor
 **Christian Mommers:** The proposed recast of the EU Returns Directive: voluntary return under threat?
 
 
-[![](https://1.bp.blogspot.com/-YejtH41Dytk/X0k3ydh1SQI/AAAAAAAAQoI/od2U6nfEl_MyDTtLmHYxivFx6I0mIESkACLcBGAsYHQ/w1200-h630-p-k-no-nu/plane%2B2.jpg)](https://eulawanalysis.blogspot.com/2020/08/the-proposed-recast-of-eu-returns.html?fbclid=IwAR07Wj-PJjJQxEy15aoUcOzIjxkIvxecM19v2gSWeTG6cqfID1V7-xyCItE)
+[![](../assets/74a60d90d7a/plane%2B2.jpg)](https://eulawanalysis.blogspot.com/2020/08/the-proposed-recast-of-eu-returns.html?fbclid=IwAR07Wj-PJjJQxEy15aoUcOzIjxkIvxecM19v2gSWeTG6cqfID1V7-xyCItE)
 
 
 **Avvenire\.IT** : Migrants\. Sicily, a laboratory of fear\. Between fake news, Covid and Islamic terrorism\.
@@ -351,7 +351,7 @@ A spokesperson for the _Tyne and Wear Anti\-Fascist Association_ , which monitor
 **NYTimes:** ‘It’s a Joy for Me to Bury Them’: A Quest to Honor Migrant Dead
 
 
-[![](https://static01.nyt.com/images/2020/08/19/world/xxmorocco01/merlin_174971904_8b4bcc92-2149-4f7d-998e-1807595f69b4-facebookJumbo.jpg?year=2020&h=550&w=1050&s=021d5893247672bfbff39a94deb23d2f8e732b8be9bbc94027a5c65cfd640c4e&k=ZQJBKqZ0VN)](https://www.nytimes.com/2020/08/28/world/africa/morocco-bodies-migrants.html?fbclid=IwAR32TGjs8UBFWIZkfQwC6vbADbYQKdm3Qr8YFNWrbxJd9tE4jx7M31zig3Q)
+[![](../assets/74a60d90d7a/merlin_174971904_8b4bcc92-2149-4f7d-998e-1807595f69b4-facebookJumbo.jpg)](https://www.nytimes.com/2020/08/28/world/africa/morocco-bodies-migrants.html?fbclid=IwAR32TGjs8UBFWIZkfQwC6vbADbYQKdm3Qr8YFNWrbxJd9tE4jx7M31zig3Q)
 
 
 **ECRE:** Weekly Bulletin 28/08/2020

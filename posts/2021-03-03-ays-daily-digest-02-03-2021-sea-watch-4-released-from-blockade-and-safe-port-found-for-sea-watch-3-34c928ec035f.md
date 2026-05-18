@@ -195,7 +195,7 @@ Italian authorities try hard to discredit civil rescue operations and solidarity
 For more, also see here:
 
 
-[![](https://thecivilfleet.files.wordpress.com/2020/06/blm.jpg?w=1200)](https://thecivilfleet.wordpress.com/2021/03/02/mediterranea-says-police-raid-and-investigation-is-aimed-at-smearing-ngo-refugee-rescuers/?fbclid=IwAR3CWNuxzqs9wwq_H4ee7WM5GFg4AsX1UVK069JFDGLRZXbogd-mEFybp60)
+[![](../assets/34c928ec035f/blm.jpg)](https://thecivilfleet.wordpress.com/2021/03/02/mediterranea-says-police-raid-and-investigation-is-aimed-at-smearing-ngo-refugee-rescuers/?fbclid=IwAR3CWNuxzqs9wwq_H4ee7WM5GFg4AsX1UVK069JFDGLRZXbogd-mEFybp60)
 
 #### Italian court: children increase vulnerability
 
@@ -255,7 +255,7 @@ UNHCR, UNICEF and IOM have published a joint overview of the trends of arriving 
 Between January and June 2020, **6,177** children arrived in Greece, Italy, Spain, Bulgaria, Cyprus and Malta\. Of these, **2,302** \(37%\) were unaccompanied or separated children \(UASC\) \. Child arrivals in Greece, Italy, Bulgaria and Spain in the first half of 2020 decreased by **32%** compared to the first half in 2019 \( **8,236** \) \.
 
 
-[![](https://reliefweb.int/sites/default/files/styles/large/public/previews/0a/fa/0afa855d-525e-3ec2-afce-5708bef0aeee.png)](https://reliefweb.int/report/world/refugee-and-migrant-children-europe-accompanied-unaccompanied-and-separated-overview-4?fbclid=IwAR1l3InY2T6UH_jUlBPaJxvbTXExPiHzP3LObV9EyyinXHI7_NX6DjayVlY)
+[![](../assets/34c928ec035f/0afa855d-525e-3ec2-afce-5708bef0aeee.png)](https://reliefweb.int/report/world/refugee-and-migrant-children-europe-accompanied-unaccompanied-and-separated-overview-4?fbclid=IwAR1l3InY2T6UH_jUlBPaJxvbTXExPiHzP3LObV9EyyinXHI7_NX6DjayVlY)
 
 ### WORTH READING
 #### UNHCR’s stories from the field: Malta
@@ -289,7 +289,7 @@ Today, Wednesday 3rd March, Heinrich Böll foundation is hosting an **online dis
 3 pm CET
 
 
-[![](https://calendar.boell.de/sites/default/files/styles/812x/public/2021-03/armband_scaled.prop_750x.b10a6d8b84_v3.png?itok=wcid2_GY)](https://calendar.boell.de/en/event/out-sight-out-mind-frontex-and-human-rights-eu-borders?fbclid=IwAR0Dnx-bn8w1wPU90QSW_dDkJCBIn5PFSy5c30fO8dd8FAAnqTucFimJkBc)
+[![](../assets/34c928ec035f/armband_scaled.prop_750x.b10a6d8b84_v3.png)](https://calendar.boell.de/en/event/out-sight-out-mind-frontex-and-human-rights-eu-borders?fbclid=IwAR0Dnx-bn8w1wPU90QSW_dDkJCBIn5PFSy5c30fO8dd8FAAnqTucFimJkBc)
 
 
 On 25 March, the **UK Sisters Not Strangers Coalition is hosting an event to inform about their work, the women behind the coalition and how to join the campaign** \. The Coalition is the first nationwide coalition led by refugee women for refugee women\. They are campaigning against destitution and other hostile asylum and immigration policies\.

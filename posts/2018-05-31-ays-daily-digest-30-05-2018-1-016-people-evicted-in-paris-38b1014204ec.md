@@ -183,7 +183,7 @@ As reported by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/pos
 Both Pikpa and House of Humanity are completely overwhelmed by the situation and are asking for donations and support:
 
 
-[![](https://images.gofundme.com/yeWfyU5pi4yvnFPYHG_wuFqeOzI=/720x405/https://i.ytimg.com/vi/_gkdX4Sqt18/0.jpg)](https://www.gofundme.com/aid-4-refugees-feed-clothe-heal)
+[![](../assets/38b1014204ec/0.jpg)](https://www.gofundme.com/aid-4-refugees-feed-clothe-heal)
 
 
 

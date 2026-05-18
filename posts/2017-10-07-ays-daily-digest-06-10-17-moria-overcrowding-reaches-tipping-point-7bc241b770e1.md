@@ -62,7 +62,7 @@ Two mini documentary films have been released on the struggles of refugees in Se
 Both are very short and give a good idea of the troubles that one faces as a refugee in a country that normalizes violence against you\.
 
 
-[![Police harassment in Subotica (Serbia) - Acoso policial en Subótica (Serbia)](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F659425355-bcf3a9769af68aa5a4a75c37eb646a38fe9846770e488dff8374d5502234e8fa-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Police harassment in Subotica (Serbia) - Acoso policial en Subótica (Serbia)")](https://vimeo.com/237075100)
+[![Police harassment in Subotica (Serbia) - Acoso policial en Subótica (Serbia)](../assets/7bc241b770e1/overlay "Police harassment in Subotica (Serbia) - Acoso policial en Subótica (Serbia)")](https://vimeo.com/237075100)
 
 
 

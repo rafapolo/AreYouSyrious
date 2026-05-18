@@ -291,7 +291,7 @@ Most of the bodies of people who lost their lives in the sea remain unidentified
 [The Guardian](https://www.theguardian.com/world/2016/aug/31/are-you-helping-in-the-refugee-crisis-share-your-experiences?CMP=share_btn_tw) issued an call for volunteers to to share their experiences\. They would like to hear from individuals who’ve donated, community groups, or those working with organized groups or aid agencies\.
 
 
-[![](https://i.guim.co.uk/img/media/c462020e0cc1ffb9dba15af6e36783bd58f45efe/0_263_5760_3456/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=92e59b021935bf11e1cf7278c72aedc4)](https://www.theguardian.com/world/2016/aug/31/are-you-helping-in-the-refugee-crisis-share-your-experiences?CMP=share_btn_tw)
+[![](../assets/1fcfd2e0b13/5760.jpg)](https://www.theguardian.com/world/2016/aug/31/are-you-helping-in-the-refugee-crisis-share-your-experiences?CMP=share_btn_tw)
 
 
 

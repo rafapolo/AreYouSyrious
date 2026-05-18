@@ -228,7 +228,7 @@ The BAZG is the Swiss national link to Frontex, sending guards on Frontex missio
 
 
 
-[![](https://i.guim.co.uk/img/media/8baadeb30165332bfabfebe58a3db198926098cd/0_365_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eae28a3e312a50271771db38e89f326)](https://www.theguardian.com/world/2022/apr/21/disaster-waiting-to-happen-moria-refugee-camp-fire-greece-lesbos?fbclid=IwAR2ysJcUkPf8sSv4cMTMDg_varXP4m-iWoW86GOM5XvjT2DRkDa267JriWo)
+[![](../assets/ef8f8b604bed/5472.jpg)](https://www.theguardian.com/world/2022/apr/21/disaster-waiting-to-happen-moria-refugee-camp-fire-greece-lesbos?fbclid=IwAR2ysJcUkPf8sSv4cMTMDg_varXP4m-iWoW86GOM5XvjT2DRkDa267JriWo)
 
 #### **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**
 

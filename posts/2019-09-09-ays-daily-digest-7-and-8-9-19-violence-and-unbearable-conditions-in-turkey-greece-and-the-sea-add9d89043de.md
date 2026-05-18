@@ -48,7 +48,7 @@ And in Greece? Beside the horrendous conditions in the completely overcrowded ca
 Article in Greek:
 
 
-[![](https://thepressproject.gr/app/uploads/2019/09/e32a66891490108379.jpg)](https://thepressproject.gr/o-kyrtsos-zita-ton-egklovismo-prosfygon-ke-metanaston-se-akatikita-nisia/?fbclid=IwAR301-Pk_MmTtDJP-T95agcpeK15BT8XgNCG04F5HaHmI6xOpjlylESxlyA)
+[![](../assets/add9d89043de/e32a66891490108379.jpg)](https://thepressproject.gr/o-kyrtsos-zita-ton-egklovismo-prosfygon-ke-metanaston-se-akatikita-nisia/?fbclid=IwAR301-Pk_MmTtDJP-T95agcpeK15BT8XgNCG04F5HaHmI6xOpjlylESxlyA)
 
 ### GREECE
 
@@ -93,7 +93,7 @@ Off the island of **Samos** , the Greek coast guard fired warning shots and ulti
 Find the original article here:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2016/08/greek-coast-guard.jpg)](https://www.keeptalkinggreece.com/2019/09/07/greek-coast-guard-fires-warning-shots-smuggler-samos/)
+[![](../assets/add9d89043de/greek-coast-guard.jpg)](https://www.keeptalkinggreece.com/2019/09/07/greek-coast-guard-fires-warning-shots-smuggler-samos/)
 
 
 **Aegean Boat Report** speaks about at least 14 boats arriving on Saturday carrying 536 people \(6x Lesvos, 3x Chios, 1x Leros, 1xSamos\) and another 4 boats at Sunday with 51 people in total \(2x Chios, 2x Lesvos\) \.
@@ -194,7 +194,7 @@ In **Rennes** , for the second time protests were held on Saturday in order to d
 A go fund me campaign was released by Danica Jurisic to provide kids with school material in **Paris** \. Donations of materials like folders, colour pencils, geometry stuff and all other kinds of school materials are welcome, as are monetary donations to:
 
 
-[![](https://images.gofundme.com/5K8a5QLBlviNbNS8Daw42oeBkIQ=/720x405/https://d2g8igdw686xgo.cloudfront.net/36467928_1566657034648229_r.jpeg)](https://www.gofundme.com/f/refugees-in-paris-winter-2019?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cp+share-sheet&fbclid=IwAR3bScmfxUOg1CHGx899BrMqkUKoAccQj6s-WTN2xxK5CIZnEG47FpxYfKs)
+[![](../assets/add9d89043de/36467928_1566657034648229_r.jpeg)](https://www.gofundme.com/f/refugees-in-paris-winter-2019?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cp+share-sheet&fbclid=IwAR3bScmfxUOg1CHGx899BrMqkUKoAccQj6s-WTN2xxK5CIZnEG47FpxYfKs)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**

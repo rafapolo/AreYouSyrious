@@ -38,9 +38,9 @@ Relations with EU nations mean that cooperation over asylum matters is almost ce
 The conditions for those waiting for their asylum claim to be heard has remained slow\. With the pandemic cited as a reason for claims being processed so slowly, people are waiting months in restrictive hotel accommodation\. In 2020, [more than 30,000 people](https://www.aljazeera.com/news/2021/7/2/uk-asylum-seeker-queue) had waited more than a year for their claim to be assessed\. Many of those people were affected by the Aspen card scandal\. The Aspen card is the payment card issued to asylum seekers and is how the government pays £39\.63 per week for food, clothes and household items\. In June 2021, [thousands were left without money](https://www.theguardian.com/uk-news/2021/jun/02/thousands-of-asylum-seekers-go-hungry-after-cash-card-problems) as the payment system was transferred to another provider\. Those left without support had to rely on charities or friends for a week or more to be able to eat while the system was sorted out\.
 
 
-![Photo Credit: [RNLI at work](https://www.inverness-courier.co.uk/_media/img/3GISXSUYF0YV30BCE8C6.jpg)](../assets/20de647a3ad5/0*JxBp7syfYmrmdzmE.jpg)
+![Photo Credit: [RNLI at work](../assets/20de647a3ad5/3GISXSUYF0YV30BCE8C6.jpg)](../assets/20de647a3ad5/0*JxBp7syfYmrmdzmE.jpg)
 
-Photo Credit: [RNLI at work](https://www.inverness-courier.co.uk/_media/img/3GISXSUYF0YV30BCE8C6.jpg)
+Photo Credit: [RNLI at work](../assets/20de647a3ad5/3GISXSUYF0YV30BCE8C6.jpg)
 
 Right wing media continue to perpetrate the view that the UK is being ‘flooded’ with new arrivals\. This is not true\. The UK granted 13,210 asylum applications in 2021, compared with Germany’s 122,015\. Both of these figures are significantly lower than pre\-pandemic levels\. One reason cited for the growing animosity towards those arriving is that the number arriving by boat has risen\. Previously, most people came hidden on trucks via either a cross\-channel ferry or the Shuttle \(the underwater vehicle transport train\) \. Those arrivals would then travel onwards to different parts of the country before claiming asylum\. Now, people arriving on boats are much more visible to local communities, leading to the southern county of Kent receiving many more initial claims\.
 

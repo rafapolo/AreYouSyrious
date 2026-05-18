@@ -62,9 +62,9 @@ We were provided with this account from an anonymous single female residing in V
 In [Cape Town](https://www.bbc.com/news/world-africa-51284576?fbclid=IwAR2RC6xh3Vuc2A1n_6MNAiiE-e_XhOE5aZydRbTvAt50yg3WLUixGfReFek) , South Africa, over the last four months, over 500 people have been forced to seek shelter inside Cape Town’s Central Methodist Church\. Since October the Central Methodist Church has offered this community sanctuary within its walls after the police, armed with an eviction order, sought to forcibly and often violently remove the group during a sit\-in protest outside UNHCR offices in South Africa\. Speaking to the BBC, the women sheltered within the church talk of their desire to move on from South Africa, a country ‘that since 2008 has seen multiple outbreaks of xenophobic violence’\. In addition to the violence and humiliation these men, women and children are forced to endure, a new policy set to be introduced by the South African government will undoubtedly make their lives far harder\. The Refugees Amendment Act is a new law seeking to limit the legal work that refugees can do and prevent them from taking part in all and any political activities relating to their home country\.
 
 
-![Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)](../assets/33d5f3ed65f4/0*JmhO0pkSaMSBxscH)
+![Agency [copyrights](../assets/33d5f3ed65f4/_110678452_ch4.jpg)](../assets/33d5f3ed65f4/0*JmhO0pkSaMSBxscH)
 
-Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)
+Agency [copyrights](../assets/33d5f3ed65f4/_110678452_ch4.jpg)
 #### SEARCH AND RESCUE AT SEA
 ### Italy
 

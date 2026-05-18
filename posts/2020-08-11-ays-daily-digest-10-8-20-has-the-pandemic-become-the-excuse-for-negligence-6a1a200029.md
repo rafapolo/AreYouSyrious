@@ -155,7 +155,7 @@ Swedish, Norwegian, Icelandic and Danish PEN has today, in a rare joint appeal f
 According to [Amnesty International](https://amnesty.dk/nyhedsliste/2020/amnesty-aai%C3%BAn-skal-have-beskyttelse-i-danmark) \(Denmark\), in rejecting the asylum case, the Danish Refugee Board stated that it has used information provided by the Danish Immigration Service on the decriminalisation of homosexuality in 2019 and how punishment for hate crimes against homosexuals in Angola has been sharpened\. Because of this, the Board affirmed that the artist does not risk persecution or asylum\-based abuse as a result of her sexuality, [Freemuse reports](https://freemuse.org/news/freemuse-calls-on-the-danish-refugee-board-to-stop-the-deportation-of-angolan-artist-adelina-kiame/?fbclid=IwAR3FY9RMarWpvROwpLKRAmpUXKxgPRrfs-OSPiXrVCjwrV8ua15UohUJFHc) \.
 
 
-[![Aaiun BLM](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F935288061-07d467375748f56120f7c4dba89dd9414d487c8dd92f8c6265d9b084527c828d-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Aaiun BLM")](https://vimeo.com/444800013)
+[![Aaiun BLM](../assets/6a1a200029/overlay "Aaiun BLM")](https://vimeo.com/444800013)
 
 #### UK
 ### Britain First launched a sailing ship at the weekend to carry out “migrant patrols” in the Channel
@@ -204,7 +204,7 @@ Age assessment and the protection of minor asylum seekers: time for a harmonised
 “Bit by bit, people in these towns get to know the new people and see them as people, not as people from a particular country\.” — The story of Pareja:
 
 
-[![](https://i.guim.co.uk/img/media/4cc535e25b684b7e1a35f58bdf5ab8b41e1882df/0_256_4801_2883/master/4801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=190c5980384ec50894209f43de158914)](https://www.theguardian.com/world/2020/aug/10/the-spanish-towns-welcoming-in-migrants?fbclid=IwAR0CqkZfTnw11Ioet2huhuZUbuYhGya5lHLCNqdCgYaaQYCoIaIgqtTXC4Q)
+[![](../assets/6a1a200029/4801.jpg)](https://www.theguardian.com/world/2020/aug/10/the-spanish-towns-welcoming-in-migrants?fbclid=IwAR0CqkZfTnw11Ioet2huhuZUbuYhGya5lHLCNqdCgYaaQYCoIaIgqtTXC4Q)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

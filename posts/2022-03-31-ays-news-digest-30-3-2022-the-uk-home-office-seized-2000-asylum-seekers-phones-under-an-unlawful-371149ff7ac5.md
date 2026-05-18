@@ -201,7 +201,7 @@ Around 71,940 people have arrived in Italy from Ukraine to date; the numbers of 
 In December of that same year, a group of 11 migrants and eight organisations called into question the legality of this event\. The Court of Justice has now produced a document stating that the prefect did in fact act outside of the law and without the correct authority to dismantle the migrant camp\.
 
 
-[![](https://img.lemde.fr/2022/03/29/0/0/2944/1962/1440/960/60/0/dbad20e_5867240-01-06.jpg)](https://www.lemonde.fr/police-justice/article/2022/03/29/a-calais-le-prefet-condamne-pour-le-demantelement-d-un-camp-de-migrants_6119711_1653578.html?fbclid=IwAR2Eg3jf2n_4JVrPO9NDVGVA4qgvCjksOdAQJI-rD60bUp4TUNrhNg_jQ10)
+[![](../assets/371149ff7ac5/dbad20e_5867240-01-06.jpg)](https://www.lemonde.fr/police-justice/article/2022/03/29/a-calais-le-prefet-condamne-pour-le-demantelement-d-un-camp-de-migrants_6119711_1653578.html?fbclid=IwAR2Eg3jf2n_4JVrPO9NDVGVA4qgvCjksOdAQJI-rD60bUp4TUNrhNg_jQ10)
 
 
 **UK**
@@ -272,7 +272,7 @@ Thomas Coombes explores **five** **things** people can do to help push for a mor
 
 
 
-[![](https://www.fpri.org/wp-content/uploads/2022/03/329-featured-01.png)](https://www.fpri.org/multimedia/2022/03/europes-big-secret-funding-offshore-migrant-prisons/?fbclid=IwAR1dJr3wX6l8svY0XqHeLAbffOFYWJkBBqMOL4Uk-jZtPiC19eEYvgkeNx4)
+[![](../assets/371149ff7ac5/329-featured-01.png)](https://www.fpri.org/multimedia/2022/03/europes-big-secret-funding-offshore-migrant-prisons/?fbclid=IwAR1dJr3wX6l8svY0XqHeLAbffOFYWJkBBqMOL4Uk-jZtPiC19eEYvgkeNx4)
 
 - Helena Maleno has received an Honorary Doctorate for her work defending human rights, including her work supporting the rights of migrants\.
 
@@ -293,7 +293,7 @@ Contra criminalización de los poderes oscuros el reconocimiento de los intelect
 
 
 
-[![](https://i.guim.co.uk/img/media/2b8a5cc686c0bdde04fea714533720962e696d14/0_123_4152_2492/master/4152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed8750705fafe58a565cb791a5237d2d)](https://www.theguardian.com/global/video/2022/mar/30/life-as-a-refugee-in-calais-the-ukraine-war-is-a-wake-up-call-video?fbclid=IwAR1rl-PLoOZ5hgamJqHpA2AkttQav013HRQv8B-2AMnmCMOU--3Jc-ubjl8)
+[![](../assets/371149ff7ac5/4152.jpg)](https://www.theguardian.com/global/video/2022/mar/30/life-as-a-refugee-in-calais-the-ukraine-war-is-a-wake-up-call-video?fbclid=IwAR1rl-PLoOZ5hgamJqHpA2AkttQav013HRQv8B-2AMnmCMOU--3Jc-ubjl8)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

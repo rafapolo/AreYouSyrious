@@ -177,7 +177,7 @@ More than 21 organizations presented the EU Commission in Poland with three appe
 You too can now sign Amnesty International’s petition against the wall in the forest area between Belarus and Poland:
 
 
-[![](https://amnesty.org.pl/wp-content/uploads/2022/02/279612-1024x576.jpg)](https://amnesty.org.pl/akcje/nie-dla-muru-przez-serce-puszczy/?send=ok&type=d)
+[![](../assets/bdf11db98d9d/279612-1024x576.jpg)](https://amnesty.org.pl/akcje/nie-dla-muru-przez-serce-puszczy/?send=ok&type=d)
 
 #### EU/FRONTEX
 #### Johansson’s Reality Paradox
@@ -208,7 +208,7 @@ While Europe continues to support the Libyan Coast Guard and has spent € [450 
 
 
 
-[![](https://bi.im-g.pl/im/8f/57/1a/z27621519FBW,Uchodzcy--Funkcjonariusze-strazy-granicznej-odstaw.jpg)](https://wyborcza.pl/7,162657,28088806,mam-13-lat-pragne-wolnosci-dla-siebie-i-mojej-rodziny.html)
+[![](../assets/bdf11db98d9d/z27621519FBW,Uchodzcy--Funkcjonariusze-strazy-granicznej-odstaw.jpg)](https://wyborcza.pl/7,162657,28088806,mam-13-lat-pragne-wolnosci-dla-siebie-i-mojej-rodziny.html)
 
 - Another report on the dramatic living conditions in Guarded Centers for Foreigners\. “Every three days someone tries to hurt himself,” say those in Wędrzyn:
 

@@ -28,13 +28,13 @@ Although this would be an important step in the current times in order to avoid 
 For more information about the campaign in Italy see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/41064fd6b4d2504390b2185b07b70a07c4483fad.jpeg)](https://www.infomigrants.net/en/post/23955/coronavirus-in-italy-ngos-want-stay-permits-for-migrant-workers?fbclid=IwAR1huzlnAc9xfpWUsdM5QAXYXoIxdT57fau-wE-9fkAvjSMOOLdTH5uEIvA)
+[![](../assets/ebaac9ac01a5/41064fd6b4d2504390b2185b07b70a07c4483fad.jpeg)](https://www.infomigrants.net/en/post/23955/coronavirus-in-italy-ngos-want-stay-permits-for-migrant-workers?fbclid=IwAR1huzlnAc9xfpWUsdM5QAXYXoIxdT57fau-wE-9fkAvjSMOOLdTH5uEIvA)
 
 
 For more information on the situation in Spain, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/4c6c88a3b10404f9f79843f951da28bbb9529811.jpeg)](https://www.infomigrants.net/en/post/23946/spain-to-hire-foreign-workers-to-cover-agriculture-shortfall?fbclid=IwAR1qeoDAwpAuzvWndzLB3ZIuxcr2_kdTXg5XJgSdAHpZ2Ou8NXTQMDnAr-k)
+[![](../assets/ebaac9ac01a5/4c6c88a3b10404f9f79843f951da28bbb9529811.jpeg)](https://www.infomigrants.net/en/post/23946/spain-to-hire-foreign-workers-to-cover-agriculture-shortfall?fbclid=IwAR1qeoDAwpAuzvWndzLB3ZIuxcr2_kdTXg5XJgSdAHpZ2Ou8NXTQMDnAr-k)
 
 ### GENERAL
 
@@ -135,21 +135,21 @@ The national health emergency is set to last until 31 July, but might be extende
 For the Press release from Sea Eye in German see:
 
 
-[![](https://sea-eye.org/wp-content/uploads/2020/04/Rettungsboot_ALAN-KURDI_2020_c_Cédric-Fettouche-sea-eye.org_.jpeg)](https://sea-eye.org/alan-kurdi-rettet-an-einem-tag-150-menschen-aus-zwei-holzbooten/)
+[![](../assets/ebaac9ac01a5/Rettungsboot_ALAN-KURDI_2020_c_C%C3%A9dric-Fettouche-sea-eye.org_.jpeg)](https://sea-eye.org/alan-kurdi-rettet-an-einem-tag-150-menschen-aus-zwei-holzbooten/)
 
 
 After three weeks without any landings on **Lampedusa** , one boat with 34 people landed on the coast\. Eleven of the arrivals were women, two of them pregnant\. They were immediately brought to the reception centre where they will be placed under quarantine\.
 For more information see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3c7f4419c09867db60825dcdea91e9bccc1c7264.jpeg)](https://www.infomigrants.net/en/post/23950/lampedusa-first-migrant-landing-in-three-weeks?preview=1586344414977&fbclid=IwAR1I63MuvsT6NICO83EIm0BjuTD-b0vCvwHzJVoW4E_MUTS0aZr_Wp4a7cE)
+[![](../assets/ebaac9ac01a5/3c7f4419c09867db60825dcdea91e9bccc1c7264.jpeg)](https://www.infomigrants.net/en/post/23950/lampedusa-first-migrant-landing-in-three-weeks?preview=1586344414977&fbclid=IwAR1I63MuvsT6NICO83EIm0BjuTD-b0vCvwHzJVoW4E_MUTS0aZr_Wp4a7cE)
 
 ### GREECE
 
 A very important and helpful list of places that still offer help amid the corona lock\-down:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/66c8378cdaf8f76637d595324fb5370ebef98e7f.jpeg)](https://www.infomigrants.net/en/post/23948/help-for-refugees-and-undocumented-migrants-in-greece?fbclid=IwAR3TlYnhL6FriDgh4JqdmEry8jAt6s6E4jXrcVQGv22kz1hRSpCWgKFUwPA)
+[![](../assets/ebaac9ac01a5/66c8378cdaf8f76637d595324fb5370ebef98e7f.jpeg)](https://www.infomigrants.net/en/post/23948/help-for-refugees-and-undocumented-migrants-in-greece?fbclid=IwAR3TlYnhL6FriDgh4JqdmEry8jAt6s6E4jXrcVQGv22kz1hRSpCWgKFUwPA)
 
 
 The European Court of Human Rights ordered the Greek authorities to transfer an old man with underlying health issues out of Vial Camp in Chios\. According to the Court the man must be granted living conditions which are not an inhumane and degrading treatment, hence a violation of Art\. 3 ECHR\. The man was living in a tent without a mattress, together with members of his family\. He was not able to shower for weeks because he was not physically able to queue up for hours in order to wait in front of one of the few showers\. Instead he had to use his drinking water to wash himself, and that is limited to 1\.5 litres per day\. Especially for elderly people, the WHO advises self\-isolation so they can protect themselves from infection with corona virus\. At Vial camp, as at almost all other camps all across Europe, this is impossible\. 

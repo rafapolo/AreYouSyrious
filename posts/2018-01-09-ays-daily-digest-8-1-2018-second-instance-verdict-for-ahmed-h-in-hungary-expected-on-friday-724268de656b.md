@@ -51,7 +51,7 @@ The activists who are helping Ahmed got permission to visit him for the first ti
 **“Freedom has no comparable value, you cannot balance it with money\. Even with words, I cannot describe it\.”**
 
 
-[![](http://freetheroszke11.weebly.com/uploads/8/7/8/8/87889318/published/free-all-political-prisoners-2.jpg?1513361096)](https://freetheroszke11.weebly.com/home/december-13th-2017)
+[![](../assets/724268de656b/free-all-political-prisoners-2.jpg)](https://freetheroszke11.weebly.com/home/december-13th-2017)
 
 
 In August 2015, Ahmed left his family home in Cyprus to go and help his elderly parents and six other family members flee Syria and find safety in Europe\.

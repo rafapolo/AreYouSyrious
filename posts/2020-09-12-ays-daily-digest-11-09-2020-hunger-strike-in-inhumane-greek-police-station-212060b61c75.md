@@ -138,7 +138,7 @@ Wauters explains that this scheme has been successful in Amman\. “ _Bad ass ki
 Discussing the outreach of the programme, Wauters said “ _Before 7Hills; the Sudanese had no space to go to in Amman\. They were staying at home in the city because they didn’t feel safe in public and the kids weren’t going to school\._ ” In response, Wauters and other members of the NGO’s team came up with the idea of a Sudanese\-only skate class once a week\. It started on a Saturday with just one mother and a handful of Sudanese refugee children, but is now one of 7Hills’s biggest programmes\.
 
 
-[![7Hills - How volunteers built a skatepark in 18 days](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F502395095-c1d4501d7785ae78121b471c6dbc6c803c4e1db8e407e417119e086d03aa24d6-d_1280x550&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "7Hills - How volunteers built a skatepark in 18 days")](https://vimeo.com/116106052)
+[![7Hills - How volunteers built a skatepark in 18 days](../assets/212060b61c75/overlay "7Hills - How volunteers built a skatepark in 18 days")](https://vimeo.com/116106052)
 
 ### Spain
 

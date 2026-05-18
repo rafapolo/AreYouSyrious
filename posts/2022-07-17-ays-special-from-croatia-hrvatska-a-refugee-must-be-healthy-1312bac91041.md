@@ -94,7 +94,7 @@ Although very little is needed to rectify this injustice, it seems there is no p
 The organisation BRID and Are You Syrious have published an online Handbook for the Administrative Registration of Patients under International Protection to help physicians negotiate the paperwork\.
 
 
-[![](https://flipbooks.fleepit.com/files/c1b633a0c50ce3eb836f648000db3abc/thumbnails/bigthumbnail.jpg)](https://flipbooks.fleepit.com/f-5442-savjeti_nositelji_meunarodne_zatite?fbclid=IwAR37nFGuZ8R6f1FPwi0lXz6kPn1bl7Z3QYVfPBjS6eET_EFzcrDXqRhxTwA)
+[![](../assets/1312bac91041/bigthumbnail.jpg)](https://flipbooks.fleepit.com/f-5442-savjeti_nositelji_meunarodne_zatite?fbclid=IwAR37nFGuZ8R6f1FPwi0lXz6kPn1bl7Z3QYVfPBjS6eET_EFzcrDXqRhxTwA)
 
 
 **_This text was written in Croatian by AYS Staff member Anamaria Macanović, English translation by AYS member, Sanja Matešić\._**

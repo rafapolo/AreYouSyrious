@@ -258,7 +258,7 @@ As we reported in [Tuesday’s digest](ays-daily-digest-12-1-21-uk-stop-yarls-wo
 Sign the Petition here:
 
 
-[![](https://assets.change.org/photos/0/ro/ou/flROouveQjaIpAZ-1600x900-noPad.jpg?1608798624)](https://www.change.org/p/uk-home-office-stop-plans-to-house-asylum-seekers-in-yarl-s-wood-camp?fbclid=IwAR2wVsa5cPhQ-1RoCru-uuH9R3puHeVytXLdkHs_dYM8XGCy0ttWw9TfeEY)
+[![](../assets/3a682b18f626/flROouveQjaIpAZ-1600x900-noPad.jpg)](https://www.change.org/p/uk-home-office-stop-plans-to-house-asylum-seekers-in-yarl-s-wood-camp?fbclid=IwAR2wVsa5cPhQ-1RoCru-uuH9R3puHeVytXLdkHs_dYM8XGCy0ttWw9TfeEY)
 
 #### Napier and Penally barracks
 
@@ -320,7 +320,7 @@ The [European Court of Justice ruled on Thursday](https://curia.europa.eu/jcms/u
 More information:
 
 
-[![](https://static.dw.com/image/53863315_6.jpg)](https://www.dw.com/en/top-eu-court-minors-cant-be-deported-with-no-home-to-go-to/a-56222987?fbclid=IwAR2H8qZVJhSZEOnkCk9HV3AZvsHCFYPURjAPR4A7YqH9Bf-DJcuIfU0LdBE)
+[![](../assets/3a682b18f626/53863315_6.jpg)](https://www.dw.com/en/top-eu-court-minors-cant-be-deported-with-no-home-to-go-to/a-56222987?fbclid=IwAR2H8qZVJhSZEOnkCk9HV3AZvsHCFYPURjAPR4A7YqH9Bf-DJcuIfU0LdBE)
 
 
 

@@ -26,7 +26,7 @@ Frontex complicity with pushbacks has been an assumption for years now as we kno
 For more, go here\.
 
 
-[![](https://static.dw.com/image/56130619_6.jpg)](https://www.dw.com/de/fluechtlinge-auf-der-balkanroute-pushbacks-durch-frontex/a-56133590)
+[![](../assets/bbced8d36527/56130619_6.jpg)](https://www.dw.com/de/fluechtlinge-auf-der-balkanroute-pushbacks-durch-frontex/a-56133590)
 
 ### Greece: MVI rebuilds clinic
 
@@ -128,14 +128,14 @@ Yesterday we reported on the harrowing account of a 15\-year\-old refugee in Lib
 Jo Livingstone published a comic called “No Borders” on Awry\. You can watch it under this [link](https://awrycomics.com/no-borders/) \.
 
 
-[![](https://awrycomics.com/wp-content/uploads/sites/5/2021/01/Comic3-featured-image-scaled-1.jpg)](https://awrycomics.com/no-borders/)
+[![](../assets/bbced8d36527/Comic3-featured-image-scaled-1.jpg)](https://awrycomics.com/no-borders/)
 
 ### UK
 
 The Scottish Refugee Council has published an interactive map for people, who are new to the country\. By entering the postcode, people can find local supports, friends, information and advice\.
 
 
-[![](https://www.scottishrefugeecouncil.org.uk/wp-content/uploads/2019/10/SRC_Europe.jpg)](https://www.scottishrefugeecouncil.org.uk/new-scots-connect-map/?fbclid=IwAR0AWILN6H8JOuVIgwsasRydlJYFkfTnYtZTSnNQukt83XEtfmI16obAxGE)
+[![](../assets/bbced8d36527/SRC_Europe.jpg)](https://www.scottishrefugeecouncil.org.uk/new-scots-connect-map/?fbclid=IwAR0AWILN6H8JOuVIgwsasRydlJYFkfTnYtZTSnNQukt83XEtfmI16obAxGE)
 
 
 The Refugee Studies Center at the Oxford University invites to a Zoom webinare about “ Refugee denial: Settler colonialism and the making of the Global North imaginary” on January 20th, 5pm\.

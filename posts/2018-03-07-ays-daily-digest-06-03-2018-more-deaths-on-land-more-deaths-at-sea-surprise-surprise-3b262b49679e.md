@@ -151,7 +151,7 @@ The Elinko Warehouse in Athens is in desperate need of donations, primarily dry 
 
 
 
-[![3rd Denouncement: The Greek Asylum System's Registration Process - Athens Legal Support Team](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F667605684-e1dbad8582ddd4de5f48ec648d4ff88d701f7461c67ebd73e2939b34a0fd9766-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "3rd Denouncement: The Greek Asylum System's Registration Process - Athens Legal Support Team")](https://vimeo.com/243462941)
+[![3rd Denouncement: The Greek Asylum System's Registration Process - Athens Legal Support Team](../assets/3b262b49679e/overlay "3rd Denouncement: The Greek Asylum System's Registration Process - Athens Legal Support Team")](https://vimeo.com/243462941)
 
 #### Patras
 

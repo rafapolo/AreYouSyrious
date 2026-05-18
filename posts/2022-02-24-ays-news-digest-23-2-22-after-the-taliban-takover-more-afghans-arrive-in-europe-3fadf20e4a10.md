@@ -28,7 +28,7 @@ Afghans claimed around 97,800 applications, double that of 2020, and following t
 In terms of positive findings, in 2021, roughly 35% of first instance decisions were granted a form of protection\. This was the highest average rate of recognition since 2017\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/04d2c7ba8ef65863a75301cc8dd6560cb1416bc4.jpeg)](https://www.infomigrants.net/en/post/38707/unaccompanied-minors-afghans-drive-rise-in-asylum-applications?fbclid=IwAR0DHjcNTLTcktfz1IoaQf1sDGOeoZyA4ggwz4FKjUdzsVSdcbhiEOejO-c)
+[![](../assets/3fadf20e4a10/04d2c7ba8ef65863a75301cc8dd6560cb1416bc4.jpeg)](https://www.infomigrants.net/en/post/38707/unaccompanied-minors-afghans-drive-rise-in-asylum-applications?fbclid=IwAR0DHjcNTLTcktfz1IoaQf1sDGOeoZyA4ggwz4FKjUdzsVSdcbhiEOejO-c)
 
 
 An article by the [**Utrecht Law Review**](https://www.utrechtlawreview.org/articles/10.36633/ulr.770/?fbclid=IwAR3wHexdVxeJjxWGwdZJBt4rffaNLu7eMwV3Y2Bqp6PCRBaK42yWf6Fc8Vo) explores the way in which EU migration policy has been driven by security and crisis, outweighing the fundamental human rights of migrants\. Within this context, Frontex has grown immensely and has benefited from greater funding\. The article dives into the concerns around the lack of transparency in multi\-agency structures that is perpetuated through the crisis and emergency narrative, and how this affects fundamental rights and accountability\.

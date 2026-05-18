@@ -91,7 +91,7 @@ The civil liberties organisation Statewatch has today delivered an open letter w
 
 
 
-[![Open letter to the IMO: Revoke the Libyan search and rescue letter](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F916782905-8e12a23a9760b64baa2d48efcf5ca6cafe82fb333c6d2d7e40afdbf6763ad0d4-d_1280x704&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Open letter to the IMO: Revoke the Libyan search and rescue letter")](https://vimeo.com/433960079)
+[![Open letter to the IMO: Revoke the Libyan search and rescue letter](../assets/bcb09e35cb15/overlay "Open letter to the IMO: Revoke the Libyan search and rescue letter")](https://vimeo.com/433960079)
 
 ### 47 people were rescued by the NGO rescue ship Ocean Viking\!
 

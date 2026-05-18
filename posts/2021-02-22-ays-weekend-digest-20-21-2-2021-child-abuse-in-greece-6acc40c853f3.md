@@ -25,7 +25,7 @@ Over the last few days, a case of child abuse has been reported in Greek\-langua
 The sexual exploitation of refugee children in Athens is not a new phenomenon and was [highlighted, researched and reported](https://fxb.harvard.edu/2017/04/17/new-report-emergency-within-an-emergency-exploitation-of-migrant-children-in-greece/) on a number of times in the past years\.
 
 
-[![](https://video-images.vice.com/videos/59/77/597763e768e02bb371e23045/597763e768e02bb371e23045-1505931472083.jpg?crop=1xw:1xh;center,center&resize=1200:*)](https://video.vice.com/gr/video/refugee-kids-abused-in-athens/597763e768e02bb371e23045?jwsource=cl)
+[![](../assets/6acc40c853f3/597763e768e02bb371e23045-1505931472083.jpg)](https://video.vice.com/gr/video/refugee-kids-abused-in-athens/597763e768e02bb371e23045?jwsource=cl)
 
 
 While the new case is developing by the day, Greek media have rushed to focus their attention on two large NGOs in the country, ActionAid and Solidarity Now, which are [accused](https://www.documentonews.gr/article/o-lignadhs-feretai-na-pswnize-prosfygopoyla) of having ‘supplied’ children for this purpose\. With the information available at the moment, it is nonetheless still unclear whether the NGOs knew what was happening\.

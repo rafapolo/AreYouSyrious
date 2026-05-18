@@ -320,7 +320,7 @@ Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/13833961995253
 #### OUT THIS MONTH — Videos
 
 
-[![Frontex: EU's Deportation Machine](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F803336108-a1bc6c2dda002c44ebc399dbe2d65b412341c70c8afb2e36c43a504736cdd2c3-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Frontex: EU's Deportation Machine")](https://vimeo.com/351673775)
+[![Frontex: EU's Deportation Machine](../assets/5c9935baa7d9/overlay "Frontex: EU's Deportation Machine")](https://vimeo.com/351673775)
 
 - [**Investigating Frontex webinar**](https://www.lighthousereports.nl/investigating-frontex-how-a-reporting-team-put-an-eu-super-agency-in-the-spotlight/) , by Lighthouse Reports, with Daniel Howden, \(director, Lighthouse Reports\) Nick Waters, \(lead investigator, Bellingcat\), Steffen Lüdke \(reporter, Der Spiegel\), Katy Fallon, Reporter \(freelance, The Guardian\) \.
 

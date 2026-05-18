@@ -25,13 +25,13 @@ Are You Syrious? is closely following the reports coming out about the EU Pact o
 According to the Danish Refugee Council \(DRC\), one of the world’s largest and leading displacement NGOs, the new EU Pact on Migration and Asylum suggests a wide range of worrying propositions when it comes to the treatment of people seeking protection in the European Union\. Their media report highlights:
 
 
-[![](https://pro.drc.ngo/media/ohxjzhia/hoa-1.jpg?anchor=center&mode=crop&rnd=133064031491930000)](https://drc.ngo/about-us/for-the-media/press-releases/2020/9/reaction-to-the-eu-pact-on-migration-and-asylum)
+[![](../assets/1dd85247e75d/hoa-1.jpg)](https://drc.ngo/about-us/for-the-media/press-releases/2020/9/reaction-to-the-eu-pact-on-migration-and-asylum)
 
 
 In terms of Member State reactions, it is clear the Visegrad group rejects asylum seeker quotas and will continue to be predictably unwilling to play a role in the EU’s proposed “solidarity” mechanism\. Hungary’s Viktor Orban, Poland’s Mateusz Morawiecki, and the Czech Republic’s Andrej Babis shot down the EU’s planned migration reform ahead of scheduled talks\.
 
 
-[![](https://www.euractiv.com/wp-content/uploads/sites/2/2020/09/w_56366795-800x450.jpg)](https://www.euractiv.com/section/justice-home-affairs/news/in-brussels-visegrad-four-reject-the-eus-migration-plan/1510545/)
+[![](../assets/1dd85247e75d/w_56366795-800x450.jpg)](https://www.euractiv.com/section/justice-home-affairs/news/in-brussels-visegrad-four-reject-the-eus-migration-plan/1510545/)
 
 
 Spanish media also report that the country received nothing of what it asked for and is dissatisfied, but not surprised, with the proposed plan\. One major sticking point for the country was the lack of an enforcement mechanism for relocation\. The result of nine months of negotiations was foreseeable, though, and Madrid did not hold much hope of seeing its aspirations, rejected by the Eastern and Northern countries, reflected in the new document\.

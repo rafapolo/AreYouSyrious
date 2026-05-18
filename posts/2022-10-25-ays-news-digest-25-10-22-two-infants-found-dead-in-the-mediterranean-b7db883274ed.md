@@ -101,7 +101,7 @@ _AP_ report:
 
 
 
-[![](https://storage.googleapis.com/afs-prod/media/13733afb9f234169bc8e84469e106af3/3000.jpeg)](https://apnews.com/article/doctors-without-borders-europe-libya-africa-malta-5526de6e3ecff7eb64966e06341036cb?fbclid=IwAR13Y6QWnvtFWnANVL9nG3j61tzNVJcd3glzqex_Cg07dF6MFMRM_IX5MgU)
+[![](../assets/b7db883274ed/3000.jpeg)](https://apnews.com/article/doctors-without-borders-europe-libya-africa-malta-5526de6e3ecff7eb64966e06341036cb?fbclid=IwAR13Y6QWnvtFWnANVL9nG3j61tzNVJcd3glzqex_Cg07dF6MFMRM_IX5MgU)
 
 #### BULGARIA
 #### Hospitals in Burgas are ‘full’ of unidentified bodies
@@ -230,7 +230,7 @@ This is a massive victory for transparency against an agency complicit in illega
 See below for more on OLAF’s report:
 
 
-[![](https://static.dw.com/image/59988532_6.jpg)](https://www.dw.com/de/eu-grenzschutzagentur-frontex-missachtet-eu-recht-auch-in-griechenland/a-63503846?fbclid=IwAR2sVS-NMNBLY3btXxpE8JC1KztqHtnwEs6LilnJRSlAG4jP-7e4gScGaug)
+[![](../assets/b7db883274ed/59988532_6.jpg)](https://www.dw.com/de/eu-grenzschutzagentur-frontex-missachtet-eu-recht-auch-in-griechenland/a-63503846?fbclid=IwAR2sVS-NMNBLY3btXxpE8JC1KztqHtnwEs6LilnJRSlAG4jP-7e4gScGaug)
 
 #### TURKEY
 #### Hundreds of refugees deported to Syria
@@ -332,7 +332,7 @@ Two Syrian activists in Greece, Wael and Karim, have had their asylum revoked\. 
 
 
 
-[![](https://www.kathimerini.gr/wp-content/uploads/2022/10/wm-GKAT_08_2010-835x440.jpg)](https://www.kathimerini.gr/society/562099864/den-diamartyromaste-theloyme-na-katalavoyme/?fbclid=IwAR1_wHN-9tA9DOaX8uFRAnOXh2qiaWEUxkhONQvBfqZf4D-rZDxMOl_KBK0)
+[![](../assets/b7db883274ed/wm-GKAT_08_2010-835x440.jpg)](https://www.kathimerini.gr/society/562099864/den-diamartyromaste-theloyme-na-katalavoyme/?fbclid=IwAR1_wHN-9tA9DOaX8uFRAnOXh2qiaWEUxkhONQvBfqZf4D-rZDxMOl_KBK0)
 
 #### GERMANY
 #### Arson suspected as fire destroys a shelter for Ukrainian refugees near Wismar
@@ -354,7 +354,7 @@ Thankfully no one was injured by the fire, and fourteen refugees were safely eva
 
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/2022-10/ILLUSTRATION_RISE_EGYPTIAN_MIGRATION_TO_EUROPE.jpg?h=d1cb525d&itok=WTw6-RNJ)](https://english.alaraby.co.uk/analysis/why-are-more-egyptians-taking-mediterranean?fbclid=IwAR2ZK3sfZ6Zsgf135dXQd9O-V0SMBArQKm2QLsmyjm-p-C0-vXuhZy_Bf8Y)
+[![](../assets/b7db883274ed/ILLUSTRATION_RISE_EGYPTIAN_MIGRATION_TO_EUROPE.jpg)](https://english.alaraby.co.uk/analysis/why-are-more-egyptians-taking-mediterranean?fbclid=IwAR2ZK3sfZ6Zsgf135dXQd9O-V0SMBArQKm2QLsmyjm-p-C0-vXuhZy_Bf8Y)
 
 - A piece about living as a refugee in Rwanda, from a man who was housed in Gashora Transit Centre, where people are housed on arrival to the country\. — “From my experience, there is no clear democracy in Rwanda \[…\] the people live in fear because the government keeps them under surveillance\.”
 
@@ -366,7 +366,7 @@ Thankfully no one was injured by the fire, and fourteen refugees were safely eva
 
 
 
-[![](https://gpjs3bucket.s3.amazonaws.com/wp-content/uploads/2022/10/07155427/GPJNews_Uganda_AA_RefugeeSupport_026_L_web-650x434.jpg)](https://globalpressjournal.com/africa/uganda/food-scarce-days-refugees-keep-coming/?fbclid=IwAR0dQ6XsuzSJTCYhyeNdHiNzT8P5rdmq-TdIEqOcqg9h54sAyPpzrHXZmSg)
+[![](../assets/b7db883274ed/GPJNews_Uganda_AA_RefugeeSupport_026_L_web-650x434.jpg)](https://globalpressjournal.com/africa/uganda/food-scarce-days-refugees-keep-coming/?fbclid=IwAR0dQ6XsuzSJTCYhyeNdHiNzT8P5rdmq-TdIEqOcqg9h54sAyPpzrHXZmSg)
 
 - ECRE’s report about Greek\-Turkish stand\-off over the abuse of the 92 naked men found in the Evros region\. Researcher Lena K writes that “Irrespective of the real events \[…\] the performance of indignation by the Greek government is nothing less than an insult\.” Read in full here:
 
@@ -378,7 +378,7 @@ Thankfully no one was injured by the fire, and fourteen refugees were safely eva
 
 
 
-[![](https://www.swissinfo.ch/resource/image/47975848/landscape_ratio16x9/1920/1080/e38150c8dd5388048c8c15245d654e10/CC2028D7BAC2B46DD52C1F1D2972BFBB/2022-02-16t195703z_139468494_rc2bks9hk7vd_rtrmadp_3_chile-migrants-bolivia.jpg)](https://www.swissinfo.ch/eng/-a-migrant-is-always-both-an-immigrant-and-an-emigrant-/47996376?utm_campaign=teaser-in-channel&utm_content=o&utm_source=swissinfoch&utm_medium=display&fbclid=IwAR2OdLd1but2RDThlhFeZ860SmegKAsjPoTKwWc76lTzeB_w9wBT2W0bQj0)
+[![](../assets/b7db883274ed/2022-02-16t195703z_139468494_rc2bks9hk7vd_rtrmadp_3_chile-migrants-bolivia.jpg)](https://www.swissinfo.ch/eng/-a-migrant-is-always-both-an-immigrant-and-an-emigrant-/47996376?utm_campaign=teaser-in-channel&utm_content=o&utm_source=swissinfoch&utm_medium=display&fbclid=IwAR2OdLd1but2RDThlhFeZ860SmegKAsjPoTKwWc76lTzeB_w9wBT2W0bQj0)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

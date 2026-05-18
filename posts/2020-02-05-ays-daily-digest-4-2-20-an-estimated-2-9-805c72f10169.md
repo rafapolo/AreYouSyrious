@@ -66,7 +66,7 @@ Locals on Lesvos, Chios and Samos all demand decongestion of their islands\. Dur
 Amidst resident calls to get their village back, a group of Afghans gathered outside the Municipality Theater in Mytilene [reportedly](https://www.stonisi.gr/post/6689/nea-diamartyria-afganwn-sto-dhmotiko-theatro-pics-updated) chanting “Lesvos people, we are sorry\!”
 
 
-[![](https://cdn.stonisi.gr/repository/2019/social/stonisigr-dialysimat1.jpg)](https://www.stonisi.gr/post/6689/dielysan-th-diamartyria-astynomia-kai-limeniko-pics-video-updated)
+[![](../assets/805c72f10169/stonisigr-dialysimat1.jpg)](https://www.stonisi.gr/post/6689/dielysan-th-diamartyria-astynomia-kai-limeniko-pics-video-updated)
 
 ### **Chios is massively under\-resourced and overpopulated as people survive in primitive shelters**
 
@@ -81,7 +81,7 @@ All reveal the shocking humanitarian need present on Chios’s Vial Camp, condit
 _As the weather is set to decline dramatically in Greece, with snowfall, powerful rainfalls and thunderstorms all forecast on the Aegean islands, the hardships and insufferable living conditions are only going to worsen for all residents on camp — especially for the most vulnerable, such as children, pregnant women, those who are sick and the elderly\._
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2020/02/freezingcold-660x330.jpg)](https://www.keeptalkinggreece.com/2020/02/04/weather-warning-greece-snow-cold-rain-storms-wind/)
+[![](../assets/805c72f10169/freezingcold-660x330.jpg)](https://www.keeptalkinggreece.com/2020/02/04/weather-warning-greece-snow-cold-rain-storms-wind/)
 
 
 Be sure to catch up on the AYS? Special from Chios: What is life really like in a Greek Refugee Camp:
@@ -397,7 +397,7 @@ Several German leaders from different political parties have now declared their 
 Half of the people who arrive to Germany as refugees find jobs in 5 years:
 
 
-[![](https://static.dw.com/image/51930497_6.jpg)](https://www.dw.com/en/germany-half-of-refugees-find-jobs-within-five-years/a-52251414?fbclid=IwAR0bqiWkgY7ZLRov8hYDoOeBNcIrpJeA3SZTetVjdmxY0FckLjZj-RDQVi4)
+[![](../assets/805c72f10169/51930497_6.jpg)](https://www.dw.com/en/germany-half-of-refugees-find-jobs-within-five-years/a-52251414?fbclid=IwAR0bqiWkgY7ZLRov8hYDoOeBNcIrpJeA3SZTetVjdmxY0FckLjZj-RDQVi4)
 
 #### SWEDEN
 

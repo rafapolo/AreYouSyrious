@@ -191,7 +191,7 @@ On Thursday, a group of Tunisians landed directly in the port of the island\. Th
 [NoFrontiereFVG](https://nofrontierefvg.noblogs.org/post/2020/08/27/intervista-ad-hossin-fratello-gemello-di-hassan/) published an interview with the brother of a young man detained in the CPR in Gradisca\. On the 14th of July, he was taken to the hospital, while his cell mate died in unclear circumstances\.
 
 
-[![Intervista Hossin](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F947472751-3ab5cb1461b3c8da76d49709d5fef0eeb954ac72857764a54f60017e29eb3b08-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Intervista Hossin")](https://vimeo.com/452119732)
+[![Intervista Hossin](../assets/7150137ff895/overlay "Intervista Hossin")](https://vimeo.com/452119732)
 
 
 Since then, official accounts from the management of the CPR have described the death as the consequence of a fight, as a murder, and as a drug overdose, painting contrasting pictures in which the actions of the guards were never questioned\.

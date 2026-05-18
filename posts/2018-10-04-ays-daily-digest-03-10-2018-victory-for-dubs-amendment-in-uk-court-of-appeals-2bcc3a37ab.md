@@ -191,7 +191,7 @@ If you happen to be in Krakow towards the end of the month, don’t miss this ev
 More information at the link below:
 
 
-[![](https://www.local-life.com/krakow/apple-touch-icon.png)](https://www.local-life.com/krakow/events/4289-rethinking-refugees-knowledge-and-action)
+[![](../assets/2bcc3a37ab/apple-touch-icon.png)](https://www.local-life.com/krakow/events/4289-rethinking-refugees-knowledge-and-action)
 
 ### France
 

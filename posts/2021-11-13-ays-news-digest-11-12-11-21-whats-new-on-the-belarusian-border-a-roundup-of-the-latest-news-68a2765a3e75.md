@@ -269,7 +269,7 @@ A review in _Variety_ of ‘Simple as Water,’ a documentary about the lives of
 A new podcast from InfoMigrants called ‘Tales from the Border,’ about people’s encounters with borders around the world\. The first three episodes focus on Senegal, the Central Med, and Serbia\. They are available on Apple Podcasts, Spotfiy, and elsewhere\.
 
 
-[![](https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/46/cf/91/46cf91b2-f41b-5c99-f3bf-2d71579f1fff/mza_4819313073164404448.jpg/1200x630wp.png)](https://podcasts.apple.com/us/podcast/tales-from-the-border/id1593677734)
+[![](../assets/68a2765a3e75/1200x630wp.png)](https://podcasts.apple.com/us/podcast/tales-from-the-border/id1593677734)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

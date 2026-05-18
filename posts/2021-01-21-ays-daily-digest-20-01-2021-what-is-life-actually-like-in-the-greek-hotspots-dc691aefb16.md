@@ -269,7 +269,7 @@ Without a lot of astonishment, we note that that head of Frontex Leggeri has no 
 More here:
 
 
-[![](https://www.euractiv.com/wp-content/uploads/sites/2/2021/01/Leggeri-Frontex-800x450.jpg)](https://www.euractiv.com/section/justice-home-affairs/news/eu-border-chief-refuses-to-quit-over-pushback-claims/?fbclid=IwAR3vPOiT51IWlRwVNbJrEfdwprFG5OPJE6R81iIgEr9LDyi8K-AJEGYRqaE)
+[![](../assets/dc691aefb16/Leggeri-Frontex-800x450.jpg)](https://www.euractiv.com/section/justice-home-affairs/news/eu-border-chief-refuses-to-quit-over-pushback-claims/?fbclid=IwAR3vPOiT51IWlRwVNbJrEfdwprFG5OPJE6R81iIgEr9LDyi8K-AJEGYRqaE)
 
 
 A longer read on the current allegations and investigations against Frontex can be found here:

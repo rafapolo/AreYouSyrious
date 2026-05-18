@@ -46,7 +46,7 @@ Abela defended using a private boat, saying that the Search and Rescue Conventio
 For more information, see:
 
 
-[![](https://cdn-attachments.timesofmalta.com/8be3415967422ad50c927ca0cb394df8c459ac74-1588329364-5eabfb94-1200x630.jpg)](https://timesofmalta.com/articles/view/abela-admits-coordinating-private-boats-that-returned-migrants-to.789362?fbclid=IwAR30gOx42dlHcLYJ9N0tPgfye3E7Zn06GnIQXAX6E0jAPHX0R0ZgjFKdf7I)
+[![](../assets/e82a24c83c18/8be3415967422ad50c927ca0cb394df8c459ac74-1588329364-5eabfb94-1200x630.jpg)](https://timesofmalta.com/articles/view/abela-admits-coordinating-private-boats-that-returned-migrants-to.789362?fbclid=IwAR30gOx42dlHcLYJ9N0tPgfye3E7Zn06GnIQXAX6E0jAPHX0R0ZgjFKdf7I)
 
 ### LIBYA
 
@@ -81,7 +81,7 @@ The complaint is an interesting and promising approach to hold the EU accountabl
 For more information see here:
 
 
-[![](https://static.wixstatic.com/media/14ee1a_1150ad983c38448a9a04545e1ea088e5~mv2.jpg/v1/fill/w_2500,h_1667,al_c/14ee1a_1150ad983c38448a9a04545e1ea088e5~mv2.jpg)](https://www.glanlaw.org/eu-complicity-in-libyan-abuses)
+[![](../assets/e82a24c83c18/14ee1a_1150ad983c38448a9a04545e1ea088e5~mv2.jpg)](https://www.glanlaw.org/eu-complicity-in-libyan-abuses)
 
 
 UNHCR is once again calling for greater coordination, solidarity and responsibility\-sharing in regard to the situation of refugees in the Mediterranean Sea\.
@@ -106,7 +106,7 @@ As fighting in Libya intensified in recent weeks, the country reported its first
 Here you can find a feature by infoMigrants on the current situation for refugees in Libya:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/fab603ad32e9e9dbab61e87fc4f5b5c9edeab5b0.jpeg)](https://www.infomigrants.net/en/post/24440/migrants-in-libya-trapped-between-war-and-coronavirus?ref=tw&fbclid=IwAR1YZuGOsK78Ua_vVBSE-GVyfctIWNfqcCIl-nvVSSUwbk0IQET-ijMJyEg)
+[![](../assets/e82a24c83c18/fab603ad32e9e9dbab61e87fc4f5b5c9edeab5b0.jpeg)](https://www.infomigrants.net/en/post/24440/migrants-in-libya-trapped-between-war-and-coronavirus?ref=tw&fbclid=IwAR1YZuGOsK78Ua_vVBSE-GVyfctIWNfqcCIl-nvVSSUwbk0IQET-ijMJyEg)
 
 ### TUNISIA
 
@@ -173,7 +173,7 @@ The Corona Awareness Team in Moria has set up a system to reduce the amount of p
 Solidarity Now and UNHCR produced a short audio piece together in which they explain the measures to gradually ease the Corona lockdown restrictions\. The audio is available in 6 languages\.
 
 
-[![](https://www.solidaritynow.org/wp-content/uploads/2020/05/UNHCR-SPOT-1.jpg)](https://www.solidaritynow.org/en/unhcr_audio/?fbclid=IwAR3P3thDMrPfz05iOccFyyIsOPfp_QtDldIP8ydq1yL0pBHUgIN4IqCqtYg)
+[![](../assets/e82a24c83c18/UNHCR-SPOT-1.jpg)](https://www.solidaritynow.org/en/unhcr_audio/?fbclid=IwAR3P3thDMrPfz05iOccFyyIsOPfp_QtDldIP8ydq1yL0pBHUgIN4IqCqtYg)
 
 ### CROATIA
 
@@ -194,7 +194,7 @@ The situation of field workers in the southern Spanish regions Almeria and Huelv
 For a longer article in the Guardian, see here\.
 
 
-[![](https://i.guim.co.uk/img/media/e6966dcea8539ca92d2abb5229165df4ada636bf/0_11_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=51e4a44f1368112c2ed3efa5900f7734)](https://www.theguardian.com/global-development/2020/may/01/no-food-water-masks-or-gloves-migrant-farm-workers-in-spain-at-crisis-point?fbclid=IwAR0Urm1nRJuh_dHTl2tCBnJb4mwgCs80OhWVe6oNlo4N3KFlLJfj2aq6D1g)
+[![](../assets/e82a24c83c18/3600.jpg)](https://www.theguardian.com/global-development/2020/may/01/no-food-water-masks-or-gloves-migrant-farm-workers-in-spain-at-crisis-point?fbclid=IwAR0Urm1nRJuh_dHTl2tCBnJb4mwgCs80OhWVe6oNlo4N3KFlLJfj2aq6D1g)
 
 ### **FRANCE**
 

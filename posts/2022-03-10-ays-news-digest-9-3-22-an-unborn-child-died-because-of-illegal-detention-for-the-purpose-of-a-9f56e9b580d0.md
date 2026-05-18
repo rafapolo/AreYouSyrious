@@ -43,7 +43,7 @@ See their letter [here](https://rsaegean.org/wp-content/uploads/2022/03/CSO_Lett
 The Ritsona camp in Greece is secured with walls, barbed wire, entry controls and surveillance technology\. Activist Parwana Amiri gave an insight into the situation:
 
 
-[![](https://www.migazin.de/wp-content/uploads/2022/02/ritsona_camp_griechenland_fluechtling_parwana_amiri_weg.jpg)](https://www.migazin.de/2022/03/08/ritsona-camp-gefluechtete-je-hoeher-eure-mauer-desto-lauter-protest/?fbclid=IwAR0FKqGVaNdyPPnvNXslwh6WOYfyFOLco8ISG_UG92dm1Py5PSCmmUIo8LI)
+[![](../assets/9f56e9b580d0/ritsona_camp_griechenland_fluechtling_parwana_amiri_weg.jpg)](https://www.migazin.de/2022/03/08/ritsona-camp-gefluechtete-je-hoeher-eure-mauer-desto-lauter-protest/?fbclid=IwAR0FKqGVaNdyPPnvNXslwh6WOYfyFOLco8ISG_UG92dm1Py5PSCmmUIo8LI)
 
 #### SEARCH AND RESCUE AT SEA
 ### 26 lives stuck on a container vessel need immediate disembarkation in closest port in Malta or Italy
@@ -101,7 +101,7 @@ February report by the [Human Rights Observers](https://twitter.com/HumanRightsO
 1000 people tried unsuccessfully on Tuesday morning to enter the Spanish enclave of Melilla, on Morocco’s northern coast, days after the most massive attempt ever recorded, local authorities said\. The story is already reported, so we bring the link to it:
 
 
-[![](https://static.euronews.com/articles/stories/06/52/82/54/1024x538_cmsv2_a796d65c-967e-5174-b03c-d71dd29655b2-6528254.jpg)](https://www.africanews.com/2022/03/08/migration-about-1-000-migrants-attempt-to-flee-morocco-into-spain-s-melilla/?fbclid=IwAR2RE4B3PimEPQ69NZKr4cwn8vaSAekBxMqfdpbi6zPq03CFZtrFupgfPHg)
+[![](../assets/9f56e9b580d0/1024x538_cmsv2_a796d65c-967e-5174-b03c-d71dd29655b2-6528254.jpg)](https://www.africanews.com/2022/03/08/migration-about-1-000-migrants-attempt-to-flee-morocco-into-spain-s-melilla/?fbclid=IwAR2RE4B3PimEPQ69NZKr4cwn8vaSAekBxMqfdpbi6zPq03CFZtrFupgfPHg)
 
 #### POLAND
 ### Pushbacks still taking place at the Polish border…
@@ -167,7 +167,7 @@ One such case of double standards is the one in Germany, where up to a thousand 
 At the same time, the practice of pushbacks silently continues…
 
 
-[![](https://www.grundrechtekomitee.de/fileadmin/user_upload/ASR_Logo_RGB.jpg)](https://www.grundrechtekomitee.de/details/abschiebungsreporting-newsletter?fbclid=IwAR11s7OFY1rcmNs7XH0xDK_tSHdKmJ4RZ4GE6EzP8l69qia6UAjyo_3YuaI)
+[![](../assets/9f56e9b580d0/ASR_Logo_RGB.jpg)](https://www.grundrechtekomitee.de/details/abschiebungsreporting-newsletter?fbclid=IwAR11s7OFY1rcmNs7XH0xDK_tSHdKmJ4RZ4GE6EzP8l69qia6UAjyo_3YuaI)
 
 #### UKRAINE
 

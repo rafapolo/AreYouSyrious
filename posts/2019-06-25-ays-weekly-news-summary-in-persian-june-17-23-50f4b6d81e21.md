@@ -49,7 +49,7 @@ Photo: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattfor
 هنگامی که روزانه به طور روزانه در روزنامه اخبار روزانه ما به روز می‌شویم ، پلیس بوسنی به خانه‌های محلی حمله کرده‌است که در آن مهاجران می‌توانند به طور عمده در مناطق اطراف بیهاچ و ولیکا کلادوشا مستقر شوند \.
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2019/06/h_55276329-e1560775363743.jpg)](https://balkaninsight.com/2019/06/17/bosnia-police-search-homes-for-migrants-refugees/?fbclid=IwAR34s8Vy8rJoqazqSF2sCjKpljmfrlX46AheoM_Ut26lvTslySYwH7ckkjM)
+[![](../assets/50f4b6d81e21/h_55276329-e1560775363743.jpg)](https://balkaninsight.com/2019/06/17/bosnia-police-search-homes-for-migrants-refugees/?fbclid=IwAR34s8Vy8rJoqazqSF2sCjKpljmfrlX46AheoM_Ut26lvTslySYwH7ckkjM)
 
 
 علاوه بر این ، یافتن محل اقامت در خارج از سیستم غیرممکن است و تمام کسانی که بدون اسناد و مدارک در اطراف شهر دیده می‌شوند ، به اردوگاه موقتی ووتسیاک منتقل خواهند شد \. حتی با وجود اینکه آب برای دوش \( در میدان باز \) نصب شده‌است ، هیچ امکانات مناسبی برای دستشویی و حمام ، بدون حریم خصوصی و امنیت وجود ندارد و صلیب‌سرخ ۱ تا ۲ وعده ساده در روز ارائه می‌دهد \.
@@ -64,14 +64,14 @@ Photo: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattfor
 فرانسه مردم بیشتری را در مراکز بازداشت اداری \( کمیته امور مذهبی \) بیش از هر کشور اروپایی دیگر دربرگرفته است\. گزارش‌ها شرایط روانی رو به وخامت در CRA ها و تنش‌های فزاینده را نشان می‌دهند
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/a4a8f216a9a7b245bb23342333944a1453d9f48a.jpeg)](https://www.infomigrants.net/fr/post/17289/plus-de-45-000-personnes-enfermees-en-centres-de-retention-en-france-en-2018?fbclid=IwAR1sCe6bosqf671LDi1ppCwZRP_UJjkTEBYa_pLbjguF6Feio56hc_1qfds)
+[![](../assets/50f4b6d81e21/a4a8f216a9a7b245bb23342333944a1453d9f48a.jpeg)](https://www.infomigrants.net/fr/post/17289/plus-de-45-000-personnes-enfermees-en-centres-de-retention-en-france-en-2018?fbclid=IwAR1sCe6bosqf671LDi1ppCwZRP_UJjkTEBYa_pLbjguF6Feio56hc_1qfds)
 
 ### **کلیات**
 
 کمیساریای عالی پناهندگان گزارش ماهانه خود را برای ورود به اروپا منتشر کرد \. آن‌ها دریافتند که در ماه مه , 6300 آواره، پناهنده و مهاجران به اروپا رسیدند \. شما می‌توانید گزارش را در اینجا ببینید \.
 
 
-[![](https://reliefweb.int/sites/default/files/styles/large/public/previews/6e/e0/6ee07adb-0af2-314c-becb-2d8d43f678b6.png)](https://reliefweb.int/report/spain/unhcr-europe-monthly-report-may-2019?fbclid=IwAR3h4eab2hmRClBFZKosqV10N1CTZu0TAIGygneZ9XjWmPNdhAzLDs-yy34)
+[![](../assets/50f4b6d81e21/6ee07adb-0af2-314c-becb-2d8d43f678b6.png)](https://reliefweb.int/report/spain/unhcr-europe-monthly-report-may-2019?fbclid=IwAR3h4eab2hmRClBFZKosqV10N1CTZu0TAIGygneZ9XjWmPNdhAzLDs-yy34)
 
 
 گزارش در مورد جرم‌انگاری همبستگی , گزارش متمرکز بر جرم‌انگاری رو به افزایش کار همبستگی بین شهروندان غربی و پناهندگان نوشته شده توسط سازمان غیر دولتی ذوب شدن اروپا را نشان می‌دهد \. براساس همین گزارش , حداقل سه نفر از مردم به دلیل کمک به پناهندگان بین دو کشور , مورد بازجویی یا پی‌گرد قرار گرفته‌اند \. یونان , ایتالیا و فرانسه کشورهایی بودند که تحت تعقیب قضایی قرار داشتند \. شما می‌توانید گزارش کامل \[ در ایتالیا \] را در اینجا ببینید \.

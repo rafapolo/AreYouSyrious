@@ -96,7 +96,7 @@ At Europe’s external borders, securitarian border management has been favoured
 Read more about the OLAF report here:
 
 
-[![](https://cdn.prod.www.spiegel.de/images/eb76314d-4238-4859-86f0-17ca9c5c62cf_w1280_r1.77_fpx42_fpy56.png)](https://www.spiegel.de/international/europe/why-der-spiegel-is-publishing-the-eu-investigative-report-on-pushbacks-a-5218398a-5c1e-414e-a477-b26515353fce)
+[![](../assets/7d5891322b25/eb76314d-4238-4859-86f0-17ca9c5c62cf_w1280_r1.77_fpx42_fpy56.png)](https://www.spiegel.de/international/europe/why-der-spiegel-is-publishing-the-eu-investigative-report-on-pushbacks-a-5218398a-5c1e-414e-a477-b26515353fce)
 
 #### SERBIA
 ### People on the move increase in Serbia
@@ -175,7 +175,7 @@ Read more [here](https://www.amnesty.org/en/latest/news/2022/10/latvia-refugees-
 These kinds of racist slurs appeared on Facebook in September 2014, following an argument between a group of Italians and a group of Tunisians\. The Borderline Sicilia association had filed the complaint and the first convictions by the Court of Ragusa stated that insulting immigrants on social networks is a crime\.
 
 
-[![](https://www.borderlinesicilia.it/wp-content/uploads/2022/10/Sos-Mediterranee.jpg)](https://www.borderlinesicilia.it/news/insultare-gli-immigrati-sui-social-e-reato-dal-tribunale-di-ragusa-le-prime-condanne/?fbclid=IwAR1bpEt7OBJZ0Tv6W9Z0J2GLIKr-UqiPxdEvSkBHWGKzPktdZU6D2J_JTzo)
+[![](../assets/7d5891322b25/Sos-Mediterranee.jpg)](https://www.borderlinesicilia.it/news/insultare-gli-immigrati-sui-social-e-reato-dal-tribunale-di-ragusa-le-prime-condanne/?fbclid=IwAR1bpEt7OBJZ0Tv6W9Z0J2GLIKr-UqiPxdEvSkBHWGKzPktdZU6D2J_JTzo)
 
 
 This is a historical ruling in the absence of a regulation on digital behaviour\. The incitement to hate on social media is a reflection of a broader political and social trend to criminalise migration regardless, with hate speech supported even among important political figures\. This trend has led to the most recent developments in September 2022 in Italy, when the far\-right party of Giorgia Meloni, whose positions on migration are extremely harsh, won the election\.

@@ -287,7 +287,7 @@ Accepting refugees raises income per capita and wages in the long term, finds ne
 
 
 
-[![](https://static.independent.co.uk/2022/03/13/16/newFile-2.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/world/europe/ukraine-russia-refugees-poland-belarus-border-b2034859.html?fbclid=IwAR2SbiemspQ-AQ9yExcm2ODK3gfcVPsxkWaZz79P4NE-jYRaMb5__UBBfk8)
+[![](../assets/afca05582e69/newFile-2.jpg)](https://www.independent.co.uk/news/world/europe/ukraine-russia-refugees-poland-belarus-border-b2034859.html?fbclid=IwAR2SbiemspQ-AQ9yExcm2ODK3gfcVPsxkWaZz79P4NE-jYRaMb5__UBBfk8)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

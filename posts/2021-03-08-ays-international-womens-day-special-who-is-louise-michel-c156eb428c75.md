@@ -24,9 +24,9 @@ Called by her peers ‘the Red Virgin’ or the new Joan d’Arc, Louise also be
 To understand it, we need to sketch out her biography as she never separated private life, action, thought and writing\.
 
 
-![[Louise Michel](https://en.wikipedia.org/wiki/Louise_Michel#/media/File:Louise_Michel2.jpg)](../assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg)
+![[Louise Michel](../assets/c156eb428c75/Louise_Michel)](../assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg)
 
-[Louise Michel](https://en.wikipedia.org/wiki/Louise_Michel#/media/File:Louise_Michel2.jpg)
+[Louise Michel](../assets/c156eb428c75/Louise_Michel)
 
 Louise is born as an illegitimate child in a castle in a tiny village in north\-eastern France in 1830\. Despite this, those she calls grandparents give her proper instruction, which is quite rare for a woman at the time\. When they die, in 1850, Louise moves with her mother — with whom she will always have a close relationship — to Chaumont, where she obtains her teaching qualification, the only diploma available to women\. Nonetheless, Louise will never be able to teach in public schools, because of her refusal to pledge allegiance to Napoleon III\.
 

@@ -38,7 +38,7 @@ I know who the leader of my country will be — she is marching in Kabul today, 
 
 
 
-[![](https://assets.irinnews.org/s3fs-public/styles/responsive_large/public/afghanistan-tnh-link-thumbnail.jpg?4DhXPencWbTy3wMVDOAJvTrQj93z58tN)](https://www.thenewhumanitarian.org/opinion/2022/08/15/The-year-the-Taliban-returned?fbclid=IwAR1M-f0fxBQjMJ0ChCsJ_sZ8LOZUldQmCf-QigeuXgPvtenWYkoVdUGtaTQ)
+[![](../assets/a30ba559a5a/afghanistan-tnh-link-thumbnail.jpg)](https://www.thenewhumanitarian.org/opinion/2022/08/15/The-year-the-Taliban-returned?fbclid=IwAR1M-f0fxBQjMJ0ChCsJ_sZ8LOZUldQmCf-QigeuXgPvtenWYkoVdUGtaTQ)
 
 
 
@@ -46,7 +46,7 @@ I know who the leader of my country will be — she is marching in Kabul today, 
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/08/2022-08-15T102326Z_573691073_RC2YWV9JNXJD_RTRMADP_3_AFGHANISTAN-CONFLICT-ANNIVERSARY.jpg?resize=1920%2C1440)](https://www.aljazeera.com/gallery/2022/8/15/photos-afghanistan-taliban-marks-one-year-in-power-amid-diplomatic-isolation)
+[![](../assets/a30ba559a5a/2022-08-15T102326Z_573691073_RC2YWV9JNXJD_RTRMADP_3_AFGHANISTAN-CONFLICT-ANNIVERSARY.jpg)](https://www.aljazeera.com/gallery/2022/8/15/photos-afghanistan-taliban-marks-one-year-in-power-amid-diplomatic-isolation)
 
 #### In the UK, organisations are calling the Government to fulfill their promises of resettlement, welcome, and safety for Afghan refugees
 
@@ -78,11 +78,11 @@ But ever since all we've seen is broken promises -families are stuck in hotels, 
 Three out of the four detainees have since been released, but the fourth person is still in detention\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/9744c0c882a53e77bee19a40478e31914846c08b.jpeg)](https://www.infomigrants.net/fr/post/42516/des-afghans-toujours-deboutes-de-lasile-et-places-en-retention-malgre-le-retour-des-taliban?ref=tw_i&fbclid=IwAR2W0x0UieausKMa8V5PwN9UgSH-h4dDQsj5-5HBy1YEsNA8Q-EaXs_z26M)
+[![](../assets/a30ba559a5a/9744c0c882a53e77bee19a40478e31914846c08b.jpeg)](https://www.infomigrants.net/fr/post/42516/des-afghans-toujours-deboutes-de-lasile-et-places-en-retention-malgre-le-retour-des-taliban?ref=tw_i&fbclid=IwAR2W0x0UieausKMa8V5PwN9UgSH-h4dDQsj5-5HBy1YEsNA8Q-EaXs_z26M)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/d93ffd2d17f5dfedc694b47604f780efeac0efa9.jpg)](https://www.infomigrants.net/fr/post/42573/ma-cousine-a-ete-arretee--langoisse-des-refugies-afghans-pour-leurs-familles-restees-au-pays?fbclid=IwAR3dvdHVxJp4ij8CvbkTXIVh2CkKXlOfHeALxuot1Btm3L7WNaBZDbOjApI)
+[![](../assets/a30ba559a5a/d93ffd2d17f5dfedc694b47604f780efeac0efa9.jpg)](https://www.infomigrants.net/fr/post/42573/ma-cousine-a-ete-arretee--langoisse-des-refugies-afghans-pour-leurs-familles-restees-au-pays?fbclid=IwAR3dvdHVxJp4ij8CvbkTXIVh2CkKXlOfHeALxuot1Btm3L7WNaBZDbOjApI)
 
 #### GREECE
 ### The authorities have been informed of six Somali asylum seekers on Chios who are suffering from dehydration and starvation
@@ -152,7 +152,7 @@ This IPS article looks into understanding the responsibility of UNHCR, the EU, a
 The inspectors are still investigating potential violations of working hours and safety, including the lack of protection of workers\. The operation was part of a wider project called ‘Alt Caporalato\!’ \(stop gangmastering\) \.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/6229334e99fa72c160b1846ae289953830c21d81.jpg)](https://www.infomigrants.net/en/post/42609/italy-20-unreported-farmworkers-near-caserta-in-antigangmaster-operation?preview=1660553874097)
+[![](../assets/a30ba559a5a/6229334e99fa72c160b1846ae289953830c21d81.jpg)](https://www.infomigrants.net/en/post/42609/italy-20-unreported-farmworkers-near-caserta-in-antigangmaster-operation?preview=1660553874097)
 
 #### Rising numbers of asylum seekers in Ventimiglia
 
@@ -161,7 +161,7 @@ Caritas states they are supporting roughly 200 individuals per day with meals an
 The numbers of people are just an estimate, as not everyone attempting to cross the border seeks help from Caritas\. Nonetheless, the organisation has run out of men’s clothes and their medical facility has carried out 100 medical exams since the beginning of August\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/e3aa47f7667f1d0885472a0dbc56f1748b2edf5e.jpg)](https://www.infomigrants.net/en/post/42589/increasing-numbers-of-migrants-seen-in-ventimiglia-says-caritas)
+[![](../assets/a30ba559a5a/e3aa47f7667f1d0885472a0dbc56f1748b2edf5e.jpg)](https://www.infomigrants.net/en/post/42589/increasing-numbers-of-migrants-seen-in-ventimiglia-says-caritas)
 
 #### GERMANY
 ### Protest against pushbacks at the hands of the Hellenic Coast Guard in Berlin on 17th August
@@ -240,7 +240,7 @@ In August, there have been 3,618 crossings so far, with 1,694 in the past week\.
 \*Whilst these numbers are increasing, they are still only a small proportion of the people going to Europe\. \*
 
 
-[![](https://i.guim.co.uk/img/media/d531354b7f3d6c89bea989cd0a68087615c1a87f/0_4_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97d621c56c3ed8d0f5543092bf905050)](https://www.theguardian.com/uk-news/2022/aug/14/number-of-people-crossing-channel-in-small-boats-this-year-passes-20000?fbclid=IwAR3_Uv85OgOPu8lZUsa8rzZelOZgt7LQmMZbQ6ssqraOH6EjDcTOCNtam5Y)
+[![](../assets/a30ba559a5a/3500.jpg)](https://www.theguardian.com/uk-news/2022/aug/14/number-of-people-crossing-channel-in-small-boats-this-year-passes-20000?fbclid=IwAR3_Uv85OgOPu8lZUsa8rzZelOZgt7LQmMZbQ6ssqraOH6EjDcTOCNtam5Y)
 
 #### Protesters halted the deportation of workers in Chorlton, Manchester
 
@@ -259,7 +259,7 @@ In August, there have been 3,618 crossings so far, with 1,694 in the past week\.
 
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/2022-08/GettyImages-612202932.jpg?h=5d1a544f&itok=RD38s57l)](https://english.alaraby.co.uk/analysis/how-anti-black-racism-pervades-europes-asylum-systems)
+[![](../assets/a30ba559a5a/GettyImages-612202932.jpg)](https://english.alaraby.co.uk/analysis/how-anti-black-racism-pervades-europes-asylum-systems)
 
 - **Mixed Migration** — Looks into events in the last week, focusing on the Kenyan Presidential elections\.
 
@@ -271,7 +271,7 @@ In August, there have been 3,618 crossings so far, with 1,694 in the past week\.
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/08/Saliha.jpeg?resize=1200%2C675)](https://www.aljazeera.com/news/2022/8/15/afghan-refugees-struggle-to-adjust-to-life-in-the-us)
+[![](../assets/a30ba559a5a/Saliha.jpeg)](https://www.aljazeera.com/news/2022/8/15/afghan-refugees-struggle-to-adjust-to-life-in-the-us)
 
 - **The New Humanitarian** — discusses some of the mechanisms and frameworks for decolonising aid\. Some have been put into practice and institutions are working towards a change of narrative and ways of providing aid\. There are still ideological difference, but several organisations and institutions have begun putting these structures into place\.
 
@@ -289,7 +289,7 @@ In August, there have been 3,618 crossings so far, with 1,694 in the past week\.
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/b279b3fda065ec19716d8a99de4c60e325ea4aaa.jpg)](https://www.infomigrants.net/en/post/42618/at-least-15-migrants-die-in-libyan-sahara-desert?preview=1660562202763)
+[![](../assets/a30ba559a5a/b279b3fda065ec19716d8a99de4c60e325ea4aaa.jpg)](https://www.infomigrants.net/en/post/42618/at-least-15-migrants-die-in-libyan-sahara-desert?preview=1660562202763)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

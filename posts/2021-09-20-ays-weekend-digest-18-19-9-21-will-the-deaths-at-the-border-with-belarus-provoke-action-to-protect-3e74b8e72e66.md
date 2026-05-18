@@ -296,19 +296,19 @@ At the same time, voicing concerns over the treatment of people who came to the 
 
 
 
-[![](https://static.dw.com/image/59210655_6.jpg)](https://www.dw.com/en/fleeing-afghanistan-from-kabul-to-ramstein-in-germany-but-what-then/a-59213475?fbclid=IwAR0csNg3tGNuwLcAcKoJlEYSVbEGPVi-Kl36rzIAlyjiw9JF4rOFNMIcetM)
+[![](../assets/3e74b8e72e66/59210655_6.jpg)](https://www.dw.com/en/fleeing-afghanistan-from-kabul-to-ramstein-in-germany-but-what-then/a-59213475?fbclid=IwAR0csNg3tGNuwLcAcKoJlEYSVbEGPVi-Kl36rzIAlyjiw9JF4rOFNMIcetM)
 
 - Why undocumented people went on hunger strike in Belgium — Now, as the weeks pass and the protesters regain their health, many of Belgium’s estimated 150,000 undocumented migrants are left asking what exactly has been achieved, and what comes next…
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/09/2021-07-19T130122Z_1220799140_RC2PNO9HQFJ4_RTRMADP_3_BELGIUM-MIGRANTS-HUNGER-STRIKE-2.jpg?resize=1920%2C1440)](https://www.aljazeera.com/features/2021/9/19/why-undocumented-migrants-went-on-hunger-strike-in-belgium?fbclid=IwAR0Lcw2ngi_iFr_gUvgdBpFkEUZUUFJRJVpIA1QYJ2IT81H8Z0qZEHSZm6g)
+[![](../assets/3e74b8e72e66/2021-07-19T130122Z_1220799140_RC2PNO9HQFJ4_RTRMADP_3_BELGIUM-MIGRANTS-HUNGER-STRIKE-2.jpg)](https://www.aljazeera.com/features/2021/9/19/why-undocumented-migrants-went-on-hunger-strike-in-belgium?fbclid=IwAR0Lcw2ngi_iFr_gUvgdBpFkEUZUUFJRJVpIA1QYJ2IT81H8Z0qZEHSZm6g)
 
 - Children were given old analogue cameras and taught the art of photography:
 
 
 
-[![](https://i.guim.co.uk/img/media/0ef6a31797c1bf5d092966472873b8517504efad/0_251_3088_1853/master/3088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ded501e3ce385881752ac1aff7453753)](https://www.theguardian.com/artanddesign/2021/sep/19/sirkhane-darkroom-turkey-syrian-refugee-children-cameras-photography?fbclid=IwAR1oMxf4Yblsmwa0rWjwLWPvb5WYwgjEy6nyG1oja-Ag-WwruADqOwuE8ZI)
+[![](../assets/3e74b8e72e66/3088.jpg)](https://www.theguardian.com/artanddesign/2021/sep/19/sirkhane-darkroom-turkey-syrian-refugee-children-cameras-photography?fbclid=IwAR1oMxf4Yblsmwa0rWjwLWPvb5WYwgjEy6nyG1oja-Ag-WwruADqOwuE8ZI)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -158,7 +158,7 @@ The situation that unaccompanied minors face is different still from what Parwan
 This article is worth reading if you want to understand the situation of unaccompanied minors:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2020/09/BANNER-ILLUSTRATION-scaled.jpg)](https://balkaninsight.com/2020/10/01/the-teenage-refugees-post-pandemic-survival-guide/?fbclid=IwAR2-htPFLwOs94r1AGan3OMZDPcPo0Htd3S3E80UUq4N8RCRoFGkjHKLLZw)
+[![](../assets/5d8eaf67d294/BANNER-ILLUSTRATION-scaled.jpg)](https://balkaninsight.com/2020/10/01/the-teenage-refugees-post-pandemic-survival-guide/?fbclid=IwAR2-htPFLwOs94r1AGan3OMZDPcPo0Htd3S3E80UUq4N8RCRoFGkjHKLLZw)
 
 #### New route
 
@@ -167,7 +167,7 @@ A new and very dangerous migration route is emerging\. In the last months, boats
 For more information \(in German\) see:
 
 
-[![](https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png)](https://orf.at/stories/3183527/?fbclid=IwAR2CIKlCDiOrllHw_uvUxghWcNzObd4nS2yhY4vXqT9NZXMmPoy4mj1khsI)
+[![](../assets/5d8eaf67d294/og-fallback-news.png)](https://orf.at/stories/3183527/?fbclid=IwAR2CIKlCDiOrllHw_uvUxghWcNzObd4nS2yhY4vXqT9NZXMmPoy4mj1khsI)
 
 
 The **Greek Health organization** is explicitly naming the number of “foreigners” among positive cases of COVID\-19 infection on Twitter\. By doing so, an official institution is once again reinforcing narratives that blame the vulnerable for their situation and present them as a threat to the public\. Since no effective preventive measures are provided for people on the move, how could they possibly not get infected?
@@ -334,7 +334,7 @@ says Eurojust in a press release\.
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/4cf0a39c9ba11097293431e217b22728e8956d3f.jpeg)](https://www.infomigrants.net/en/post/27673/channel-smugglers-made-huge-profits-european-police?fbclid=IwAR2-htPFLwOs94r1AGan3OMZDPcPo0Htd3S3E80UUq4N8RCRoFGkjHKLLZw)
+[![](../assets/5d8eaf67d294/4cf0a39c9ba11097293431e217b22728e8956d3f.jpeg)](https://www.infomigrants.net/en/post/27673/channel-smugglers-made-huge-profits-european-police?fbclid=IwAR2-htPFLwOs94r1AGan3OMZDPcPo0Htd3S3E80UUq4N8RCRoFGkjHKLLZw)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

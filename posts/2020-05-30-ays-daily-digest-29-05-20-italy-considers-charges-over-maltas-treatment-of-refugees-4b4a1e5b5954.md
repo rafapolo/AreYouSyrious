@@ -97,7 +97,7 @@ When questions about the current situation for migrants in Libya, Cochetel expla
 To read the full interview between InfoMigrants Vincent Cochetel, the UNHCR’s special envoy for the Central Mediterranean, please see the link below:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/5e45bf82b1903e9699b3e9f27ae5904f10885d91.jpeg)](https://www.infomigrants.net/en/post/25017/on-the-frontlines-of-migration-italy-spain-and-malta-shouldn-t-be-left-on-their-own?fbclid=IwAR2wssSmn_Mzxu8UIWpi6WhcssULyl7KwdjPXb5fnpRLLGilgI9EsXIy2Z8)
+[![](../assets/4b4a1e5b5954/5e45bf82b1903e9699b3e9f27ae5904f10885d91.jpeg)](https://www.infomigrants.net/en/post/25017/on-the-frontlines-of-migration-italy-spain-and-malta-shouldn-t-be-left-on-their-own?fbclid=IwAR2wssSmn_Mzxu8UIWpi6WhcssULyl7KwdjPXb5fnpRLLGilgI9EsXIy2Z8)
 
 ### Sea
 

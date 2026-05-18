@@ -45,7 +45,7 @@ The task force agreed on a series of urgent measures including making available 
 “Any little procedure from renewing a white card \(ID\) to asking about your case, implies long hours of waiting in queues\. Some people even sleep around the gates the night before to increase their chance of being heard,” they say\. “Time is flying, unfortunately only time is fast, the Greek and European asylum systems are not\.”
 
 
-[![Legal Support Team Athens - 4th Denouncement - Asylum Offices](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F670027158-25e9fb9835fe5e16cae9adc445e6bec60f22143b6c0fda346490aed08f1bc0d6-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Legal Support Team Athens - 4th Denouncement - Asylum Offices")](https://vimeo.com/245368999)
+[![Legal Support Team Athens - 4th Denouncement - Asylum Offices](../assets/96c41e4e04ad/overlay "Legal Support Team Athens - 4th Denouncement - Asylum Offices")](https://vimeo.com/245368999)
 
 #### Call for volunteers
 

@@ -49,7 +49,7 @@ In the southern region of the border province of Hatay, six Syrian children have
 For more information, see:
 
 
-[![](https://i.duvarenglish.com/2/1280/720/wp-content/uploads/2020/07/syrians-1.jpg)](https://www.duvarenglish.com/human-rights/2020/07/30/six-syrian-children-battered-in-racist-attack-in-turkeys-hatay-two-in-critical-condition/?fbclid=IwAR1x9oIXQnsKSKJN4bZpM2fOZnA36JJm519zqQeHt8anhBWKnJ32TQH45Io)
+[![](../assets/bf83204c6ec8/syrians-1.jpg)](https://www.duvarenglish.com/human-rights/2020/07/30/six-syrian-children-battered-in-racist-attack-in-turkeys-hatay-two-in-critical-condition/?fbclid=IwAR1x9oIXQnsKSKJN4bZpM2fOZnA36JJm519zqQeHt8anhBWKnJ32TQH45Io)
 
 ### GREECE
 #### MSF forced to close Covid\-19 facility
@@ -170,14 +170,14 @@ According to InfoMigrants, the northeastern Italian region of Friuli Venezia Giu
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/ea659a9aa43edbc60d195b6a3b9955bde24432e8.jpeg)](https://www.infomigrants.net/en/post/26337/region-in-northeast-italy-requests-closure-of-minor-border-crossings?fbclid=IwAR25LxRne8qzzdj1jwMLVcT2v0-wzWIHcOvtbJCjmvJRsgIWWfddWDghfGE)
+[![](../assets/bf83204c6ec8/ea659a9aa43edbc60d195b6a3b9955bde24432e8.jpeg)](https://www.infomigrants.net/en/post/26337/region-in-northeast-italy-requests-closure-of-minor-border-crossings?fbclid=IwAR25LxRne8qzzdj1jwMLVcT2v0-wzWIHcOvtbJCjmvJRsgIWWfddWDghfGE)
 
 
 After a city denied a Nigerian mother a maternity grant and family benefits, a judge has ruled that this is against EU legislation\. Before, the municipality of the city Castel Volturno denied the woman the benefits because she did not hold a stay permit for long\-term residents\. The judge has ruled that this practice could be deemed discriminatory\. EU legislation states that foreign residents must receive the same benefits as citizens\. The Nigerian woman has been working as a farmworker and domestic helper\. She holds a valid stay permit and was paying all her taxes in a low\-income job\. Although all of her kids — among them triplets — were born in Italy, none of them is Italian\. Italian nationality laws require at least one parent be Italian in order to grant citizenship at birth\. 
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/73f389ed152ac798556325c50c48f49b4325fb8c.jpeg)](https://www.infomigrants.net/en/post/26335/judge-rules-against-city-that-denied-benefits-to-nigerian-migrant?fbclid=IwAR0Uf4PI5urF7N49DqovQknzvcJUw965jHMXrPCMNS5mLDkqpSzFi7ovMX8)
+[![](../assets/bf83204c6ec8/73f389ed152ac798556325c50c48f49b4325fb8c.jpeg)](https://www.infomigrants.net/en/post/26335/judge-rules-against-city-that-denied-benefits-to-nigerian-migrant?fbclid=IwAR0Uf4PI5urF7N49DqovQknzvcJUw965jHMXrPCMNS5mLDkqpSzFi7ovMX8)
 
 ### GERMANY
 
@@ -186,7 +186,7 @@ According to local media, another 85 minors and 90 family members from camps fro
 For more information, see here:
 
 
-[![](https://www.tagesspiegel.de/berlin/images/german-interior-minister-horst-seehofer-waits-before-the-weekly-cabinet-meeting-on-july-8-2020-in-berlin-photo-by-michael-sohn-pool-afp/alternates/BASE_16_9_W1400/german-interior-minister-horst-seehofer-waits-before-the-weekly-cabinet-meeting-on-july-8-2020-in-berlin-photo-by-michael-sohn---pool---afp.jpeg)](https://www.tagesspiegel.de/berlin/brief-an-innensenator-andreas-geisel-horst-seehofer-verbietet-berlin-aufnahme-von-fluechtlingen/26048558.html?fbclid=IwAR2N6FG3XU54RwgXgAOxk3xiPALgedwIbhpxmfvNvc-QgvncBbjVtEBfKeE)
+[![](../assets/bf83204c6ec8/german-interior-minister-horst-seehofer-waits-before-the-weekly-cabinet-meeting-on-july-8-2020-in-berlin-photo-by-michael-sohn---pool---afp.jpeg)](https://www.tagesspiegel.de/berlin/brief-an-innensenator-andreas-geisel-horst-seehofer-verbietet-berlin-aufnahme-von-fluechtlingen/26048558.html?fbclid=IwAR2N6FG3XU54RwgXgAOxk3xiPALgedwIbhpxmfvNvc-QgvncBbjVtEBfKeE)
 
 
 And here:
@@ -200,7 +200,7 @@ InfoMigrants meanwhile reports that more and more people with refugee protection
 For more information, see here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/2cca05a84355803f765ab3efe459a67ab44c1cc9.jpeg)](https://www.infomigrants.net/en/post/26345/more-refugees-in-germany-in-private-accommodation?fbclid=IwAR3InhbUqJRqyqlJ23Uf3sE5hnwfo4R7dmBBwH4ABeuoKP5EGMRd2tNVx4U)
+[![](../assets/bf83204c6ec8/2cca05a84355803f765ab3efe459a67ab44c1cc9.jpeg)](https://www.infomigrants.net/en/post/26345/more-refugees-in-germany-in-private-accommodation?fbclid=IwAR3InhbUqJRqyqlJ23Uf3sE5hnwfo4R7dmBBwH4ABeuoKP5EGMRd2tNVx4U)
 
 ### FRANCE
 
@@ -210,14 +210,14 @@ Please, if you can support them, go to their Facebook page for more information\
 For more information about the eviction, see here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/bacf4759876ce2e8abf9ac672466e4c063ed689d.jpeg)](https://www.infomigrants.net/en/post/26315/paris-migrant-camp-evacuated?fbclid=IwAR3WL4XNnaGWYyb_uqaVQl6bkkGr4LjiBlex0CGtRfRxwpR63h58uxi5Yhs)
+[![](../assets/bf83204c6ec8/bacf4759876ce2e8abf9ac672466e4c063ed689d.jpeg)](https://www.infomigrants.net/en/post/26315/paris-migrant-camp-evacuated?fbclid=IwAR3WL4XNnaGWYyb_uqaVQl6bkkGr4LjiBlex0CGtRfRxwpR63h58uxi5Yhs)
 
 ### WORTH READING
 
 This op\-ed article from the Economist calls for an end to travel restrictions for migrants\. After months of closed borders, tourists are now welcomed again in many places in the world — so it is not understandable why migrants are still looked in camps\.
 
 
-[![](https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20200801_LDD003_1.jpg)](https://www.economist.com/leaders/2020/08/01/as-the-pandemic-recedes-let-migrants-move-again?fbclid=IwAR3-pcI7154XHKiVPS2pzDUIqKIEnMCAOp13ximG9KhxKxywfozAkkofHbA)
+[![](../assets/bf83204c6ec8/20200801_LDD003_1.jpg)](https://www.economist.com/leaders/2020/08/01/as-the-pandemic-recedes-let-migrants-move-again?fbclid=IwAR3-pcI7154XHKiVPS2pzDUIqKIEnMCAOp13ximG9KhxKxywfozAkkofHbA)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -139,7 +139,7 @@ The report says:
 If there is anything we’ve learned from our sisters who have fled violence, conflict and persecution here in Greece, is that the human spirit is resilient\. After an initial successful pilot phase since May 18th post lockdown, we are proud to present the Pomegranate Project, shaped by our sisters’ voices\.
 
 
-[![](https://prod-chuffedcontent.s3.amazonaws.com/images/pw6vEzmRTaSFyQZ0xNk8_images/gyM2zyMKQVu8wK3KgPb3_Screenshot%202020-07-08%20at%2016.34.09.png)](https://chuffed.org/project/secure-safe-housing-for-displaced-women?fbclid=IwAR30IB_YvUIc3coNsKusXRhYfR1788lHba-zFQL0x17ss0Pkr-Kv3-8KnZI#)
+[![](../assets/5790897a6922/gyM2zyMKQVu8wK3KgPb3_Screenshot%202020-07-08%20at%2016.34.09.png)](https://chuffed.org/project/secure-safe-housing-for-displaced-women?fbclid=IwAR30IB_YvUIc3coNsKusXRhYfR1788lHba-zFQL0x17ss0Pkr-Kv3-8KnZI#)
 
 
 The pomegranate is the Greek and Persian symbol of regeneration, strength and new life\. Its seeds symbolise the lives each woman is striving to rebuild which we collectively work to protect and empower each other\.

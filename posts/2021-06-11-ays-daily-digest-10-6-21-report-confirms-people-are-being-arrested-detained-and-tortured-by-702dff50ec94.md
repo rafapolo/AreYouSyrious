@@ -232,7 +232,7 @@ At the same time, the regular clashes across the country c [ontinue](https://www
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/16b1c7a68295ab07d84786d65795be268bfde21c.jpeg)](https://www.infomigrants.net/en/post/32858/queer-refugees-unhcr-wants-more-protections?fbclid=IwAR1WCKvXA2simkhZitV4SCb_7Q9brlENsPrFo3jnuEwDbknTqkY273Vw5YA)
+[![](../assets/702dff50ec94/16b1c7a68295ab07d84786d65795be268bfde21c.jpeg)](https://www.infomigrants.net/en/post/32858/queer-refugees-unhcr-wants-more-protections?fbclid=IwAR1WCKvXA2simkhZitV4SCb_7Q9brlENsPrFo3jnuEwDbknTqkY273Vw5YA)
 
 #### **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**
 

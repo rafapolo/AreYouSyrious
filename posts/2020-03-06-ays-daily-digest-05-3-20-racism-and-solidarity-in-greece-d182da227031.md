@@ -52,7 +52,7 @@ Demonstration in Thessaloniki, copyright No Border Network
 In this article carious videos of the demonstration can be found:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2020/03/protestathesnmar5-660x330.jpg)](https://www.keeptalkinggreece.com/2020/03/06/greece-protest-xenophobia-hatred-migrants)
+[![](../assets/d182da227031/protestathesnmar5-660x330.jpg)](https://www.keeptalkinggreece.com/2020/03/06/greece-protest-xenophobia-hatred-migrants)
 
 
 On the border between Greece and Turkey, tear gas and water cannons have been used by greek authorities in order to hold back refugees from entering the country\. Turkey in turn brought some 1,000 police officers to the border to, as they claim, prevent Greece from pushbacks\.

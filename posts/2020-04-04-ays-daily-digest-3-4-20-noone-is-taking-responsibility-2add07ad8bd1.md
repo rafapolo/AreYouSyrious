@@ -88,7 +88,7 @@ Amnesty further reports about illegal pushbacks to Turkish territory\. Also sea 
 The one\-month long suspension of asylum applications has ended now, but all asylum services will be closed for at least one more week due to the Corona pandemic, InfoMigrants reports\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/f0932c0003a316bd1c50f63043839197790605a6.jpeg)](https://www.infomigrants.net/en/post/23810/greece-ends-month-long-freeze-on-asylum-applications)
+[![](../assets/2add07ad8bd1/f0932c0003a316bd1c50f63043839197790605a6.jpeg)](https://www.infomigrants.net/en/post/23810/greece-ends-month-long-freeze-on-asylum-applications)
 
 
 On the Turkish side, the jungle was evicted at the end of March and most of the people were transferred to Istanbul\. According to The Common Sense Initiative, the last people who arrived at the bus station have been moved into apartments now\.
@@ -173,7 +173,7 @@ There are still free offers of psycho\-social support for volunteers\. Find out 
 According to Caritas in Italy, applications for stay permits after February 23 have been suspended until April 15\. Expired permits will be valid until June 15\. It is still possible to ask for asylum, but auditions are halted\. Appeals for rejections will be extended, as all procedures are suspended\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/8113791768904871f0841f99bef5b1048cb63111.jpeg)](https://www.infomigrants.net/en/post/23852/italy-caritas-explains-new-rules-on-stay-permits)
+[![](../assets/2add07ad8bd1/8113791768904871f0841f99bef5b1048cb63111.jpeg)](https://www.infomigrants.net/en/post/23852/italy-caritas-explains-new-rules-on-stay-permits)
 
 
 Mayors and NGOs have warned about bad working conditions for farm workers, especially in Italy\.

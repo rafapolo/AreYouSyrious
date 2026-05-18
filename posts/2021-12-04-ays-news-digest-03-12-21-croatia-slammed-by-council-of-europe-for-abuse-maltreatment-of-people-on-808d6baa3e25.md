@@ -308,7 +308,7 @@ Grimheden said there is strong evidence of illegal pushbacks from Greece\.
 #### Short doc: ‘Unsafe Passage’ \(The Guardian\)
 
 
-[![](https://i.guim.co.uk/img/media/c7c093653e01969a19e860ea73c1bab3290f8db7/52_1156_4739_2844/master/4739.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c42672fbfbe2799565dc09f469eab92)](https://www.theguardian.com/environment/ng-interactive/2021/dec/02/unsafe-passage-on-board-a-refugee-rescue-ship-racing-for-europe-guardian-documentary?fbclid=IwAR3B-uK3KC-ji0BacDNoM-82W8V54jazNYbDz2O06-J757InNTl5Y3jbhoI)
+[![](../assets/808d6baa3e25/4739.jpg)](https://www.theguardian.com/environment/ng-interactive/2021/dec/02/unsafe-passage-on-board-a-refugee-rescue-ship-racing-for-europe-guardian-documentary?fbclid=IwAR3B-uK3KC-ji0BacDNoM-82W8V54jazNYbDz2O06-J757InNTl5Y3jbhoI)
 
 
 An overcrowded ship with asylum seekers leaves Libya bound for Europe — triggering a high\-stakes showdown between a Doctors Without Borders vessel wanting to escort it to safety and the Libyan Coast Guard fighting to turn it back\. As the Libyans issue armed threats, tension grows below deck\. With European countries’ responsibilities toward refugees once again in the spotlight, here is an inside view of the desperate hope that is the deadly race for Europe\.
@@ -322,7 +322,7 @@ Sam Bright and Sascha Lavin consider how successive administrations have tried t
 #### The Eagle’s Nest: Migrants, Refugees Tread New Balkan Route \(Balkan Insight\)
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2021/12/Emigrante-duke-ecur-ne-hyrje-te-Tiranes-Vladimir-Karaj-e1638368698486.jpg)](https://balkaninsight.com/2021/12/02/the-eagles-nest-migrants-refugees-tread-new-balkan-route/?fbclid=IwAR3ylQkTEFqWJIwQQBSFD1sCOnMCc--6TiC50l7uJWFvydLtNj5jsbGsO8c)
+[![](../assets/808d6baa3e25/Emigrante-duke-ecur-ne-hyrje-te-Tiranes-Vladimir-Karaj-e1638368698486.jpg)](https://balkaninsight.com/2021/12/02/the-eagles-nest-migrants-refugees-tread-new-balkan-route/?fbclid=IwAR3ylQkTEFqWJIwQQBSFD1sCOnMCc--6TiC50l7uJWFvydLtNj5jsbGsO8c)
 
 
 Migrants and refugees trying to reach Western Europe are increasingly using a new route via Kosovo, aided by smugglers and local middlemen\.

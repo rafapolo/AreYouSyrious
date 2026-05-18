@@ -126,7 +126,7 @@ The details surrounding the reports, and the conditions under which Frontex may 
 
 
 
-[![](https://amasosite.files.wordpress.com/2021/06/delmi.png)](https://amasosite.wordpress.com/2021/06/15/those-who-were-sent-back-return-and-reintegration-of-rejected-asylum-seekers-to-afghanistan-and-iraq-research/?fbclid=IwAR2Xqap6m56Gs_UIYRF4vqa3tksYLVpX89j6Ws_jpzRk6i-_ctgXMUwamyw)
+[![](../assets/3c8dc3283c15/delmi.png)](https://amasosite.wordpress.com/2021/06/15/those-who-were-sent-back-return-and-reintegration-of-rejected-asylum-seekers-to-afghanistan-and-iraq-research/?fbclid=IwAR2Xqap6m56Gs_UIYRF4vqa3tksYLVpX89j6Ws_jpzRk6i-_ctgXMUwamyw)
 
 - An interview with Afghan asylum seeker:
 
@@ -138,7 +138,7 @@ The details surrounding the reports, and the conditions under which Frontex may 
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/492dda13f48dd9aef3c64fc2695a195ec22274f0.jpeg)](https://www.infomigrants.net/en/post/32945/migrant-shipwreck-off-yemen-at-least-25-dead-up-to-175-missing?fbclid=IwAR1p31474LsaFJmgZfEaB2gLLorb-f03ZQsQQ9bzvjcZJmR5htgJm5gWFS0)
+[![](../assets/3c8dc3283c15/492dda13f48dd9aef3c64fc2695a195ec22274f0.jpeg)](https://www.infomigrants.net/en/post/32945/migrant-shipwreck-off-yemen-at-least-25-dead-up-to-175-missing?fbclid=IwAR1p31474LsaFJmgZfEaB2gLLorb-f03ZQsQQ9bzvjcZJmR5htgJm5gWFS0)
 
 - ECRE’s Press Review is [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fmailchi.mp%2Fecre%2Fecre-press-review-15062021%3Ffbclid%3DIwAR3R0xEuOHK3eyNgAp2UwpkaZm8WOzeTedRR22Rt8r3ZsJ6u9tz-aPO2MRo&h=AT0KjkIibJ2O9elB1QqGEZ9nlILtndt4wehFb0OleVhx3O8hmm2tHFPKdZ1B29wMBbSBWfPsG_vzxpc_U0sMdkcwIsfqKv0et5k4SCdE4x4yMDdIcHGD3sjs_6OHQQx22VbWIa2IrHRRLQ&__tn__=R]-R&c[0]=AT0Lsn-eo0OdJ0kL8vMfn8STiD1UUMKw-M792AePJkgYw2qX2psA_mVGAKoc8MU0BfaGe53LKLAESg24-GqzjUFiUbPW1khGPk1LndFldG1MY_byc75a30_YNJiSK1FeYGdnJDLUQnwUntJf5BA8Fo5T2k1Jap2nuSE9gn9_QoeV4HRyqihd7QjnweSaB3FbvHrplC3X_zE)
 

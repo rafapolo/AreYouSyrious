@@ -186,7 +186,7 @@ Grupa Granica updates the most recent versions of human rights violations in det
 
 
 
-[![](https://en.hive-mind.community/images/posts/127.jpg)](https://en.hive-mind.community/blog/127,narratives-about-refugees-on-the-polish-belarusian-border?fbclid=IwAR1NCAO6GX4kfkabbMNo--NIzXCw4FhvTYyQKwrGcLumOe4lBiBXkiQtvz4)
+[![](../assets/b71fd27ec76f/127.jpg)](https://en.hive-mind.community/blog/127,narratives-about-refugees-on-the-polish-belarusian-border?fbclid=IwAR1NCAO6GX4kfkabbMNo--NIzXCw4FhvTYyQKwrGcLumOe4lBiBXkiQtvz4)
 
 - A bleak assessment of international refugee protection: The Final Refugee Paradigm: A Historical Warning
 

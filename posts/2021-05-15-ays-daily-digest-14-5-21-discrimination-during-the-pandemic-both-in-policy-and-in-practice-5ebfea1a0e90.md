@@ -175,7 +175,7 @@ For people on the move who have been using WhatsApp to exchange sensitive inform
 
 
 
-[![](https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/05/11/IMG_6429_Nabil-scaled.jpg)](https://www.politico.eu/article/lesvos-migrants-limbo-camp-canary-islands-migration-asylum-hotspot/?fbclid=IwAR2jcu0iiizv48qyxqTaU9iBeaHbZE9_D2oeNxa-8TUD6cne-L5SigP8ZJg)
+[![](../assets/5ebfea1a0e90/IMG_6429_Nabil-scaled.jpg)](https://www.politico.eu/article/lesvos-migrants-limbo-camp-canary-islands-migration-asylum-hotspot/?fbclid=IwAR2jcu0iiizv48qyxqTaU9iBeaHbZE9_D2oeNxa-8TUD6cne-L5SigP8ZJg)
 
 - Podcast: Journalist Giorgos Christides joins The Greek Current to discuss the latest letter from the Council of Europe to Greece which expressed “deep concern” about allegations of pushbacks and Greece’s official response, and analyze the latest developments on the migration issue:
 

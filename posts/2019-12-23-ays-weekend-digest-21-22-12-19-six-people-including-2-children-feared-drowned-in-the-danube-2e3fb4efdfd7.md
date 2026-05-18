@@ -157,7 +157,7 @@ However, after the organisations took things into their own hands, addressed the
 Many shocking images featuring people in misery completely ignored in the midst of the European capitals have been published in the media, but there are not that many people or organisations active to provide solidarity and assistance to people in those situations\. There is a number of organisations in Paris working in different ways to house people, to help them reach places where they can pursue their asylum requests, but there are also those active since a long time ago to provide them the most needed items to survive the cold winters in rough conditions\. If you want to support, this is one of the ways:
 
 
-[![](https://images.gofundme.com/5K8a5QLBlviNbNS8Daw42oeBkIQ=/720x405/https://d2g8igdw686xgo.cloudfront.net/36467928_1566657034648229_r.jpeg)](https://www.gofundme.com/f/refugees-in-paris-winter-2019?sharetype=teams&member=2768830&utm_medium=social&utm_source=facebook&utm_campaign=p_na+share-sheet&pc_code=fb_co_postupdate_a&rcid=3bd9994285eb4b6ba4efe0e34f66d880&fbclid=IwAR1WDNqWnh2IWkRMOyq0OZnvUKed3A9LSwSTBg5oUkFACjNbno_0y8txnIs)
+[![](../assets/2e3fb4efdfd7/36467928_1566657034648229_r.jpeg)](https://www.gofundme.com/f/refugees-in-paris-winter-2019?sharetype=teams&member=2768830&utm_medium=social&utm_source=facebook&utm_campaign=p_na+share-sheet&pc_code=fb_co_postupdate_a&rcid=3bd9994285eb4b6ba4efe0e34f66d880&fbclid=IwAR1WDNqWnh2IWkRMOyq0OZnvUKed3A9LSwSTBg5oUkFACjNbno_0y8txnIs)
 
 #### GERMANY
 

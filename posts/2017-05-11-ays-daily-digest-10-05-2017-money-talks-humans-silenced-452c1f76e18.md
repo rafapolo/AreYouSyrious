@@ -34,7 +34,7 @@ Many have wrongly assumed that the government’s approach and systematic target
 The desire to place refugees into a system — that has repeatedly rejected many of them, mind you — is out of a desire to protect the reputation of the system, and the egos and pocketbooks of those managing it\.
 
 
-[![Refugees sprayed with insecticide](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F633883997-4c2efc75a1d04507cc05535a6dfa78efdc6866b099dcbd7c1bffa4e1048103d7-d_1280x2261&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Refugees sprayed with insecticide")](https://vimeo.com/216821544)
+[![Refugees sprayed with insecticide](../assets/452c1f76e18/overlay "Refugees sprayed with insecticide")](https://vimeo.com/216821544)
 
 
 Although no one would say that the barracks were a suitable or humane living situation for the hundreds who made it home, the entire official narrative of individuals opting to stay in the barracks is one that is callously out of touch with the very real fears and insecurities of refugees\.

@@ -253,7 +253,7 @@ In Lebanon — “A judicial complaint will be filed against the Lebanese protes
 
 
 
-[![](https://s.observers.france24.com/media/display/c8204f54-b7ab-11eb-a575-005056bff430/w:1280/p:16x9/vlcsnap-2021-05-17-12h23m11s740.png)](https://observers.france24.com/en/tv-shows/the-observers/20210521-syria-tiktok-daily-challenges-idlib-refugee-camps?fbclid=IwAR0cF8zcBmqM_yi7xmWTzbt_sMn7CYmFJwdQZQw93aAxCniQWFNUAt-32Bs)
+[![](../assets/aacf503e4e7d/vlcsnap-2021-05-17-12h23m11s740.png)](https://observers.france24.com/en/tv-shows/the-observers/20210521-syria-tiktok-daily-challenges-idlib-refugee-camps?fbclid=IwAR0cF8zcBmqM_yi7xmWTzbt_sMn7CYmFJwdQZQw93aAxCniQWFNUAt-32Bs)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

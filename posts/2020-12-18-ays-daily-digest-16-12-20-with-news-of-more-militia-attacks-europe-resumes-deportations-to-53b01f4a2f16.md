@@ -189,7 +189,7 @@ The work of this “group for the deceased” has helped shed some light on the 
 ### International Migration Day: All of France mobilizes for people on the move\! Join in\!
 
 
-[![](https://www.ldh-france.org/wp-content/uploads/2020/12/visuel-fiche-couvre-feu.jpg)](https://www.ldh-france.org/le-18-decembre-marchons-ensemble-pour-les-droits-des-migrants/?fbclid=IwAR3Ds60w6wIGHfSpFLJqHzjKKMtfrWqgxy2ldwohTwYI4xFT-2iDeWrCjlk)
+[![](../assets/53b01f4a2f16/visuel-fiche-couvre-feu.jpg)](https://www.ldh-france.org/le-18-decembre-marchons-ensemble-pour-les-droits-des-migrants/?fbclid=IwAR3Ds60w6wIGHfSpFLJqHzjKKMtfrWqgxy2ldwohTwYI4xFT-2iDeWrCjlk)
 
 #### BELGIUM
 

@@ -46,7 +46,7 @@ You can sign this petition in order to stop the deportations:
 For more information on the public inquiry, see:
 
 
-[![](https://i.guim.co.uk/img/media/dab081ee1f958b84f0cb94742be1d9de5b8bcb26/0_0_5678_3407/master/5678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333779736667f47868921af7dfff7ec5)](https://www.theguardian.com/society/2020/apr/28/kate-eves-abuse-detainees-brook-house-public-inquiry-g4s-immigration-removal-centre-panorama)
+[![](../assets/b9b4bb91ca46/5678.jpg)](https://www.theguardian.com/society/2020/apr/28/kate-eves-abuse-detainees-brook-house-public-inquiry-g4s-immigration-removal-centre-panorama)
 
 ### CYPRUS
 
@@ -56,7 +56,7 @@ Meanwhile the mayor of the town Paphos reacted to the fact that refugees and mig
 For more information, see:
 
 
-[![](https://cyprus-mail.com/wp-content/uploads/2020/03/phed.jpg)](https://cyprus-mail.com/2020/08/26/paphos-mayor-slams-landlords-exploiting-immigrants-and-refugees/?fbclid=IwAR1kjF0NeIcRyLSmUelUKB9ZWSt5g7-MU0elFwecW4UzpPTyHsg1mC5LZ4A)
+[![](../assets/b9b4bb91ca46/phed.jpg)](https://cyprus-mail.com/2020/08/26/paphos-mayor-slams-landlords-exploiting-immigrants-and-refugees/?fbclid=IwAR1kjF0NeIcRyLSmUelUKB9ZWSt5g7-MU0elFwecW4UzpPTyHsg1mC5LZ4A)
 
 ### GREECE
 
@@ -92,7 +92,7 @@ Three refugee\-led organizations at Moria camp need financial support\. The thre
 You can support them here:
 
 
-[![](https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/083/731/crop_original_bp1658401188_Cover.jpg)](https://www.betterplace.org/en/projects/83731?utm_campaign=email-notifications&utm_medium=betterplace-org--p83731&utm_source=project_manager_notifier-project_activated_message&fbclid=IwAR2uaYXk1oBrbXtHtOS36GAJyoR3TipluZwVBblpArnp7nnPEWDA5uyn89k)
+[![](../assets/b9b4bb91ca46/crop_original_bp1658401188_Cover.jpg)](https://www.betterplace.org/en/projects/83731?utm_campaign=email-notifications&utm_medium=betterplace-org--p83731&utm_source=project_manager_notifier-project_activated_message&fbclid=IwAR2uaYXk1oBrbXtHtOS36GAJyoR3TipluZwVBblpArnp7nnPEWDA5uyn89k)
 
 
 Once again the Greek police expelled people on the move from Victoria Square in Athens\. This is a common practice these days\. People arrive from the islands after being expelled from the camps and have no where to go\. From Victoria Square where they find some basic kind of support structure, they will be evicted by the police\. Longstanding solutions are needed, especially since summer is coming to an end\.
@@ -109,7 +109,7 @@ Their lawyer says this is:
 For more information, see here:
 
 
-[![](https://www.efsyn.gr/sites/default/files/styles/default/public/2020-08/koyrdoi_dimoasiografoi.jpg?itok=dJEzvwG9)](https://www.efsyn.gr/politiki/257098_kai-koyrdoi-kai-dimosiografoi-allo-poy-den-thelei-i-elas)
+[![](../assets/b9b4bb91ca46/koyrdoi_dimoasiografoi.jpg)](https://www.efsyn.gr/politiki/257098_kai-koyrdoi-kai-dimosiografoi-allo-poy-den-thelei-i-elas)
 
 ### CROATIA
 
@@ -165,7 +165,7 @@ In the norther Italian area of Milan, Italian authorities uncovered systematic i
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/f412691019ca4309fcc7e38363aadf3baf02f006.jpeg)](https://www.infomigrants.net/en/post/26853/italy-gangmasters-accused-of-exploiting-migrant-farmworkers?fbclid=IwAR2Jr3S9MlSpV5Vu6-fwm7sONmTuI_Qload2O8FqTzm2vSyG8RxpkTN9bc0)
+[![](../assets/b9b4bb91ca46/f412691019ca4309fcc7e38363aadf3baf02f006.jpeg)](https://www.infomigrants.net/en/post/26853/italy-gangmasters-accused-of-exploiting-migrant-farmworkers?fbclid=IwAR2Jr3S9MlSpV5Vu6-fwm7sONmTuI_Qload2O8FqTzm2vSyG8RxpkTN9bc0)
 
 
 The standoff between the island of Sicily’s regional president Nello Musumeci and the federal government in Rome continues\. Right\-wing politician Musumeci has announced the closure of all refugee centres and hotspots on the island and plans to send the people to the mainland\. At the same time he wants to block any migrants from landing on the island\. He argues that only be doing this he can protect the health of Sicilians\. Once again we see the coronavirus pandemic being used to justify racist ideology\.
@@ -177,7 +177,7 @@ Twenty\-eight children and their families coming from the Greek islands landed G
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/8cf6e52cf0f9e08bad4852578ce6837e2b5b7fab.png)](https://www.infomigrants.net/en/post/26877/germany-children-arrive-from-greek-islands-as-seehofer-warns-of-pull-factor?fbclid=IwAR2yFuir7MoN3QgSP0C_sidjtGzd3IxhU1Yqq0-KaQBuEX3-lNvkzD27h8w)
+[![](../assets/b9b4bb91ca46/8cf6e52cf0f9e08bad4852578ce6837e2b5b7fab.png)](https://www.infomigrants.net/en/post/26877/germany-children-arrive-from-greek-islands-as-seehofer-warns-of-pull-factor?fbclid=IwAR2yFuir7MoN3QgSP0C_sidjtGzd3IxhU1Yqq0-KaQBuEX3-lNvkzD27h8w)
 
 
 The NGO Seebrücke is organizing a new campaign in order to make the commune’s wish to take in more refugees from the Greek islands visible\. On 5–7 September, people will be called upon to place empty chairs in front of town halls\.

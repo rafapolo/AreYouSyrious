@@ -75,7 +75,7 @@ For many, the cycle of violence begins in the moment the LCG intercepts the boat
 
 
 
-[![](https://media.newyorker.com/photos/61a1951fed908c5c6975a216/16:9/w_1280,c_limit/r39473web_rd-social.gif)](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe)
+[![](../assets/77a6ce5ffc6/r39473web_rd-social.gif)](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe)
 
 
 Back on Libyan soil, people are transferred to detention centres run by the Department for Combatting Illegal Migration \(DCIM\) \. However, “run by a state department” is as misleading, as much as the term “Libyan Coast Guards“\. Sounding official, they suggest some basic standard of institutionalisation and rule of law\. Instead, both those who run the camps and those who make up the LCG are members of militias and gangs; they are traffickers and state actors at the same time\.

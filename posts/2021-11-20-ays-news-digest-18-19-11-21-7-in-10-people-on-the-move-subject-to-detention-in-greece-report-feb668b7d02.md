@@ -238,14 +238,14 @@ It is also worth noting that journalists were barred from entering the courtroom
 Insiders reveal fresh details about Belarusian dictator Alexander Lukashenko’s inhumane smuggling system, comprised of a network of front companies that spreads to Syria, Turkey and Iraq, secret money transfers and the use of soldiers as traffickers\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/37db2754-e913-4f38-8e49-5e91c558c6c8_w1280_r1.77_fpx47_fpy57.jpg)](https://www.spiegel.de/international/europe/new-details-shed-light-on-lukashenko-s-human-trafficking-network-a-0530454b-a588-4811-98a7-bb2cb180abe8?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph&fbclid=IwAR0s44XXqVdWyTksEUFWLNFC3wVfzK0WMo7TRJWo99cNzxXKes7HOFqfAis)
+[![](../assets/feb668b7d02/37db2754-e913-4f38-8e49-5e91c558c6c8_w1280_r1.77_fpx47_fpy57.jpg)](https://www.spiegel.de/international/europe/new-details-shed-light-on-lukashenko-s-human-trafficking-network-a-0530454b-a588-4811-98a7-bb2cb180abe8?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph&fbclid=IwAR0s44XXqVdWyTksEUFWLNFC3wVfzK0WMo7TRJWo99cNzxXKes7HOFqfAis)
 
 #### Novara Media: How Europe’s Migrant Crisis Reached the Canary Islands
 
 The tourist hotspot has become a death\-trap for migrants\.
 
 
-[![](https://novaramedia.com/wp-content/uploads/2021/11/50937978773_2cb550651e_o-1200x630.jpg)](https://novaramedia.com/2021/11/16/how-europes-migrant-crisis-reached-the-canary-islands/?fbclid=IwAR257-5yDd_do1G_S8DX5QAXedQPYfnTGvz-ib3ioho8ao-Ci_CflxnKJ5s)
+[![](../assets/feb668b7d02/50937978773_2cb550651e_o-1200x630.jpg)](https://novaramedia.com/2021/11/16/how-europes-migrant-crisis-reached-the-canary-islands/?fbclid=IwAR257-5yDd_do1G_S8DX5QAXedQPYfnTGvz-ib3ioho8ao-Ci_CflxnKJ5s)
 
 #### EU Observer \[exclusive\]: Revealed: EU plan to make 1,400 people\-smuggling arrests in 2022
 
@@ -259,7 +259,7 @@ A leaked internal document has revealed the detail of dozens of operational plan
 The Hollywood actor Richard Gere has revealed for the first time the full story behind his mercy mission to the NGO rescue boat Open Arms as he prepares to testify as a witness against Italy’s former interior minister and far\-right leader, Matteo Salvini, who is on trial for attempting to block the 147 people onboard from landing in Italy\.
 
 
-[![](https://i.guim.co.uk/img/media/36b14217ad647ab3a1d8cc09591e1d8f0fdff2b5/0_200_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa233e29fd21e4aa64d5fb8ef945e3e6)](https://www.theguardian.com/global-development/2021/nov/19/richard-gere-open-arms-rescue-boat-heart-of-salvini-trial?fbclid=IwAR0U3TCT1wHFgCntjiVCkiNMVOIIkf4n3Z3icTsDHkNUG9KBbwO63zpRfAw)
+[![](../assets/feb668b7d02/3000.jpg)](https://www.theguardian.com/global-development/2021/nov/19/richard-gere-open-arms-rescue-boat-heart-of-salvini-trial?fbclid=IwAR0U3TCT1wHFgCntjiVCkiNMVOIIkf4n3Z3icTsDHkNUG9KBbwO63zpRfAw)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

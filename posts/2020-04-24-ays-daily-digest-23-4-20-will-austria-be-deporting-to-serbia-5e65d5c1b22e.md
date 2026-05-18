@@ -41,7 +41,7 @@ Despite calls by many sections of civil society, Austria will not take in any ch
 #### GREECE
 
 
-[![Hotspots, the shameful camps](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F872250426-aa069a66b5403363724221beca850bd761495db29cb3d8f31087b68a4adbafed-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Hotspots, the shameful camps")](https://vimeo.com/402646149)
+[![Hotspots, the shameful camps](../assets/5e65d5c1b22e/overlay "Hotspots, the shameful camps")](https://vimeo.com/402646149)
 
 ### Lesvos — While some get shot at, others fear going for food
 

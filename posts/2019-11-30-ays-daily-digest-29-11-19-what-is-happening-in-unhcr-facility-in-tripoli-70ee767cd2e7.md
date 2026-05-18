@@ -33,7 +33,7 @@ For sources and further information see here:
 The Guardian Article by Sally Hayden:
 
 
-[![](https://i.guim.co.uk/img/media/07394ff99c141005e647c7de9e3cf49d66e971f8/0_0_5976_3584/master/5976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=b0d87e8f8a3660b765cb87d43c2e169d)](https://www.theguardian.com/global-development/2019/nov/28/refugees-being-starved-out-of-un-facility-in-tripoli)
+[![](../assets/70ee767cd2e7/5976.jpg)](https://www.theguardian.com/global-development/2019/nov/28/refugees-being-starved-out-of-un-facility-in-tripoli)
 
 
 Twitter Thread by Sally Hayden:
@@ -57,7 +57,7 @@ Official UNHCR press release:
 Informative article on the current situation by InfoMigrant:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/6e49912814e2ced094d6bdffcc3edfdd82d1f1e7.jpeg)](https://www.infomigrants.net/en/post/21206/libya-are-some-migrants-being-starved-out-of-unhcr-administered-gathering-and-departure-facility)
+[![](../assets/70ee767cd2e7/6e49912814e2ced094d6bdffcc3edfdd82d1f1e7.jpeg)](https://www.infomigrants.net/en/post/21206/libya-are-some-migrants-being-starved-out-of-unhcr-administered-gathering-and-departure-facility)
 
 ### GREECE
 ### Official visit to Greece by UN experts on arbitrary detention

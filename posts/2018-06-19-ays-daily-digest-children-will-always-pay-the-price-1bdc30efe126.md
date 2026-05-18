@@ -33,7 +33,7 @@ Although the US has long had a hostile approach towards asylum seekers, particul
 Many news outlets have rightfully termed the chain\-link pens that minors are being detained in \(with no knowledge of where their parents are or of any reassurance that they will be reunited\) as cages\.
 
 
-[![](https://img.assets-c3.propublica.org/images/articles/20180618-child-cbp-1200x-630.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=b1c33f4e14008bcf1de1d1ad2162a077)](https://www.propublica.org/article/children-separated-from-parents-border-patrol-cbp-trump-immigration-policy?utm_campaign=sprout&utm_medium=social&utm_source=twitter&utm_content=1529351580)
+[![](../assets/1bdc30efe126/20180618-child-cbp-1200x-630.jpg)](https://www.propublica.org/article/children-separated-from-parents-border-patrol-cbp-trump-immigration-policy?utm_campaign=sprout&utm_medium=social&utm_source=twitter&utm_content=1529351580)
 
 
 US Border Security was quoted with using the term “cages” by one news outlet, stating that the detention facilities are “uncomfortable”: “even though they are cages, they are not being treated like animals\.”

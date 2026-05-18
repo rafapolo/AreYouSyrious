@@ -181,7 +181,7 @@ Furthermore, **this situation should be viewed in the light of the decision by t
 [https://www\.amnesty\.org/download/Documents/POL1067002018ENGLISH\.PDF](https://www.amnesty.org/download/Documents/POL1067002018ENGLISH.PDF)
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/media/images/6D6230D8-830C-4A55-A878-F077F2218B5E.jpg?h=d1cb525d&itok=3XE690IE)](https://www.alaraby.co.uk/english/comment/2017/9/1/refugees-facing-obstructions-to-sanctuary-following-european-court-ruling)
+[![](../assets/6bd82c8a0baf/6D6230D8-830C-4A55-A878-F077F2218B5E.jpg)](https://www.alaraby.co.uk/english/comment/2017/9/1/refugees-facing-obstructions-to-sanctuary-following-european-court-ruling)
 
 ### Footnotes
 

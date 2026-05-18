@@ -182,7 +182,7 @@ Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo
 
 
 
-[![Idomeni - The Border 2016](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F571749772-d91afeaa82e8c1a168fae2018940e363c164f671ab9efd7f6dbe908450cc5441-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Idomeni - The Border 2016")](https://vimeo.com/167282042)
+[![Idomeni - The Border 2016](../assets/d6b3fe032b90/overlay "Idomeni - The Border 2016")](https://vimeo.com/167282042)
 
 #### Switzerland
 ### Two teenage girls denied Swiss citizenship because they refused to swim in mixed\-gender pools

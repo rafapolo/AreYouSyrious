@@ -222,7 +222,7 @@ A protest was to take place in Vilnius against the Lithuanian government’s pol
 
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2021/11/foto-bn-ec-1024x1024.jpg)](https://verfassungsblog.de/os2-control-device/?fbclid=IwAR3wNw5ItlldQv4nSLMxwJpaBEAiuNgfRFcTf1-scay0twq4VYMb2EauycM)
+[![](../assets/8e0d8a7104c/foto-bn-ec-1024x1024.jpg)](https://verfassungsblog.de/os2-control-device/?fbclid=IwAR3wNw5ItlldQv4nSLMxwJpaBEAiuNgfRFcTf1-scay0twq4VYMb2EauycM)
 
 - Szymon Opryszek set out on a lone journey along the trail taken by thousands of refugees arriving at the Polish\-Belarusian border:
 

@@ -155,7 +155,7 @@ That's the whole point. They're not meant to settle, feel at home or 'integrate'
 
 
 
-[![](https://cdn2.opendemocracy.net/media/images/B8YY30.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/pandemic-border/rise-border-and-surveillance-industry-and-why-you-should-be-concerned/?fbclid=IwAR1mUi-WC2GsgmlH3W99RcbRD22A0jhkx8jMqMS2XgbiqIx3gCr7lzVB5Tw)
+[![](../assets/c2e3cb40ddad/B8YY30.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/pandemic-border/rise-border-and-surveillance-industry-and-why-you-should-be-concerned/?fbclid=IwAR1mUi-WC2GsgmlH3W99RcbRD22A0jhkx8jMqMS2XgbiqIx3gCr7lzVB5Tw)
 
 
 

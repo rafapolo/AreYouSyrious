@@ -238,11 +238,11 @@ Areas in and around Damascus where @[amnesty](https://twitter.com/amnesty) conti
 Further articles on this topic:
 
 
-[![](https://video-images.vice.com/articles/6075c2c51e1932009786cff2/lede/1618332897012-aveen-left-and-sister.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NDcyeGg7MHh3LDAuMDE4MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg)](https://www.vice.com/en/article/93y9mp/denmark-syria-refugees?fbclid=IwAR1mC8sP4XadPpkJbqL89jVD8z1CzhD58JQ3pWQn6o4P65jea4VULW0Em_Y)
+[![](../assets/6e452a5a0c49/1618332897012-aveen-left-and-sister.jpeg)](https://www.vice.com/en/article/93y9mp/denmark-syria-refugees?fbclid=IwAR1mC8sP4XadPpkJbqL89jVD8z1CzhD58JQ3pWQn6o4P65jea4VULW0Em_Y)
 
 
 
-[![](https://static.dw.com/image/57171099_6.jpg)](https://www.dw.com/en/denmark-tells-syrian-refugees-to-return-to-damascus/a-57174584?fbclid=IwAR3qX2nyXOo7X9wNf7gf-MXRSvi0suUy8kTwWTMZ29JeiCkpDeRxmFtzzKk)
+[![](../assets/6e452a5a0c49/57171099_6.jpg)](https://www.dw.com/en/denmark-tells-syrian-refugees-to-return-to-damascus/a-57174584?fbclid=IwAR3qX2nyXOo7X9wNf7gf-MXRSvi0suUy8kTwWTMZ29JeiCkpDeRxmFtzzKk)
 
 ### UK
 #### Critique of refugee accommodation in military barracks gets louder
@@ -277,7 +277,7 @@ Agnes Tanoh was herself locked up in Yarl’s Wood, another detention centre for
 You can sign the petition here:
 
 
-[![](https://assets.change.org/photos/4/cp/ge/AOcpgEDrXfHDTxe-1600x900-noPad.jpg?1614264339)](https://www.change.org/p/the-home-secretary-stop-the-new-detention-centre-for-women?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=b4d14f00-e64f-012f-a459-40401fa5e37a&fbclid=IwAR06eaW_ntloAeNdX6fU6Npa_t10iBX-s6kDgVHRcfIR8uMHQhcZQ_23kes)
+[![](../assets/6e452a5a0c49/AOcpgEDrXfHDTxe-1600x900-noPad.jpg)](https://www.change.org/p/the-home-secretary-stop-the-new-detention-centre-for-women?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=b4d14f00-e64f-012f-a459-40401fa5e37a&fbclid=IwAR06eaW_ntloAeNdX6fU6Npa_t10iBX-s6kDgVHRcfIR8uMHQhcZQ_23kes)
 
 #### Critique of Sewell Report
 
@@ -291,7 +291,7 @@ The Sewell Report, published by the United Kingdom’s Commission on Ethnic and 
 
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2020/07/Eddie-Bruce-Jones.jpeg)](https://verfassungsblog.de/uk-racism/?fbclid=IwAR1zRjEmpCTr4ZcnKRAkI5FdHY_naFh0-5PGJ7LDBab7Lmegru1ng8HhjbY)
+[![](../assets/6e452a5a0c49/Eddie-Bruce-Jones.jpeg)](https://verfassungsblog.de/uk-racism/?fbclid=IwAR1zRjEmpCTr4ZcnKRAkI5FdHY_naFh0-5PGJ7LDBab7Lmegru1ng8HhjbY)
 
 ### ICELAND
 #### Protests against deportations to Greece

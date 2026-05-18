@@ -335,7 +335,7 @@ With @[JaneVKP](https://twitter.com/JaneVKP), @[sarahchander](https://twitter.co
 
 
 
-[![](https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/05/11/Julius_Klemm_-_Politico_Refugees_Cover_With-frame-lines_Update_Without-fixed-concrete_feat-scaled.jpg)](https://www.politico.eu/article/ukraine-war-refugees-europe-real-policy-brussels-migration-division-delay/?fbclid=IwAR241TZRVH0YpR48Zokb-glruSld3qIku8s1oYpTFWVmVg-zDpGYgeIT3CU)
+[![](../assets/66a987eb8990/Julius_Klemm_-_Politico_Refugees_Cover_With-frame-lines_Update_Without-fixed-concrete_feat-scaled.jpg)](https://www.politico.eu/article/ukraine-war-refugees-europe-real-policy-brussels-migration-division-delay/?fbclid=IwAR241TZRVH0YpR48Zokb-glruSld3qIku8s1oYpTFWVmVg-zDpGYgeIT3CU)
 
 - While EU policymakers are busy amending the text, one important question springs to mind: whose rights are we talking about?
 

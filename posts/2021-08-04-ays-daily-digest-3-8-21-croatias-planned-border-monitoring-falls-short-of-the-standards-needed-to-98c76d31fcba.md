@@ -322,7 +322,7 @@ Claiming that the law effectively externalizes and exports the asylum process be
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/321e78d4f5500a890d4ba0f635076ac5f8e41e6e.jpeg)](https://www.infomigrants.net/en/post/34070/us-expands-eligibility-criteria-for-afghan-refugees)
+[![](../assets/98c76d31fcba/321e78d4f5500a890d4ba0f635076ac5f8e41e6e.jpeg)](https://www.infomigrants.net/en/post/34070/us-expands-eligibility-criteria-for-afghan-refugees)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -99,7 +99,7 @@ Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?tn-str=k%2AF&h
 
 
 
-[![](https://www.bellingcat.com/app/uploads/2020/06/Picture-1.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/06/23/masked-men-on-a-hellenic-coast-guard-boat-involved-in-pushback-incident/?fbclid=IwAR1csOuIkOw2gyvFtLVPnD_TsfF4I-Ypz1Kn8XysSjYpvf3d-VXFBfpbMyI)
+[![](../assets/7bb258367ef4/Picture-1.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/06/23/masked-men-on-a-hellenic-coast-guard-boat-involved-in-pushback-incident/?fbclid=IwAR1csOuIkOw2gyvFtLVPnD_TsfF4I-Ypz1Kn8XysSjYpvf3d-VXFBfpbMyI)
 
 ### Volunteering
 
@@ -281,7 +281,7 @@ Pushback policies and practice in Council of Europe member States
 Violent clashes between rival groups of traffickers left at least a dozen dead last weekend in the Ténéré desert, north of Niger\. This area is a migration route frequently used by Africans seeking to reach Europe via Libya:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/10ec772f900902c9c92de0fa7bbccb7a571578e2.jpeg)](https://www.infomigrants.net/fr/post/25547/niger-des-affrontements-entre-des-groupes-rivaux-de-trafiquants-font-une-dizaine-de-morts?fbclid=IwAR23tqBHuk183ehkbwuMqRpIRANA9Dv6oVV19V1eKHXt71hSq6lbyMJsqvQ)
+[![](../assets/7bb258367ef4/10ec772f900902c9c92de0fa7bbccb7a571578e2.jpeg)](https://www.infomigrants.net/fr/post/25547/niger-des-affrontements-entre-des-groupes-rivaux-de-trafiquants-font-une-dizaine-de-morts?fbclid=IwAR23tqBHuk183ehkbwuMqRpIRANA9Dv6oVV19V1eKHXt71hSq6lbyMJsqvQ)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

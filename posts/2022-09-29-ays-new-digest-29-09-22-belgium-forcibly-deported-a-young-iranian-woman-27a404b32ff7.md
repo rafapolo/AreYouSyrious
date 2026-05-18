@@ -178,7 +178,7 @@ The march that started in Bilbao passed through France and is arriving today in 
 
 
 
-[![](https://www.migrationpolicy.org/sites/default/files/source_images/FE-2022-Disinformation.jpg)](https://www.migrationpolicy.org/article/disinformation-migration-how-fake-news-spreads?fbclid=IwAR1BBn4s3W1aJQMcOal2iUgmPY2zqqtFD_yfavQQi1GpCRDqgO9ggpRM1dI)
+[![](../assets/27a404b32ff7/FE-2022-Disinformation.jpg)](https://www.migrationpolicy.org/article/disinformation-migration-how-fake-news-spreads?fbclid=IwAR1BBn4s3W1aJQMcOal2iUgmPY2zqqtFD_yfavQQi1GpCRDqgO9ggpRM1dI)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the Info Gathering team, please let us know\!**

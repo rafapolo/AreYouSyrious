@@ -171,7 +171,7 @@ The Conflict in Cabo Delgado, ongoing since 2017, has officially displaced 670,0
 
 
 
-[![](https://cdn.cloud.prio.org/images/d4cd24eed75e4019a3b948649ac1623c.png)](https://www.prio.org/News/Item/?x=2681&fbclid=IwAR2hkndxZEY6zR1MSvTJ5zrRTT9dbQfQ4EttmZB_Ek4dsumiL9rddXMzo-w)
+[![](../assets/1bd9459a11a6/d4cd24eed75e4019a3b948649ac1623c.png)](https://www.prio.org/News/Item/?x=2681&fbclid=IwAR2hkndxZEY6zR1MSvTJ5zrRTT9dbQfQ4EttmZB_Ek4dsumiL9rddXMzo-w)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

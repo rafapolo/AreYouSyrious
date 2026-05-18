@@ -137,7 +137,7 @@ To read the full statement please follow the link below:
 A boat of 29 people \(16 men and 13 women\) has been rescued 130 nautical miles from the Canary Islands\. This is the first boat to arrive on the island since April 5th\.
 
 
-[![](https://estaticos-cdn.prensaiberica.es/clip/711d6f3a-24e4-4f18-a6d3-5d1859a849d6_16-9-aspect-ratio_default_0.jpg)](https://www.laprovincia.es/sociedad/2020/04/16/rescatan-alta-mar-patera-destino/1275115.html?fbclid=IwAR1tZj-JobZxLLZPsY9hUQnSTm53uGeeursQoWD8hj1NUmdWtikd39Q98gY)
+[![](../assets/e74f9f892a55/711d6f3a-24e4-4f18-a6d3-5d1859a849d6_16-9-aspect-ratio_default_0.jpg)](https://www.laprovincia.es/sociedad/2020/04/16/rescatan-alta-mar-patera-destino/1275115.html?fbclid=IwAR1tZj-JobZxLLZPsY9hUQnSTm53uGeeursQoWD8hj1NUmdWtikd39Q98gY)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -45,13 +45,13 @@ Yonas, the author of the Guardian article, says:
 For the article in The Guardian, see:
 
 
-[![](https://i.guim.co.uk/img/media/f8ed815bd3980b7c5b7993922c81b4630f3f2d66/383_0_6048_3629/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjAucG5n&enable=upscale&s=c3090ea7105c15a5b13e47893f39f5e9)](https://www.theguardian.com/commentisfree/2020/jul/02/i-survived-bombing-migrant-detention-centre-libya?fbclid=IwAR1M3WKPEzjITvW07MRMnJxNghSZo9RGzaHqvob13xnJ5aAMOWE2TQM7gvM)
+[![](../assets/6080386f8fde/6048.jpg)](https://www.theguardian.com/commentisfree/2020/jul/02/i-survived-bombing-migrant-detention-centre-libya?fbclid=IwAR1M3WKPEzjITvW07MRMnJxNghSZo9RGzaHqvob13xnJ5aAMOWE2TQM7gvM)
 
 
 For an article on UNHCR’s handling of the situation at the GDF, see:
 
 
-[![](http://assets.irinnews.org/s3fs-public/styles/responsive_large/public/tnh-libya-gdf-refugee-un-migrant-unhcr-thumbnail_1.jpg?KbvcrqkS_DVq4ujNJuZQruWaRqFoZmi6)](https://www.thenewhumanitarian.org/investigation/2019/12/10/UN-migrants-Libya-transit-centre-project)
+[![](../assets/6080386f8fde/tnh-libya-gdf-refugee-un-migrant-unhcr-thumbnail_1.jpg)](https://www.thenewhumanitarian.org/investigation/2019/12/10/UN-migrants-Libya-transit-centre-project)
 
 ### GENERAL
 
@@ -111,7 +111,7 @@ In the Digest of June 29th we reported about a shipwreck that happened on Monday
 Deutsche Welle published a video on the situation in Greece concerning push\-backs, both from land and sea:
 
 
-[![](https://static.dw.com/image/52851605_6.jpg)](https://www.dw.com/en/greece-illegal-expulsion-of-migrants-to-turkey/av-54000379?fbclid=IwAR1U8ft6VcFX7UJLBPmHnjeqc8EyMgSHXwt0qXnosB9cYswbucI9lu-E2iA)
+[![](../assets/6080386f8fde/52851605_6.jpg)](https://www.dw.com/en/greece-illegal-expulsion-of-migrants-to-turkey/av-54000379?fbclid=IwAR1U8ft6VcFX7UJLBPmHnjeqc8EyMgSHXwt0qXnosB9cYswbucI9lu-E2iA)
 
 
 One man killed himself in Oinofyta camp\. According to a twitter user, he was 45 years old and just received his third rejection of his asylum claim\. The twitter user wrote:
@@ -162,7 +162,7 @@ The governement of North Mazedonia announced that it will increase border patrol
 For more information, see:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2019/11/h_53324763.jpg)](https://balkaninsight.com/2020/07/01/north-macedonia-tightens-border-security-fearing-migrant-influx/?fbclid=IwAR24hekIsuYzFIiYhV6LMdm8wsMpdQyhoMkJFqRGooJwD5aDqwkNbPXQkxg)
+[![](../assets/6080386f8fde/h_53324763.jpg)](https://balkaninsight.com/2020/07/01/north-macedonia-tightens-border-security-fearing-migrant-influx/?fbclid=IwAR24hekIsuYzFIiYhV6LMdm8wsMpdQyhoMkJFqRGooJwD5aDqwkNbPXQkxg)
 
 ### BiH
 
@@ -192,7 +192,7 @@ IOM missing migrants project estimates that in 2020 at least 377 people died or 
 For a radio feature in German, see:
 
 
-[![](https://assets.deutschlandfunk.de/FILE_d5ef52717689bb8042f9ac8f5e5bba39/original.jpg?t=1597626823545)](https://www.deutschlandfunkkultur.de/gefluechtete-in-tunesien-die-toten-von-zarzis.979.de.html?dram%3Aarticle_id=479778&fbclid=IwAR0duKy9sCD4pZ5HCw9A0LUsFFWBUHfjlXTgDoBmDRUr0Qn8ti59LObH7Eo)
+[![](../assets/6080386f8fde/original.jpg)](https://www.deutschlandfunkkultur.de/gefluechtete-in-tunesien-die-toten-von-zarzis.979.de.html?dram%3Aarticle_id=479778&fbclid=IwAR0duKy9sCD4pZ5HCw9A0LUsFFWBUHfjlXTgDoBmDRUr0Qn8ti59LObH7Eo)
 
 ### SEA
 
@@ -232,7 +232,7 @@ In Malta people can stay in a state run accommodation for about one year and are
 Find more information in French here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/20784704fc2eb87725c38ff260d0bba25af2eabb.jpeg)](https://www.infomigrants.net/fr/post/25764/malte-de-plus-en-plus-de-migrants-a-la-rue-apres-avoir-ete-expulses-de-leur-centre-d-hebergement?fbclid=IwAR1N-vB5a9GyhvoxSLzAHOvVqPzf8yATD2v1ut6kj5HWZs9D_a8EPSWoZCw)
+[![](../assets/6080386f8fde/20784704fc2eb87725c38ff260d0bba25af2eabb.jpeg)](https://www.infomigrants.net/fr/post/25764/malte-de-plus-en-plus-de-migrants-a-la-rue-apres-avoir-ete-expulses-de-leur-centre-d-hebergement?fbclid=IwAR1N-vB5a9GyhvoxSLzAHOvVqPzf8yATD2v1ut6kj5HWZs9D_a8EPSWoZCw)
 
 ### ITALY
 
@@ -251,7 +251,7 @@ The situation of Moroccan women who come to Spain as seasonal workers has gotten
 For an article by InfoMigrants, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/18907e69a3fa796dfb8d79e937609dcd2e0d5f64.jpeg)](https://www.infomigrants.net/en/post/25760/un-calls-out-shocking-abuse-of-migrants-picking-strawberries-in-spain?fbclid=IwAR01znjPA8-cgRPz5WaRj2kN-f1LpB8owE82Mff9MDacPopzBGy8IoBxoss)
+[![](../assets/6080386f8fde/18907e69a3fa796dfb8d79e937609dcd2e0d5f64.jpeg)](https://www.infomigrants.net/en/post/25760/un-calls-out-shocking-abuse-of-migrants-picking-strawberries-in-spain?fbclid=IwAR01znjPA8-cgRPz5WaRj2kN-f1LpB8owE82Mff9MDacPopzBGy8IoBxoss)
 
 
 The Spanish government spends eight times more money on border securitization and the detention and expulsion of refugees than on their integration, according to an article published in Público\. While only 11 million are spend on integration, almost 100 million is spend for drones, step detectors, razor wire, facial recognition systems and even military software to scan the social networks of any migrant\. The article in Spanish gives a very deep insight into the fortification and militarization of the Spanish borders\.
@@ -269,7 +269,7 @@ At the same time, three agricultural companies are accused of having exploited m
 For more information in French, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/273eae6fbf7bd8dc28f97b25187d45df721075a7.jpeg)](https://www.infomigrants.net/fr/post/25742/france-trois-entreprises-agricoles-accusees-d-exploiter-des-migrants-dans-les-vignes-de-champagne?fbclid=IwAR2-VY-mxQTEXwh2LAyHgdU_BTuxx97y7l2MnPXYJ_t1U0881f3d6TJur3w&ref=fb_i)
+[![](../assets/6080386f8fde/273eae6fbf7bd8dc28f97b25187d45df721075a7.jpeg)](https://www.infomigrants.net/fr/post/25742/france-trois-entreprises-agricoles-accusees-d-exploiter-des-migrants-dans-les-vignes-de-champagne?fbclid=IwAR2-VY-mxQTEXwh2LAyHgdU_BTuxx97y7l2MnPXYJ_t1U0881f3d6TJur3w&ref=fb_i)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

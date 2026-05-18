@@ -46,22 +46,22 @@ We could probably find broad scale violations for each right ensured in the Conv
 Further Readings:
 
 
-[![](https://balkaninsight.com/wp-content/uploads/2021/07/01-1.png)](https://balkaninsight.com/2021/07/28/death-by-a-thousand-derogations-the-geneva-refugee-convention-and-the-eu/)
+[![](../assets/89977904d3b0/01-1.png)](https://balkaninsight.com/2021/07/28/death-by-a-thousand-derogations-the-geneva-refugee-convention-and-the-eu/)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/efde6ec6157bc8abb796d539b01fd6b05700b9aa.jpeg)](https://www.infomigrants.net/en/post/33910/is-the-geneva-refugee-convention-living-up-to-the-times?preview=1627461278667)
+[![](../assets/89977904d3b0/efde6ec6157bc8abb796d539b01fd6b05700b9aa.jpeg)](https://www.infomigrants.net/en/post/33910/is-the-geneva-refugee-convention-living-up-to-the-times?preview=1627461278667)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/69d5ef44cb179be508d4760f49b95cbea39e5645.jpeg)](https://www.infomigrants.net/en/post/33922/70-years-later-the-un-refugee-convention-faces-steep-challenges?fbclid=IwAR0BZYjvwE9MnP2Syctye5EnGHFzk3y4eRq9FqaDyAeUd97oh3fZT4HZevQ)
+[![](../assets/89977904d3b0/69d5ef44cb179be508d4760f49b95cbea39e5645.jpeg)](https://www.infomigrants.net/en/post/33922/70-years-later-the-un-refugee-convention-faces-steep-challenges?fbclid=IwAR0BZYjvwE9MnP2Syctye5EnGHFzk3y4eRq9FqaDyAeUd97oh3fZT4HZevQ)
 
 ### ETHIOPIA
 
 The UN World Food Programme chief is calling for supply trucks to be allowed to deliver food to thousands of refugees in Tigray, saying current rations will run out on Friday\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/6997a44d697df596d04228cfbe15c9bb25e0c176.jpeg)](https://www.infomigrants.net/en/post/33912/tigray-un-warns-refugee-camps-are-running-out-of-food?fbclid=IwAR2MQOTMLTXJFwYoroeuwtlcS80Izfoyzz6NueuGKCpqZ7RN4Lg2gC3qO1U)
+[![](../assets/89977904d3b0/6997a44d697df596d04228cfbe15c9bb25e0c176.jpeg)](https://www.infomigrants.net/en/post/33912/tigray-un-warns-refugee-camps-are-running-out-of-food?fbclid=IwAR2MQOTMLTXJFwYoroeuwtlcS80Izfoyzz6NueuGKCpqZ7RN4Lg2gC3qO1U)
 
 ### TURKEY
 #### Number of arrivals remains high
@@ -71,7 +71,7 @@ The number of people who are fleeing the arriving Taliban forces in Afghanistan 
 For more on the situation, see:
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/07/000_1WU2P0.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2021/7/28/fresh-refugee-arrivals-in-turkey-renew-anti-migrant-feelings?fbclid=IwAR0yuVguUwz6p0QVRWGuH8_vA7TmiLd86reH-mbC2q6wOcSEn7XI_fIoAnE)
+[![](../assets/89977904d3b0/000_1WU2P0.jpg)](https://www.aljazeera.com/news/2021/7/28/fresh-refugee-arrivals-in-turkey-renew-anti-migrant-feelings?fbclid=IwAR0yuVguUwz6p0QVRWGuH8_vA7TmiLd86reH-mbC2q6wOcSEn7XI_fIoAnE)
 
 ### GREECE
 
@@ -119,7 +119,7 @@ Copyright: White Helmets Moria
 This long\-read speaks about the history of audio weapons, as they are now being tested for use in the Evros border region:
 
 
-[![](https://www.codastory.com/wp-content/uploads/2021/07/SonicWeapons-1.jpg)](https://www.codastory.com/authoritarian-tech/sound-cannons-greece/?fbclid=IwAR1_FhG2f3Mr--ga1qixo4CRLvX-RI1u5ySIsj_HU2GDSXBwcPGHldfrrmQ)
+[![](../assets/89977904d3b0/SonicWeapons-1.jpg)](https://www.codastory.com/authoritarian-tech/sound-cannons-greece/?fbclid=IwAR1_FhG2f3Mr--ga1qixo4CRLvX-RI1u5ySIsj_HU2GDSXBwcPGHldfrrmQ)
 
 #### SERBIA
 
@@ -131,7 +131,7 @@ Apparently the mayor of Ventimiglia agreed to the idea\.
 For more information, see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/6fc1ed654a76fdda64ed86fa88252a48d4cd24d6.jpeg)](https://www.infomigrants.net/en/post/33919/right-wing-league-party-proposes-repatriation-center-on-italy-france-border?fbclid=IwAR3UVapReysIZE0ZULnFrnU8AwYSlmwEp0macPH7DY9tN75aIPnSvDzgRh4)
+[![](../assets/89977904d3b0/6fc1ed654a76fdda64ed86fa88252a48d4cd24d6.jpeg)](https://www.infomigrants.net/en/post/33919/right-wing-league-party-proposes-repatriation-center-on-italy-france-border?fbclid=IwAR3UVapReysIZE0ZULnFrnU8AwYSlmwEp0macPH7DY9tN75aIPnSvDzgRh4)
 
 ### SEA
 

@@ -239,19 +239,19 @@ Difficulties for Ukrainian nationals and those who are being forced to flee viol
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/03/image-30.jpg?resize=1920%2C1080)](https://www.aljazeera.com/program/upfront/2022/3/11/will-ukraine-change-how-europe-treats-future-refugees)
+[![](../assets/47c9cf9d7221/image-30.jpg)](https://www.aljazeera.com/program/upfront/2022/3/11/will-ukraine-change-how-europe-treats-future-refugees)
 
 - “Channel crossings: ‘More than 300’ migrants arrive”
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/df73a04a5aa81208b3942e38ba0412b43648d849.jpg)](https://www.infomigrants.net/en/post/39240/channel-crossings-more-than-300-migrants-arrive)
+[![](../assets/47c9cf9d7221/df73a04a5aa81208b3942e38ba0412b43648d849.jpg)](https://www.infomigrants.net/en/post/39240/channel-crossings-more-than-300-migrants-arrive)
 
 - “Europe urged to improve refugee plan as Ukraine war stokes pandemic”
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/285b82bb87ed78cfb19ffdca02948e70108217d4.jpg)](https://www.infomigrants.net/en/post/39220/europe-urged-to-improve-refugee-plan-as-ukraine-war-stokes-pandemic)
+[![](../assets/47c9cf9d7221/285b82bb87ed78cfb19ffdca02948e70108217d4.jpg)](https://www.infomigrants.net/en/post/39220/europe-urged-to-improve-refugee-plan-as-ukraine-war-stokes-pandemic)
 
 - Germany — workshop on how to support migrant rights:
 

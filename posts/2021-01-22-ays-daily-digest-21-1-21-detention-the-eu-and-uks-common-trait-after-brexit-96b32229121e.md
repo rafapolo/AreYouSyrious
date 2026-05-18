@@ -113,7 +113,7 @@ Photo: [@bas\_cra](https://twitter.com/bas_cra)
 In the meantime, French authorities are continuing regular clearances of migrant tent camps in **Calais and Dunkirk** , despite snow and freezing conditions:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/bb75b3072db01c9c4778ff071f506e5dcec5befd.jpeg)](https://www.infomigrants.net/en/post/29769/france-snow-blankets-migrant-tent-camps-in-calais-and-dunkirk)
+[![](../assets/96b32229121e/bb75b3072db01c9c4778ff071f506e5dcec5befd.jpeg)](https://www.infomigrants.net/en/post/29769/france-snow-blankets-migrant-tent-camps-in-calais-and-dunkirk)
 
 #### SPAIN
 ### Melilla’s mismanagement and mistreatment of asylum seekers keeps minors living on the streets in dire conditions

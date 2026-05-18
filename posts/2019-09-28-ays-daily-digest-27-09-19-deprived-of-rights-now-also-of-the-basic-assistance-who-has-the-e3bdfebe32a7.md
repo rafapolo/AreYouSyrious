@@ -54,7 +54,7 @@ Although the **EU Commission** is aware of the worsening situation on the Greek 
 For further reading:
 
 
-[![](https://reliefweb.int/modules/custom/reliefweb_meta/images/default.png)](https://reliefweb.int/report/turkey/commission-express-commitment-turkey-agreement-situation-continues-worsen-greece?fbclid=IwAR0WgLOpEQNTN3k94cKI2SE9h46jTtDRAX3eQct_N-8tK0lTVIMhrswuQPw)
+[![](../assets/e3bdfebe32a7/default.png)](https://reliefweb.int/report/turkey/commission-express-commitment-turkey-agreement-situation-continues-worsen-greece?fbclid=IwAR0WgLOpEQNTN3k94cKI2SE9h46jTtDRAX3eQct_N-8tK0lTVIMhrswuQPw)
 
 
 In order to relieve the completely overcrowded islands, **plans for the transfer of about 10,000 people to the mainland** are being developed, another media reports\. Apparently also new camps might be installed, as the Defence Minister has handed in a list of former military facilities that could be transformed into camps\.

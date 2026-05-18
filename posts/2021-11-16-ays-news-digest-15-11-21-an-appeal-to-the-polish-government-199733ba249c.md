@@ -61,7 +61,7 @@ Maritime Rescue has helped a drifting boat with 42 migrants on board this Monday
 According to information from the Fire Department, a tent with clothes was burning in the camp, as reported in the local media\.
 
 
-[![](https://cdn.stonisi.gr/repository/2019/social/stonisigr-fotiakaratepes21.jpg)](https://www.stonisi.gr/post/21506/fwtia-ston-kataylismo-toy-kara-tepe-realtime-pics-video?fbclid=IwAR16V9UTESGzR3y08qzJk1HYSslyf-6i3dJ9eJGgqz6Wb1Y5pBgqA4wB4ks#.YZJUac4u630.twitter)
+[![](../assets/199733ba249c/stonisigr-fotiakaratepes21.jpg)](https://www.stonisi.gr/post/21506/fwtia-ston-kataylismo-toy-kara-tepe-realtime-pics-video?fbclid=IwAR16V9UTESGzR3y08qzJk1HYSslyf-6i3dJ9eJGgqz6Wb1Y5pBgqA4wB4ks#.YZJUac4u630.twitter)
 
 
 

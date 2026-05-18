@@ -35,11 +35,11 @@ About 500 people are affected\. Since Denmark does not have official relations w
 For more information, see these two stories about two women affected by the new policy:
 
 
-[![](https://static.euronews.com/articles/stories/05/61/18/12/1000x563_cmsv2_db6b6d60-d4f6-5be7-aadc-c2b15f2a3012-5611812.jpg)](https://www.euronews.com/2021/05/04/this-isn-t-danish-syrian-refugees-in-denmark-react-to-claim-it-s-safe-to-go-home?fbclid=IwAR0QgIh2NFkD2g6X7cOUxYHy8lRZjCZ6HRNCEeSVusCxRbnGrTACItEzC5c)
+[![](../assets/bb87ef4611a7/1000x563_cmsv2_db6b6d60-d4f6-5be7-aadc-c2b15f2a3012-5611812.jpg)](https://www.euronews.com/2021/05/04/this-isn-t-danish-syrian-refugees-in-denmark-react-to-claim-it-s-safe-to-go-home?fbclid=IwAR0QgIh2NFkD2g6X7cOUxYHy8lRZjCZ6HRNCEeSVusCxRbnGrTACItEzC5c)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/28be3f618b54a589c846068618a24a7921444d26.jpeg)](https://www.infomigrants.net/en/post/31990/syrian-women-suffer-under-denmark-s-zero-asylum-seekers-plan?fbclid=IwAR2mCx95OXu4I1imIQqAc0o5J1dnW8dzJH9Z1jwCUj7KyzrJMaDceUgP8vg)
+[![](../assets/bb87ef4611a7/28be3f618b54a589c846068618a24a7921444d26.jpeg)](https://www.infomigrants.net/en/post/31990/syrian-women-suffer-under-denmark-s-zero-asylum-seekers-plan?fbclid=IwAR2mCx95OXu4I1imIQqAc0o5J1dnW8dzJH9Z1jwCUj7KyzrJMaDceUgP8vg)
 
 ### GREECE
 #### No priority in vaccination for people living in Moria 2\.0
@@ -101,7 +101,7 @@ The 455 people rescued by Sea Watch since Thursday disembarked in Trapani on Tue
 During 2021, 10,000 people have arrived so far in Italy, of which 1,500 since the beginning of May\. This number is three times higher than it was at the same time last year\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/770d71a9554797116d91cf793159be3f7dbfbcbe.jpeg)](https://www.infomigrants.net/en/post/31992/over-10-000-migrant-arrivals-in-italy-in-2021?preview=1620205574155&fbclid=IwAR2GYNdZ3_J6NSWIow-uuHQ9F26O-OODIXexTkEviDrq-qgvAbTAKXDHvn0)
+[![](../assets/bb87ef4611a7/770d71a9554797116d91cf793159be3f7dbfbcbe.jpeg)](https://www.infomigrants.net/en/post/31992/over-10-000-migrant-arrivals-in-italy-in-2021?preview=1620205574155&fbclid=IwAR2GYNdZ3_J6NSWIow-uuHQ9F26O-OODIXexTkEviDrq-qgvAbTAKXDHvn0)
 
 ### SEA
 
@@ -130,7 +130,7 @@ French NGOs concerned with child protection turned to the UN Committee on the Ri
 For more see:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/a96bca0025a1e20fc2762aee2124b46f8f517d00.jpeg)](https://www.infomigrants.net/en/post/31998/french-ngos-ask-un-to-examine-situation-of-migrant-minors?fbclid=IwAR202H_vhOEFT5dJzKmhEllOUOZGUVFvs3YAyl7k_yKm4hFZZFxJ02zWA2Q)
+[![](../assets/bb87ef4611a7/a96bca0025a1e20fc2762aee2124b46f8f517d00.jpeg)](https://www.infomigrants.net/en/post/31998/french-ngos-ask-un-to-examine-situation-of-migrant-minors?fbclid=IwAR202H_vhOEFT5dJzKmhEllOUOZGUVFvs3YAyl7k_yKm4hFZZFxJ02zWA2Q)
 
 #### State Council failed to close down illegal detention centres
 
@@ -155,7 +155,7 @@ In Germany, people who try to support those who face a deportation often face le
 If you need to restore your faith in humanity, we recommend reading this interview \(in German\):
 
 
-[![](https://cdn.prod.www.spiegel.de/images/abc69972-5299-4afd-99db-18e079e64405_w1280_r1.77_fpx47.38_fpy46.99.jpg)](https://www.spiegel.de/panorama/abschiebung-von-asylbewerbern-die-fruehen-morgenstunden-sind-die-gefaehrlichsten-a-41c8dd69-23ce-48c7-862a-62447b90f468?fbclid=IwAR0TxPolOKvNN-GoN0WdN7igmwPxl9VymwSt4EpVlMO7Q6Zjkb1yO6O5LEk)
+[![](../assets/bb87ef4611a7/abc69972-5299-4afd-99db-18e079e64405_w1280_r1.77_fpx47.38_fpy46.99.jpg)](https://www.spiegel.de/panorama/abschiebung-von-asylbewerbern-die-fruehen-morgenstunden-sind-die-gefaehrlichsten-a-41c8dd69-23ce-48c7-862a-62447b90f468?fbclid=IwAR0TxPolOKvNN-GoN0WdN7igmwPxl9VymwSt4EpVlMO7Q6Zjkb1yO6O5LEk)
 
 
 
@@ -177,7 +177,7 @@ In Sweden a broad alliance of centre right to far right parties published a join
 The Guardian published an investigation which revealed that 2,000 deaths can be linked to illegal EU pushbacks\. For the investigation, the Guardian used data collected from NGOs and monitoring groups like BVMN, the Danish Refugee Council and others\. The article provides a useful overview over the state of the art of tactics of the European border regime\.
 
 
-[![](https://i.guim.co.uk/img/media/db8d62481f895074918784d239ffa0cd8621ce6f/57_0_3319_1992/master/3319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=aca6b0323ef85017457471270c21149a)](https://www.theguardian.com/global-development/2021/may/05/revealed-2000-refugee-deaths-linked-to-eu-pushbacks?fbclid=IwAR0KKRX8mzcSCns6qAsIbE3t9TG3tJY_sYpY3KW_Wue_3SGamCgB4w6uxHQ)
+[![](../assets/bb87ef4611a7/3319.jpg)](https://www.theguardian.com/global-development/2021/may/05/revealed-2000-refugee-deaths-linked-to-eu-pushbacks?fbclid=IwAR0KKRX8mzcSCns6qAsIbE3t9TG3tJY_sYpY3KW_Wue_3SGamCgB4w6uxHQ)
 
 
 Researcher Lena Karamanidou commented on the article on twitter, criticising that some of the results are not properly embedded\. For example it is not clear whether pushback practices actually are such a new phenomenon or if they are just better documented by NGOs and people on the move themselves\. She further raises the valid fear that
@@ -218,7 +218,7 @@ Journalists and NGOs have shown proof of cooperation between Frontex and the so\
 This documentary is about the allegedly non\-existing cooperation between Frontex and Libya \(German\):
 
 
-[![](https://www1.wdr.de/daserste/monitor/sendungen/libyen-122~_v-gseagaleriexl.jpg)](https://www1.wdr.de/daserste/monitor/sendungen/frontex-libyen-100.html)
+[![](../assets/bb87ef4611a7/libyen-122~_v-gseagaleriexl.jpg)](https://www1.wdr.de/daserste/monitor/sendungen/frontex-libyen-100.html)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

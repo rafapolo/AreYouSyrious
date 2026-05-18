@@ -207,7 +207,7 @@ Some of the children who are now worst affected by the fire in Moria camp should
 For more information, see:
 
 
-[![](https://static.independent.co.uk/2020/09/12/12/lesbos-rough-sleeping.jpg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/home-news/lesbos-fire-migrants-greece-moria-camp-children-uk-relatives-b430657.html?fbclid=IwAR2oyqR6w5At8gVdP4RrDyqD4cqdWJW9TBKj1RxnuTzqIEgA79IGDc-cs58)
+[![](../assets/347f42bfebd1/lesbos-rough-sleeping.jpg)](https://www.independent.co.uk/news/uk/home-news/lesbos-fire-migrants-greece-moria-camp-children-uk-relatives-b430657.html?fbclid=IwAR2oyqR6w5At8gVdP4RrDyqD4cqdWJW9TBKj1RxnuTzqIEgA79IGDc-cs58)
 
 ### GENERAL
 

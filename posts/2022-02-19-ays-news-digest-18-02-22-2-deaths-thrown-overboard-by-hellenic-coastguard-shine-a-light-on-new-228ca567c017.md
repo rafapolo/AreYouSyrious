@@ -185,11 +185,11 @@ As European and African leaders met in Brussels on 17 and 18 February for the si
 
 
 
-[![](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc15d5634-fd57-4c9d-a0ee-e5de5a168186_920x920.webp)](https://www.theborderchronicle.com/p/robo-dogs-and-refugees-the-future?fbclid=IwAR1dIQU_JA29kBcp7kNg1Ig6nbLYSUxbRv5AxXjU6A0nhGM8jJADLYf6ze0&utm_source=url)
+[![](../assets/228ca567c017/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc15d5634-fd57-4c9d-a0ee-e5de5a168186_920x920.webp)](https://www.theborderchronicle.com/p/robo-dogs-and-refugees-the-future?fbclid=IwAR1dIQU_JA29kBcp7kNg1Ig6nbLYSUxbRv5AxXjU6A0nhGM8jJADLYf6ze0&utm_source=url)
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/6c24797c499b3dbfca983fa63ff0b5e267444500.jpeg)](https://www.infomigrants.net/en/post/38478/digital-borders-eu-increases-use-of-technology-to-monitor-migration?fbclid=IwAR2yq3ck2i2nrdSWPcSg4fB5wR2sptlf0MwMD-vrRwZiAil8_azLEGVX5F4)
+[![](../assets/228ca567c017/6c24797c499b3dbfca983fa63ff0b5e267444500.jpeg)](https://www.infomigrants.net/en/post/38478/digital-borders-eu-increases-use-of-technology-to-monitor-migration?fbclid=IwAR2yq3ck2i2nrdSWPcSg4fB5wR2sptlf0MwMD-vrRwZiAil8_azLEGVX5F4)
 
 - A solidarity initiative as an alternative to the indignity of refugee camps:
 
@@ -201,7 +201,7 @@ As European and African leaders met in Brussels on 17 and 18 February for the si
 
 
 
-[![](https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f8/06/61/f8066135-3a99-5974-2baa-9e038a8ba969/mza_3204373588494415569.jpeg/1200x630wp.png)](https://podcasts.apple.com/de/podcast/longform/id551088534?l=en&i=1000551308994)
+[![](../assets/228ca567c017/1200x630wp.png)](https://podcasts.apple.com/de/podcast/longform/id551088534?l=en&i=1000551308994)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

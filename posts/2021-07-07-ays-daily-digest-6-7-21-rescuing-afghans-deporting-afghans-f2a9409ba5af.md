@@ -173,7 +173,7 @@ The New York Times [explains](https://www-nytimes-com.cdn.ampproject.org/c/s/www
 Also Deutsche Welle covered the topic and suggested, the bill could violate international law\.
 
 
-[![](https://static.dw.com/image/63175286_6.jpg)](https://www.dw.com/en/the-day-with-brent-goff-borders-barriers/av-19049331)
+[![](../assets/f2a9409ba5af/63175286_6.jpg)](https://www.dw.com/en/the-day-with-brent-goff-borders-barriers/av-19049331)
 
 ### EU
 

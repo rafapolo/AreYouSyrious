@@ -59,11 +59,11 @@ It works as an automated mechanism and therefore uses very little to no human in
 With legal complications and ‘arbitrariness’, comes difficulties in accountability\. Legality and accountability have a relatively straightforward relationship, however, in this instance, the imposition of power and discretion have not been legally clarified\. This responsibility has been placed onto the algorithm, that does not necessarily meet the standard of transparency, accountability, nor legality\.
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2022/09/amanda.jpeg)](https://verfassungsblog.de/frontex-and-algorithmic-discretion-part-i/?fbclid=IwAR2XPdMV00PeuPtirZMPk1xqOxHf_TOeC2X7yAjVssn3xypZnSERxOIje_M)
+[![](../assets/b59d309b915/amanda.jpeg)](https://verfassungsblog.de/frontex-and-algorithmic-discretion-part-i/?fbclid=IwAR2XPdMV00PeuPtirZMPk1xqOxHf_TOeC2X7yAjVssn3xypZnSERxOIje_M)
 
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2022/09/amanda.jpeg)](https://verfassungsblog.de/frontex-and-algorithmic-discretion-part-ii/?fbclid=IwAR1ZLrZVldaODQ2hDxspPRIBvAk5BsmsrcBSzX84FacSPMu37GL2ktueyRo)
+[![](../assets/b59d309b915/amanda.jpeg)](https://verfassungsblog.de/frontex-and-algorithmic-discretion-part-ii/?fbclid=IwAR1ZLrZVldaODQ2hDxspPRIBvAk5BsmsrcBSzX84FacSPMu37GL2ktueyRo)
 
 
 You can read more on this topic here:
@@ -229,7 +229,7 @@ Alarm Phone had initially reported on this group who were thought to have been d
 Among them were 2 children — aged one or two, and the other was 12 years old\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/09/AP22239437766827.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2022/9/12/six-syrian-refugees-found-dead-on-boat-reaching-sicily)
+[![](../assets/b59d309b915/AP22239437766827.jpg)](https://www.aljazeera.com/news/2022/9/12/six-syrian-refugees-found-dead-on-boat-reaching-sicily)
 
 ### Ahead of the elections, UNHCR has sent sent 12 proposals to Italy’s politicians
 
@@ -317,7 +317,7 @@ However, after receiving a distress call from Frontex aircraft Osprey 3, Humanit
 
 
 
-[![](https://i.guim.co.uk/img/media/752feeec5e5c86697522375321c5a315cd3384f8/0_160_4790_2873/master/4790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30ec4f3198e333aa0908100def46b6a1)](https://www.theguardian.com/world/2022/sep/11/british-muslims-citizenship-reduced-to-second-class-status-says-thinktank)
+[![](../assets/b59d309b915/4790.jpg)](https://www.theguardian.com/world/2022/sep/11/british-muslims-citizenship-reduced-to-second-class-status-says-thinktank)
 
 - Intersos — ‘Syria, 2,400 boys, and girls can finally go back to school’
 

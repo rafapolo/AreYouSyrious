@@ -241,7 +241,7 @@ The Welsh Parliament has also rejected the Nationality and Borders Bill\.
 
 
 
-[![](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327455ae-dbf9-47eb-bdfe-f7b46ed3f133_5167x2583.jpeg)](https://www.persuasion.community/p/knaus?fbclid=IwAR3g8un1myUJ5LwBx2Dxk-_AAPMEgR62iKeFuMO6i_KbOlctqZynu9jXhdI)
+[![](../assets/fcab089a6fe1/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F327455ae-dbf9-47eb-bdfe-f7b46ed3f133_5167x2583.jpeg)](https://www.persuasion.community/p/knaus?fbclid=IwAR3g8un1myUJ5LwBx2Dxk-_AAPMEgR62iKeFuMO6i_KbOlctqZynu9jXhdI)
 
 - _Refugees on the Move: Crisis and Response in Turkey and Europe_ \. Edited by Erol Balkan and Zumray Kutlu Tonak:
 

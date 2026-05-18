@@ -248,7 +248,7 @@ Join the webinar [here](https://us02web.zoom.us/webinar/register/WN_H9uvTMcQQtSm
 
 
 
-[![](https://s.rfi.fr/media/display/d47289b6-1ed5-11ec-8358-005056a90284/w:1280/p:16x9/20201217-_LMO1349.jpg)](https://www.rfi.fr/en/africa/20210927-inhumane-treatment-of-migrants-in-libya-the-eu-is-complicit-says-filmmaker?fbclid=IwAR0t9_QDrJxpDB5imnJhwBMNueza1_wXEQp_KStZENyhzqvb3jmSMpUUrOs)
+[![](../assets/c381bfa2bc62/20201217-_LMO1349.jpg)](https://www.rfi.fr/en/africa/20210927-inhumane-treatment-of-migrants-in-libya-the-eu-is-complicit-says-filmmaker?fbclid=IwAR0t9_QDrJxpDB5imnJhwBMNueza1_wXEQp_KStZENyhzqvb3jmSMpUUrOs)
 
 - an update on the story about a father from Côte d’Ivoire, who lived in a chaotic situation in Paris where he was surviving without fixed accommodation with his then 4\-year\-old twin daughters:
 

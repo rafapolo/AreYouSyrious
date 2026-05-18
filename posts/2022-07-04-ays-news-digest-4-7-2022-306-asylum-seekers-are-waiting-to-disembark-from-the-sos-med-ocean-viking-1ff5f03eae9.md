@@ -28,7 +28,7 @@ Several ministers continue to deny that the coastguard is conducting pushbacks d
 It took place roughly 1km from the Hungarian border, after they had been stranded there while trying to reach Hungary\. It is still unclear what triggered this event and police have not yet released a statement\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/9422230dbe10cac6a20e450c6cba8c8f9737697c.jpg)](https://www.infomigrants.net/en/post/41667/serbia-one-migrant-killed-several-injured-near-hungary-border?preview=1656929456627)
+[![](../assets/1ff5f03eae9/9422230dbe10cac6a20e450c6cba8c8f9737697c.jpg)](https://www.infomigrants.net/en/post/41667/serbia-one-migrant-killed-several-injured-near-hungary-border?preview=1656929456627)
 
 ### EU
 
@@ -139,7 +139,7 @@ Chiara Cardoletti, the UNHCR representative for Italy stated:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/088ac66c0c961c92453b0f5a7d3256d146e09874.jpg)](https://www.infomigrants.net/en/post/41658/95-refugees-reach-italy-from-libya-via-humanitarian-corridors?preview=1656937012265)
+[![](../assets/1ff5f03eae9/088ac66c0c961c92453b0f5a7d3256d146e09874.jpg)](https://www.infomigrants.net/en/post/41658/95-refugees-reach-italy-from-libya-via-humanitarian-corridors?preview=1656937012265)
 
 ### SPAIN
 ### Kenya calls for an in\-depth investigation into the deaths of 23 asylum seekers on the 24th of June
@@ -156,7 +156,7 @@ He further stated:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/3885a1949f576a6ce356f3d895c1d458221d4abc.jpg)](https://www.infomigrants.net/en/post/41657/kenya-calls-for-un-probe-into-melilla-migrant-deaths?preview=1656934282366)
+[![](../assets/1ff5f03eae9/3885a1949f576a6ce356f3d895c1d458221d4abc.jpg)](https://www.infomigrants.net/en/post/41657/kenya-calls-for-un-probe-into-melilla-migrant-deaths?preview=1656934282366)
 
 #### AMDH Nador post about a 20\-year old Sudanese male, called Mohanad Maamoun Aissa, who was killed by Moroccan police on the 24th June\.
 
@@ -292,7 +292,7 @@ A No Name Kitchen &amp; Collettivo Rotte Balcaniche project.
 
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2022/07/2018-09-03T213511Z_1031653662_RC16F976C7A0_RTRMADP_3_VENEZUELA-MIGRATION-PERU.jpg?resize=1920%2C1440)](https://www.aljazeera.com/news/2022/7/4/venezuelan-migrant-children-struggle-to-access-education)
+[![](../assets/1ff5f03eae9/2018-09-03T213511Z_1031653662_RC16F976C7A0_RTRMADP_3_VENEZUELA-MIGRATION-PERU.jpg)](https://www.aljazeera.com/news/2022/7/4/venezuelan-migrant-children-struggle-to-access-education)
 
 - IOM Asia\-Pacific, Increased death total along migratory routes in Asia
 
@@ -323,15 +323,15 @@ from Bangladesh’s Bhasan Char ➡23 https://t.co/WczQ8g68kd
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/a8f087b91f313a64c8ede60e1a552194f457335c.jpg)](https://www.infomigrants.net/en/post/41607/poverty-restrictions-censorship-whats-driving-egyptians-to-head-for-europe)
+[![](../assets/1ff5f03eae9/a8f087b91f313a64c8ede60e1a552194f457335c.jpg)](https://www.infomigrants.net/en/post/41607/poverty-restrictions-censorship-whats-driving-egyptians-to-head-for-europe)
 
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/2022-07/ILLUSTRATION_ISLAMOPHOBIA_NEWSPAPERS.jpeg?h=c74750f6&itok=Sg6_9kCc)](https://english.alaraby.co.uk/opinion/media-manufacturing-muslim-grooming-gangs-crisis)
+[![](../assets/1ff5f03eae9/ILLUSTRATION_ISLAMOPHOBIA_NEWSPAPERS.jpeg)](https://english.alaraby.co.uk/opinion/media-manufacturing-muslim-grooming-gangs-crisis)
 
 
 
-[![](https://i.guim.co.uk/img/media/3577b584a5485d3572e5c5ec78f4c139fa22f03f/0_221_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f7985915bc037610c43daf4a264cdda)](https://www.theguardian.com/world/2022/jul/04/bookseller-of-kabul-becomes-asylum-seeker-in-london)
+[![](../assets/1ff5f03eae9/8256.jpg)](https://www.theguardian.com/world/2022/jul/04/bookseller-of-kabul-becomes-asylum-seeker-in-london)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

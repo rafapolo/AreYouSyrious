@@ -67,7 +67,7 @@ This all comes as tensions on the island are rising, with camp residents staging
 Protests in Lesvos are [reported](https://stonisi.gr/post/6705/olonyxtio-kynhghto-astynomikwn-kata-15-pitsirikadwn) to continue, despite yesterday’s police crackdown which resulted in some injuries mostly to women and children who were trampled during the chaos\. Police fired tear gas into the crowds and attempted to use threats, blockades, and arrests as modes of repression\. Food and water did not arrive to the camp yesterday and the stalls were closed for public order reasons\.
 
 
-[![](https://cdn.stonisi.gr/repository/2019/social/stonisigr-psx_20200204_002958.jpg)](https://stonisi.gr/post/6684/fwtia-se-spiti-sth-moria-video)
+[![](../assets/d80e2c79f73f/stonisigr-psx_20200204_002958.jpg)](https://stonisi.gr/post/6684/fwtia-se-spiti-sth-moria-video)
 
 
 In response to the brutal police crackdown and violence, yesterday people who are stuck on the island unexpectedly distributed flowers to the city’s residents while chanting “ _Sorry people of Lesvos\.”_

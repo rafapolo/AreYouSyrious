@@ -55,13 +55,13 @@ Tajana Tadić, AYS program manager, has experienced first hand the difficulties 
 In an important long read from September, Daniel Trilling in the Guardian takes on another story dealing with the criminalisation of rescue\. The rescue ship Iuventa performed hundreds of missions to save people from drowning off the coast of Libya\. But the crew faced persecution after the European crackdown on migration\.
 
 
-[![](https://i.guim.co.uk/img/media/3c2a47300f527a8a82690d7130abfba6e6e5f205/0_67_3861_2317/master/3861.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56e340e42ba822226b7e5b333f484a54)](https://www.theguardian.com/news/2020/sep/22/how-rescuing-drowning-migrants-became-a-crime-iuventa-salvini-italy)
+[![](../assets/1fb658a48ca7/3861.jpg)](https://www.theguardian.com/news/2020/sep/22/how-rescuing-drowning-migrants-became-a-crime-iuventa-salvini-italy)
 
 
 A similar story from Greece was told by Spiegel\. Several NGOs supporting people on the move in the Aegean Sea — Mare Liberum, Sea Watch, FFM eV, Josoor and Alarm Phone — were accused and investigated for espionage and people smuggling\.
 
 
-[![](https://cdn.prod.www.spiegel.de/images/f16e53dd-47b9-428b-a036-424a3eb162d5_w1280_r1.77_fpx33_fpy27.jpg)](https://www.spiegel.de/politik/ausland/verfahren-gegen-ngos-in-griechenland-man-will-uns-ruhig-stellen-a-6dcab115-2f50-45ef-ac8c-4d036d8bfe5c)
+[![](../assets/1fb658a48ca7/f16e53dd-47b9-428b-a036-424a3eb162d5_w1280_r1.77_fpx33_fpy27.jpg)](https://www.spiegel.de/politik/ausland/verfahren-gegen-ngos-in-griechenland-man-will-uns-ruhig-stellen-a-6dcab115-2f50-45ef-ac8c-4d036d8bfe5c)
 
 #### **From rescue to non\-assistance**
 
@@ -108,13 +108,13 @@ For the situation on the Greek/Turkish border area in Evros, the investigative o
 Refugee Support Aegean \(RSA\) recently published a timeline listing the main reports of pushbacks and other human rights violations at the Greek\-Turkish sea borders as well as the official responses\. This gives a good overview of the different kinds of violations and also of their frequency\.
 
 
-[![](https://rsaegean.org/wp-content/uploads/2020/12/rsa-timeline-pushbacks-2020-reported-incidents-english.png)](https://rsaegean.org/en/push-backs-and-violations-of-human-rights-at-sea-a-timeline)
+[![](../assets/1fb658a48ca7/rsa-timeline-pushbacks-2020-reported-incidents-english.png)](https://rsaegean.org/en/push-backs-and-violations-of-human-rights-at-sea-a-timeline)
 
 
 Again in the case of violations in the Aegean Sea border area, another independent and investigative organisation, Bellingcat, participated in a technical analysis of several incidents, and proved that these kinds of organisations have a crucial role to play in the documentation of human right violations\. This analysis was a factor in raising the issue in the European Parliament, where more than 100 MEP’s called for further investigations\.
 
 
-[![](https://www.bellingcat.com/app/uploads/2020/06/Picture-1.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/06/23/masked-men-on-a-hellenic-coast-guard-boat-involved-in-pushback-incident/)
+[![](../assets/1fb658a48ca7/Picture-1.jpg)](https://www.bellingcat.com/news/uk-and-europe/2020/06/23/masked-men-on-a-hellenic-coast-guard-boat-involved-in-pushback-incident/)
 
 
 The incidents have highlighted the role of both the Greek Coast Guard and of FRONTEX\. In a three\-part Special from AYS, the role and development of FRONTEX has been analysed and the growth of the organisation, both in terms of personnel and of operations, is shown in a timeline\.
@@ -154,13 +154,13 @@ Greek border forces prevent refugees and migrants from entering Europe via the P
 Aegean chronicles: A reporter’s confrontation with Europe’s failures and moral imperative\. In this core read, Giorgos Christides, a Greek correspondent, draws lines from the situation in Greece and on Lesvos in 2015 to today\. Both on a personal and a political level\. The author has been a strong actor in the work of covering refugee and human rights issues and linking Greece and the EU is this area\.
 
 
-[![](https://gr.boell.org/sites/default/files/styles/social_media/public/2020-12/julie-ricard-i9rzrKo5Vao-unsplash.jpg.jpeg?itok=45AQajCr)](https://gr.boell.org/en/node/6417)
+[![](../assets/1fb658a48ca7/julie-ricard-i9rzrKo5Vao-unsplash.jpg.jpeg)](https://gr.boell.org/en/node/6417)
 
 
 The articles written by Giorgos Christides for SPIEGEL throughout the year can be found here:
 
 
-[![](https://www.spiegel.de/public/spon/images/logos/fb_logo_default.jpg)](https://www.spiegel.de/impressum/autor-8a2a9f3e-0001-0003-0000-000000018475)
+[![](../assets/1fb658a48ca7/fb_logo_default.jpg)](https://www.spiegel.de/impressum/autor-8a2a9f3e-0001-0003-0000-000000018475)
 
 
 In an interview that, better than most, made the case for linking the situation in Greece to the principles and values of Europe and the EU, professor Giorgos Tsiakalos outlined in Solomon an important overview of the migration policies and practices violating human rights, international conventions and laws\.
@@ -215,7 +215,7 @@ Following the catastrophe at Moria, AYS published a special written by Damla Ilb
 The Greek photographer Angelos Tzortzinis followed and documented the fire and what followed was a poignant series of photos that later this year became the winner of UNICEF Photo of the Year Awards\.
 
 
-[![](https://www.afp.com/sites/default/files/afpactualite/202012/watermarkmoriaunicefwinner01.jpg)](https://www.afp.com/en/agency/awards/afp-photographer-angelos-tzortzinis-wins-unicef-photo-year-award)
+[![](../assets/1fb658a48ca7/watermarkmoriaunicefwinner01.jpg)](https://www.afp.com/en/agency/awards/afp-photographer-angelos-tzortzinis-wins-unicef-photo-year-award)
 
 #### **Technological frontlines**
 
@@ -257,13 +257,13 @@ The Border Violence Monitoring Network \(BVMN\) has been one of the most vocal p
 In making the Daily Digests and our other material, AYS always try to find a balance between voices and practices from the ground and from humans on the move — and additional sources that enable the larger picture to come forward — to link the perspectives\. This article is in itself a flashback to 2020, and here a number of refugees, activists, aid groups and photojournalists reflect on the year from different places and angles\.
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2020/12/h_56347835.jpg?resize=1920%2C1440)](https://www.aljazeera.com/features/2020/12/24/2020-pandemic-refugees-review)
+[![](../assets/1fb658a48ca7/h_56347835.jpg)](https://www.aljazeera.com/features/2020/12/24/2020-pandemic-refugees-review)
 
 
 It has been a choice to make up this list from some substantial or significant posts and contributions from throughout the year\. However, it might be useful to look back on the year in a more chronological way, and for this purpose, we have chosen to include the review of photos of the year from InfoMigrants, a collaboration between three major European media sources\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/5326af755341870bc267f68e282d4c1a48f8dc32.jpeg)](https://www.infomigrants.net/en/post/29181/migration-to-europe-in-2020-the-year-in-pictures)
+[![](../assets/1fb658a48ca7/5326af755341870bc267f68e282d4c1a48f8dc32.jpeg)](https://www.infomigrants.net/en/post/29181/migration-to-europe-in-2020-the-year-in-pictures)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

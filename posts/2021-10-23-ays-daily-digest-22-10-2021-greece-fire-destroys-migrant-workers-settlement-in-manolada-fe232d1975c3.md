@@ -49,7 +49,7 @@ Manolada has a long history\. Over the past 15 years, the production of strawber
 **Read More:** [Greek Strawberry ‘made in Bangladesh’](https://wearesolomon.com/mag/on-the-move/greek-strawberries-made-in-bangladesh/) , by Solomon Mag
 
 
-[![Manolada ... a lot of history is behind](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F838482892-481751e6932e663a8150cd48851db448e16f7d199bec40fa447353441232ffdc-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Manolada ... a lot of history is behind")](https://vimeo.com/378614608)
+[![Manolada ... a lot of history is behind](../assets/fe232d1975c3/overlay "Manolada ... a lot of history is behind")](https://vimeo.com/378614608)
 
 
 Manolada is one of the many sites in southern Europe where the connection between European migration policies and exploitation of the workforce is very evident\. Be these the greenhouses near Almeria in Spain, the tomato and orange fields in Puglia and Calabria in Italy, or strawberry fields in Manolada, migrant farm workers are often blackmailed and forced into slavery\-like conditions, with abysmally low wages, uncertain pay, violence and substandard living conditions in makeshift camps and abandoned warehouses\. Their precarious status as workers and as residents, and their vulnerability to these forms of blackmail and exploitation, are the end results of European border policies, which force people to find dangerous ways to reach the continent\.

@@ -412,7 +412,7 @@ The panel, which included speakers from ECRE, Pro Asyl, RSA, the Greek Forum of 
 #### An underreported topic: Drownings in Balkan rivers
 
 
-[![](https://www.aljazeera.com/wp-content/uploads/2021/07/RTX802QN.jpg?resize=1920%2C1440)](https://www.aljazeera.com/features/2021/7/14/his-body-went-away-with-the-water-refugees-drown-in?fbclid=IwAR23MBUxzgE-bop1gBaI6udh5PRRqnomz6Eh4Aq5o74OfTT4z-b0mnl-Mvw)
+[![](../assets/d3b15a1b19c0/RTX802QN.jpg)](https://www.aljazeera.com/features/2021/7/14/his-body-went-away-with-the-water-refugees-drown-in?fbclid=IwAR23MBUxzgE-bop1gBaI6udh5PRRqnomz6Eh4Aq5o74OfTT4z-b0mnl-Mvw)
 
 
 A long read, on the ground report from Al Jazeera about an important and underreported topic: people on the move who lose their lives in the Balkan rivers while en route to Western Europe\.

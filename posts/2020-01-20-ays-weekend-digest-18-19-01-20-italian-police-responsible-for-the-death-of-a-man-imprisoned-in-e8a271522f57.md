@@ -62,7 +62,7 @@ AMASO clarified that it is not a state agency\. To use the support it provides f
 Find the full statement here:
 
 
-[![](https://amasosite.files.wordpress.com/2020/01/2.jpg)](https://amasosite.wordpress.com/2020/01/20/statement-misuse-of-amaso-service-in-european-courts/?fbclid=IwAR3B87cCNOEAuS8eikbiZ7ZyHTyuqf8sfkmvko9U4mqhz6rqJNyt3ETsrmc)
+[![](../assets/e8a271522f57/2.jpg)](https://amasosite.wordpress.com/2020/01/20/statement-misuse-of-amaso-service-in-european-courts/?fbclid=IwAR3B87cCNOEAuS8eikbiZ7ZyHTyuqf8sfkmvko9U4mqhz6rqJNyt3ETsrmc)
 
 ### TURKEY
 
@@ -93,7 +93,7 @@ The **Stage 2 Transit Camp in North Lesvos** will be closed by the end of the mo
 Please sign the petition and spread the word\!
 
 
-[![](https://avaazdo.s3.amazonaws.com/238f29d7b3bae6e4305664d637e6b175.jpg)](https://secure.avaaz.org/en/community_petitions/hellenic_ministry_of_public_order_and_citizen_prot_an_urgent_call_to_action_from_lesvos_save_the_last_transit_camp_on_lesvos/details/?fbclid=IwAR0yQB-HRN0od_zWtHQtIcA2CuZYzSkyE40C-_DYAVCotmYY_UeDuK3mwXk)
+[![](../assets/e8a271522f57/238f29d7b3bae6e4305664d637e6b175.jpg)](https://secure.avaaz.org/en/community_petitions/hellenic_ministry_of_public_order_and_citizen_prot_an_urgent_call_to_action_from_lesvos_save_the_last_transit_camp_on_lesvos/details/?fbclid=IwAR0yQB-HRN0od_zWtHQtIcA2CuZYzSkyE40C-_DYAVCotmYY_UeDuK3mwXk)
 
 #### Support centers opening hours and schedules
 
@@ -107,7 +107,7 @@ A journalist of the Deutsche Welle, Thomas Jacobi, has been violently beaten by 
 For more information see:
 
 
-[![](https://www.keeptalkinggreece.com/wp-content/uploads/2020/01/jacobi-660x330.jpg)](https://www.keeptalkinggreece.com/2020/01/19/jacobi-dw-beaten-farright-antimigrants-rally-athens/)
+[![](../assets/e8a271522f57/jacobi-660x330.jpg)](https://www.keeptalkinggreece.com/2020/01/19/jacobi-dw-beaten-farright-antimigrants-rally-athens/)
 
 ### CZECH REPUBLIC
 
@@ -139,13 +139,13 @@ A **19 year old single woman is supposed to be deported to Afghanistan** on Mond
 For more information in French on this case see here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/49452d59fbd418c7bd8c647d4c82dfba1a4dedb0.jpeg)](https://www.infomigrants.net/fr/post/22181/exclusif-une-afghane-de-19-ans-sur-le-point-d-etre-expulsee-de-france-vers-kaboul?fbclid=IwAR38n6VqlCqxZOp5JDbb-dMD3dMQQycpb4PrhvK1Aj6nOJAXXa_YgWmbP7U)
+[![](../assets/e8a271522f57/49452d59fbd418c7bd8c647d4c82dfba1a4dedb0.jpeg)](https://www.infomigrants.net/fr/post/22181/exclusif-une-afghane-de-19-ans-sur-le-point-d-etre-expulsee-de-france-vers-kaboul?fbclid=IwAR38n6VqlCqxZOp5JDbb-dMD3dMQQycpb4PrhvK1Aj6nOJAXXa_YgWmbP7U)
 
 
 and information on the change of legislation here:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_big/851954621f0ad1529dedea7f5e6e4816ff240879.jpeg)](https://www.infomigrants.net/fr/post/19605/accord-ue-afghanistan-la-france-veut-faciliter-les-retours-forces-de-migrants-afghans)
+[![](../assets/e8a271522f57/851954621f0ad1529dedea7f5e6e4816ff240879.jpeg)](https://www.infomigrants.net/fr/post/19605/accord-ue-afghanistan-la-france-veut-faciliter-les-retours-forces-de-migrants-afghans)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -299,7 +299,7 @@ Men queue for lunch in Dunkirk\. Credit: [Mobile Refugee Support\.](https://www.
 There will be a protest in solidarity with asylum seekers at Place de la République on the evening of October 27\. The event will feature artists, food, distribution, haircuts, and a photo exhibition\. Find out more below \(English [here](https://www.facebook.com/permalink.php?story_fbid=2176432869350007&id=100009499466124&hc_location=ufi) \):
 
 
-[![](https://static.lepotcommun.fr/photo/x41z1tjv.png)](https://www.lepotcommun.fr/pot/x41z1tjv?fbclid=IwAR3KJGbKAapBiaBlfSsVzooD1oZisNlHw-9BtssQN4P6E5lR_Fu-x6sFnRw)
+[![](../assets/c22c181f3822/x41z1tjv.png)](https://www.lepotcommun.fr/pot/x41z1tjv?fbclid=IwAR3KJGbKAapBiaBlfSsVzooD1oZisNlHw-9BtssQN4P6E5lR_Fu-x6sFnRw)
 
 ### Germany
 

@@ -80,7 +80,7 @@ The protection of people on the move applies at all times, especially in times o
 Join the already 3,500 signatories and sign the petition \#DontLetThemDrown \#AllLivesMatter
 
 
-[![](https://cdn-attachments.timesofmalta.com/1844ee6c34a7447615c6a6eeb80e3e6423e5917b-1586851710-5e956f7e-1200x630.jpg)](https://timesofmalta.com/articles/view/all-lives-matter-dozens-join-call-to-ensure-migrants-are-not-left-to.785507)
+[![](../assets/f62721332594/1844ee6c34a7447615c6a6eeb80e3e6423e5917b-1586851710-5e956f7e-1200x630.jpg)](https://timesofmalta.com/articles/view/all-lives-matter-dozens-join-call-to-ensure-migrants-are-not-left-to.785507)
 
 #### LIBYA
 

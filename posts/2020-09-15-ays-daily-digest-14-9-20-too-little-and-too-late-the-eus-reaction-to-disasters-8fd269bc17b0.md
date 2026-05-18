@@ -28,7 +28,7 @@ As the Moria fire and further disasters at the Mediterranean capture the public 
 To refresh your memory of what happened, here is the article that brought attention to the issue:
 
 
-[![](https://i.guim.co.uk/img/media/0a348744e44d1ce1c252dfb576042d9637c5b626/0_227_3411_2047/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=9e724eb373a835c706ef015a5b5568ce)](https://www.theguardian.com/global-development/2020/jun/15/eu-covered-up-croatias-failure-to-protect-migrants-from-border-brutality)
+[![](../assets/8fd269bc17b0/3411.jpg)](https://www.theguardian.com/global-development/2020/jun/15/eu-covered-up-croatias-failure-to-protect-migrants-from-border-brutality)
 
 
 Following that, some MEPs posed questions and demanded clear decisions and answers\. A very debatable answer has just arrived\. 
@@ -230,7 +230,7 @@ We reported previously in detail on the situation there, find it in our [AYS Dai
 ECHO is a multilingual library on wheels that gets books, learning resources, internet and a community space to these places\. As the border crisis continues, we need your help to run this service\.
 
 
-[![Get a mobile library to refugee camps in Greece on GlobalGiving](https://files.globalgiving.org/pfil/42436/pict_featured_large.jpg?t=1634234725000 "Get a mobile library to refugee camps in Greece on GlobalGiving")](https://www.globalgiving.org/projects/get-a-mobile-library-to-refugee-camps-in-greece/)
+[![Get a mobile library to refugee camps in Greece on GlobalGiving](../assets/8fd269bc17b0/pict_featured_large.jpg "Get a mobile library to refugee camps in Greece on GlobalGiving")](https://www.globalgiving.org/projects/get-a-mobile-library-to-refugee-camps-in-greece/)
 
 #### SERBIA
 ### Brutality at the borders continues

@@ -297,7 +297,7 @@ A petition is out, intended for the French Ministry of Health, calling for the r
 Find and sign it here:
 
 
-[![](https://assets.change.org/photos/4/vv/qq/PrVvQQoznchnjtX-1600x900-noPad.jpg?1552428914)](https://www.change.org/p/madame-agn%C3%A8s-buzyn-ministre-des-solidarit%C3%A9s-et-de-la-sant%C3%A9-reconna%C3%AEtre-le-trauma-psychique-des-r%C3%A9fugi%C3%A9s-9ae02138-144f-429b-aadc-44754c95853d?recruiter=735188312&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_petition&recruited_by_id=9b8ab070-5331-11e7-9b16-bbf5f4824523&fbclid=IwAR24KruEplcJhFKxXDfzq-nlChVqZNz_vEv7KZkqifjvLYw_Nsv9tGGtjv4)
+[![](../assets/2224c8fb2b3e/PrVvQQoznchnjtX-1600x900-noPad.jpg)](https://www.change.org/p/madame-agn%C3%A8s-buzyn-ministre-des-solidarit%C3%A9s-et-de-la-sant%C3%A9-reconna%C3%AEtre-le-trauma-psychique-des-r%C3%A9fugi%C3%A9s-9ae02138-144f-429b-aadc-44754c95853d?recruiter=735188312&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_petition&recruited_by_id=9b8ab070-5331-11e7-9b16-bbf5f4824523&fbclid=IwAR24KruEplcJhFKxXDfzq-nlChVqZNz_vEv7KZkqifjvLYw_Nsv9tGGtjv4)
 
 #### UK
 

@@ -151,7 +151,7 @@ So volunteers are asking for donations to replace what was taken like tents, bla
 Another group working tirelessly to feed the refugees all over Calais and Dunkirk is RCK and they also need more support to continue helping refugees in this area since they continue to arrive, fleeing their uninhabitable homelands — hoping to find some peace and a place to settle\. They are living in extremely difficult conditions, they have no services and no safe places\. As there are no camps, they are being forced into the woods and wasteland, avoiding the authorities and face continual police harassment\. All [volunteering](http://refugeecommunitykitchen.com/volunteer/) , [donations](http://refugeecommunitykitchen.com/2017/07/02/appeal-for-refugee-community-kitchen-rebuild/) is greatly appreciated\. Please spread the word and/or [volunteer](http://refugeecommunitykitchen.com/volunteer/) if you can spare the time\.
 
 
-[![Still Feeding the Need: Supporting the refugees in Calais](https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F644610897-78c243cbd803db60c676ee016b45d99a62af4365b10cc8722029bfa7a095038c-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png "Still Feeding the Need: Supporting the refugees in Calais")](https://vimeo.com/225313195)
+[![Still Feeding the Need: Supporting the refugees in Calais](../assets/5074fa2dc0f7/overlay "Still Feeding the Need: Supporting the refugees in Calais")](https://vimeo.com/225313195)
 
 ### Sweden
 

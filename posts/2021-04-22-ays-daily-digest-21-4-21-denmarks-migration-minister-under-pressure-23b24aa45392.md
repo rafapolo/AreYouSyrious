@@ -90,7 +90,7 @@ This morning, 32 people arrived on Samos\.
 40 Greek and EU citizens wrote an email to Notis Mitarachi, Greek Minister of Migration and Asylum, about the situation of 130 refugees evicted from an informal shelter on Rhodes\.
 
 
-[![](https://www.efsyn.gr/sites/default/files/styles/default/public/2021-04/prosfiges.jpg?itok=DH_9ztkI)](https://www.efsyn.gr/ellada/dikaiomata/290953_prosfyges-sto-poythena)
+[![](../assets/23b24aa45392/prosfiges.jpg)](https://www.efsyn.gr/ellada/dikaiomata/290953_prosfyges-sto-poythena)
 
 ### Libya
 
@@ -140,7 +140,7 @@ The Padovics group said that leasing the buildings was normal, it keeps its buil
 With preparations for pulling the military out of Afghanistan, Germany’s defense minister [said](https://www.infomigrants.net/en/post/31675/520-afghan-translators-may-be-offered-protection-in-germany?fbclid=IwAR3F5o6JggNjdtfFJd8UjroQmBaH-7jk8pkcxvAAafKENCs_B3xzVVA8o6g) that 520 Afghan translators and their families could be offered protection in Germany\. She spoke about a “deep obligation” to not leave the people behind unprotected\.
 
 
-[![](https://media.npr.org/assets/img/2021/04/19/ap21089407829538_wide-0b1fdd769174207b9d194f13e989dfd863b77c04-s1400-c100.jpg)](https://www.npr.org/2021/04/21/988816485/germany-grapples-with-racism-after-threats-derail-refugees-candidacy-for-parliam?fbclid=IwAR1-AXpdW9Pf4FR_5HgLd-P81W8P5h3kULVE6z6LCqZUtPIjHATAqZeTpcY&t=1619079830080)
+[![](../assets/23b24aa45392/ap21089407829538_wide-0b1fdd769174207b9d194f13e989dfd863b77c04-s1400-c100.jpg)](https://www.npr.org/2021/04/21/988816485/germany-grapples-with-racism-after-threats-derail-refugees-candidacy-for-parliam?fbclid=IwAR1-AXpdW9Pf4FR_5HgLd-P81W8P5h3kULVE6z6LCqZUtPIjHATAqZeTpcY&t=1619079830080)
 
 ### UK
 

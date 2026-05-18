@@ -283,7 +283,7 @@ More info here 👉 [borderviolence.eu/vacancies/](https://www.borderviolence.eu
 
 
 
-[![](https://images.jacobinmag.com/wp-content/uploads/2022/06/09084253/GettyImages-663942633.jpg)](https://jacobin.com/2022/06/europe-criminalizing-refugees-migrants-law-pushbacks)
+[![](../assets/d8cafc5c05a7/GettyImages-663942633.jpg)](https://jacobin.com/2022/06/europe-criminalizing-refugees-migrants-law-pushbacks)
 
 - Many of the roughly [31 million](https://www.unhcr.org/refugee-statistics/) people on the move who were there prior to Russia’s invasion — from places like Syria, Afghanistan, South Sudan, Venezuela, and Myanmar — [are forced to take irregular or perilous migration routes](https://www.thenewhumanitarian.org/first-person/2022/03/15/ukraine-poland-syria-refugee-welcome-forest) to reach countries where they can seek protection\. Along the way, they are vulnerable to exploitation and abuse from smugglers and criminal groups, including human trafficking, and face harsh border policies and violence from state security forces\. All of this plays out in border regions that are often hard to access and in the shadows of underground economies\.
 

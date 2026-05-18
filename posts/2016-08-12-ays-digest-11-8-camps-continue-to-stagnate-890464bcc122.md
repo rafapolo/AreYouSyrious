@@ -168,7 +168,7 @@ Regarding the reports of police crackdowns and violence against refugees struggl
 The petition to save the Kids Cafe in Calais is in it’s final stretch\. Please sign and share\! Decision on whether or not to demolish particular “businesses” in Calais, of which Kids Cafe is only one, will be handed down today\.
 
 
-[![](https://assets.change.org/photos/6/vd/ul/CwVDuLPyWDqkwzj-1600x900-noPad.jpg?1529278336)](https://www.change.org/p/save-the-kids-cafe-sauvons-le-caf%C3%A9-des-enfants)
+[![](../assets/890464bcc122/CwVDuLPyWDqkwzj-1600x900-noPad.jpg)](https://www.change.org/p/save-the-kids-cafe-sauvons-le-caf%C3%A9-des-enfants)
 
 
 The French Minister has stated that the French government will establish [3,000 more bed spaces in reception centers](http://www.lemonde.fr/societe/article/2016/08/10/emmanuelle-cosse-veut-augmenter-les-places-d-accueil-pour-les-migrants_4980610_3224.html?xtmc=cosse&xtcr=1) \. Around 50 people arrive each day in Paris, but beds are opening up at a rate of 80–100 per week\. There will be a center for unaccompanied minors with capacity for 72 in Calais\.

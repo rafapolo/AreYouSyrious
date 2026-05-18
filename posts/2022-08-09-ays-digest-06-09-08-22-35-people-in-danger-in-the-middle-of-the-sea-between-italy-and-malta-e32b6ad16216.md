@@ -58,7 +58,7 @@ Many people leave Tunisia from Zarzis, a town near the border with Libya\. The T
 Among the people heading to Europe, some manage to reach Italy\. As it was reported by the Italian Ministry of the Interior, between January 1 and July 22 of this year, [34,000 people arrived by sea](http://www.infomigrants.net/fr/post/42438/tunisie--255-migrants-secourus-alors-quils-partaient-pour-litalie?fbclid=IwAR2k9sFoNCMPMxqm3O97pbkJTnA7GdqD-Di7sba91Z9tQc6u2PA5smaX-8E) to Italy\. On August 2, a new centre was opened in Pantelleria to handle the planned secuirty process and to speed up the process of transportation to the mainland\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/dc08a9a3df7ac752923b3c87773cc0fa40b6625f.jpg)](https://www.infomigrants.net/en/post/42387/new-shelter-for-migrants-opens-on-pantelleria)
+[![](../assets/e32b6ad16216/dc08a9a3df7ac752923b3c87773cc0fa40b6625f.jpg)](https://www.infomigrants.net/en/post/42387/new-shelter-for-migrants-opens-on-pantelleria)
 
 
 However, the cost in terms of human lives is high, as the absence of legal routes leads to dangerous journeys\. The International Organization for Migration \(IOM\) has estimated that 1,200 people have lost their lives in the central Mediterranean since the beginning of the year\. These lives lost add to the approximately 3000 deaths last year\. Read more [here](http://www.infomigrants.net/fr/post/42438/tunisie--255-migrants-secourus-alors-quils-partaient-pour-litalie?fbclid=IwAR2k9sFoNCMPMxqm3O97pbkJTnA7GdqD-Di7sba91Z9tQc6u2PA5smaX-8E) \.
@@ -121,7 +121,7 @@ This is what they report:
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/2b33c90cd1225bb8cd31017d8801917374063a0d.jpg)](https://www.infomigrants.net/en/post/42465/greece-122-migrants-rescued-while-another-group-appear-stranded-at-evros-river-crossing?fbclid=IwAR2tWHoMrJmN4szqnBckYLoUFdIWoUtpEnrqTs2Mo4K8XtwDDdEW-kLpKf4)
+[![](../assets/e32b6ad16216/2b33c90cd1225bb8cd31017d8801917374063a0d.jpg)](https://www.infomigrants.net/en/post/42465/greece-122-migrants-rescued-while-another-group-appear-stranded-at-evros-river-crossing?fbclid=IwAR2tWHoMrJmN4szqnBckYLoUFdIWoUtpEnrqTs2Mo4K8XtwDDdEW-kLpKf4)
 
 #### HUNGARY
 ### MSF reports extreme border violence on the Hungary\-Serbia border
@@ -143,7 +143,7 @@ Some individuals stated that their belongings have been stolen, and others were 
 MSF workers standing by a barbed wire fence during a medical consultation of the MSF mobile clinic in Horgos 2 border crossing area in Serbia\. Serbia, July 2022\. \(Source: MSF, 4/8/2022\)
 
 
-[![](https://media.msf.org/AssetLink/064incrtxilh0a2qrt7f6m7f4p1s522r.jpg)](https://www.msf.org/violent-pushbacks-hungary-serbia-border)
+[![](../assets/e32b6ad16216/064incrtxilh0a2qrt7f6m7f4p1s522r.jpg)](https://www.msf.org/violent-pushbacks-hungary-serbia-border)
 
 
 **Police claim a human smuggler caused a car crash in southern Hungary that killed 3 migrants and 11 left injured**
@@ -191,7 +191,7 @@ However, the criminalisation and rejection of asylum seekers heightened in the m
 
 
 
-[![](https://i.guim.co.uk/img/media/f300d60bb9373af6f135544fbaae66d68f360357/0_150_4500_2701/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a257c3791ac1df0796ab0e8317b2c09c)](https://www.theguardian.com/world/2022/aug/07/italy-election-far-right-lampedusa-refugees-matteo-salvini)
+[![](../assets/e32b6ad16216/4500.jpg)](https://www.theguardian.com/world/2022/aug/07/italy-election-far-right-lampedusa-refugees-matteo-salvini)
 
 #### FRANCE
 ### Four years since police in Calais started evictions
@@ -247,7 +247,7 @@ Until the very last minute before the Taliban took over, Germany carried out dep
 InfoMigrants details his story and what he hopes to do now that he is in Germany:
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/285cad0fa92f73a735a241b635bb2f3a4319a76e.png)](https://www.infomigrants.net/en/post/42180/the-escape-diaries-the-thirst-to-be-successful-led-me-to-ukraine)
+[![](../assets/e32b6ad16216/285cad0fa92f73a735a241b635bb2f3a4319a76e.png)](https://www.infomigrants.net/en/post/42180/the-escape-diaries-the-thirst-to-be-successful-led-me-to-ukraine)
 
 #### UK
 ### Adnan Miakhel — a young Afghan cricketer who was picked up by Freddie Flintoff’s BBC series

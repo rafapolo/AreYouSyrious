@@ -132,7 +132,7 @@ The only other country currently sending Syrians off to the conflict zones acros
 
 
 
-[![](https://data.unhcr.org/images/documents/big_6639c0c41e37ce275573854c25e35c385bb5e1d8.jpg)](https://data2.unhcr.org/en/documents/details/90361)
+[![](../assets/7d6185afbbd6/big_6639c0c41e37ce275573854c25e35c385bb5e1d8.jpg)](https://data2.unhcr.org/en/documents/details/90361)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

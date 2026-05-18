@@ -151,13 +151,13 @@ Contact:
 In our Daily Digest on [the 13th of August](ays-daily-digest-13-08-19-3-people-died-attempting-to-reach-europe-b7190c4fb655) , we reported about the dingy that was found off the coast of Malta carrying one dead body and one man alive\. As reported by Times of Malta, it turned out that there were originally 15 people on the boat when it started from Libya\. The sole survivor, Mohammed Adam Oga, had to watch 14 people die, one of them being a pregnant women, due to lack of water and exhaustion during the 11 days he spent on the sea\. “After five days two people died\. Then every day two people died\.” An article about him can be found here:
 
 
-[![](https://cdn-attachments.timesofmalta.com/d12f90f317f37dd0cbcdc329146b14ca18a37b25-1565853052-5d55057c-1200x630.jpg)](https://timesofmalta.com/articles/view/i-survived-14-others-died-migrant-rescued-from-dinghy-describes-ordeal.728903?fbclid=IwAR0JFJh4LMS7YWRTEZBrjtXVOvVNKSFIFMzHJIG53_dPxLuJZkzsPJiKfzI)
+[![](../assets/3a87f3db41db/d12f90f317f37dd0cbcdc329146b14ca18a37b25-1565853052-5d55057c-1200x630.jpg)](https://timesofmalta.com/articles/view/i-survived-14-others-died-migrant-rescued-from-dinghy-describes-ordeal.728903?fbclid=IwAR0JFJh4LMS7YWRTEZBrjtXVOvVNKSFIFMzHJIG53_dPxLuJZkzsPJiKfzI)
 
 
 A video showing his rescue here:
 
 
-[![](https://cdn-attachments.timesofmalta.com/cb6e63e3e912742c965e2e24e2439fba0c7889d2-1565777662-5d53defe-1200x630.jpg)](https://timesofmalta.com/articles/view/watch-video-reveals-moment-stranded-migrants-were-spotted-from-the-air.728753)
+[![](../assets/3a87f3db41db/cb6e63e3e912742c965e2e24e2439fba0c7889d2-1565777662-5d53defe-1200x630.jpg)](https://timesofmalta.com/articles/view/watch-video-reveals-moment-stranded-migrants-were-spotted-from-the-air.728753)
 
 
 \(Disclaimer: The video shows Mohammed Adam Oga being collapsed over the dead body of his friend\. \)
@@ -269,7 +269,7 @@ After 3 Afghans have been deported from Finland to Kabul a few days ago, another
 In the Netherlands, rights of LGBTI refugees are still not adhered to probably\. The IND \(Immigration and Naturalisation Service\) is still using terms that should have been banned earlier, following a new work instruction form September 2018\. LGBT Asylum Support has launched a petition named NietGayGenoeg 2\.0 \(not gay enough\) to call on the State Secretary and House of Representative to end this practices and guarantee the rights of LGBT refugees\.
 
 
-[![](https://nietgaygenoeg.petities.nl/system/uploads/12039/listing/05-25_opzet_petitie_NietGayGenoeg_2.0.jpg?1558602224)](https://nietgaygenoeg.petities.nl/?fbclid=IwAR039ZvzZzxeMKKPUKbwvikPh3B2MsgyrASHDj_aVOXcA1YZMGD3q_3N6go)
+[![](../assets/3a87f3db41db/05-25_opzet_petitie_NietGayGenoeg_2.0.jpg)](https://nietgaygenoeg.petities.nl/?fbclid=IwAR039ZvzZzxeMKKPUKbwvikPh3B2MsgyrASHDj_aVOXcA1YZMGD3q_3N6go)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**

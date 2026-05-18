@@ -226,7 +226,7 @@ A former office building has been refurbished in Corsico and turned into a multi
 It is part of IKEA Italia’s campaign — _Un posto da chiamare casa_ \(A place to call home\) — that has created 750 hosting projects across the country\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/d3624894a47ef45343c26614fc5c83265fbf704b.jpg)](https://www.infomigrants.net/en/post/43407/italy-second-life-building-in-corsico-for-refugees)
+[![](../assets/4758ccf8a545/d3624894a47ef45343c26614fc5c83265fbf704b.jpg)](https://www.infomigrants.net/en/post/43407/italy-second-life-building-in-corsico-for-refugees)
 
 #### GERMANY
 ### Afghan refugee programme ‘extremely questionable’
@@ -241,7 +241,7 @@ Issues have been raised on several occasions, and thousands of Afghans are still
 They had apparently been abandoned by smugglers in the forest\. 11 out of the 23 have already been sent back to the Czech Republic\. The police have stated that the other 12 individuals will also be sent back\.
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/f1b9542e67d3bbdef28bb966a78ae94627aa95db.jpg)](https://www.infomigrants.net/en/post/43426/23-migrants-left-on-germanczech-border-by-smugglers)
+[![](../assets/4758ccf8a545/f1b9542e67d3bbdef28bb966a78ae94627aa95db.jpg)](https://www.infomigrants.net/en/post/43426/23-migrants-left-on-germanczech-border-by-smugglers)
 
 #### UK
 ### After the recent expression and acts of Islamophobia in Leicester, a solidarity protest has been organised for Thursday
@@ -251,7 +251,7 @@ They had apparently been abandoned by smugglers in the forest\. 11 out of the 23
 
 
 
-[![](https://www.newarab.com/sites/default/files/styles/600x338/public/1081635852.jpeg?h=119335f7&itok=IIw0VSDC)](https://english.alaraby.co.uk/news/uk-disorder-erupts-between-muslims-hindus-leicester)
+[![](../assets/4758ccf8a545/1081635852.jpeg)](https://english.alaraby.co.uk/news/uk-disorder-erupts-between-muslims-hindus-leicester)
 
 ### Home Office refuses to accelerate the visa case for a woman with terminal cancer
 
@@ -269,21 +269,21 @@ MP Diane Abbott, as well as Eulalee’s friends and family members have all reac
 
 
 
-[![](https://i.guim.co.uk/img/media/d662a63cb30e67753042ea1097494d785c3f6390/0_283_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8394d7eb27f9e47e57bfc6a3d5a3c57e)](https://www.theguardian.com/politics/2022/sep/19/home-office-immigration-visa-case-further-leave-to-remain?CMP=Share_AndroidApp_Other)
+[![](../assets/4758ccf8a545/6720.jpg)](https://www.theguardian.com/politics/2022/sep/19/home-office-immigration-visa-case-further-leave-to-remain?CMP=Share_AndroidApp_Other)
 
 #### WORTH READING:
 - This Week in Asia — Sri Lankan Muslims struggle to belong after civil war: ‘still outsiders’
 
 
 
-[![](https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/16/ccb7c236-ec2b-4a96-9f63-837476b6c081_86f28f42.jpg?itok=puQg6rdv&v=1663324675)](https://www.scmp.com/week-asia/politics/article/3192787/sri-lankan-muslims-struggle-belong-after-civil-war-still)
+[![](../assets/4758ccf8a545/ccb7c236-ec2b-4a96-9f63-837476b6c081_86f28f42.jpg)](https://www.scmp.com/week-asia/politics/article/3192787/sri-lankan-muslims-struggle-belong-after-civil-war-still)
 
 - Journal of Ethnic and Migration Studies — ‘ [Promising victimhood’: contrasting deservingness requirements in refugee resettlement](https://www.tandfonline.com/doi/pdf/10.1080/1369183X.2022.2117686?needAccess=true)
 - InfoMigrants — Iraq: One million displaced persons without essential papers, NGO
 
 
 
-[![](https://scd.infomigrants.net/media/resize/my_image_small/5abc4bb7a69457475fcbd90678023dd6edb09ee6.jpg)](https://www.infomigrants.net/en/post/43408/iraq-one-million-displaced-persons-without-essential-papers-ngo?preview=1663577190037)
+[![](../assets/4758ccf8a545/5abc4bb7a69457475fcbd90678023dd6edb09ee6.jpg)](https://www.infomigrants.net/en/post/43408/iraq-one-million-displaced-persons-without-essential-papers-ngo?preview=1663577190037)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

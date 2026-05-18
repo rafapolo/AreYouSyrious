@@ -68,7 +68,7 @@ It remains to be seen how well these new solutions will work out\. Former attemp
 For more information in Greek, see:
 
 
-[![](https://www.efsyn.gr/sites/default/files/styles/default/public/2020-06/yphresia_asyloy_2.jpg?itok=m_b2MoKt)](https://www.efsyn.gr/ellada/dikaiomata/247265_metra-gia-ton-synostismo-stin-ypiresia-asyloy-pairnei-tora-ypoyrgeio)
+[![](../assets/a6f5f9370811/yphresia_asyloy_2.jpg)](https://www.efsyn.gr/ellada/dikaiomata/247265_metra-gia-ton-synostismo-stin-ypiresia-asyloy-pairnei-tora-ypoyrgeio)
 
 
 For the Greek Ministry of Migration and Asylum’s statemetn, see its Facebook page: [Migration Greece Info](https://www.facebook.com/migrationgovgr.info)
@@ -148,7 +148,7 @@ For the Amnesty International’s press release, see here:
 For the article in the Guardian, see:
 
 
-[![](https://i.guim.co.uk/img/media/1702f9dbe1446b21c74729c30eab4bfa5273e9e8/0_269_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=55a99ba6136e0d83059c597a2014e8e8)](https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police)
+[![](../assets/a6f5f9370811/1200.jpg)](https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police)
 
 ### SEA
 

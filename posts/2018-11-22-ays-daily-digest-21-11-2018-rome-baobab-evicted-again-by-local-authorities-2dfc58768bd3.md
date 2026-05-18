@@ -209,7 +209,7 @@ Overcast and gloomy inland with intermittent rain\. Fog during the night and in 
 #### AUSTRIA
 
 
-[![](https://static.dw.com/image/42194313_6.jpg)](https://m.dw.com/en/eu-top-court-rules-against-austrian-curbs-on-refugee-rights/a-46390393?fbclid=IwAR378QOVfRntcbcPqb6G6y4VLqzZsy2uURjAuyKm5aflq6osjB3UKHVxdmY)
+[![](../assets/2dfc58768bd3/42194313_6.jpg)](https://m.dw.com/en/eu-top-court-rules-against-austrian-curbs-on-refugee-rights/a-46390393?fbclid=IwAR378QOVfRntcbcPqb6G6y4VLqzZsy2uURjAuyKm5aflq6osjB3UKHVxdmY)
 
 #### ITALY
 

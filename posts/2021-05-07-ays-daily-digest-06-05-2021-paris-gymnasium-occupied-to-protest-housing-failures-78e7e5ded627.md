@@ -247,13 +247,13 @@ Two out of three Senegalese who tried to migrate to the Canarias in the fall of 
 A successful UK\-born actor and father of three is now facing deportation to Jamaica, where his mother is from\. Read his story here:
 
 
-[![](https://static.independent.co.uk/2021/05/04/15/received_372980420077664%20%282%29.jpeg?quality=75&width=1200&auto=webp)](https://www.independent.co.uk/news/uk/home-news/ace-reule-home-office-deportation-b1841799.html?fbclid=IwAR21-12RLwyRMhzAtGRSkPT-_J3ktQHe7bw-LlblkrlTwHFuKIFTJY2GOh0)
+[![](../assets/78e7e5ded627/received_372980420077664%20%282%29.jpeg)](https://www.independent.co.uk/news/uk/home-news/ace-reule-home-office-deportation-b1841799.html?fbclid=IwAR21-12RLwyRMhzAtGRSkPT-_J3ktQHe7bw-LlblkrlTwHFuKIFTJY2GOh0)
 
 
 The European Commission this week disclosed its first strategy on voluntary return and reintegration for migrants, a key step forward in the implementation of its New Pact on Migration and Asylum\. Read more about the program and what its implementation would mean from the Migration Policy Institute\.
 
 
-[![](https://www.migrationpolicy.org/sites/default/files/commentary_photos/IOM_WestAfrica_ReintegrationProgram.jpg)](https://www.migrationpolicy.org/news/european-strategy-voluntary-return-reintegration?fbclid=IwAR3X19xENiOSdcAkgIet4KohwZlUn3_pbPyqR9u_Hq6yUrxiq7wv6L9euls)
+[![](../assets/78e7e5ded627/IOM_WestAfrica_ReintegrationProgram.jpg)](https://www.migrationpolicy.org/news/european-strategy-voluntary-return-reintegration?fbclid=IwAR3X19xENiOSdcAkgIet4KohwZlUn3_pbPyqR9u_Hq6yUrxiq7wv6L9euls)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

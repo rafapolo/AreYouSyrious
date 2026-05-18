@@ -75,7 +75,7 @@ Download the report [here](https://www.borderviolence.eu/wp-content/uploads/Inte
 Note to helpers: many private initiatives and different organisations have formed in order to help people fleeing Ukraine\. However, drawing from experience and advice from organisations focused on women and children, we would like to invite everyone to [be particularly careful](https://missingchildreneurope.eu/war-on-ukraine-protect-children-before-they-go-missing/) both when giving their support, but especially when passing information, contacts or documents of people to other parties, be it organisations or people willing to host/transport/help\. The safety of everyone should be at the heart of everything being done, so please be mindful of this\.
 
 
-[![](https://reliefweb.int/modules/custom/reliefweb_meta/images/default.png)](https://reliefweb.int/report/ukraine/childrens-lives-and-wellbeing-risk-ukraine)
+[![](../assets/e042764da7a6/default.png)](https://reliefweb.int/report/ukraine/childrens-lives-and-wellbeing-risk-ukraine)
 
 ### Racist borders prevail even in war
 

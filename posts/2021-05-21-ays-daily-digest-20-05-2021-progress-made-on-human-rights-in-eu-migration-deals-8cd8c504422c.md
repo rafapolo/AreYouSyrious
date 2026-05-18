@@ -247,7 +247,7 @@ Aarhus, Denmark\. Demonstration in solidarity with Syrian refugees\. \(Photo: Ac
 The closure of Kara Tepe municipal camp marks the end of an era for refugee reception in Greece\. While nobody should ever be forced to live in camps, Kara Tepe was a rare example of how Europe could welcome refugees with some level of dignity — moving towards a better way of securing their rights, health and wellbeing\.
 
 
-[![](https://static.euronews.com/articles/stories/04/98/46/50/1000x563_cmsv2_cafba015-c368-50a5-ac06-238bee6332bc-4984650.jpg)](https://www.euronews.com/2021/05/20/greece-s-most-vulnerable-refugees-are-being-denied-safe-shelter-view?fbclid=IwAR0S5s6I4gKjw_5F0ZeYK1D2NMtuM9MT0OpnxEt7uK5L7pu2GbJ3jN-20GM)
+[![](../assets/8cd8c504422c/1000x563_cmsv2_cafba015-c368-50a5-ac06-238bee6332bc-4984650.jpg)](https://www.euronews.com/2021/05/20/greece-s-most-vulnerable-refugees-are-being-denied-safe-shelter-view?fbclid=IwAR0S5s6I4gKjw_5F0ZeYK1D2NMtuM9MT0OpnxEt7uK5L7pu2GbJ3jN-20GM)
 
 
 Novara Media reporter Sophie K Rosa spoke to a former resident about his experience of the camp, the far\-right threat, and how he thinks residents and activists can work together to resist border violence and the systemic racism of the Home Office\.

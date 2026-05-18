@@ -48,7 +48,7 @@ To read the full letter or to become a signatory please view the following link:
 The Times has shared a short documentary examining the recent upturn in Channel crossings\. In a tweet promoting the documentary, Care4Calais said: “You’ll see all sides of a complicated story that has angered those who think the British and French governments should take a more aggressive approach to enforcement, and saddened those who feel that our country’s reputation for compassion for those in need is being tarnished”\. To watch the full video, please follow the link:
 
 
-[![](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Ffef8fec6-df03-11ea-be9a-df590b2b4ffd.jpg?crop=1280%2C720%2C0%2C0&resize=1200)](https://www.thetimes.co.uk/article/documentary-a-complicated-crisis-in-the-channel-lqnl5vxj5?fbclid=IwAR3h-vivBC9Sop3cpLidJ-f6kEHLJSlPN5fWpGlrAC6AGVqDKtLda_nq_MA)
+[![](../assets/fa831da5dd46/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Ffef8fec6-df03-11ea-be9a-df590b2b4ffd.jpg)](https://www.thetimes.co.uk/article/documentary-a-complicated-crisis-in-the-channel-lqnl5vxj5?fbclid=IwAR3h-vivBC9Sop3cpLidJ-f6kEHLJSlPN5fWpGlrAC6AGVqDKtLda_nq_MA)
 
 ### Italy
 
@@ -101,7 +101,7 @@ In the petition, Fornaisr recounts not only the story of the young man who was t
 To sign, please follow the link below:
 
 
-[![](https://assets.change.org/photos/0/gh/rk/SagHrKRIzsghrFA-1600x900-noPad.jpg?1571064158)](https://www.change.org/p/corte-europea-dei-diritti-dell-uomo-torture-ai-confini-d-europa?recruiter=49271537&recruited_by_id=d01110e0-6811-0130-e4a7-00221964dac8&utm_source=share_petition&utm_medium=copylink&utm_campaign=petition_dashboard)
+[![](../assets/fa831da5dd46/SagHrKRIzsghrFA-1600x900-noPad.jpg)](https://www.change.org/p/corte-europea-dei-diritti-dell-uomo-torture-ai-confini-d-europa?recruiter=49271537&recruited_by_id=d01110e0-6811-0130-e4a7-00221964dac8&utm_source=share_petition&utm_medium=copylink&utm_campaign=petition_dashboard)
 
 ### Greece
 
@@ -270,7 +270,7 @@ https://t.co/XCRC4J8MQJ
 Doctors Without Borders’ Hannah Wallace Bowman tells _The Civil Fleet_ about the medical charity’s imminent return to the central Mediterranean onboard the Sea Watch 4
 
 
-[![](https://thecivilfleet.files.wordpress.com/2020/08/img_0558.jpg?w=1200)](https://thecivilfleet.wordpress.com/2020/08/15/got-to-get-ready-for-rescue-again/?fbclid=IwAR3IwNsRIHewb2Sn9w0gpJujdJpurxZ5mhAUPltravyLLlhG06e_QtFPqoU)
+[![](../assets/fa831da5dd46/img_0558.jpg)](https://thecivilfleet.wordpress.com/2020/08/15/got-to-get-ready-for-rescue-again/?fbclid=IwAR3IwNsRIHewb2Sn9w0gpJujdJpurxZ5mhAUPltravyLLlhG06e_QtFPqoU)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

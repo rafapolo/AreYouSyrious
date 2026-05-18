@@ -25,7 +25,7 @@ A young Iraqi\-Kurdish woman, who is a resident of Germany, received alarming vi
 Poland won’t let them in, Belarus won’t let them stay, and they cannot go back to Iraq, an AYS volunteer reports\. Read more about the particularities of the pushbacks taking place at the Polish\-Belarusian border:
 
 
-[![](https://verfassungsblog.de/wp-content/uploads/2021/10/Baranowska-scaled-e1635512886797-1024x1024.jpg)](https://verfassungsblog.de/the-deadly-woods/?fbclid=IwAR3oaqcy0ToT1EVl6ghIAgmZl8_dJwVXTHQEPqFliP7FqOEvUjKbhysaus8)
+[![](../assets/cd92809f57e7/Baranowska-scaled-e1635512886797-1024x1024.jpg)](https://verfassungsblog.de/the-deadly-woods/?fbclid=IwAR3oaqcy0ToT1EVl6ghIAgmZl8_dJwVXTHQEPqFliP7FqOEvUjKbhysaus8)
 
 
 Follow the thread for a video on one of the many stories from the border with Belarus:
@@ -69,7 +69,7 @@ At least 141 people coming from Maghreb and Sub\-Saharan Africa on board five bo
 Read MSF’s story on children on the move across the Med:
 
 
-[![](https://media.msf.org/AssetLink/n1jb5264varlct1cg4yt503d2y0kq6hl.jpg)](https://www.msf.org/children-rescued-mediterranean-sea-describe-libya-hell?fbclid=IwAR2-liqRmPDfzbAylUGmsmdo3r8uOlVsJYNXf7dNyHx4IuuhH4KvTFD2WEc)
+[![](../assets/cd92809f57e7/n1jb5264varlct1cg4yt503d2y0kq6hl.jpg)](https://www.msf.org/children-rescued-mediterranean-sea-describe-libya-hell?fbclid=IwAR2-liqRmPDfzbAylUGmsmdo3r8uOlVsJYNXf7dNyHx4IuuhH4KvTFD2WEc)
 
 #### GREECE
 ### Lesvos and deportations

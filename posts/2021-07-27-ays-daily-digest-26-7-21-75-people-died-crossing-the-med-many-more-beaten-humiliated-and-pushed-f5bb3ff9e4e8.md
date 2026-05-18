@@ -229,7 +229,7 @@ In Britain, a total of 378 people were detained by the UK authorities in 12 inci
 
 
 
-[![](https://www.humanrights360.org/wp-content/uploads/2021/09/evros-overall-report-july-1.jpg)](https://www.humanrights360.org/violations-of-human-rights-in-greece-in-the-light-of-european-pact-on-asylum-and-migration-fighting-in-the-dark/?fbclid=IwAR0KHM3ivcxG8V61BqYRGibrsBAj1G0TrXqVlLuqEawThmRuvpkQC4PRh9s)
+[![](../assets/f5bb3ff9e4e8/evros-overall-report-july-1.jpg)](https://www.humanrights360.org/violations-of-human-rights-in-greece-in-the-light-of-european-pact-on-asylum-and-migration-fighting-in-the-dark/?fbclid=IwAR0KHM3ivcxG8V61BqYRGibrsBAj1G0TrXqVlLuqEawThmRuvpkQC4PRh9s)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

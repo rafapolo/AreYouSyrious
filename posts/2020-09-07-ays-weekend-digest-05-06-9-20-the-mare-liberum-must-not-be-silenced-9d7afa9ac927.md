@@ -251,7 +251,7 @@ OpenDemocracy \- OpenJustice:Opinion
 Government rhetoric on migrants is a smoke screen for a deeper agenda:
 
 
-[![](https://cdn2.opendemocracy.net/media/images/PA-55193138.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/openjustice/human-rights-coronavirus/government-rhetoric-migrants-smoke-screen-deeper-agenda/?fbclid=IwAR2yBwjsnz4w5oAVLzvsF_esD2zviLRlWc5hahBuplA229lzLD6rV2j5_IE)
+[![](../assets/9d7afa9ac927/PA-55193138.2e16d0ba.fill-1200x630.jpg)](https://www.opendemocracy.net/en/openjustice/human-rights-coronavirus/government-rhetoric-migrants-smoke-screen-deeper-agenda/?fbclid=IwAR2yBwjsnz4w5oAVLzvsF_esD2zviLRlWc5hahBuplA229lzLD6rV2j5_IE)
 
 
 Niamh Ni Bhriain
@@ -264,13 +264,13 @@ The Deadly Politics of Colonial Borders during the COVID\-19 Pandemic:
 My Name is Not Refugee and The Boy With Two Hearts on Bishop’s Stortford College librarian Lizzie Hall’s recommended reading list on the subject of refugees:
 
 
-[![](https://www.bishopsstortfordindependent.co.uk/_media/img/ILSVTOT4VYBV6NZD8X1J.jpg)](https://www.bishopsstortfordindependent.co.uk/whats-on/read-these-incredible-and-inspiring-stories-to-better-understand-the-plight-of-refugees-9121581/?fbclid=IwAR14YjdpgNbT0tsSzCIoh6lkGimJTKu3dQlf1w4VPU6MdPgo29mutqYWM24)
+[![](../assets/9d7afa9ac927/ILSVTOT4VYBV6NZD8X1J.jpg)](https://www.bishopsstortfordindependent.co.uk/whats-on/read-these-incredible-and-inspiring-stories-to-better-understand-the-plight-of-refugees-9121581/?fbclid=IwAR14YjdpgNbT0tsSzCIoh6lkGimJTKu3dQlf1w4VPU6MdPgo29mutqYWM24)
 
 
 “Politics of letting die” at EU borders:
 
 
-[![](https://www.tagesschau.de/multimedia/bilder/eu-aussengrenze-101~_v-original.jpg)](https://www.tagesschau.de/ausland/migrationsforschung-flucht-interview-101.html?fbclid=IwAR14YjdpgNbT0tsSzCIoh6lkGimJTKu3dQlf1w4VPU6MdPgo29mutqYWM24)
+[![](../assets/9d7afa9ac927/eu-aussengrenze-101~_v-original.jpg)](https://www.tagesschau.de/ausland/migrationsforschung-flucht-interview-101.html?fbclid=IwAR14YjdpgNbT0tsSzCIoh6lkGimJTKu3dQlf1w4VPU6MdPgo29mutqYWM24)
 
 
 Refugee Phrase Book:

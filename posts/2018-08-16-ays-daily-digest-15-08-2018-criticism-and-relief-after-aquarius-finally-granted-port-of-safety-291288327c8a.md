@@ -180,7 +180,7 @@ Also an old couple, maybe in their 80s, the gentleman looking so much like my gr
 Please click below and support this initiative to provide first aid and medical care for refugees in Paris:
 
 
-[![](https://images.gofundme.com/Hj2U0YaLEJaqH6AJRQ7kuttwWMw=/720x405/https://d2g8igdw686xgo.cloudfront.net/30989230_1531337616139886_r.jpeg)](https://www.gofundme.com/medical-support-for-refugees)
+[![](../assets/291288327c8a/30989230_1531337616139886_r.jpeg)](https://www.gofundme.com/medical-support-for-refugees)
 
 
 Elena Lydon continues on her Facebook page:
