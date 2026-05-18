@@ -152,7 +152,7 @@ Legis filed a complaint against Macedonia in the European Court of Human Rights 
 For the full report, click below\.
 
 
-[![](https://www.ecchr.eu/fileadmin/_processed_/f/5/csm_MIG_EN_FB_fb539279f7.png)](https://www.ecchr.eu/en/our_work/international-crimes-and-accountability/migration.html)
+[![](../assets/bddfb7acd057/csm_MIG_EN_FB_fb539279f7.png)](https://www.ecchr.eu/en/our_work/international-crimes-and-accountability/migration.html)
 
 ### BULGARIA
 ### Asylum seekers to be integrated in in Bulgaria, and a way to help volunteer efforts\.
