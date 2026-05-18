@@ -134,7 +134,7 @@ Photo by picture\-alliance/AP Photo
 > **[Alarm Phone](https://twitter.com/alarm_phone) @ Twitter Says:** 
 
 > > 👉Watch the extended version of Monitor’s documentary on the Easter massacre off Malta’s coast, which left 12 people dead. Listen to the survivors who were forced back to torture camps in Libya. @[georgrestle](https://twitter.com/georgrestle)
-[youtube.com/watch?v=HzFHb9…](https://www.youtube.com/watch?v=HzFHb97DCeU&feature=youtu.be) 
+[![youtube.com/watch?v=HzFHb9…](../assets/cdbc50dc1b1d/HzFHb97DCeU_hqdefault.jpg)](https://www.youtube.com/watch?v=HzFHb97DCeU&feature=youtu.be)
 
 > **Tweeted at [2020-06-09 11:37:52](https://twitter.com/alarm_phone/status/1270319197504057345).** 
 

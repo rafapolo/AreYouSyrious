@@ -46,7 +46,7 @@ Some 1200 people live in the camp in Bamberg\. The refugee council even stated t
 Activists from Close Ellebæk have information about a suicide in the Ellebæk camp\. He was about to be transferred to Germany\. “He previously sought asylum in Germany, but the Danish police told him he would be returned his country of origin\.”
 
 
-[![](https://miro.medium.com/max/940/1*a41DRW92ceNqALmwMsHVBg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-elleb%C3%A6k-deportation-camp-denmarks-forgotten-closed-prison-bc7b5aa587f8)
+[![](../assets/a697d3486661/1_a41DRW92ceNqALmwMsHVBg.jpeg)](https://medium.com/are-you-syrious/ays-special-from-elleb%C3%A6k-deportation-camp-denmarks-forgotten-closed-prison-bc7b5aa587f8)
 
 ### Serbia: Four people died in truck
 

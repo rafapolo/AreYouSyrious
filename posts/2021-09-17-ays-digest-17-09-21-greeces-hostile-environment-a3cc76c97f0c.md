@@ -159,7 +159,7 @@ Perhaps the EU should take some inspiration from Canada…
 
 Here's an example (from 🇨🇦) how the private sector can contribute to opening safe pathways, if governments provide the necessary administrative framework
 
-[youtu.be/C_upB_Y21yA](https://youtu.be/C_upB_Y21yA) 
+[![youtu.be/C_upB_Y21yA](../assets/a3cc76c97f0c/C_upB_Y21yA_hqdefault.jpg)](https://youtu.be/C_upB_Y21yA)
 
 > **Tweeted at [2021-09-16 15:00:09](https://twitter.com/tihomirsabchev/status/1438518071539343366).** 
 

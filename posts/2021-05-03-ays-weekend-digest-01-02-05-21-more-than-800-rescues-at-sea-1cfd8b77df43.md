@@ -55,7 +55,7 @@ In another incident, Alarm Phone warned of 95 people in distress in internationa
 
 > > “We're nearly 100 people, we are going to die if you don't help us. Please! The engine stopped. Can you imagine if you've children &amp; you feel they are going to die in the sea. It's so hard." Thanks @[PiazzapulitaLA7](https://twitter.com/PiazzapulitaLA7) for helping with the video.
 
-[youtube.com/watch?v=Uh56KI…](https://www.youtube.com/watch?v=Uh56KIbxsPM&ab_channel=AlarmPhone) 
+[![youtube.com/watch?v=Uh56KI…](../assets/1cfd8b77df43/Uh56KIbxsPM_hqdefault.jpg)](https://www.youtube.com/watch?v=Uh56KIbxsPM&ab_channel=AlarmPhone)
 
 > **Tweeted at [2021-05-02 12:51:21](https://twitter.com/alarm_phone/status/1388838519397916678).** 
 

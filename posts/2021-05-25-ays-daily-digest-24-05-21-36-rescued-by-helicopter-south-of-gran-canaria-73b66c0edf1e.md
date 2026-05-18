@@ -200,7 +200,7 @@ As we reported in our Weekend Digest, more are coming out in solidarity after th
 
 [NNK’s Donor Box here\.](https://donorbox.org/humanitarian-crisis-in-ceuta?fbclid=IwAR1KgcInXL0-8zm_MvQk6OLONeObeM5tUzkEge18RfPzA2NAb1B3Z4HKvn4)
 
-[Humanitarian Crisis in Ceuta video here\.](https://www.youtube.com/watch?v=WW1yO3uQBIA)
+[![Humanitarian Crisis in Ceuta video here\.](../assets/73b66c0edf1e/WW1yO3uQBIA_hqdefault.jpg)](https://www.youtube.com/watch?v=WW1yO3uQBIA)
 #### GERMANY
 
 

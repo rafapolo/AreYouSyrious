@@ -116,7 +116,7 @@ A court has ruled against a pushback group who were removed from North Macedonia
 
 [Six Years since the EU Deal with Turkey written by Levos\-based NGO Fenix](https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2022/04/six-years-europes?fbclid=IwAR2ig56JZE1e_0UWZljTNejwGjBQUPfridJ7fY6mLXA0Tl2MgehC3xUAb0Y)
 
-[New Animated Film — Released this week by No Name Kitchen](https://www.youtube.com/watch?v=AFz3PVVckC0)
+[![New Animated Film — Released this week by No Name Kitchen](../assets/43bb843947e3/AFz3PVVckC0_hqdefault.jpg)](https://www.youtube.com/watch?v=AFz3PVVckC0)
 
 [Pushbacks in Greece — detailed piece from the Oxford Law Faculty](https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2022/04/pushbacks-greece?fbclid=IwAR07ptxxaXm81TKx7nm3pQs2AXKgd-YFp9Sr4OIUN-KVF4uFhnf_5Y9l5Bg)
 

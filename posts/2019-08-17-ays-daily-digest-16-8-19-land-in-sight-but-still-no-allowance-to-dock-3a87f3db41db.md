@@ -115,7 +115,7 @@ In the past 14 months, since Italy forbid landing of SAR ships to Italian ports,
 Due to bombings by the Syrian Regime and Russian forces, 124,000 civilians have been displaced from Idlib area towards the Syrian\-Turkish border during the holiday of Eid al\-Adha\. For more information see:
 
 
-[![](https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2019/01/Refugees20190109_2_34335703_40591167.jpg?resize=1200%2C799&quality=85&strip=all&zoom=1&ssl=1)](https://www.middleeastmonitor.com/20190816-around-124000-syrians-displaced-during-eid-al-adha/)
+[![](../assets/3a87f3db41db/Refugees20190109_2_34335703_40591167.jpg)](https://www.middleeastmonitor.com/20190816-around-124000-syrians-displaced-during-eid-al-adha/)
 
 ### TURKEY
 

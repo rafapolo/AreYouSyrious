@@ -63,7 +63,7 @@ Junior justice minister Mark Harbers told members of the parliament that the gov
 A new protest against the Danish detention centers takes place tomorrow at Ellebæk in North Zealand\. The event is planned to make use of more confrontational but non\-violent forms of civil disobedience, and bus transport from Copenhagen is being arranged\.
 
 
-[![](https://i0.wp.com/konfront.dk/wp-content/uploads/2019/04/56899523_2222088418046081_7700536565390376960_n.jpg?fit=480%2C360&ssl=1)](https://konfront.dk/luk-ellebaek/?fbclid=IwAR1ppFMQgr2Q6MVRMykujph6FJ43Ayjgy1YkPKx9KPIwSrx_-YFwOyDMXNU)
+[![](../assets/c069c9232ad1/56899523_2222088418046081_7700536565390376960_n.jpg)](https://konfront.dk/luk-ellebaek/?fbclid=IwAR1ppFMQgr2Q6MVRMykujph6FJ43Ayjgy1YkPKx9KPIwSrx_-YFwOyDMXNU)
 
 
 **Apart from daily news in English, we also publish weekly summaries in Arabic and Persian\. Find specials in both languages on our medium site\.**

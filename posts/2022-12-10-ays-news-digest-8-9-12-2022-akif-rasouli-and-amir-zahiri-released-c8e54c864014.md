@@ -155,7 +155,7 @@ These murders are thought to have been carried out by rival traffickers\. While 
 
 > > Strong interventions from comrades affected by the racist border regimes are continuing in our livestream:
 
-[youtu.be/6yr0vcAGTD0](https://youtu.be/6yr0vcAGTD0)
+[![youtu.be/6yr0vcAGTD0](../assets/c8e54c864014/6yr0vcAGTD0_hqdefault.jpg)](https://youtu.be/6yr0vcAGTD0)
 
 Listen here to spokesperson @[Yambiodavid](https://twitter.com/Yambiodavid) of @[RefugeesinLibya](https://twitter.com/RefugeesinLibya) https://t.co/BmVVLm4cAW 
 

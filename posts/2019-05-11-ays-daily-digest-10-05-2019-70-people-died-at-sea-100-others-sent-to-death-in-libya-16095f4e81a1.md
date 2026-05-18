@@ -159,7 +159,7 @@ Speaking at the [press conference](https://www.youtube.com/watch?feature=share&v
 These accounts are also in line with Slovenian police practice, for which expulsion is one of the steps in the obviously arranged MO based on the policies of securitisation\. Here is a report on push backs from Slovenia:
 
 
-[![](https://miro.medium.com/max/720/1*h8fj81vpqqNRrVDG9wVvfw.jpeg)](https://medium.com/are-you-syrious/report-on-illegal-practice-of-collective-expulsion-on-slovene-croatian-border-e1210bf7dd8f)
+[![](../assets/16095f4e81a1/1_h8fj81vpqqNRrVDG9wVvfw.jpeg)](https://medium.com/are-you-syrious/report-on-illegal-practice-of-collective-expulsion-on-slovene-croatian-border-e1210bf7dd8f)
 
 #### GERMANY
 

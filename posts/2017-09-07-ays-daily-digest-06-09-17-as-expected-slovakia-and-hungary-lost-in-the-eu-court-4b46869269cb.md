@@ -215,7 +215,7 @@ Information about children’s \(lack\) of protection following Brexit, and pote
 
 [On the 4th of September there was a riot in the village Jyväskylä in the middle of Finland](https://www.garda.com/crisis24/news-alerts/71046) \. Police and asylum seekers clashed heavily\. There isn’t much information available in English, but a family that was to be deported back to Afghanistan seems to have been a trigger\. The police used, as clearly shown in the videos, violence against the protesters\. There are people screeming, and in one of the scenes a women cries out loudly as she is trying to cross the road\.
 
-[Finnish police throws refugee to bush at protest in Jyväskylä, Finland](http://www.youtube.com/watch?v=TlRQqRFwXK8)
+[![Finnish police throws refugee to bush at protest in Jyväskylä, Finland](../assets/4b46869269cb/TlRQqRFwXK8_hqdefault.jpg)](http://www.youtube.com/watch?v=TlRQqRFwXK8)
 
 If anyone’s interested, [here’s the location](https://www.google.se/maps/place/Jyv%C3%A4skyl%C3%A4,+Finland/@62.1339171,23.4145528,7z/data=!4m5!3m4!1s0x46857415d1a93119:0xba57697d6790a2d7!8m2!3d62.2426034!4d25.7472567) of the events on Monday in Finland\.
 ### SWEDEN

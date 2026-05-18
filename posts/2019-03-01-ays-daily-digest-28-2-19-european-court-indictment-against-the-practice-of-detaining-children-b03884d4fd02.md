@@ -63,7 +63,7 @@ Therefore, in short, all the laws regarding \(unaccompanied\) refugee children m
 
 
 
-[![](https://miro.medium.com/max/1200/1*k2cACqDSfjtjBZV_BopkvA.png)](https://medium.com/are-you-syrious/ays-special-the-eu-family-reunification-system-is-broken-and-its-tearing-families-apart-a6d7f9edf7f5)
+[![](../assets/b03884d4fd02/1_k2cACqDSfjtjBZV_BopkvA.png)](https://medium.com/are-you-syrious/ays-special-the-eu-family-reunification-system-is-broken-and-its-tearing-families-apart-a6d7f9edf7f5)
 
 #### TURKEY
 

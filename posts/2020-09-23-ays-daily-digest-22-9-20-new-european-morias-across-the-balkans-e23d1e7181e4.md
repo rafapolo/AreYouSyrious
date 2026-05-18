@@ -337,7 +337,7 @@ However, the official reaction is often not the one people would expect — to w
 
 Escucha el audio completo
 
-[youtu.be/3xmxh9Y9R0E](https://youtu.be/3xmxh9Y9R0E)
+[![youtu.be/3xmxh9Y9R0E](../assets/e23d1e7181e4/3xmxh9Y9R0E_hqdefault.jpg)](https://youtu.be/3xmxh9Y9R0E)
 
 Esto es lo poco que le importa el derecho a la vida a Marlaska y @[abalosmeco](https://twitter.com/abalosmeco) https://t.co/Tg0GwCdttw 
 

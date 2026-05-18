@@ -46,7 +46,7 @@ Describing the difficulties in pursuing any information about his brother, [Zana
 
 Following the report “ [**Inhumane and illegal practices against asylum seekers at the EU’s external borders”**](https://www.europarl.europa.eu/doceo/document/P-9-2021-005519_EN.html?fbclid=IwAR0DffsQyeSSauSgzZS7Hamhc6g1PRAGi2YToWM-mN7X6MjhexproBZM7bI) , calls for action have been made\. This comes as the publication of the [story of Aliou Candé from Guinea\-Bissau](https://www.theoutlawocean.com/investigations/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe/) who died imprisoned in Libya made the mainstream press\. Whilst the report highlights many important points, [it’s not new news\.](https://twitter.com/JFCrisp/status/1473039101146320904?fbclid=IwAR2SSge4DrmoYQNBkoiYkVWOZiNXfuOR8QbOWS17DE2sdTeDONSLl-1KTn0)
 
-[A video by Libyan American Alliance who hosted a conversation on their recent policy paper, Trapped in a Cycle of Abuse: Migrants, Refugees Transnational Illicit Human Trafficking and Smuggling of Refugees, Migrants in Libya](https://www.youtube.com/watch?v=eaSjo_aeZGw)
+[![A video by Libyan American Alliance who hosted a conversation on their recent policy paper, Trapped in a Cycle of Abuse: Migrants, Refugees Transnational Illicit Human Trafficking and Smuggling of Refugees, Migrants in Libya](../assets/49cbb04e307e/eaSjo_aeZGw_hqdefault.jpg)](https://www.youtube.com/watch?v=eaSjo_aeZGw)
 ### SEA — SAR
 ### Accusations against Malta as hundreds remain on Sea Eye 4
 

@@ -160,7 +160,7 @@ However, so far not a single person came\. What’s the sticking point in the re
 ### Want to help?
 
 **UK** — There is [a call](https://www.facebook.com/groups/PeopletoPeopleSolidaritySouthernSEEurope/permalink/557323274465343/) to collect clothes that will be shipped in containers to Lebanon to keep warm and support Lebanon’s Syrian refugees\. 
- video: [https://www\.youtube\.com/watch?v=xplnM3PO\-oo](https://www.youtube.com/watch?v=xplnM3PO-oo)
+ video: [![https://www\.youtube\.com/watch?v=xplnM3PO\-oo](../assets/16a3b19823b0/xplnM3PO-oo_hqdefault.jpg)](https://www.youtube.com/watch?v=xplnM3PO-oo)
 
 **France** — [Kali](https://www.facebook.com/assokali/?fref=nf) association is collecting metro tickets and mobile phones to give the refugee women their group is supporting\. If you can provide them with a metro ticket or two or you have an extra mobile phone you don’t use, contact them on Facebook or write to: [association\.kali@gmail\.com](mailto:association.kali@gmail.com)
 

@@ -36,7 +36,7 @@ Five [people drowned](https://rp-online.de/politik/ausland/mindestens-fuenf-flue
 > **[Malachy Browne](https://twitter.com/malachybrowne) @ Twitter Says:** 
 
 > > 2/2 Our investigation into the attack with @[sallyhayd](https://twitter.com/sallyhayd) and @[saracreta](https://twitter.com/saracreta) showed the migrants were being housed beside a weapons depot, and that the E.U. ignored calls to relocate them. Close to 200 migrants have since been relocated to Rwanda
-[youtube.com/watch?v=dpPTlm…](https://www.youtube.com/watch?v=dpPTlm_OJjI) 
+[![youtube.com/watch?v=dpPTlm…](../assets/d0d4165aa161/dpPTlm_OJjI_hqdefault.jpg)](https://www.youtube.com/watch?v=dpPTlm_OJjI)
 
 > **Tweeted at [2019-11-06 15:03:34](https://twitter.com/malachybrowne/status/1192095185355857920).** 
 

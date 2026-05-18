@@ -70,7 +70,7 @@ One of the worst perpetrators of this violence, Frontex, decided to mark this da
 
 Sean and Sarah face serious charges for their humanitarian work on the Greek shoreline.
 
-[youtube.com/watch?v=5jU3Pb…](https://www.youtube.com/watch?v=5jU3PbD3aiI) 
+[![youtube.com/watch?v=5jU3Pb…](../assets/b02f67e02cba/5jU3PbD3aiI_hqdefault.jpg)](https://www.youtube.com/watch?v=5jU3PbD3aiI)
 
 > **Tweeted at [2021-05-07 16:21:18](https://twitter.com/amnestyeu/status/1390703295291854848).** 
 

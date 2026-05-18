@@ -75,7 +75,7 @@ And again, other crews remain unfazed: Sea Watch has started again in the Medite
 
 > > 🔴 On the busiest weekend in the #Mediterranean 2019 our #Moonbird aircrew witnessed this desperate attempt of people trying to escape the so-called #Libya|n Coast Guard swimming:
 
-[youtu.be/x0Ms4YspebQ](https://youtu.be/x0Ms4YspebQ) 
+[![youtu.be/x0Ms4YspebQ](../assets/6824c5e82443/x0Ms4YspebQ_hqdefault.jpg)](https://youtu.be/x0Ms4YspebQ)
 
 #VosTriton #DefendSolidarity 
 

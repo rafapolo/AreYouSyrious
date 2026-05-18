@@ -221,7 +221,7 @@ Why are migrants trying to come to the UK from France?
 
 Good morning, folks 😊
 
-[youtube.com/watch?v=S8t6FT…](https://www.youtube.com/watch?v=S8t6FTVZjuc) 
+[![youtube.com/watch?v=S8t6FT…](../assets/e3b7cfc7d7e5/S8t6FTVZjuc_hqdefault.jpg)](https://www.youtube.com/watch?v=S8t6FTVZjuc)
 
 > **Tweeted at [2020-08-09 07:26:04](https://twitter.com/zoejardiniere/status/1292361488280289284).** 
 

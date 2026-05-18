@@ -198,7 +198,7 @@ Last year, Lorenzo D’Agostino managed to interview one of the survivors\.
 
 > > He gave an interview to @[VICENews](https://twitter.com/VICENews), I was the producer. In an unpublished bit he said: "A big petrol ship brought us back to Libya, after telling us 'We’re going to Italy'. I will never forget its name: because of that ship I lived the hell of my life" 2/4
 
-[youtu.be/ZYGvAjYyKWI?t=…](https://youtu.be/ZYGvAjYyKWI?t=186) 
+[![youtu.be/ZYGvAjYyKWI?t=…](../assets/929023b816d8/ZYGvAjYyKWI_hqdefault.jpg)](https://youtu.be/ZYGvAjYyKWI?t=186)
 
 > **Tweeted at [2020-07-20 10:13:53](https://twitter.com/lorenzodago/status/1285155962089811968).** 
 

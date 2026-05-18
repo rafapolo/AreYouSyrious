@@ -108,7 +108,7 @@ NoBorders posted a video from Exarchia, where the police and military presence i
 #antireport #Exarcheia_resist 
 Ματατζής φωνάζει RAUS σε πρόσφυγες στη Νοταρά στα Εξάρχεια #Greece @Notara26 
 
-[youtu.be/6UVQ4tYDen8](https://youtu.be/6UVQ4tYDen8) 
+[![youtu.be/6UVQ4tYDen8](../assets/44ae5503df7/6UVQ4tYDen8_hqdefault.jpg)](https://youtu.be/6UVQ4tYDen8)
 
 > **Tweeted at [2019-10-30 19:14:04](https://twitter.com/refugees_gr/status/1189621507426803712).** 
 

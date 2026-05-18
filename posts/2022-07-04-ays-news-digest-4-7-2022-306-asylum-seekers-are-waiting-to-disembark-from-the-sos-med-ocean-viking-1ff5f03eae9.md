@@ -282,7 +282,7 @@ Source: Huck, 3/7/2022
 Portable backpack showers. 🚿
 A No Name Kitchen &amp; Collettivo Rotte Balcaniche project.
 
-[youtube.com/watch?v=d40Znu…](https://www.youtube.com/watch?v=d40ZnuzA2W8) 
+[![youtube.com/watch?v=d40Znu…](../assets/1ff5f03eae9/d40ZnuzA2W8_hqdefault.jpg)](https://www.youtube.com/watch?v=d40ZnuzA2W8)
 
 > **Tweeted at [2022-06-03 10:16:16](https://twitter.com/nonamekitchen1/status/1532667474486992896).** 
 
