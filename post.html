@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AreYouSyrious</title>
+<script>if(localStorage.getItem('ays-theme')==='dark')document.documentElement.classList.add('dark');</script>
+<style>
+  :root{--bg:#fff;--fg:#1a1a1a;--muted:#666;--accent:#FF2700;--border:#DBDBDB;--soft:#F5F5F5;--w:740px;--pad:clamp(1rem,4vw,3rem)}
+  html.dark{--bg:#0d0d0d;--fg:#e4e4e4;--muted:#888;--border:#2a2a2a;--soft:#161616}
+  html.dark .top-bar{background:#0d0d0d}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--fg);font:16px/1.7 "Helvetica Neue",Helvetica,Arial,sans-serif;padding:3.2rem var(--pad) 4rem}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .top-bar{position:fixed;top:0;left:0;right:0;z-index:100;background:var(--bg);border-bottom:3px solid var(--accent);padding:.5rem var(--pad);display:flex;align-items:center;gap:1rem}
+  .top-bar h1{font-size:1rem;margin:0;letter-spacing:-.03em;color:var(--accent);font-weight:900;text-transform:uppercase}
+  .top-links{margin-left:auto;display:flex;align-items:center;gap:1.5rem;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em}
+  .top-links a{color:var(--muted);text-decoration:none}
+  .top-links a:hover{color:var(--accent)}
+  .theme-btn{background:none;border:none;cursor:pointer;color:var(--muted);padding:.2rem;line-height:1;display:flex;align-items:center}
+  .theme-btn:hover{color:var(--accent)}
+  .icon-sun{display:none}.icon-moon{display:block}
+  html.dark .icon-sun{display:block}html.dark .icon-moon{display:none}
+
+  article{max-width:var(--w);margin:2rem auto 0}
+  .post-meta{margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid var(--border)}
+  .post-date{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;font-weight:700;margin-bottom:.6rem}
+  .post-title{font-size:clamp(1.3rem,2.5vw,1.9rem);font-weight:900;letter-spacing:-.03em;line-height:1.2;color:var(--fg)}
+
+  .post-body{color:var(--fg)}
+  .post-body p{margin-bottom:1.1rem}
+  .post-body h1,.post-body h2,.post-body h3,.post-body h4{font-weight:800;letter-spacing:-.02em;margin:2rem 0 .75rem;line-height:1.25;color:var(--fg)}
+  .post-body h1{font-size:1.6rem}
+  .post-body h2{font-size:1.3rem}
+  .post-body h3{font-size:1.1rem}
+  .post-body h4{font-size:1rem}
+  .post-body ul,.post-body ol{margin:0 0 1.1rem 1.5rem}
+  .post-body li{margin-bottom:.3rem}
+  .post-body blockquote{border-left:3px solid var(--accent);margin:1.25rem 0;padding:.5rem 1rem;color:var(--muted);font-style:italic}
+  .post-body blockquote p{margin-bottom:0}
+  .post-body img{max-width:100%;height:auto;display:block;margin:1.5rem auto}
+  .post-body em{font-style:italic;color:var(--muted);font-size:.9em}
+  .post-body strong{font-weight:700}
+  .post-body hr{border:none;border-top:1px solid var(--border);margin:2rem 0}
+  .post-body code{background:var(--soft);padding:.15em .4em;font-family:monospace;font-size:.88em}
+  .post-body pre{background:var(--soft);padding:1rem;overflow-x:auto;margin-bottom:1.1rem}
+  .post-body pre code{background:none;padding:0}
+  .post-body a{color:var(--accent)}
+  .post-body a:hover{text-decoration:underline}
+
+  .back-link{display:inline-flex;align-items:center;gap:.4rem;font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);text-decoration:none;margin-bottom:1.5rem}
+  .back-link:hover{color:var(--accent)}
+  .back-link::before{content:"←"}
+
+  #loading{color:var(--muted);font-size:.9rem;padding:2rem 0}
+  #error{color:var(--accent);font-size:.9rem;padding:2rem 0}
+
+  footer{max-width:var(--w);margin:3rem auto 0;color:var(--muted);font-size:.75rem;border-top:1px solid var(--border);padding-top:1rem}
+
+  @media(max-width:600px){
+    .post-title{font-size:1.3rem}
+  }
+</style>
+</head>
+<body>
+<div class="top-bar">
+  <h1>AreYouSyrious</h1>
+  <div class="top-links">
+    <a href="index.html">Archive</a>
+    <a href="timeline.html">Timeline</a>
+    <a href="images.html">Images</a>
+    <button class="theme-btn" id="theme-btn" title="Toggle dark/light mode" aria-label="Toggle dark/light mode">
+      <svg class="icon-moon" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+    </button>
+  </div>
+</div>
+
+<article>
+  <a class="back-link" href="index.html">Back to archive</a>
+  <div id="loading">Loading…</div>
+  <div id="error" style="display:none"></div>
+  <div class="post-meta" style="display:none" id="post-meta">
+    <div class="post-date" id="post-date"></div>
+    <div class="post-title" id="post-title"></div>
+  </div>
+  <div class="post-body" id="post-body"></div>
+</article>
+
+<footer>
+  <span>AreYouSyrious — daily digest on refugees in Europe, 2016–2025</span>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+(function(){
+  const btn = document.getElementById('theme-btn');
+  btn.addEventListener('click', () => {
+    document.documentElement.classList.toggle('dark');
+    localStorage.setItem('ays-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+  });
+
+  function parseFrontmatter(text) {
+    const fm = {};
+    if (!text.startsWith('---')) return { fm, body: text };
+    const end = text.indexOf('\n---', 3);
+    if (end === -1) return { fm, body: text };
+    const block = text.slice(4, end);
+    block.split('\n').forEach(line => {
+      const colon = line.indexOf(':');
+      if (colon === -1) return;
+      const key = line.slice(0, colon).trim();
+      let val = line.slice(colon + 1).trim().replace(/^"|"$/g, '');
+      fm[key] = val;
+    });
+    return { fm, body: text.slice(end + 4) };
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    if (isNaN(d)) return iso;
+    return d.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  const params = new URLSearchParams(location.search);
+  const filename = params.get('p');
+  if (!filename) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error').style.display = '';
+    document.getElementById('error').textContent = 'No post specified.';
+    return;
+  }
+
+  fetch('posts/' + filename)
+    .then(r => {
+      if (!r.ok) throw new Error('Post not found (' + r.status + ')');
+      return r.text();
+    })
+    .then(raw => {
+      document.getElementById('loading').style.display = 'none';
+
+      const { fm, body } = parseFrontmatter(raw);
+
+      // fix image paths: ../assets/ → assets/
+      const fixedBody = body.replace(/\(\.\.\/assets\//g, '(assets/');
+
+      const title = (fm.title || '').replace(/^"|"$/g, '');
+      const date = formatDate(fm.date || filename.slice(0, 10));
+
+      if (title) document.title = title + ' — AreYouSyrious';
+      document.getElementById('post-date').textContent = date;
+      document.getElementById('post-title').textContent = title;
+      document.getElementById('post-meta').style.display = '';
+      document.getElementById('post-body').innerHTML = marked.parse(fixedBody);
+    })
+    .catch(err => {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').style.display = '';
+      document.getElementById('error').textContent = 'Could not load post: ' + err.message;
+    });
+})();
+</script>
+</body>
+</html>
