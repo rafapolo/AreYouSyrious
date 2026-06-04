@@ -88,7 +88,7 @@
     <div class="meta-item"><strong id="total-count">16,021</strong><span>Total images</span></div>
     <div class="meta-item"><strong>9</strong><span>Years covered</span></div>
     <div class="meta-item"><strong>3,145</strong><span>Dispatches</span></div>
-    <div class="meta-item"><strong id="showing-n">300</strong><span>Showing now</span></div>
+    <div class="meta-item"><strong id="showing-n">60</strong><span>Showing now</span></div>
   </div>
 </div>
 
@@ -121,7 +121,7 @@
 <script src="images-data.js"></script>
 <script>
 (function(){
-  var BATCH = 300, MORE = 500;
+  var BATCH = 60, MORE = 120;
   var pool = AYS_IMAGES.slice();
   var cursor = 0;
   var grid = document.getElementById('grid');
@@ -167,20 +167,41 @@
     observeNew();
   }
 
+  /* throttled loader — max 4 concurrent requests to avoid rate-limiting */
+  var CONCURRENCY = 4;
+  var active = 0;
+  var loadQueue = [];
+
+  function drainQueue(){
+    while(active < CONCURRENCY && loadQueue.length){
+      var item = loadQueue.shift();
+      active++;
+      item.img.src = item.src;
+      item.img.removeAttribute('data-src');
+      var settle = function(){ active--; drainQueue(); };
+      item.img.addEventListener('load', settle, {once:true});
+      item.img.addEventListener('error', settle, {once:true});
+    }
+  }
+
+  function enqueueLoad(img, src){
+    loadQueue.push({img:img, src:src});
+    drainQueue();
+  }
+
   var io = new IntersectionObserver(function(entries){
     entries.forEach(function(e){
       if(e.isIntersecting){
         var img = e.target.querySelector('img[data-src]');
         if(img){
-          img.src = img.dataset.src;
-          img.removeAttribute('data-src');
-          img.addEventListener('load',function(){img.classList.add('loaded');});
-          img.addEventListener('error',function(){img.classList.add('loaded');});
+          img.addEventListener('load', function(){img.classList.add('loaded');}, {once:true});
+          img.addEventListener('error', function(){img.classList.add('loaded');}, {once:true});
+          enqueueLoad(img, img.dataset.src);
           io.unobserve(e.target);
         }
       }
     });
-  },{rootMargin:'200px'});
+  },{rootMargin:'0px'});
 
   function observeNew(){
     grid.querySelectorAll('.thumb-item').forEach(function(el){
