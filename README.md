@@ -2,8 +2,6 @@
 
 Offline archive of [AreYouSyrious](https://medium.com/are-you-syrious) — a daily digest on the refugee and migrant situation in Europe, published 2016–2025.
 
-Interactive timeline (2016–2025): [timeline.html](timeline.html)
-
 Chronological record of events (2016–2023): [chronological_list_of_events.md](chronological_list_of_events.md)
 
 ## Archive stats
