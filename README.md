@@ -2,7 +2,10 @@
 
 Offline archive of [AreYouSyrious](https://medium.com/are-you-syrious) — a daily digest on the refugee and migrant situation in Europe, published 2016–2025.
 
-Chronological record of events (2016–2023): [chronological_list_of_events.md](chronological_list_of_events.md)
+- [Navigate](https://rafapolo.github.io/AreYouSyrious/) on the Archive.
+- Full chronological post [list](INDEX.md).
+- 16,021 [images](https://rafapolo.github.io/AreYouSyrious/images) from the Field.
+- [Timeline](chronological_list_of_events.md) synthesis of all chronological record of events.
 
 ## Archive stats
 
@@ -30,4 +33,4 @@ Chronological record of events (2016–2023): [chronological_list_of_events.md](
 
 ---
 
-Full chronological post list: [INDEX.md](INDEX.md)
+
