@@ -417,7 +417,7 @@
     document.body.appendChild(preto);
     requestAnimationFrame(() => requestAnimationFrame(() => { preto.style.opacity = '1'; }));
     await espera(1000 / RAPIDO);
-    const alvo = new URL('../mapa/index.html', BASE || location.href);
+    const alvo = new URL('../map.html', BASE || location.href);
     alvo.searchParams.set('de', 'tour');
     location.assign(alvo.href);
   }

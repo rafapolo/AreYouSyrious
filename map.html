@@ -117,13 +117,13 @@
 <body>
 <div id="veu" aria-hidden="true"></div>
 <header class="topo">
-  <a class="marca" href="../index.html">AreYouSyrious</a>
+  <a class="marca" href="index.html">AreYouSyrious</a>
   <h1>Map</h1>
   <nav>
     <button class="btn" id="abre-indice" type="button" aria-controls="indice" aria-expanded="false">Index</button>
-    <a class="sec" href="../index.html">Archive</a>
-    <a class="sec" href="../timeline.html">Timeline</a>
-    <a class="sec" href="../tour/index.html">Tour</a>
+    <a class="sec" href="index.html">Archive</a>
+    <a class="sec" href="timeline.html">Timeline</a>
+    <a class="sec" href="tour/index.html">Tour</a>
   </nav>
 </header>
 <div class="anos" id="anos" role="group" aria-label="Filter by year"><span class="rot">Year</span></div>
@@ -147,8 +147,8 @@
   </aside>
 </main>
 <noscript><p style="position:fixed;top:40%;left:0;right:0;text-align:center">This map needs JavaScript.</p></noscript>
-<script src="../tour/mapa.js"></script>
-<script src="dados.js"></script>
+<script src="tour/mapa.js"></script>
+<script src="map-data.js"></script>
 <script>
 (() => {
   'use strict';
@@ -355,7 +355,7 @@
   /* ---- painel do lugar ---- */
   const PAG = 25;
   let mostrados = 0, lista = [];
-  const fotoSrc = [r => `../thumbs/assets/${r}`, r => `../assets/${r}`, r => `https://miro.medium.com/v2/resize:fit:160/${r.split('/')[1]}`];
+  const fotoSrc = [r => `thumbs/assets/${r}`, r => `assets/${r}`, r => `https://miro.medium.com/v2/resize:fit:160/${r.split('/')[1]}`];
   function foto(ref) {
     const im = new Image(); im.loading = 'lazy'; im.decoding = 'async'; im.alt = ''; im.width = 64; im.height = 64;
     let i = 0; im.onerror = () => { i++; if (i < fotoSrc.length) im.src = fotoSrc[i](ref); else im.parentNode && im.remove(); };
@@ -363,7 +363,7 @@
   }
   const dataTxt = iso => new Date(iso + 'T12:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
   function linha(e) {
-    const [stem, d, titulo, resumo] = D.posts[e[0]], href = `../post.html?p=${encodeURIComponent(stem)}.md`;
+    const [stem, d, titulo, resumo] = D.posts[e[0]], href = `post.html?p=${encodeURIComponent(stem)}.md`;
     const a = document.createElement('article'); a.className = 'post';
     const t = document.createElement('time'); t.dateTime = d; t.textContent = dataTxt(d);
     const ln = document.createElement('a'); ln.className = 't'; ln.href = href; ln.textContent = titulo;

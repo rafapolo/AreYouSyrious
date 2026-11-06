@@ -8,7 +8,7 @@ const livre = (pg: any) => pg.evaluate(`(() => { const L = Object.fromEntries(wi
     if (x < c.left + 80 || x > c.right - 80 || y < c.top + 40 || y > c.bottom - 40) continue;
     if (document.elementFromPoint(x, y) === el) return { x, y }; } return null; })()`);
 async function rodada(nav: any, rot: string, ctx: object, toque: boolean) {
-  const { pg, fecha } = await abre(nav, url("mapa/index.html"), { ctx });
+  const { pg, fecha } = await abre(nav, url("map.html"), { ctx });
   try {
     await pg.waitForSelector("circle.pt"); await pg.waitForTimeout(900);
     await pg.screenshot({ path: `${saida}/aysmapa-${rot}-1-inteiro.png` });

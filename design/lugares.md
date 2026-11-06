@@ -1,6 +1,6 @@
 # Lugares nos posts: método, cobertura e descartes
 
-Gera `mapa/dados.js` (usado por `mapa/index.html`) com `python3 script/lugares.py`. Só biblioteca padrão, offline, determinístico
+Gera `map-data.js` (usado por `map.html`) com `python3 script/lugares.py`. Só biblioteca padrão, offline, determinístico
 (~30 s). `python3 script/lugares.py --confere` valida só o gazetteer.
 
 ## Método

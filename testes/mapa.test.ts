@@ -1,4 +1,4 @@
-/* Suíte do mapa de lugares (mapa/index.html) e da passagem do tour para ele. file://, navegadores embutidos do Playwright. */
+/* Suíte do mapa de lugares (map.html) e da passagem do tour para ele. file://, navegadores embutidos do Playwright. */
 import { afterAll, beforeAll, describe, expect, test } from "bun:test";
 import { readFileSync } from "node:fs";
 import { chromium, webkit, devices, abre, url, espera, ev, RAIZ, type Browser } from "./comum";
@@ -19,14 +19,14 @@ async function pontoLivre(pg: any, minimo = 30): Promise<{ id: string; nome: str
 const gaz = JSON.parse(readFileSync(`${RAIZ}/design/lugares.json`, "utf8"));
 
 describe("dados e gazetteer", () => {
-  test("todo lugar do gazetteer tem coordenada dentro do quadro e fonte; mapa/dados.js só leva lugares com posts", () => {
+  test("todo lugar do gazetteer tem coordenada dentro do quadro e fonte; map-data.js só leva lugares com posts", () => {
     const [x0, y0, x1, y1] = gaz.quadro;
     for (const l of gaz.lugares) {
       expect(l.lon, l.id).toBeGreaterThanOrEqual(x0); expect(l.lon, l.id).toBeLessThanOrEqual(x1);
       expect(l.lat, l.id).toBeGreaterThanOrEqual(y0); expect(l.lat, l.id).toBeLessThanOrEqual(y1);
       expect(l.fonte, l.id).toBeTruthy();
     }
-    const js = readFileSync(`${RAIZ}/mapa/dados.js`, "utf8");
+    const js = readFileSync(`${RAIZ}/map-data.js`, "utf8");
     const d = JSON.parse(js.slice(js.indexOf("window.AYS_LUGARES = ") + 21).trim().replace(/;$/, ""));
     expect(d.lugares.length).toBeGreaterThan(300);
     expect(d.posts.length).toBeGreaterThan(3000);
@@ -41,7 +41,7 @@ describe("dados e gazetteer", () => {
 
 describe("a página do mapa", () => {
   test("abre sem erro; todo ponto está dentro do quadro do mapa; os controles existem", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("mapa/index.html"));
+    const { pg, erros, fecha } = await abre(cr, url("map.html"));
     try {
       await pg.waitForSelector("circle.pt");
       const r = await ev<any>(pg, `(() => { const q = window.aysMapa.quadro(); const c = [...document.querySelectorAll('circle.pt')];
@@ -56,7 +56,7 @@ describe("a página do mapa", () => {
   });
 
   test("clicar num ponto abre o painel com o nome e os posts em ordem de data, e cada post leva ao post completo", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("mapa/index.html"));
+    const { pg, erros, fecha } = await abre(cr, url("map.html"));
     try {
       await pg.waitForSelector("circle.pt");
       const p = await pontoLivre(pg);
@@ -66,7 +66,7 @@ describe("a página do mapa", () => {
       const datas = await pg.locator("#p-lista time").evaluateAll((ts) => ts.map((t) => (t as HTMLTimeElement).dateTime));
       expect(datas.length).toBeGreaterThanOrEqual(10);
       expect(datas).toEqual([...datas].sort());
-      expect(await pg.locator("#p-lista .post a.t").first().getAttribute("href")).toMatch(/^\.\.\/post\.html\?p=20\d\d-.*\.md$/);
+      expect(await pg.locator("#p-lista .post a.t").first().getAttribute("href")).toMatch(/^post\.html\?p=20\d\d-.*\.md$/);
       expect(await pg.locator("#p-lista .fotos img").count()).toBeGreaterThan(5);
       expect(pg.url()).toContain("#lugar=" + p.id);
       await pg.keyboard.press("Escape");
@@ -76,7 +76,7 @@ describe("a página do mapa", () => {
   });
 
   test("um lugar com centenas de posts pagina o painel (25 por vez) e o endereço #lugar= abre direto", async () => {
-    const { pg, fecha } = await abre(cr, url("mapa/index.html", "#lugar=lesvos"));
+    const { pg, fecha } = await abre(cr, url("map.html", "#lugar=lesvos"));
     try {
       await espera(pg, `document.getElementById('painel').classList.contains('on')`, 5000);
       expect(await pg.locator("#p-nome").innerText()).toBe("Lesvos");
@@ -87,7 +87,7 @@ describe("a página do mapa", () => {
   });
 
   test("o filtro por ano reduz os pontos, apaga as cercas ainda inexistentes e filtra o painel", async () => {
-    const { pg, fecha } = await abre(cr, url("mapa/index.html"));
+    const { pg, fecha } = await abre(cr, url("map.html"));
     try {
       await pg.waitForSelector("circle.pt");
       const medida = () => ev<any>(pg, `({ pts: [...document.querySelectorAll('circle.pt')].filter(c => c.style.display !== 'none').length,
@@ -116,7 +116,7 @@ describe("a página do mapa", () => {
   });
 
   test("o índice em lista busca por nome sem acento, e clicar abre o painel", async () => {
-    const { pg, fecha } = await abre(cr, url("mapa/index.html"));
+    const { pg, fecha } = await abre(cr, url("map.html"));
     try {
       await pg.waitForSelector("circle.pt");
       await pg.click("#abre-indice");
@@ -131,7 +131,7 @@ describe("a página do mapa", () => {
   });
 
   test("?de=tour mostra a linha de boas-vindas, e o menu do arquivo e da linha do tempo leva ao mapa", async () => {
-    const { pg, fecha } = await abre(cr, url("mapa/index.html", "?de=tour"));
+    const { pg, fecha } = await abre(cr, url("map.html", "?de=tour"));
     try {
       await pg.locator("#bv").waitFor({ state: "visible" });
       expect(await pg.locator("#bv-txt").innerText()).toContain("Every place the archive names");
@@ -140,19 +140,19 @@ describe("a página do mapa", () => {
       const a = await abre(cr, url(pagina));
       try {
         const href = await a.pg.locator(".top-links a", { hasText: "Map" }).getAttribute("href");
-        expect(href).toBe("mapa/index.html");
+        expect(href).toBe("map.html");
       } finally { await a.fecha(); }
     }
   });
 });
 
 describe("do tour para o mapa", () => {
-  test("o fim natural do tour (?tour=1&rapido=20) navega para mapa/index.html?de=tour", async () => {
+  test("o fim natural do tour (?tour=1&rapido=20) navega para map.html?de=tour", async () => {
     const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20"));
     try {
       await pg.locator("#ays-tour-convite").waitFor();
       await pg.click("#ays-tour-convite button");
-      await pg.waitForURL(/mapa\/index\.html\?de=tour/, { timeout: 60_000 });
+      await pg.waitForURL(/map\.html\?de=tour/, { timeout: 60_000 });
       await pg.waitForSelector("circle.pt");
       await pg.locator("#bv").waitFor({ state: "visible" });
     } finally { await fecha(); }
@@ -168,14 +168,14 @@ describe("do tour para o mapa", () => {
       await espera(pg, `!window.aysTour.ativo()`, 3000);
       await pg.waitForTimeout(4000);       // mais que a fusão e o silêncio finais, que não podem acontecer
       expect(pg.url()).toContain("index.html");
-      expect(pg.url()).not.toContain("/mapa/");
+      expect(pg.url()).not.toContain("map.html");
     } finally { await fecha(); }
   });
 });
 
 describe("celular (iPhone 13, webkit)", () => {
   test("a folha de baixo cabe na tela, não gera rolagem lateral e o mapa abre sem erro", async () => {
-    const { pg, erros, fecha } = await abre(wk, url("mapa/index.html"), { ctx: { ...devices["iPhone 13"] } });
+    const { pg, erros, fecha } = await abre(wk, url("map.html"), { ctx: { ...devices["iPhone 13"] } });
     try {
       await pg.waitForSelector("circle.pt");
       const p = await pontoLivre(pg);

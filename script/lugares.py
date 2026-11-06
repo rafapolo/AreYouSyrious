@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Detecta lugares citados nos posts e gera mapa/dados.js para a página do mapa.
+"""Detecta lugares citados nos posts e gera map-data.js para a página do mapa.
 
 Uso:
-  python3 script/lugares.py            # gera mapa/dados.js e imprime a cobertura
+  python3 script/lugares.py            # gera map-data.js e imprime a cobertura
   python3 script/lugares.py --confere  # só valida design/lugares.json (coordenadas no quadro, ids únicos, variantes)
 
 Entrada: posts/*.md e o gazetteer versionado design/lugares.json (nome, variantes, país, [lon, lat], contexto).
-Saída:   mapa/dados.js (window.AYS_LUGARES). Só biblioteca padrão; offline e determinístico.
+Saída:   map-data.js (window.AYS_LUGARES). Só biblioteca padrão; offline e determinístico.
 Método e cobertura: design/lugares.md.
 """
 import json, re, sys, unicodedata
@@ -15,7 +15,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 GAZ = RAIZ / "design" / "lugares.json"
-SAIDA = RAIZ / "mapa" / "dados.js"
+SAIDA = RAIZ / "map-data.js"
 MAX_FOTOS = 3
 
 _TROCAS = str.maketrans({"ł": "l", "Ł": "L", "đ": "d", "Đ": "D", "ı": "i", "İ": "I", "ø": "o", "Ø": "O", "ħ": "h", "Ħ": "H",
