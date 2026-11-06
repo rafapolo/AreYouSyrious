@@ -12,6 +12,9 @@
   const SILENCIO_FINAL = 5000;                          // ms de preto e quase silêncio antes de devolver a página
   const FUSAO = 1400;                                   // ms da fusão entre fotos
   const semMov = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const TL = {"2016": ["Apr: the Balkan route closed; people stranded at Idomeni.", "Oct–Dec: Calais camp demolished; Aleppo fell; 5,011 died in the Mediterranean."], "2017": ["Jan: people froze in Belgrade and on Greek islands.", "Jul–Nov: Moria hunger strike; slave markets documented in Libya."], "2018": ["Jun: Aquarius refused port; 220 drowned off Libya in 48 hours.", "Year’s end: 2,200 dead at sea; people froze in the Balkans."], "2019": ["Jul: Moria overcrowded beyond capacity on Lesvos.", "Nov: Vučjak camp in Bosnia exposed as unfit for winter."], "2020": ["Mar: Greece suspended asylum at Evros; fires destroyed Moria.", "Year: pushbacks and the pandemic hardened borders."], "2021": ["Aug: Afghanistan fell to the Taliban; evacuations and fear.", "Nov: crisis at the Poland–Belarus border."], "2022": ["Feb: Russia invaded Ukraine; millions displaced across Europe.", "Year: Pylos shipwreck trial questions remained."], "2023": ["Jun: hundreds died when a boat sank off Pylos, Greece.", "Year: border walls and deals expanded."], "2024": ["Year: deaths and pushbacks continued across sea and land routes.", "The archive fell mostly silent."], "2025": ["Feb: the archive’s last post, from Samos.", "Fences and checkpoints still held people at Europe’s edge."]};
+  const TL_INICIO = 75000; // ms do tour (1:15)
+
   const som = window.AysSom || null;
 
   let DADOS = null, ativo = false, cena = -1, inicio = 0, TOTAL = 0, raf = 0, quemChamou = null, salvo = null;
@@ -80,10 +83,47 @@
   #ays-tour-convite button:hover,#ays-tour-convite button:focus-visible{background:#26241f;border-color:#bdb7ab;outline:none}
   #ays-tour-convite small{display:block;margin-top:1.1rem;font:13px/1.4 ui-sans-serif,system-ui,sans-serif;color:#8d887e}
   @media (prefers-reduced-motion:reduce){#ays-tour,#ays-tour .t-foto,#ays-tour .t-leg,#ays-tour .t-mapa,#ays-tour .m-cerca{transition:none!important}}
+
+  #ays-tour{--tlw:0px}
+  #ays-tour.com-linha{--tlw:min(25vw,320px)}
+  #ays-tour .t-linha{position:absolute;top:0;right:0;bottom:0;width:var(--tlw);z-index:5;display:flex;flex-direction:column;
+    justify-content:center;gap:0;padding:.8rem .9rem .8rem .7rem;background:linear-gradient(90deg,rgba(6,7,10,0),rgba(6,7,10,.82) 18%,rgba(6,7,10,.92));
+    opacity:0;transition:opacity 1.8s ease;pointer-events:none;overflow:hidden}
+  #ays-tour.com-linha .t-linha{opacity:1}
+  #ays-tour .tl-ano{display:flex;align-items:flex-start;gap:.45rem;padding:.18rem 0;color:#5f5b54;font:600 11px/1.2 ui-sans-serif,system-ui,sans-serif;transition:color .6s ease,opacity .6s ease}
+  #ays-tour .tl-ano.passou{color:#6f6b63;opacity:.55}
+  #ays-tour .tl-ano.agora{color:#f2efe8}
+  #ays-tour .tl-y{min-width:2.4rem;font:600 12px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.04em}
+  #ays-tour .tl-ev{font:11px/1.25 ui-sans-serif,system-ui,sans-serif;color:inherit}
+  #ays-tour .tl-ev span{display:block}
+  #ays-tour .tl-mark{position:absolute;left:.2rem;width:3px;height:14px;border-radius:2px;background:#c8372d;top:0;opacity:0;transition:top 1.2s linear,opacity .6s ease}
+  #ays-tour.com-linha .tl-mark{opacity:1}
+  #ays-tour.com-linha .t-foto,#ays-tour.com-linha .t-mapa{right:var(--tlw);width:auto}
+  /* celular em pé: faixa fina de anos acima da legenda, sem cobrir a foto */
+  @media (max-width:719px) and (orientation:portrait){
+    #ays-tour.com-linha{--tlw:0px}
+    #ays-tour.com-linha .t-linha{position:relative;right:auto;bottom:auto;width:auto;flex-direction:row;align-items:flex-end;justify-content:flex-start;
+      gap:.35rem;padding:.2rem 0 .35rem;background:transparent;overflow-x:auto;overflow-y:hidden;min-height:28px}
+    #ays-tour .tl-ano{flex-direction:column;gap:0;padding:0 .15rem;min-width:max-content}
+    #ays-tour .tl-ev{display:none}
+    #ays-tour .tl-y{min-width:0;font-size:11px}
+    #ays-tour .tl-mark{display:none}
+    #ays-tour.com-linha .t-foto,#ays-tour.com-linha .t-mapa{right:0}
+  }
+  /* deitado / paisagem estreita: painel lateral estreito */
+  @media (max-height:520px) and (orientation:landscape){
+    #ays-tour.com-linha{--tlw:min(22vw,180px)}
+    #ays-tour .tl-ev span:nth-child(n+2){display:none}
+    #ays-tour .tl-ano{padding:.08rem 0}
+    #ays-tour .tl-y{font-size:11px;min-width:2.1rem}
+    #ays-tour .tl-ev{font-size:10px;line-height:1.15}
+  }
+  @media (prefers-reduced-motion:reduce){#ays-tour .t-linha,#ays-tour .tl-mark,#ays-tour .tl-ano{transition:none!important}}
+
   .tour-btn{cursor:pointer}`;
 
   const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt) e.textContent = txt; return e; };
-  let raiz, faixa, fotos, leg, kick, frase, fonte, prog, topo, baixo, botSom, convite;
+  let raiz, faixa, fotos, leg, kick, frase, fonte, prog, topo, baixo, botSom, convite, linha, tlMark, tlAnos, tlVis = false, tlAcum = 0;
   let mapaDiv, svg, MAPA = null, gTerra, gLin, gCerca, gNomes, gEncl, gPts, nomeEl, anoEl, vista = null, visitados = [], cercaEl = [], vooRaf = 0, fimTimer = 0;
 
   function monta() {
@@ -101,6 +141,17 @@
     mapaDiv = el('div', 't-mapa'); mapaDiv.setAttribute('aria-hidden', 'true');
     anoEl = el('div', 'm-ano'); const cred = el('div', 'm-cred', 'Borders: Natural Earth (public domain)');
     mapaDiv.append(anoEl, cred); faixa.appendChild(mapaDiv);
+    linha = el('div', 't-linha'); linha.setAttribute('aria-hidden', 'true');
+    tlMark = el('div', 'tl-mark'); linha.appendChild(tlMark);
+    tlAnos = {};
+    for (let y = 2016; y <= 2025; y++) {
+      const row = el('div', 'tl-ano'); row.dataset.y = y;
+      const yy = el('div', 'tl-y', String(y));
+      const ev = el('div', 'tl-ev');
+      (TL[y] || []).forEach(t => { const sp = el('span', '', t); ev.appendChild(sp); });
+      row.append(yy, ev); linha.appendChild(row); tlAnos[y] = row;
+    }
+    faixa.appendChild(linha);
     baixo = el('div', 't-baixo');
     leg = el('div', 't-leg'); leg.setAttribute('aria-live', 'polite');
     kick = el('div', 't-kick'); frase = el('p', 't-frase'); fonte = el('div', 't-fonte');
@@ -349,6 +400,36 @@
     nomeEl.textContent = ''; nomeEl.dataset.x = '';
   }
 
+
+  function tlMostra(on) {
+    tlVis = !!on;
+    if (raiz) raiz.classList.toggle('com-linha', tlVis);
+  }
+  function tlAtualiza(ano, frac) {
+    if (!tlAnos) return;
+    for (let y = 2016; y <= 2025; y++) {
+      const r = tlAnos[y]; if (!r) continue;
+      r.classList.toggle('agora', y === ano);
+      r.classList.toggle('passou', y < ano);
+    }
+    if (tlMark && tlAnos[ano]) {
+      const r = tlAnos[ano], box = r.parentElement;
+      const top = r.offsetTop + Math.min(r.offsetHeight - 4, Math.max(0, frac * r.offsetHeight));
+      tlMark.style.top = top + 'px';
+    }
+  }
+  function tlTick(acum, cenaAno) {
+    if (acum < TL_INICIO) { if (tlVis) tlMostra(false); return; }
+    if (!tlVis) tlMostra(true);
+    const ano = cenaAno || 2016;
+    // marker slides across the full 2016-2025 span by overall progress after 75s
+    const totalTour = DADOS ? DADOS.reduce((s,c)=>s+c.ms+(c.mapa?c.mapa.ms:0),0) : 237000;
+    const k = Math.min(1, Math.max(0, (acum - TL_INICIO) / Math.max(1, totalTour - TL_INICIO)));
+    const anoCont = 2016 + k * 9;
+    const a = Math.min(2025, Math.max(2016, Math.floor(anoCont)));
+    tlAtualiza(Math.max(ano, a) && ano ? ano : a, anoCont - Math.floor(anoCont));
+  }
+
   function progresso() {
     const t = Math.min(1, (performance.now() - inicio) / TOTAL);
     prog.firstChild.style.transform = 'scaleX(' + t + ')';
@@ -369,7 +450,7 @@
     raiz.hidden = false; raiz.classList.remove('fim'); medir(); marcaSom();
     requestAnimationFrame(() => raiz.classList.add('on'));
     TOTAL = (DADOS.reduce((s, c) => s + c.ms + (c.mapa ? c.mapa.ms : 0), 0) + SILENCIO_FINAL) / RAPIDO;
-    montaMapa(); limpaMapa(); fechaMapa();
+    montaMapa(); limpaMapa(); fechaMapa(); tlMostra(false); tlAcum = 0;
     inicio = performance.now();
     prog.firstChild.style.transform = 'scaleX(0)';
     leg.classList.remove('on'); fotos.forEach(f => { f.classList.remove('vis'); f.textContent = ''; });
@@ -377,16 +458,22 @@
     raf = requestAnimationFrame(progresso);
     try {
       pre(0); pre(1);
+      tlAcum = 0; tlMostra(false);
       for (let i = 0; i < DADOS.length; i++) {
-        const c = DADOS[i], dur = c.ms / RAPIDO, t0 = performance.now();
+        const c = DADOS[i], dur = c.ms / RAPIDO, t0 = performance.now(), cAno = anoDe(c);
         cena = i;
         leg.classList.remove('on');
         if (som) som.cena(i, c);
+        tlTick(tlAcum, cAno);
         if (c.mapa) {
           const mdur = c.mapa.ms / RAPIDO;
           await espera(semMov.matches ? 0 : 450 / RAPIDO);
+          tlTick(tlAcum, cAno);
           await mapaDaCena(i, mdur, false);
+          tlTick(tlAcum + (c.mapa ? c.mapa.ms : 0) * 0.5, cAno);
           await espera(mdur - (performance.now() - t0));
+          tlAcum += c.mapa.ms;
+          tlTick(tlAcum, cAno);
           // a foto da cena anterior ficava acesa debaixo do mapa e reaparecia
           // quando ele se apagava; some agora, ainda coberta, e a nova entra do preto
           fotos.forEach(f => { f.style.transition = 'none'; f.classList.remove('vis'); });
@@ -395,11 +482,15 @@
           leg.classList.remove('on');
         }
         const t1 = performance.now();
+        tlTick(tlAcum, cAno);
         await mostraFoto(i, dur);
         pre(i + 1);
         await espera(Math.min(700, dur * 0.12));
         escreve(i); leg.classList.add('on');
+        tlTick(tlAcum + c.ms * 0.3, cAno);
         await espera(t1 + dur - performance.now());
+        tlAcum += c.ms;
+        tlTick(tlAcum, cAno);
       }
       // fecho: legenda some, a foto some e fica o preto, com a última nota apagando
       leg.classList.remove('on');
@@ -434,7 +525,7 @@
       setTimeout(() => { if (!ativo && raiz) { raiz.hidden = true; fotos.forEach(f => { f.textContent = ''; f.classList.remove('vis'); }); } }, 1050 / RAPIDO + 40);
     }
     document.body.style.overflow = salvo ? salvo.ov : '';
-    cena = -1;
+    tlMostra(false); tlAcum = 0; cena = -1;
     if (SOZINHA && !natural) { location.assign(new URL('../index.html', BASE || location.href).href); return; }   // não há página a restaurar
     if (quemChamou && quemChamou.isConnected && quemChamou !== document.body) { try { quemChamou.focus({ preventScroll: true }); } catch (e) { /* sem foco */ } }
   }
@@ -456,7 +547,7 @@
       }
     }
     convite.querySelector('small').textContent = som && som.ligado()
-      ? 'About 3 minutes, with quiet music. Esc stops it.' : 'About 3 minutes, without sound (you turned it off). Esc stops it.';
+      ? 'About 4 minutes, with quiet music. Esc stops it.' : 'About 4 minutes, without sound (you turned it off). Esc stops it.';
     convite.hidden = false;
     convite.querySelector('button').focus({ preventScroll: true });
   }

@@ -4,3 +4,7 @@
 Output/
 node_modules/
 __pycache__/
+
+
+# fotos grandes servidas pelo CDN do Medium no site publicado; mantêm-se localmente
+/assets/

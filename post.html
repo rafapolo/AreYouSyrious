@@ -167,7 +167,8 @@
 
       const { fm, body } = parseFrontmatter(raw);
 
-      // fix image paths: ../assets/ → assets/
+      // fix image paths: ../assets/ → assets/ ; prefer Medium CDN, fall back to local
+      const CDN='https://miro.medium.com/v2/resize:fit:1400/';
       const fixedBody = body.replace(/\(\.\.\/assets\//g, '(assets/');
 
       const title = (fm.title || '').replace(/^"|"$/g, '');
@@ -177,7 +178,17 @@
       document.getElementById('post-date').textContent = date;
       document.getElementById('post-title').textContent = title;
       document.getElementById('post-meta').style.display = '';
-      document.getElementById('post-body').innerHTML = marked.parse(fixedBody);
+      const bodyEl = document.getElementById('post-body');
+      bodyEl.innerHTML = marked.parse(fixedBody);
+      bodyEl.querySelectorAll('img').forEach(img => {
+        const m = (img.getAttribute('src')||'').match(/^(?:\.\.\/)?assets\/[^/]+\/([^/]+)$/);
+        if (!m) return;
+        const local = img.getAttribute('src');
+        img.dataset.local = local;
+        img.src = CDN + encodeURIComponent(m[1]);
+        img.loading = img.loading || 'lazy';
+        img.onerror = function(){ if (this.dataset.local && this.src !== this.dataset.local){ this.onerror=null; this.src=this.dataset.local; } };
+      });
     })
     .catch(err => {
       document.getElementById('loading').style.display = 'none';
