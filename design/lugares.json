@@ -1,0 +1,5676 @@
+{
+ "quadro": [
+  -12,
+  18,
+  64,
+  70
+ ],
+ "descricao": "Gazetteer de script/lugares.py. fonte = origem da coordenada (wikipedia:<título> ou wikidata:<Q>, ambos CC0; cidades conferidas contra o Natural Earth populated places, domínio público). Em extras ficam nomes de campos e travessias que moram sob a cidade mais próxima, com contexto próprio. Entradas tipo \"pais\" (fallback) só valem para o post que não cita nenhum lugar específico; ponto representativo do Natural Earth.",
+ "ruido": [
+  "Aegean Boat Report",
+  "Refugee Support Aegean",
+  "SOS Mediterranee",
+  "Mediterranea Saving Humans"
+ ],
+ "lugares": [
+  {
+   "id": "athens",
+   "nome": "Athens",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 23.7281,
+   "lat": 37.9842,
+   "fonte": "wikipedia:Athens",
+   "variantes": [
+    "Athens",
+    "Athína",
+    "Athina"
+   ]
+  },
+  {
+   "id": "piraeus",
+   "nome": "Piraeus",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 23.6469,
+   "lat": 37.943,
+   "fonte": "wikipedia:Piraeus",
+   "variantes": [
+    "Piraeus",
+    "Pireaus"
+   ]
+  },
+  {
+   "id": "thessaloniki",
+   "nome": "Thessaloniki",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.9356,
+   "lat": 40.6403,
+   "fonte": "wikipedia:Thessaloniki",
+   "variantes": [
+    "Thessaloniki",
+    "Salonica",
+    "Thessalonica"
+   ]
+  },
+  {
+   "id": "patras",
+   "nome": "Patras",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 21.7333,
+   "lat": 38.25,
+   "fonte": "wikipedia:Patras",
+   "variantes": [
+    "Patras",
+    "Patra"
+   ]
+  },
+  {
+   "id": "volos",
+   "nome": "Volos",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.9333,
+   "lat": 39.3667,
+   "fonte": "wikipedia:Volos",
+   "variantes": [
+    "Volos"
+   ]
+  },
+  {
+   "id": "larissa",
+   "nome": "Larissa",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.4167,
+   "lat": 39.6417,
+   "fonte": "wikipedia:Larissa",
+   "variantes": [
+    "Larissa"
+   ]
+  },
+  {
+   "id": "ioannina",
+   "nome": "Ioannina",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 20.8522,
+   "lat": 39.6636,
+   "fonte": "wikipedia:Ioannina",
+   "variantes": [
+    "Ioannina",
+    "Ioanina",
+    "Yannena"
+   ]
+  },
+  {
+   "id": "kavala",
+   "nome": "Kavala",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 24.4,
+   "lat": 40.9333,
+   "fonte": "wikipedia:Kavala",
+   "variantes": [
+    "Kavala"
+   ]
+  },
+  {
+   "id": "serres",
+   "nome": "Serres",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 23.55,
+   "lat": 41.0833,
+   "fonte": "wikipedia:Serres",
+   "variantes": [
+    "Serres"
+   ],
+   "ctx": [
+    "Greece",
+    "Greek"
+   ]
+  },
+  {
+   "id": "alexandroupoli",
+   "nome": "Alexandroupoli",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 25.8667,
+   "lat": 40.85,
+   "fonte": "wikipedia:Alexandroupolis",
+   "variantes": [
+    "Alexandroupoli",
+    "Alexandroupolis",
+    "Alexandroupoli"
+   ]
+  },
+  {
+   "id": "orestiada",
+   "nome": "Orestiada",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 26.5333,
+   "lat": 41.5,
+   "fonte": "wikipedia:Orestiada",
+   "variantes": [
+    "Orestiada",
+    "Orestias"
+   ]
+  },
+  {
+   "id": "fylakio",
+   "nome": "Fylakio",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 26.3167,
+   "lat": 41.5833,
+   "fonte": "wikipedia:Fylakio",
+   "variantes": [
+    "Fylakio",
+    "Fylakion"
+   ]
+  },
+  {
+   "id": "kastanies",
+   "nome": "Kastanies",
+   "pais": "Greece",
+   "tipo": "fronteira",
+   "lon": 26.4833,
+   "lat": 41.65,
+   "fonte": "wikipedia:Kastanies",
+   "variantes": [
+    "Kastanies"
+   ]
+  },
+  {
+   "id": "pazarkule",
+   "nome": "Pazarkule",
+   "pais": "Turkey",
+   "tipo": "fronteira",
+   "lon": 26.4903,
+   "lat": 41.6539,
+   "fonte": "wikidata:Q6000881",
+   "variantes": [
+    "Pazarkule",
+    "Pazarkule border"
+   ]
+  },
+  {
+   "id": "edirne",
+   "nome": "Edirne",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 26.5556,
+   "lat": 41.6769,
+   "fonte": "wikipedia:Edirne",
+   "variantes": [
+    "Edirne"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Kapıkule",
+      "Kapikule",
+      "Kapikule"
+     ],
+     "ctx": [
+      "Turkey",
+      "Turkish",
+      "Greece",
+      "Greek",
+      "Edirne"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evros",
+   "nome": "Evros",
+   "pais": "Greece",
+   "tipo": "regiao",
+   "lon": 26.0833,
+   "lat": 41.1667,
+   "fonte": "wikipedia:Evros (regional unit)",
+   "variantes": [
+    "Evros",
+    "Evros River",
+    "Meric",
+    "Maritsa"
+   ]
+  },
+  {
+   "id": "idomeni",
+   "nome": "Idomeni",
+   "pais": "Greece",
+   "tipo": "fronteira",
+   "lon": 22.5167,
+   "lat": 41.1167,
+   "fonte": "wikipedia:Idomeni",
+   "variantes": [
+    "Idomeni",
+    "Eidomeni",
+    "Idomeni camp"
+   ]
+  },
+  {
+   "id": "gevgelija",
+   "nome": "Gevgelija",
+   "pais": "North Macedonia",
+   "tipo": "fronteira",
+   "lon": 22.4994,
+   "lat": 41.1456,
+   "fonte": "wikipedia:Gevgelija",
+   "variantes": [
+    "Gevgelija",
+    "Gevgelia"
+   ]
+  },
+  {
+   "id": "diavata",
+   "nome": "Diavata",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 22.8583,
+   "lat": 40.6883,
+   "fonte": "wikipedia:Diavata",
+   "variantes": [
+    "Diavata"
+   ]
+  },
+  {
+   "id": "nea-kavala",
+   "nome": "Nea Kavala",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 22.6172,
+   "lat": 40.9881,
+   "fonte": "wikidata:Q12287988",
+   "variantes": [
+    "Nea Kavala"
+   ]
+  },
+  {
+   "id": "cherso",
+   "nome": "Cherso",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 22.7833,
+   "lat": 41.0833,
+   "fonte": "wikipedia:Cherso",
+   "variantes": [
+    "Cherso",
+    "Chersos",
+    "Heracleia refugee camp"
+   ]
+  },
+  {
+   "id": "ritsona",
+   "nome": "Ritsona",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.6,
+   "lat": 38.4,
+   "fonte": "wikipedia:Vathy, Euboea",
+   "variantes": [
+    "Ritsona"
+   ]
+  },
+  {
+   "id": "malakasa",
+   "nome": "Malakasa",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.8,
+   "lat": 38.2333,
+   "fonte": "wikipedia:Malakasa",
+   "variantes": [
+    "Malakasa"
+   ]
+  },
+  {
+   "id": "skaramagas",
+   "nome": "Skaramagas",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.6,
+   "lat": 38.01,
+   "fonte": "wikipedia:Skaramagas",
+   "variantes": [
+    "Skaramagas",
+    "Skaramangas"
+   ]
+  },
+  {
+   "id": "eleonas",
+   "nome": "Eleonas",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.6975,
+   "lat": 37.99,
+   "fonte": "wikipedia:Elaionas",
+   "variantes": [
+    "Eleonas",
+    "Elaionas",
+    "Eleonas camp"
+   ]
+  },
+  {
+   "id": "elliniko",
+   "nome": "Elliniko",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.7333,
+   "lat": 37.8667,
+   "fonte": "wikipedia:Elliniko",
+   "variantes": [
+    "Elliniko",
+    "Hellinikon"
+   ]
+  },
+  {
+   "id": "lavrio",
+   "nome": "Lavrio",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 24.05,
+   "lat": 37.7,
+   "fonte": "wikipedia:Lavrio",
+   "variantes": [
+    "Lavrio",
+    "Lavrion"
+   ]
+  },
+  {
+   "id": "oinofyta",
+   "nome": "Oinofyta",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 23.6333,
+   "lat": 38.3,
+   "fonte": "wikipedia:Oinofyta",
+   "variantes": [
+    "Oinofyta",
+    "Oinofita"
+   ]
+  },
+  {
+   "id": "kos",
+   "nome": "Kos",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 27.2333,
+   "lat": 36.85,
+   "fonte": "wikipedia:Kos",
+   "variantes": [
+    "Kos"
+   ]
+  },
+  {
+   "id": "leros",
+   "nome": "Leros",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 26.85,
+   "lat": 37.15,
+   "fonte": "wikipedia:Leros",
+   "variantes": [
+    "Leros"
+   ]
+  },
+  {
+   "id": "samos",
+   "nome": "Samos",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 26.8333,
+   "lat": 37.75,
+   "fonte": "wikipedia:Samos",
+   "variantes": [
+    "Samos"
+   ]
+  },
+  {
+   "id": "vathy",
+   "nome": "Vathy",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 26.9667,
+   "lat": 37.75,
+   "fonte": "wikipedia:Samos (town)",
+   "variantes": [
+    "Vathy",
+    "Vathi"
+   ],
+   "ctx": [
+    "Samos"
+   ]
+  },
+  {
+   "id": "lesvos",
+   "nome": "Lesvos",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 26.28,
+   "lat": 39.21,
+   "fonte": "wikipedia:Lesbos",
+   "variantes": [
+    "Lesvos",
+    "Lesbos",
+    "Lesvos island",
+    "Lesbos island"
+   ]
+  },
+  {
+   "id": "mytilene",
+   "nome": "Mytilene",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 26.5547,
+   "lat": 39.1036,
+   "fonte": "wikipedia:Mytilene",
+   "variantes": [
+    "Mytilene",
+    "Mytilini",
+    "Mitilini",
+    "Mitilene"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Pikpa",
+      "Kara Tepe"
+     ],
+     "ctx": [
+      "Lesvos",
+      "Lesbos",
+      "Mytilene",
+      "Moria"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moria",
+   "nome": "Moria",
+   "pais": "Greece",
+   "tipo": "campo",
+   "lon": 26.5035,
+   "lat": 39.1346,
+   "fonte": "wikidata:Q30752848",
+   "variantes": [
+    "Moria",
+    "Mória"
+   ]
+  },
+  {
+   "id": "chios",
+   "nome": "Chios",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 26.065,
+   "lat": 38.3775,
+   "fonte": "wikipedia:Chios",
+   "variantes": [
+    "Chios",
+    "Hios"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Vial"
+     ],
+     "ctx": [
+      "Chios",
+      "Hios"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rhodes",
+   "nome": "Rhodes",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 27.92,
+   "lat": 36.17,
+   "fonte": "wikipedia:Rhodes",
+   "variantes": [
+    "Rhodes",
+    "Rodos"
+   ]
+  },
+  {
+   "id": "crete",
+   "nome": "Crete",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 24.91,
+   "lat": 35.21,
+   "fonte": "wikipedia:Crete",
+   "variantes": [
+    "Crete",
+    "Creta"
+   ]
+  },
+  {
+   "id": "gavdos",
+   "nome": "Gavdos",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 24.0833,
+   "lat": 34.8333,
+   "fonte": "wikipedia:Gavdos",
+   "variantes": [
+    "Gavdos"
+   ]
+  },
+  {
+   "id": "lampedusa",
+   "nome": "Lampedusa",
+   "pais": "Italy",
+   "tipo": "ilha",
+   "lon": 12.58,
+   "lat": 35.515,
+   "fonte": "wikipedia:Lampedusa",
+   "variantes": [
+    "Lampedusa"
+   ]
+  },
+  {
+   "id": "pantelleria",
+   "nome": "Pantelleria",
+   "pais": "Italy",
+   "tipo": "ilha",
+   "lon": 11.9925,
+   "lat": 36.7875,
+   "fonte": "wikipedia:Pantelleria",
+   "variantes": [
+    "Pantelleria"
+   ]
+  },
+  {
+   "id": "sicily",
+   "nome": "Sicily",
+   "pais": "Italy",
+   "tipo": "ilha",
+   "lon": 14,
+   "lat": 37.5,
+   "fonte": "wikipedia:Sicily",
+   "variantes": [
+    "Sicily",
+    "Sicilia"
+   ]
+  },
+  {
+   "id": "pozzallo",
+   "nome": "Pozzallo",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 14.85,
+   "lat": 36.7333,
+   "fonte": "wikipedia:Pozzallo",
+   "variantes": [
+    "Pozzallo"
+   ]
+  },
+  {
+   "id": "augusta",
+   "nome": "Augusta",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 15.2167,
+   "lat": 37.25,
+   "fonte": "wikipedia:Augusta, Sicily",
+   "variantes": [
+    "Augusta"
+   ],
+   "ctx": [
+    "Sicily",
+    "Siracusa",
+    "Syracuse",
+    "Italy"
+   ]
+  },
+  {
+   "id": "catania",
+   "nome": "Catania",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 15.0903,
+   "lat": 37.5,
+   "fonte": "wikipedia:Catania",
+   "variantes": [
+    "Catania"
+   ]
+  },
+  {
+   "id": "palermo",
+   "nome": "Palermo",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.3517,
+   "lat": 38.1111,
+   "fonte": "wikipedia:Palermo",
+   "variantes": [
+    "Palermo"
+   ]
+  },
+  {
+   "id": "messina",
+   "nome": "Messina",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 15.5542,
+   "lat": 38.1936,
+   "fonte": "wikipedia:Messina",
+   "variantes": [
+    "Messina"
+   ]
+  },
+  {
+   "id": "trapani",
+   "nome": "Trapani",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.515,
+   "lat": 38.0175,
+   "fonte": "wikipedia:Trapani",
+   "variantes": [
+    "Trapani"
+   ]
+  },
+  {
+   "id": "porto-empedocle",
+   "nome": "Porto Empedocle",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.5333,
+   "lat": 37.3,
+   "fonte": "wikipedia:Porto Empedocle",
+   "variantes": [
+    "Porto Empedocle"
+   ]
+  },
+  {
+   "id": "reggio-calabria",
+   "nome": "Reggio Calabria",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 15.6619,
+   "lat": 38.1114,
+   "fonte": "wikipedia:Reggio Calabria",
+   "variantes": [
+    "Reggio Calabria"
+   ]
+  },
+  {
+   "id": "crotone",
+   "nome": "Crotone",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 17.1167,
+   "lat": 39.0833,
+   "fonte": "wikipedia:Crotone",
+   "variantes": [
+    "Crotone"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Cutro",
+      "Steccato di Cutro"
+     ],
+     "ctx": [
+      "Calabria",
+      "Crotone",
+      "Italy",
+      "Italian"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taranto",
+   "nome": "Taranto",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 17.2431,
+   "lat": 40.4711,
+   "fonte": "wikipedia:Taranto",
+   "variantes": [
+    "Taranto"
+   ]
+  },
+  {
+   "id": "bari",
+   "nome": "Bari",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 16.8667,
+   "lat": 41.1253,
+   "fonte": "wikipedia:Bari",
+   "variantes": [
+    "Bari"
+   ]
+  },
+  {
+   "id": "brindisi",
+   "nome": "Brindisi",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 17.9333,
+   "lat": 40.6333,
+   "fonte": "wikipedia:Brindisi",
+   "variantes": [
+    "Brindisi"
+   ]
+  },
+  {
+   "id": "salerno",
+   "nome": "Salerno",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 14.7594,
+   "lat": 40.6806,
+   "fonte": "wikipedia:Salerno",
+   "variantes": [
+    "Salerno"
+   ]
+  },
+  {
+   "id": "naples",
+   "nome": "Naples",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 14.2486,
+   "lat": 40.8358,
+   "fonte": "wikipedia:Naples",
+   "variantes": [
+    "Naples",
+    "Napoli"
+   ]
+  },
+  {
+   "id": "rome",
+   "nome": "Rome",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.4828,
+   "lat": 41.8933,
+   "fonte": "wikipedia:Rome",
+   "variantes": [
+    "Rome",
+    "Roma"
+   ],
+   "nao_depois": [
+    "Statute"
+   ]
+  },
+  {
+   "id": "milan",
+   "nome": "Milan",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 9.19,
+   "lat": 45.4669,
+   "fonte": "wikipedia:Milan",
+   "variantes": [
+    "Milan",
+    "Milano"
+   ]
+  },
+  {
+   "id": "turin",
+   "nome": "Turin",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 7.6761,
+   "lat": 45.0792,
+   "fonte": "wikipedia:Turin",
+   "variantes": [
+    "Turin",
+    "Torino"
+   ]
+  },
+  {
+   "id": "genoa",
+   "nome": "Genoa",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 8.9339,
+   "lat": 44.4072,
+   "fonte": "wikipedia:Genoa",
+   "variantes": [
+    "Genoa",
+    "Genova"
+   ]
+  },
+  {
+   "id": "bologna",
+   "nome": "Bologna",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 11.3428,
+   "lat": 44.4939,
+   "fonte": "wikipedia:Bologna",
+   "variantes": [
+    "Bologna"
+   ]
+  },
+  {
+   "id": "venice",
+   "nome": "Venice",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.3358,
+   "lat": 45.4375,
+   "fonte": "wikipedia:Venice",
+   "variantes": [
+    "Venice",
+    "Venezia"
+   ]
+  },
+  {
+   "id": "trieste",
+   "nome": "Trieste",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.7703,
+   "lat": 45.6503,
+   "fonte": "wikipedia:Trieste",
+   "variantes": [
+    "Trieste"
+   ]
+  },
+  {
+   "id": "gorizia",
+   "nome": "Gorizia",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.6167,
+   "lat": 45.9333,
+   "fonte": "wikipedia:Gorizia",
+   "variantes": [
+    "Gorizia"
+   ]
+  },
+  {
+   "id": "udine",
+   "nome": "Udine",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.2333,
+   "lat": 46.0667,
+   "fonte": "wikipedia:Udine",
+   "variantes": [
+    "Udine"
+   ]
+  },
+  {
+   "id": "pordenone",
+   "nome": "Pordenone",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.65,
+   "lat": 45.95,
+   "fonte": "wikipedia:Pordenone",
+   "variantes": [
+    "Pordenone"
+   ]
+  },
+  {
+   "id": "bolzano",
+   "nome": "Bolzano",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 11.35,
+   "lat": 46.5,
+   "fonte": "wikipedia:Bolzano",
+   "variantes": [
+    "Bolzano"
+   ]
+  },
+  {
+   "id": "brennero",
+   "nome": "Brennero",
+   "pais": "Italy",
+   "tipo": "fronteira",
+   "lon": 11.5,
+   "lat": 47,
+   "fonte": "wikipedia:Brenner, South Tyrol",
+   "variantes": [
+    "Brenner Pass",
+    "Brennero",
+    "Brenner border"
+   ]
+  },
+  {
+   "id": "como",
+   "nome": "Como",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 9.0833,
+   "lat": 45.8167,
+   "fonte": "wikipedia:Como",
+   "variantes": [
+    "Como"
+   ],
+   "ctx": [
+    "Italy",
+    "Italian",
+    "Chiasso"
+   ]
+  },
+  {
+   "id": "ventimiglia",
+   "nome": "Ventimiglia",
+   "pais": "Italy",
+   "tipo": "fronteira",
+   "lon": 7.6083,
+   "lat": 43.7903,
+   "fonte": "wikipedia:Ventimiglia",
+   "variantes": [
+    "Ventimiglia"
+   ]
+  },
+  {
+   "id": "bardonecchia",
+   "nome": "Bardonecchia",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 6.7032,
+   "lat": 45.0783,
+   "fonte": "wikidata:Q9039",
+   "variantes": [
+    "Bardonecchia"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Oulx"
+     ],
+     "ctx": [
+      "Italy",
+      "Italian",
+      "Bardonecchia",
+      "France",
+      "French"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tarvisio",
+   "nome": "Tarvisio",
+   "pais": "Italy",
+   "tipo": "fronteira",
+   "lon": 13.5783,
+   "lat": 46.505,
+   "fonte": "wikipedia:Tarvisio",
+   "variantes": [
+    "Tarvisio"
+   ]
+  },
+  {
+   "id": "cagliari",
+   "nome": "Cagliari",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 9.1111,
+   "lat": 39.2278,
+   "fonte": "wikipedia:Cagliari",
+   "variantes": [
+    "Cagliari"
+   ]
+  },
+  {
+   "id": "ancona",
+   "nome": "Ancona",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 13.5167,
+   "lat": 43.6169,
+   "fonte": "wikipedia:Ancona",
+   "variantes": [
+    "Ancona"
+   ]
+  },
+  {
+   "id": "mineo",
+   "nome": "Mineo",
+   "pais": "Italy",
+   "tipo": "campo",
+   "lon": 14.6833,
+   "lat": 37.2667,
+   "fonte": "wikipedia:Mineo",
+   "variantes": [
+    "Mineo",
+    "Cara di Mineo"
+   ]
+  },
+  {
+   "id": "calais",
+   "nome": "Calais",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 1.8564,
+   "lat": 50.9481,
+   "fonte": "wikipedia:Calais",
+   "variantes": [
+    "Calais"
+   ]
+  },
+  {
+   "id": "dunkirk",
+   "nome": "Dunkirk",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 2.3775,
+   "lat": 51.0383,
+   "fonte": "wikipedia:Dunkirk",
+   "variantes": [
+    "Dunkirk",
+    "Dunkerque"
+   ]
+  },
+  {
+   "id": "grande-synthe",
+   "nome": "Grande-Synthe",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 2.3028,
+   "lat": 51.0139,
+   "fonte": "wikipedia:Grande-Synthe",
+   "variantes": [
+    "Grande-Synthe",
+    "Grande Synthe",
+    "Grande-Synthe"
+   ]
+  },
+  {
+   "id": "boulogne-sur-mer",
+   "nome": "Boulogne-sur-Mer",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 1.6147,
+   "lat": 50.7264,
+   "fonte": "wikipedia:Boulogne-sur-Mer",
+   "variantes": [
+    "Boulogne-sur-Mer",
+    "Boulogne"
+   ]
+  },
+  {
+   "id": "ouistreham",
+   "nome": "Ouistreham",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": -0.26,
+   "lat": 49.28,
+   "fonte": "wikipedia:Ouistreham",
+   "variantes": [
+    "Ouistreham"
+   ]
+  },
+  {
+   "id": "cherbourg",
+   "nome": "Cherbourg",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": -1.625,
+   "lat": 49.639,
+   "fonte": "wikipedia:Cherbourg-en-Cotentin",
+   "variantes": [
+    "Cherbourg"
+   ]
+  },
+  {
+   "id": "dieppe",
+   "nome": "Dieppe",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 1.075,
+   "lat": 49.925,
+   "fonte": "wikipedia:Dieppe",
+   "variantes": [
+    "Dieppe"
+   ]
+  },
+  {
+   "id": "paris",
+   "nome": "Paris",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 2.3522,
+   "lat": 48.8567,
+   "fonte": "wikipedia:Paris",
+   "variantes": [
+    "Paris"
+   ]
+  },
+  {
+   "id": "lille",
+   "nome": "Lille",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 3.0583,
+   "lat": 50.6278,
+   "fonte": "wikipedia:Lille",
+   "variantes": [
+    "Lille"
+   ]
+  },
+  {
+   "id": "rouen",
+   "nome": "Rouen",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 1.0886,
+   "lat": 49.4428,
+   "fonte": "wikipedia:Rouen",
+   "variantes": [
+    "Rouen"
+   ]
+  },
+  {
+   "id": "briancon",
+   "nome": "Briançon",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 6.6356,
+   "lat": 44.8964,
+   "fonte": "wikipedia:Briançon",
+   "variantes": [
+    "Briancon",
+    "Briançon"
+   ]
+  },
+  {
+   "id": "menton",
+   "nome": "Menton",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 7.5,
+   "lat": 43.775,
+   "fonte": "wikipedia:Menton",
+   "variantes": [
+    "Menton"
+   ]
+  },
+  {
+   "id": "nice",
+   "nome": "Nice",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 7.2663,
+   "lat": 43.7034,
+   "fonte": "wikipedia:Nice",
+   "variantes": [
+    "in Nice",
+    "to Nice",
+    "from Nice",
+    "near Nice",
+    "Nice, France",
+    "Nice station"
+   ],
+   "ctx": [
+    "France",
+    "French",
+    "Menton",
+    "Ventimiglia"
+   ]
+  },
+  {
+   "id": "marseille",
+   "nome": "Marseille",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 5.37,
+   "lat": 43.2964,
+   "fonte": "wikipedia:Marseille",
+   "variantes": [
+    "Marseille",
+    "Marseilles"
+   ]
+  },
+  {
+   "id": "lyon",
+   "nome": "Lyon",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 4.835,
+   "lat": 45.7675,
+   "fonte": "wikipedia:Lyon",
+   "variantes": [
+    "Lyon"
+   ]
+  },
+  {
+   "id": "strasbourg",
+   "nome": "Strasbourg",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 7.7458,
+   "lat": 48.5833,
+   "fonte": "wikipedia:Strasbourg",
+   "variantes": [
+    "Strasbourg"
+   ]
+  },
+  {
+   "id": "metz",
+   "nome": "Metz",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 6.1778,
+   "lat": 49.1203,
+   "fonte": "wikipedia:Metz",
+   "variantes": [
+    "Metz"
+   ]
+  },
+  {
+   "id": "bordeaux",
+   "nome": "Bordeaux",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": -0.58,
+   "lat": 44.84,
+   "fonte": "wikipedia:Bordeaux",
+   "variantes": [
+    "Bordeaux"
+   ]
+  },
+  {
+   "id": "toulouse",
+   "nome": "Toulouse",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 1.444,
+   "lat": 43.6045,
+   "fonte": "wikipedia:Toulouse",
+   "variantes": [
+    "Toulouse"
+   ]
+  },
+  {
+   "id": "nantes",
+   "nome": "Nantes",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": -1.5528,
+   "lat": 47.2181,
+   "fonte": "wikipedia:Nantes",
+   "variantes": [
+    "Nantes"
+   ]
+  },
+  {
+   "id": "rennes",
+   "nome": "Rennes",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": -1.6794,
+   "lat": 48.1147,
+   "fonte": "wikipedia:Rennes",
+   "variantes": [
+    "Rennes"
+   ]
+  },
+  {
+   "id": "grenoble",
+   "nome": "Grenoble",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 5.7224,
+   "lat": 45.1715,
+   "fonte": "wikipedia:Grenoble",
+   "variantes": [
+    "Grenoble"
+   ]
+  },
+  {
+   "id": "montpellier",
+   "nome": "Montpellier",
+   "pais": "France",
+   "tipo": "cidade",
+   "lon": 3.8772,
+   "lat": 43.6119,
+   "fonte": "wikipedia:Montpellier",
+   "variantes": [
+    "Montpellier"
+   ]
+  },
+  {
+   "id": "brussels",
+   "nome": "Brussels",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 4.3525,
+   "lat": 50.8467,
+   "fonte": "wikipedia:Brussels",
+   "variantes": [
+    "Brussels",
+    "Bruxelles",
+    "Brussel"
+   ]
+  },
+  {
+   "id": "antwerp",
+   "nome": "Antwerp",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 4.4003,
+   "lat": 51.2178,
+   "fonte": "wikipedia:Antwerp",
+   "variantes": [
+    "Antwerp",
+    "Antwerpen"
+   ]
+  },
+  {
+   "id": "ostend",
+   "nome": "Ostend",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 2.9194,
+   "lat": 51.2258,
+   "fonte": "wikipedia:Ostend",
+   "variantes": [
+    "Ostend",
+    "Oostende"
+   ]
+  },
+  {
+   "id": "zeebrugge",
+   "nome": "Zeebrugge",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 3.2075,
+   "lat": 51.3308,
+   "fonte": "wikidata:Q184383",
+   "variantes": [
+    "Zeebrugge"
+   ]
+  },
+  {
+   "id": "ghent",
+   "nome": "Ghent",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 3.7253,
+   "lat": 51.0536,
+   "fonte": "wikipedia:Ghent",
+   "variantes": [
+    "Ghent",
+    "Gent"
+   ]
+  },
+  {
+   "id": "liege",
+   "nome": "Liège",
+   "pais": "Belgium",
+   "tipo": "cidade",
+   "lon": 5.5706,
+   "lat": 50.6397,
+   "fonte": "wikipedia:Liège",
+   "variantes": [
+    "Liege",
+    "Liège"
+   ]
+  },
+  {
+   "id": "amsterdam",
+   "nome": "Amsterdam",
+   "pais": "Netherlands",
+   "tipo": "cidade",
+   "lon": 4.8936,
+   "lat": 52.3728,
+   "fonte": "wikipedia:Amsterdam",
+   "variantes": [
+    "Amsterdam"
+   ]
+  },
+  {
+   "id": "the-hague",
+   "nome": "The Hague",
+   "pais": "Netherlands",
+   "tipo": "cidade",
+   "lon": 4.31,
+   "lat": 52.08,
+   "fonte": "wikipedia:The Hague",
+   "variantes": [
+    "The Hague",
+    "Den Haag"
+   ]
+  },
+  {
+   "id": "rotterdam",
+   "nome": "Rotterdam",
+   "pais": "Netherlands",
+   "tipo": "cidade",
+   "lon": 4.48,
+   "lat": 51.92,
+   "fonte": "wikipedia:Rotterdam",
+   "variantes": [
+    "Rotterdam"
+   ]
+  },
+  {
+   "id": "utrecht",
+   "nome": "Utrecht",
+   "pais": "Netherlands",
+   "tipo": "cidade",
+   "lon": 5.1217,
+   "lat": 52.0908,
+   "fonte": "wikipedia:Utrecht",
+   "variantes": [
+    "Utrecht"
+   ]
+  },
+  {
+   "id": "ter-apel",
+   "nome": "Ter Apel",
+   "pais": "Netherlands",
+   "tipo": "campo",
+   "lon": 7.0597,
+   "lat": 52.8756,
+   "fonte": "wikipedia:Ter Apel",
+   "variantes": [
+    "Ter Apel"
+   ]
+  },
+  {
+   "id": "london",
+   "nome": "London",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -0.1275,
+   "lat": 51.5072,
+   "fonte": "wikipedia:London",
+   "variantes": [
+    "London"
+   ]
+  },
+  {
+   "id": "dover",
+   "nome": "Dover",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": 1.3089,
+   "lat": 51.1295,
+   "fonte": "wikipedia:Dover",
+   "variantes": [
+    "Dover"
+   ]
+  },
+  {
+   "id": "folkestone",
+   "nome": "Folkestone",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": 1.1794,
+   "lat": 51.0792,
+   "fonte": "wikipedia:Folkestone",
+   "variantes": [
+    "Folkestone"
+   ]
+  },
+  {
+   "id": "manston",
+   "nome": "Manston",
+   "pais": "United Kingdom",
+   "tipo": "campo",
+   "lon": 1.37,
+   "lat": 51.346,
+   "fonte": "wikipedia:Manston, Kent",
+   "variantes": [
+    "Manston"
+   ]
+  },
+  {
+   "id": "napier-barracks",
+   "nome": "Napier Barracks",
+   "pais": "United Kingdom",
+   "tipo": "campo",
+   "lon": 1.1314,
+   "lat": 51.0758,
+   "fonte": "wikipedia:Shorncliffe Army Camp",
+   "variantes": [
+    "Napier Barracks",
+    "Napier Barracks"
+   ]
+  },
+  {
+   "id": "manchester",
+   "nome": "Manchester",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -2.2453,
+   "lat": 53.4794,
+   "fonte": "wikipedia:Manchester",
+   "variantes": [
+    "Manchester"
+   ]
+  },
+  {
+   "id": "glasgow",
+   "nome": "Glasgow",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -4.25,
+   "lat": 55.8611,
+   "fonte": "wikipedia:Glasgow",
+   "variantes": [
+    "Glasgow"
+   ]
+  },
+  {
+   "id": "birmingham",
+   "nome": "Birmingham",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -1.9025,
+   "lat": 52.48,
+   "fonte": "wikipedia:Birmingham",
+   "variantes": [
+    "Birmingham"
+   ]
+  },
+  {
+   "id": "liverpool",
+   "nome": "Liverpool",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -2.9917,
+   "lat": 53.4072,
+   "fonte": "wikipedia:Liverpool",
+   "variantes": [
+    "Liverpool"
+   ]
+  },
+  {
+   "id": "edinburgh",
+   "nome": "Edinburgh",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -3.1892,
+   "lat": 55.9533,
+   "fonte": "wikipedia:Edinburgh",
+   "variantes": [
+    "Edinburgh"
+   ]
+  },
+  {
+   "id": "cardiff",
+   "nome": "Cardiff",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -3.1792,
+   "lat": 51.4817,
+   "fonte": "wikipedia:Cardiff",
+   "variantes": [
+    "Cardiff"
+   ]
+  },
+  {
+   "id": "belfast",
+   "nome": "Belfast",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -5.93,
+   "lat": 54.5967,
+   "fonte": "wikipedia:Belfast",
+   "variantes": [
+    "Belfast"
+   ]
+  },
+  {
+   "id": "dublin",
+   "nome": "Dublin",
+   "pais": "Ireland",
+   "tipo": "cidade",
+   "lon": -6.2603,
+   "lat": 53.35,
+   "fonte": "wikipedia:Dublin",
+   "variantes": [
+    "Dublin"
+   ],
+   "nao_depois": [
+    "Regulation",
+    "III",
+    "II",
+    "system",
+    "procedure",
+    "transfer",
+    "transfers",
+    "Convention",
+    "agreement",
+    "returns",
+    "rules",
+    "case",
+    "cases",
+    "claim",
+    "claims",
+    "deal",
+    "process",
+    "criteria",
+    "Reform"
+   ]
+  },
+  {
+   "id": "berlin",
+   "nome": "Berlin",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 13.405,
+   "lat": 52.52,
+   "fonte": "wikipedia:Berlin",
+   "variantes": [
+    "Berlin"
+   ]
+  },
+  {
+   "id": "hamburg",
+   "nome": "Hamburg",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 10,
+   "lat": 53.55,
+   "fonte": "wikipedia:Hamburg",
+   "variantes": [
+    "Hamburg"
+   ]
+  },
+  {
+   "id": "munich",
+   "nome": "Munich",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 11.575,
+   "lat": 48.1375,
+   "fonte": "wikipedia:Munich",
+   "variantes": [
+    "Munich",
+    "München"
+   ]
+  },
+  {
+   "id": "frankfurt",
+   "nome": "Frankfurt",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 8.6822,
+   "lat": 50.1106,
+   "fonte": "wikipedia:Frankfurt",
+   "variantes": [
+    "Frankfurt"
+   ]
+  },
+  {
+   "id": "cologne",
+   "nome": "Cologne",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 6.9528,
+   "lat": 50.9364,
+   "fonte": "wikipedia:Cologne",
+   "variantes": [
+    "Cologne",
+    "Köln"
+   ]
+  },
+  {
+   "id": "dresden",
+   "nome": "Dresden",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 13.74,
+   "lat": 51.05,
+   "fonte": "wikipedia:Dresden",
+   "variantes": [
+    "Dresden"
+   ]
+  },
+  {
+   "id": "leipzig",
+   "nome": "Leipzig",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 12.375,
+   "lat": 51.34,
+   "fonte": "wikipedia:Leipzig",
+   "variantes": [
+    "Leipzig"
+   ]
+  },
+  {
+   "id": "chemnitz",
+   "nome": "Chemnitz",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 12.9167,
+   "lat": 50.8333,
+   "fonte": "wikipedia:Chemnitz",
+   "variantes": [
+    "Chemnitz"
+   ]
+  },
+  {
+   "id": "bremen",
+   "nome": "Bremen",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 8.8072,
+   "lat": 53.0758,
+   "fonte": "wikipedia:Bremen",
+   "variantes": [
+    "Bremen"
+   ]
+  },
+  {
+   "id": "hanover",
+   "nome": "Hanover",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 9.7167,
+   "lat": 52.3667,
+   "fonte": "wikipedia:Hanover",
+   "variantes": [
+    "Hanover",
+    "Hannover"
+   ]
+  },
+  {
+   "id": "dusseldorf",
+   "nome": "Düsseldorf",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 6.7767,
+   "lat": 51.2256,
+   "fonte": "wikipedia:Düsseldorf",
+   "variantes": [
+    "Dusseldorf",
+    "Düsseldorf"
+   ]
+  },
+  {
+   "id": "stuttgart",
+   "nome": "Stuttgart",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 9.18,
+   "lat": 48.7775,
+   "fonte": "wikipedia:Stuttgart",
+   "variantes": [
+    "Stuttgart"
+   ]
+  },
+  {
+   "id": "vienna",
+   "nome": "Vienna",
+   "pais": "Austria",
+   "tipo": "cidade",
+   "lon": 16.3725,
+   "lat": 48.2083,
+   "fonte": "wikipedia:Vienna",
+   "variantes": [
+    "Vienna",
+    "Wien"
+   ],
+   "nao_depois": [
+    "Convention"
+   ]
+  },
+  {
+   "id": "salzburg",
+   "nome": "Salzburg",
+   "pais": "Austria",
+   "tipo": "cidade",
+   "lon": 13.045,
+   "lat": 47.8,
+   "fonte": "wikipedia:Salzburg",
+   "variantes": [
+    "Salzburg"
+   ]
+  },
+  {
+   "id": "graz",
+   "nome": "Graz",
+   "pais": "Austria",
+   "tipo": "cidade",
+   "lon": 15.4386,
+   "lat": 47.0708,
+   "fonte": "wikipedia:Graz",
+   "variantes": [
+    "Graz"
+   ]
+  },
+  {
+   "id": "traiskirchen",
+   "nome": "Traiskirchen",
+   "pais": "Austria",
+   "tipo": "campo",
+   "lon": 16.3,
+   "lat": 48.0167,
+   "fonte": "wikipedia:Traiskirchen",
+   "variantes": [
+    "Traiskirchen"
+   ]
+  },
+  {
+   "id": "spielfeld",
+   "nome": "Spielfeld",
+   "pais": "Austria",
+   "tipo": "fronteira",
+   "lon": 15.6372,
+   "lat": 46.7056,
+   "fonte": "wikipedia:Spielfeld",
+   "variantes": [
+    "Spielfeld"
+   ]
+  },
+  {
+   "id": "innsbruck",
+   "nome": "Innsbruck",
+   "pais": "Austria",
+   "tipo": "cidade",
+   "lon": 11.3933,
+   "lat": 47.2683,
+   "fonte": "wikipedia:Innsbruck",
+   "variantes": [
+    "Innsbruck"
+   ]
+  },
+  {
+   "id": "geneva",
+   "nome": "Geneva",
+   "pais": "Switzerland",
+   "tipo": "cidade",
+   "lon": 6.1469,
+   "lat": 46.2017,
+   "fonte": "wikipedia:Geneva",
+   "variantes": [
+    "Geneva"
+   ],
+   "nao_depois": [
+    "Convention",
+    "Conventions"
+   ]
+  },
+  {
+   "id": "zurich",
+   "nome": "Zürich",
+   "pais": "Switzerland",
+   "tipo": "cidade",
+   "lon": 8.5411,
+   "lat": 47.3744,
+   "fonte": "wikipedia:Zurich",
+   "variantes": [
+    "Zurich",
+    "Zürich"
+   ]
+  },
+  {
+   "id": "bern",
+   "nome": "Bern",
+   "pais": "Switzerland",
+   "tipo": "cidade",
+   "lon": 7.4475,
+   "lat": 46.9481,
+   "fonte": "wikipedia:Bern",
+   "variantes": [
+    "Bern",
+    "Berne"
+   ]
+  },
+  {
+   "id": "basel",
+   "nome": "Basel",
+   "pais": "Switzerland",
+   "tipo": "cidade",
+   "lon": 7.5878,
+   "lat": 47.5581,
+   "fonte": "wikipedia:Basel",
+   "variantes": [
+    "Basel"
+   ]
+  },
+  {
+   "id": "chiasso",
+   "nome": "Chiasso",
+   "pais": "Switzerland",
+   "tipo": "fronteira",
+   "lon": 9.0333,
+   "lat": 45.8333,
+   "fonte": "wikipedia:Chiasso",
+   "variantes": [
+    "Chiasso"
+   ]
+  },
+  {
+   "id": "stockholm",
+   "nome": "Stockholm",
+   "pais": "Sweden",
+   "tipo": "cidade",
+   "lon": 18.0686,
+   "lat": 59.3294,
+   "fonte": "wikipedia:Stockholm",
+   "variantes": [
+    "Stockholm"
+   ]
+  },
+  {
+   "id": "malmo",
+   "nome": "Malmö",
+   "pais": "Sweden",
+   "tipo": "cidade",
+   "lon": 13.0051,
+   "lat": 55.6048,
+   "fonte": "wikipedia:Malmö",
+   "variantes": [
+    "Malmo",
+    "Malmö"
+   ]
+  },
+  {
+   "id": "gothenburg",
+   "nome": "Gothenburg",
+   "pais": "Sweden",
+   "tipo": "cidade",
+   "lon": 11.9675,
+   "lat": 57.7075,
+   "fonte": "wikipedia:Gothenburg",
+   "variantes": [
+    "Gothenburg",
+    "Göteborg"
+   ]
+  },
+  {
+   "id": "copenhagen",
+   "nome": "Copenhagen",
+   "pais": "Denmark",
+   "tipo": "cidade",
+   "lon": 12.5683,
+   "lat": 55.6761,
+   "fonte": "wikipedia:Copenhagen",
+   "variantes": [
+    "Copenhagen",
+    "København"
+   ]
+  },
+  {
+   "id": "oslo",
+   "nome": "Oslo",
+   "pais": "Norway",
+   "tipo": "cidade",
+   "lon": 10.7389,
+   "lat": 59.9133,
+   "fonte": "wikipedia:Oslo",
+   "variantes": [
+    "Oslo"
+   ]
+  },
+  {
+   "id": "helsinki",
+   "nome": "Helsinki",
+   "pais": "Finland",
+   "tipo": "cidade",
+   "lon": 24.9375,
+   "lat": 60.1708,
+   "fonte": "wikipedia:Helsinki",
+   "variantes": [
+    "Helsinki"
+   ]
+  },
+  {
+   "id": "warsaw",
+   "nome": "Warsaw",
+   "pais": "Poland",
+   "tipo": "cidade",
+   "lon": 21.0111,
+   "lat": 52.23,
+   "fonte": "wikipedia:Warsaw",
+   "variantes": [
+    "Warsaw"
+   ]
+  },
+  {
+   "id": "przemysl",
+   "nome": "Przemyśl",
+   "pais": "Poland",
+   "tipo": "cidade",
+   "lon": 22.7667,
+   "lat": 49.7833,
+   "fonte": "wikipedia:Przemyśl",
+   "variantes": [
+    "Przemysl",
+    "Przemyśl"
+   ]
+  },
+  {
+   "id": "medyka",
+   "nome": "Medyka",
+   "pais": "Poland",
+   "tipo": "fronteira",
+   "lon": 22.9319,
+   "lat": 49.8042,
+   "fonte": "wikipedia:Medyka",
+   "variantes": [
+    "Medyka"
+   ]
+  },
+  {
+   "id": "kuznica",
+   "nome": "Kuźnica",
+   "pais": "Poland",
+   "tipo": "fronteira",
+   "lon": 23.6436,
+   "lat": 53.5097,
+   "fonte": "wikipedia:Kuźnica, Podlaskie Voivodeship",
+   "variantes": [
+    "Kuznica",
+    "Kuźnica"
+   ]
+  },
+  {
+   "id": "biaowieza",
+   "nome": "Białowieża",
+   "pais": "Poland",
+   "tipo": "regiao",
+   "lon": 23.8667,
+   "lat": 52.7,
+   "fonte": "wikipedia:Białowieża",
+   "variantes": [
+    "Bialowieza",
+    "Białowieża"
+   ]
+  },
+  {
+   "id": "hajnowka",
+   "nome": "Hajnówka",
+   "pais": "Poland",
+   "tipo": "cidade",
+   "lon": 23.5667,
+   "lat": 52.7333,
+   "fonte": "wikipedia:Hajnówka",
+   "variantes": [
+    "Hajnowka",
+    "Hajnówka"
+   ]
+  },
+  {
+   "id": "michaowo",
+   "nome": "Michałowo",
+   "pais": "Poland",
+   "tipo": "cidade",
+   "lon": 23.6036,
+   "lat": 53.0367,
+   "fonte": "wikipedia:Michałowo",
+   "variantes": [
+    "Michalowo",
+    "Michałowo"
+   ]
+  },
+  {
+   "id": "usnarz-gorny",
+   "nome": "Usnarz Górny",
+   "pais": "Poland",
+   "tipo": "fronteira",
+   "lon": 23.7667,
+   "lat": 53.3333,
+   "fonte": "wikipedia:Usnarz Górny",
+   "variantes": [
+    "Usnarz Gorny",
+    "Usnarz Górny",
+    "Usnarz"
+   ]
+  },
+  {
+   "id": "biaystok",
+   "nome": "Białystok",
+   "pais": "Poland",
+   "tipo": "cidade",
+   "lon": 23.1456,
+   "lat": 53.1353,
+   "fonte": "wikipedia:Białystok",
+   "variantes": [
+    "Bialystok",
+    "Białystok"
+   ]
+  },
+  {
+   "id": "minsk",
+   "nome": "Minsk",
+   "pais": "Belarus",
+   "tipo": "cidade",
+   "lon": 27.5586,
+   "lat": 53.9006,
+   "fonte": "wikipedia:Minsk",
+   "variantes": [
+    "Minsk"
+   ]
+  },
+  {
+   "id": "brest",
+   "nome": "Brest",
+   "pais": "Belarus",
+   "tipo": "cidade",
+   "lon": 23.6569,
+   "lat": 52.1347,
+   "fonte": "wikipedia:Brest, Belarus",
+   "variantes": [
+    "Brest"
+   ],
+   "ctx": [
+    "Belarus",
+    "Belarusian",
+    "Poland",
+    "Polish"
+   ]
+  },
+  {
+   "id": "bruzgi",
+   "nome": "Bruzgi",
+   "pais": "Belarus",
+   "tipo": "fronteira",
+   "lon": 23.6817,
+   "lat": 53.5553,
+   "fonte": "wikipedia:Bruzhi",
+   "variantes": [
+    "Bruzgi"
+   ]
+  },
+  {
+   "id": "vilnius",
+   "nome": "Vilnius",
+   "pais": "Lithuania",
+   "tipo": "cidade",
+   "lon": 25.28,
+   "lat": 54.6872,
+   "fonte": "wikipedia:Vilnius",
+   "variantes": [
+    "Vilnius"
+   ]
+  },
+  {
+   "id": "rukla",
+   "nome": "Rukla",
+   "pais": "Lithuania",
+   "tipo": "campo",
+   "lon": 24.3778,
+   "lat": 55.0528,
+   "fonte": "wikipedia:Rukla",
+   "variantes": [
+    "Rukla"
+   ]
+  },
+  {
+   "id": "pabrade",
+   "nome": "Pabradė",
+   "pais": "Lithuania",
+   "tipo": "campo",
+   "lon": 25.7664,
+   "lat": 54.9831,
+   "fonte": "wikipedia:Pabradė",
+   "variantes": [
+    "Pabrade",
+    "Pabradė"
+   ]
+  },
+  {
+   "id": "medininkai",
+   "nome": "Medininkai",
+   "pais": "Lithuania",
+   "tipo": "fronteira",
+   "lon": 25.65,
+   "lat": 54.5389,
+   "fonte": "wikipedia:Medininkai",
+   "variantes": [
+    "Medininkai"
+   ]
+  },
+  {
+   "id": "riga",
+   "nome": "Riga",
+   "pais": "Latvia",
+   "tipo": "cidade",
+   "lon": 24.1064,
+   "lat": 56.9489,
+   "fonte": "wikipedia:Riga",
+   "variantes": [
+    "Riga"
+   ]
+  },
+  {
+   "id": "lviv",
+   "nome": "Lviv",
+   "pais": "Ukraine",
+   "tipo": "cidade",
+   "lon": 24.0322,
+   "lat": 49.8425,
+   "fonte": "wikipedia:Lviv",
+   "variantes": [
+    "Lviv"
+   ]
+  },
+  {
+   "id": "kyiv",
+   "nome": "Kyiv",
+   "pais": "Ukraine",
+   "tipo": "cidade",
+   "lon": 30.5233,
+   "lat": 50.45,
+   "fonte": "wikipedia:Kyiv",
+   "variantes": [
+    "Kyiv",
+    "Kiev"
+   ]
+  },
+  {
+   "id": "budapest",
+   "nome": "Budapest",
+   "pais": "Hungary",
+   "tipo": "cidade",
+   "lon": 19.0514,
+   "lat": 47.4925,
+   "fonte": "wikipedia:Budapest",
+   "variantes": [
+    "Budapest"
+   ]
+  },
+  {
+   "id": "roszke",
+   "nome": "Röszke",
+   "pais": "Hungary",
+   "tipo": "fronteira",
+   "lon": 20.0353,
+   "lat": 46.1872,
+   "fonte": "wikipedia:Röszke",
+   "variantes": [
+    "Roszke",
+    "Röszke"
+   ]
+  },
+  {
+   "id": "horgos",
+   "nome": "Horgoš",
+   "pais": "Serbia",
+   "tipo": "fronteira",
+   "lon": 19.9703,
+   "lat": 46.1533,
+   "fonte": "wikipedia:Horgoš",
+   "variantes": [
+    "Horgos",
+    "Horgoš"
+   ]
+  },
+  {
+   "id": "tompa",
+   "nome": "Tompa",
+   "pais": "Hungary",
+   "tipo": "fronteira",
+   "lon": 19.5474,
+   "lat": 46.2049,
+   "fonte": "wikipedia:Tompa",
+   "variantes": [
+    "Tompa"
+   ],
+   "ctx": [
+    "Hungary",
+    "Hungarian",
+    "Serbia"
+   ]
+  },
+  {
+   "id": "szeged",
+   "nome": "Szeged",
+   "pais": "Hungary",
+   "tipo": "cidade",
+   "lon": 20.145,
+   "lat": 46.255,
+   "fonte": "wikipedia:Szeged",
+   "variantes": [
+    "Szeged"
+   ]
+  },
+  {
+   "id": "kiskunhalas",
+   "nome": "Kiskunhalas",
+   "pais": "Hungary",
+   "tipo": "cidade",
+   "lon": 19.4883,
+   "lat": 46.4319,
+   "fonte": "wikipedia:Kiskunhalas",
+   "variantes": [
+    "Kiskunhalas"
+   ]
+  },
+  {
+   "id": "subotica",
+   "nome": "Subotica",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 19.6656,
+   "lat": 46.1003,
+   "fonte": "wikipedia:Subotica",
+   "variantes": [
+    "Subotica"
+   ]
+  },
+  {
+   "id": "kanjiza",
+   "nome": "Kanjiža",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 20.05,
+   "lat": 46.0667,
+   "fonte": "wikipedia:Kanjiža",
+   "variantes": [
+    "Kanjiza",
+    "Kanjiža"
+   ]
+  },
+  {
+   "id": "kelebija",
+   "nome": "Kelebija",
+   "pais": "Serbia",
+   "tipo": "fronteira",
+   "lon": 19.5667,
+   "lat": 46.1,
+   "fonte": "wikipedia:Kelebija",
+   "variantes": [
+    "Kelebija"
+   ]
+  },
+  {
+   "id": "belgrade",
+   "nome": "Belgrade",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 20.4569,
+   "lat": 44.8178,
+   "fonte": "wikipedia:Belgrade",
+   "variantes": [
+    "Belgrade",
+    "Beograd"
+   ]
+  },
+  {
+   "id": "sid",
+   "nome": "Šid",
+   "pais": "Serbia",
+   "tipo": "fronteira",
+   "lon": 19.2333,
+   "lat": 45.1167,
+   "fonte": "wikipedia:Šid",
+   "variantes": [
+    "Sid",
+    "Šid"
+   ],
+   "ctx": [
+    "Serbia",
+    "Croatia",
+    "Tovarnik",
+    "Adasevci"
+   ]
+  },
+  {
+   "id": "adasevci",
+   "nome": "Adaševci",
+   "pais": "Serbia",
+   "tipo": "campo",
+   "lon": 19.2167,
+   "lat": 45.0833,
+   "fonte": "wikipedia:Adaševci",
+   "variantes": [
+    "Adasevci",
+    "Adaševci"
+   ]
+  },
+  {
+   "id": "presevo",
+   "nome": "Preševo",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 21.6478,
+   "lat": 42.3089,
+   "fonte": "wikipedia:Preševo",
+   "variantes": [
+    "Presevo",
+    "Preševo"
+   ]
+  },
+  {
+   "id": "obrenovac",
+   "nome": "Obrenovac",
+   "pais": "Serbia",
+   "tipo": "campo",
+   "lon": 20.2,
+   "lat": 44.65,
+   "fonte": "wikipedia:Obrenovac",
+   "variantes": [
+    "Obrenovac"
+   ]
+  },
+  {
+   "id": "bogovaa",
+   "nome": "Bogovađa",
+   "pais": "Serbia",
+   "tipo": "campo",
+   "lon": 20.1833,
+   "lat": 44.3167,
+   "fonte": "wikipedia:Bogovađa",
+   "variantes": [
+    "Bogovadja",
+    "Bogovađa"
+   ]
+  },
+  {
+   "id": "sombor",
+   "nome": "Sombor",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 19.1167,
+   "lat": 45.7833,
+   "fonte": "wikipedia:Sombor",
+   "variantes": [
+    "Sombor"
+   ]
+  },
+  {
+   "id": "kikinda",
+   "nome": "Kikinda",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 20.45,
+   "lat": 45.8333,
+   "fonte": "wikipedia:Kikinda",
+   "variantes": [
+    "Kikinda"
+   ]
+  },
+  {
+   "id": "novi-sad",
+   "nome": "Novi Sad",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 19.8425,
+   "lat": 45.2542,
+   "fonte": "wikipedia:Novi Sad",
+   "variantes": [
+    "Novi Sad"
+   ]
+  },
+  {
+   "id": "vranje",
+   "nome": "Vranje",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 21.9,
+   "lat": 42.55,
+   "fonte": "wikipedia:Vranje",
+   "variantes": [
+    "Vranje"
+   ]
+  },
+  {
+   "id": "pirot",
+   "nome": "Pirot",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 22.6,
+   "lat": 43.1667,
+   "fonte": "wikipedia:Pirot",
+   "variantes": [
+    "Pirot"
+   ]
+  },
+  {
+   "id": "dimitrovgrad",
+   "nome": "Dimitrovgrad",
+   "pais": "Serbia",
+   "tipo": "cidade",
+   "lon": 22.7833,
+   "lat": 43.0167,
+   "fonte": "wikipedia:Dimitrovgrad, Serbia",
+   "variantes": [
+    "Dimitrovgrad"
+   ],
+   "ctx": [
+    "Serbia",
+    "Serbian",
+    "Bulgaria",
+    "Bulgarian"
+   ]
+  },
+  {
+   "id": "zagreb",
+   "nome": "Zagreb",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 15.9775,
+   "lat": 45.8131,
+   "fonte": "wikipedia:Zagreb",
+   "variantes": [
+    "Zagreb"
+   ]
+  },
+  {
+   "id": "tovarnik",
+   "nome": "Tovarnik",
+   "pais": "Croatia",
+   "tipo": "fronteira",
+   "lon": 19.15,
+   "lat": 45.1667,
+   "fonte": "wikipedia:Tovarnik",
+   "variantes": [
+    "Tovarnik"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Opatovac"
+     ],
+     "ctx": [
+      "Croatia",
+      "Serbia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "slavonski-brod",
+   "nome": "Slavonski Brod",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 18.0167,
+   "lat": 45.1667,
+   "fonte": "wikipedia:Slavonski Brod",
+   "variantes": [
+    "Slavonski Brod"
+   ]
+  },
+  {
+   "id": "sisak",
+   "nome": "Sisak",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 16.3761,
+   "lat": 45.4872,
+   "fonte": "wikipedia:Sisak",
+   "variantes": [
+    "Sisak"
+   ]
+  },
+  {
+   "id": "karlovac",
+   "nome": "Karlovac",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 15.55,
+   "lat": 45.4833,
+   "fonte": "wikipedia:Karlovac",
+   "variantes": [
+    "Karlovac"
+   ]
+  },
+  {
+   "id": "rijeka",
+   "nome": "Rijeka",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 14.4411,
+   "lat": 45.3272,
+   "fonte": "wikipedia:Rijeka",
+   "variantes": [
+    "Rijeka"
+   ]
+  },
+  {
+   "id": "split",
+   "nome": "Split",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 16.44,
+   "lat": 43.51,
+   "fonte": "wikipedia:Split, Croatia",
+   "variantes": [
+    "in Split",
+    "to Split",
+    "from Split",
+    "near Split",
+    "Split, Croatia"
+   ],
+   "ctx": [
+    "Croatia",
+    "Croatian",
+    "Dalmatia"
+   ]
+  },
+  {
+   "id": "zadar",
+   "nome": "Zadar",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 15.2275,
+   "lat": 44.1142,
+   "fonte": "wikipedia:Zadar",
+   "variantes": [
+    "Zadar"
+   ]
+  },
+  {
+   "id": "osijek",
+   "nome": "Osijek",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 18.6944,
+   "lat": 45.5556,
+   "fonte": "wikipedia:Osijek",
+   "variantes": [
+    "Osijek"
+   ]
+  },
+  {
+   "id": "vinkovci",
+   "nome": "Vinkovci",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 18.8011,
+   "lat": 45.2911,
+   "fonte": "wikipedia:Vinkovci",
+   "variantes": [
+    "Vinkovci"
+   ]
+  },
+  {
+   "id": "dubrovnik",
+   "nome": "Dubrovnik",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 18.1083,
+   "lat": 42.6403,
+   "fonte": "wikipedia:Dubrovnik",
+   "variantes": [
+    "Dubrovnik"
+   ]
+  },
+  {
+   "id": "korenica",
+   "nome": "Korenica",
+   "pais": "Croatia",
+   "tipo": "cidade",
+   "lon": 15.7064,
+   "lat": 44.7433,
+   "fonte": "wikipedia:Korenica",
+   "variantes": [
+    "Korenica"
+   ]
+  },
+  {
+   "id": "ljubljana",
+   "nome": "Ljubljana",
+   "pais": "Slovenia",
+   "tipo": "cidade",
+   "lon": 14.5061,
+   "lat": 46.0514,
+   "fonte": "wikipedia:Ljubljana",
+   "variantes": [
+    "Ljubljana"
+   ]
+  },
+  {
+   "id": "dobova",
+   "nome": "Dobova",
+   "pais": "Slovenia",
+   "tipo": "campo",
+   "lon": 15.6573,
+   "lat": 45.8997,
+   "fonte": "wikipedia:Dobova",
+   "variantes": [
+    "Dobova"
+   ]
+  },
+  {
+   "id": "postojna",
+   "nome": "Postojna",
+   "pais": "Slovenia",
+   "tipo": "cidade",
+   "lon": 14.2137,
+   "lat": 45.7759,
+   "fonte": "wikipedia:Postojna",
+   "variantes": [
+    "Postojna"
+   ]
+  },
+  {
+   "id": "sarajevo",
+   "nome": "Sarajevo",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 18.4131,
+   "lat": 43.8564,
+   "fonte": "wikipedia:Sarajevo",
+   "variantes": [
+    "Sarajevo"
+   ]
+  },
+  {
+   "id": "bihac",
+   "nome": "Bihać",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 15.8692,
+   "lat": 44.8147,
+   "fonte": "wikipedia:Bihać",
+   "variantes": [
+    "Bihac",
+    "Bihać"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Bira",
+      "Lipa",
+      "Vučjak",
+      "Borići"
+     ],
+     "ctx": [
+      "Bosnia",
+      "Bosnian",
+      "Bihac",
+      "Una Sana",
+      "Kladusa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "velika-kladusa",
+   "nome": "Velika Kladuša",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 15.8,
+   "lat": 45.1833,
+   "fonte": "wikipedia:Velika Kladuša",
+   "variantes": [
+    "Velika Kladusa",
+    "Velika Kladuša",
+    "Kladusa",
+    "Kladuša"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Miral"
+     ],
+     "ctx": [
+      "Bosnia",
+      "Bosnian",
+      "Kladusa",
+      "Bihac"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cazin",
+   "nome": "Cazin",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 15.9333,
+   "lat": 44.9667,
+   "fonte": "wikipedia:Cazin",
+   "variantes": [
+    "Cazin"
+   ]
+  },
+  {
+   "id": "bosanska-krupa",
+   "nome": "Bosanska Krupa",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 16.15,
+   "lat": 44.8833,
+   "fonte": "wikipedia:Bosanska Krupa",
+   "variantes": [
+    "Bosanska Krupa"
+   ]
+  },
+  {
+   "id": "bosanski-petrovac",
+   "nome": "Bosanski Petrovac",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 16.3667,
+   "lat": 44.55,
+   "fonte": "wikipedia:Bosanski Petrovac",
+   "variantes": [
+    "Bosanski Petrovac"
+   ]
+  },
+  {
+   "id": "sanski-most",
+   "nome": "Sanski Most",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 16.6667,
+   "lat": 44.7667,
+   "fonte": "wikipedia:Sanski Most",
+   "variantes": [
+    "Sanski Most"
+   ]
+  },
+  {
+   "id": "tuzla",
+   "nome": "Tuzla",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 18.6761,
+   "lat": 44.5381,
+   "fonte": "wikipedia:Tuzla",
+   "variantes": [
+    "Tuzla"
+   ]
+  },
+  {
+   "id": "mostar",
+   "nome": "Mostar",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 17.8075,
+   "lat": 43.3436,
+   "fonte": "wikipedia:Mostar",
+   "variantes": [
+    "Mostar"
+   ]
+  },
+  {
+   "id": "banja-luka",
+   "nome": "Banja Luka",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "cidade",
+   "lon": 17.1925,
+   "lat": 44.7725,
+   "fonte": "wikipedia:Banja Luka",
+   "variantes": [
+    "Banja Luka"
+   ]
+  },
+  {
+   "id": "podgorica",
+   "nome": "Podgorica",
+   "pais": "Montenegro",
+   "tipo": "cidade",
+   "lon": 19.2628,
+   "lat": 42.4414,
+   "fonte": "wikipedia:Podgorica",
+   "variantes": [
+    "Podgorica"
+   ]
+  },
+  {
+   "id": "skopje",
+   "nome": "Skopje",
+   "pais": "North Macedonia",
+   "tipo": "cidade",
+   "lon": 21.4317,
+   "lat": 41.9961,
+   "fonte": "wikipedia:Skopje",
+   "variantes": [
+    "Skopje"
+   ]
+  },
+  {
+   "id": "tirana",
+   "nome": "Tirana",
+   "pais": "Albania",
+   "tipo": "cidade",
+   "lon": 19.8181,
+   "lat": 41.3283,
+   "fonte": "wikipedia:Tirana",
+   "variantes": [
+    "Tirana"
+   ]
+  },
+  {
+   "id": "pristina",
+   "nome": "Pristina",
+   "pais": "Kosovo",
+   "tipo": "cidade",
+   "lon": 21.1667,
+   "lat": 42.6667,
+   "fonte": "wikipedia:Pristina",
+   "variantes": [
+    "Pristina",
+    "Prishtina"
+   ]
+  },
+  {
+   "id": "sofia",
+   "nome": "Sofia",
+   "pais": "Bulgaria",
+   "tipo": "cidade",
+   "lon": 23.33,
+   "lat": 42.7,
+   "fonte": "wikipedia:Sofia",
+   "variantes": [
+    "Sofia"
+   ]
+  },
+  {
+   "id": "harmanli",
+   "nome": "Harmanli",
+   "pais": "Bulgaria",
+   "tipo": "campo",
+   "lon": 25.9,
+   "lat": 41.9333,
+   "fonte": "wikipedia:Harmanli",
+   "variantes": [
+    "Harmanli"
+   ]
+  },
+  {
+   "id": "svilengrad",
+   "nome": "Svilengrad",
+   "pais": "Bulgaria",
+   "tipo": "cidade",
+   "lon": 26.2,
+   "lat": 41.7667,
+   "fonte": "wikipedia:Svilengrad",
+   "variantes": [
+    "Svilengrad"
+   ]
+  },
+  {
+   "id": "burgas",
+   "nome": "Burgas",
+   "pais": "Bulgaria",
+   "tipo": "cidade",
+   "lon": 27.4702,
+   "lat": 42.503,
+   "fonte": "wikipedia:Burgas",
+   "variantes": [
+    "Burgas"
+   ]
+  },
+  {
+   "id": "elhovo",
+   "nome": "Elhovo",
+   "pais": "Bulgaria",
+   "tipo": "cidade",
+   "lon": 26.5667,
+   "lat": 42.1667,
+   "fonte": "wikipedia:Elhovo",
+   "variantes": [
+    "Elhovo"
+   ]
+  },
+  {
+   "id": "lyubimets",
+   "nome": "Lyubimets",
+   "pais": "Bulgaria",
+   "tipo": "cidade",
+   "lon": 26.0833,
+   "lat": 41.8333,
+   "fonte": "wikipedia:Lyubimets",
+   "variantes": [
+    "Lyubimets"
+   ]
+  },
+  {
+   "id": "bucharest",
+   "nome": "Bucharest",
+   "pais": "Romania",
+   "tipo": "cidade",
+   "lon": 26.1039,
+   "lat": 44.4325,
+   "fonte": "wikipedia:Bucharest",
+   "variantes": [
+    "Bucharest"
+   ]
+  },
+  {
+   "id": "timisoara",
+   "nome": "Timișoara",
+   "pais": "Romania",
+   "tipo": "cidade",
+   "lon": 21.23,
+   "lat": 45.7597,
+   "fonte": "wikipedia:Timișoara",
+   "variantes": [
+    "Timisoara",
+    "Timișoara"
+   ]
+  },
+  {
+   "id": "istanbul",
+   "nome": "Istanbul",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 28.955,
+   "lat": 41.0136,
+   "fonte": "wikipedia:Istanbul",
+   "variantes": [
+    "Istanbul"
+   ]
+  },
+  {
+   "id": "ankara",
+   "nome": "Ankara",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 32.8547,
+   "lat": 39.9289,
+   "fonte": "wikipedia:Ankara",
+   "variantes": [
+    "Ankara"
+   ]
+  },
+  {
+   "id": "izmir",
+   "nome": "İzmir",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 27.1322,
+   "lat": 38.4244,
+   "fonte": "wikipedia:İzmir",
+   "variantes": [
+    "Izmir",
+    "İzmir"
+   ]
+  },
+  {
+   "id": "cesme",
+   "nome": "Çeşme",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 26.3031,
+   "lat": 38.3244,
+   "fonte": "wikipedia:Çeşme",
+   "variantes": [
+    "Cesme",
+    "Çeşme"
+   ]
+  },
+  {
+   "id": "bodrum",
+   "nome": "Bodrum",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 27.4333,
+   "lat": 37.0333,
+   "fonte": "wikipedia:Bodrum",
+   "variantes": [
+    "Bodrum"
+   ]
+  },
+  {
+   "id": "ayvalk",
+   "nome": "Ayvalık",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 26.6944,
+   "lat": 39.3167,
+   "fonte": "wikipedia:Ayvalık",
+   "variantes": [
+    "Ayvalik",
+    "Ayvalık"
+   ]
+  },
+  {
+   "id": "dikili",
+   "nome": "Dikili",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 26.8833,
+   "lat": 39.0667,
+   "fonte": "wikipedia:Dikili",
+   "variantes": [
+    "Dikili"
+   ]
+  },
+  {
+   "id": "canakkale",
+   "nome": "Çanakkale",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 26.4056,
+   "lat": 40.1519,
+   "fonte": "wikipedia:Çanakkale",
+   "variantes": [
+    "Canakkale",
+    "Çanakkale"
+   ]
+  },
+  {
+   "id": "van",
+   "nome": "Van",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 43.38,
+   "lat": 38.4942,
+   "fonte": "wikipedia:Van, Turkey",
+   "variantes": [
+    "Van province",
+    "Lake Van",
+    "Van city",
+    "Van, Turkey",
+    "in Van",
+    "from Van",
+    "to Van",
+    "near Van"
+   ],
+   "ctx": [
+    "Turkey",
+    "Turkish",
+    "Iran",
+    "Iranian"
+   ]
+  },
+  {
+   "id": "gaziantep",
+   "nome": "Gaziantep",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 37.3781,
+   "lat": 37.0658,
+   "fonte": "wikipedia:Gaziantep",
+   "variantes": [
+    "Gaziantep"
+   ]
+  },
+  {
+   "id": "adana",
+   "nome": "Adana",
+   "pais": "Turkey",
+   "tipo": "cidade",
+   "lon": 35.3213,
+   "lat": 37,
+   "fonte": "wikipedia:Adana",
+   "variantes": [
+    "Adana"
+   ]
+  },
+  {
+   "id": "nicosia",
+   "nome": "Nicosia",
+   "pais": "Cyprus",
+   "tipo": "cidade",
+   "lon": 33.365,
+   "lat": 35.1725,
+   "fonte": "wikipedia:Nicosia",
+   "variantes": [
+    "Nicosia"
+   ],
+   "extras": [
+    {
+     "variantes": [
+      "Pournara"
+     ],
+     "ctx": [
+      "Cyprus"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "larnaca",
+   "nome": "Larnaca",
+   "pais": "Cyprus",
+   "tipo": "cidade",
+   "lon": 33.6333,
+   "lat": 34.9167,
+   "fonte": "wikipedia:Larnaca",
+   "variantes": [
+    "Larnaca"
+   ]
+  },
+  {
+   "id": "limassol",
+   "nome": "Limassol",
+   "pais": "Cyprus",
+   "tipo": "cidade",
+   "lon": 33.0442,
+   "lat": 34.6747,
+   "fonte": "wikipedia:Limassol",
+   "variantes": [
+    "Limassol"
+   ]
+  },
+  {
+   "id": "valletta",
+   "nome": "Valletta",
+   "pais": "Malta",
+   "tipo": "cidade",
+   "lon": 14.5125,
+   "lat": 35.8983,
+   "fonte": "wikipedia:Valletta",
+   "variantes": [
+    "Valletta"
+   ]
+  },
+  {
+   "id": "hal-far",
+   "nome": "Hal Far",
+   "pais": "Malta",
+   "tipo": "campo",
+   "lon": 14.51,
+   "lat": 35.815,
+   "fonte": "wikipedia:Ħal Far",
+   "variantes": [
+    "Hal Far",
+    "Ħal Far"
+   ]
+  },
+  {
+   "id": "marsa",
+   "nome": "Marsa",
+   "pais": "Malta",
+   "tipo": "cidade",
+   "lon": 14.4947,
+   "lat": 35.8833,
+   "fonte": "wikipedia:Marsa, Malta",
+   "variantes": [
+    "Marsa"
+   ],
+   "ctx": [
+    "Malta",
+    "Maltese"
+   ]
+  },
+  {
+   "id": "tripoli",
+   "nome": "Tripoli",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 13.1875,
+   "lat": 32.8875,
+   "fonte": "wikipedia:Tripoli, Libya",
+   "variantes": [
+    "Tripoli"
+   ],
+   "ctx": [
+    "Libya",
+    "Libyan"
+   ]
+  },
+  {
+   "id": "zawiya",
+   "nome": "Zawiya",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 12.7278,
+   "lat": 32.7522,
+   "fonte": "wikipedia:Zawiya, Libya",
+   "variantes": [
+    "Zawiya",
+    "Zawiyah",
+    "Az Zawiyah"
+   ]
+  },
+  {
+   "id": "zuwara",
+   "nome": "Zuwara",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 12.0833,
+   "lat": 32.9333,
+   "fonte": "wikipedia:Zuwarah",
+   "variantes": [
+    "Zuwara",
+    "Zuwarah"
+   ]
+  },
+  {
+   "id": "sabratha",
+   "nome": "Sabratha",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 12.4842,
+   "lat": 32.7922,
+   "fonte": "wikipedia:Sabratha",
+   "variantes": [
+    "Sabratha"
+   ]
+  },
+  {
+   "id": "tajoura",
+   "nome": "Tajoura",
+   "pais": "Libya",
+   "tipo": "campo",
+   "lon": 13.3399,
+   "lat": 32.8818,
+   "fonte": "wikipedia:Tajura",
+   "variantes": [
+    "Tajoura",
+    "Tajura"
+   ]
+  },
+  {
+   "id": "misrata",
+   "nome": "Misrata",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 15.092,
+   "lat": 32.3775,
+   "fonte": "wikipedia:Misrata",
+   "variantes": [
+    "Misrata",
+    "Misurata"
+   ]
+  },
+  {
+   "id": "khoms",
+   "nome": "Khoms",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 14.2644,
+   "lat": 32.6497,
+   "fonte": "wikipedia:Al-Khums",
+   "variantes": [
+    "Khoms",
+    "Al Khums",
+    "Khums"
+   ]
+  },
+  {
+   "id": "zliten",
+   "nome": "Zliten",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 14.5667,
+   "lat": 32.4667,
+   "fonte": "wikipedia:Zliten",
+   "variantes": [
+    "Zliten"
+   ]
+  },
+  {
+   "id": "sirte",
+   "nome": "Sirte",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 16.5886,
+   "lat": 31.205,
+   "fonte": "wikipedia:Sirte",
+   "variantes": [
+    "Sirte"
+   ]
+  },
+  {
+   "id": "benghazi",
+   "nome": "Benghazi",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 20.0667,
+   "lat": 32.1167,
+   "fonte": "wikipedia:Benghazi",
+   "variantes": [
+    "Benghazi"
+   ]
+  },
+  {
+   "id": "bani-walid",
+   "nome": "Bani Walid",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 14.0139,
+   "lat": 31.7619,
+   "fonte": "wikipedia:Bani Walid",
+   "variantes": [
+    "Bani Walid"
+   ]
+  },
+  {
+   "id": "gharyan",
+   "nome": "Gharyan",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 13.0167,
+   "lat": 32.1697,
+   "fonte": "wikipedia:Gharyan",
+   "variantes": [
+    "Gharyan"
+   ]
+  },
+  {
+   "id": "sabha",
+   "nome": "Sabha",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 14.4264,
+   "lat": 27.0389,
+   "fonte": "wikipedia:Sabha, Libya",
+   "variantes": [
+    "Sabha"
+   ],
+   "ctx": [
+    "Libya",
+    "Libyan"
+   ]
+  },
+  {
+   "id": "kufra",
+   "nome": "Kufra",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 23.2833,
+   "lat": 24.1833,
+   "fonte": "wikipedia:Kufra",
+   "variantes": [
+    "Kufra"
+   ]
+  },
+  {
+   "id": "tarhuna",
+   "nome": "Tarhuna",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 13.6344,
+   "lat": 32.4339,
+   "fonte": "wikipedia:Tarhuna",
+   "variantes": [
+    "Tarhuna"
+   ]
+  },
+  {
+   "id": "zintan",
+   "nome": "Zintan",
+   "pais": "Libya",
+   "tipo": "cidade",
+   "lon": 12.2483,
+   "lat": 31.9306,
+   "fonte": "wikipedia:Zintan",
+   "variantes": [
+    "Zintan"
+   ]
+  },
+  {
+   "id": "qasr-bin-ghashir",
+   "nome": "Qasr Bin Ghashir",
+   "pais": "Libya",
+   "tipo": "campo",
+   "lon": 13.1756,
+   "lat": 32.6853,
+   "fonte": "wikipedia:Qasr bin Ghashir",
+   "variantes": [
+    "Qasr Bin Ghashir",
+    "Qasr bin Ghashir"
+   ]
+  },
+  {
+   "id": "ain-zara",
+   "nome": "Ain Zara",
+   "pais": "Libya",
+   "tipo": "campo",
+   "lon": 13.2697,
+   "lat": 32.8133,
+   "fonte": "wikipedia:Ain Zara",
+   "variantes": [
+    "Ain Zara"
+   ]
+  },
+  {
+   "id": "tunis",
+   "nome": "Tunis",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 10.1817,
+   "lat": 36.8064,
+   "fonte": "wikipedia:Tunis",
+   "variantes": [
+    "Tunis"
+   ]
+  },
+  {
+   "id": "sfax",
+   "nome": "Sfax",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 10.76,
+   "lat": 34.74,
+   "fonte": "wikipedia:Sfax",
+   "variantes": [
+    "Sfax"
+   ]
+  },
+  {
+   "id": "zarzis",
+   "nome": "Zarzis",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 11.1167,
+   "lat": 33.5,
+   "fonte": "wikipedia:Zarzis",
+   "variantes": [
+    "Zarzis"
+   ]
+  },
+  {
+   "id": "medenine",
+   "nome": "Medenine",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 10.5053,
+   "lat": 33.3547,
+   "fonte": "wikipedia:Medenine",
+   "variantes": [
+    "Medenine"
+   ]
+  },
+  {
+   "id": "monastir",
+   "nome": "Monastir",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 10.8194,
+   "lat": 35.7694,
+   "fonte": "wikipedia:Monastir, Tunisia",
+   "variantes": [
+    "Monastir"
+   ],
+   "ctx": [
+    "Tunisia",
+    "Tunisian"
+   ]
+  },
+  {
+   "id": "mahdia",
+   "nome": "Mahdia",
+   "pais": "Tunisia",
+   "tipo": "cidade",
+   "lon": 11.0667,
+   "lat": 35.5,
+   "fonte": "wikipedia:Mahdia",
+   "variantes": [
+    "Mahdia"
+   ]
+  },
+  {
+   "id": "kerkennah",
+   "nome": "Kerkennah",
+   "pais": "Tunisia",
+   "tipo": "ilha",
+   "lon": 11.1833,
+   "lat": 34.7,
+   "fonte": "wikipedia:Kerkennah Islands",
+   "variantes": [
+    "Kerkennah"
+   ]
+  },
+  {
+   "id": "algiers",
+   "nome": "Algiers",
+   "pais": "Algeria",
+   "tipo": "cidade",
+   "lon": 3.0872,
+   "lat": 36.7325,
+   "fonte": "wikipedia:Algiers",
+   "variantes": [
+    "Algiers"
+   ]
+  },
+  {
+   "id": "oran",
+   "nome": "Oran",
+   "pais": "Algeria",
+   "tipo": "cidade",
+   "lon": -0.6331,
+   "lat": 35.6969,
+   "fonte": "wikipedia:Oran",
+   "variantes": [
+    "Oran"
+   ]
+  },
+  {
+   "id": "cairo",
+   "nome": "Cairo",
+   "pais": "Egypt",
+   "tipo": "cidade",
+   "lon": 31.2358,
+   "lat": 30.0444,
+   "fonte": "wikipedia:Cairo",
+   "variantes": [
+    "Cairo"
+   ]
+  },
+  {
+   "id": "alexandria",
+   "nome": "Alexandria",
+   "pais": "Egypt",
+   "tipo": "cidade",
+   "lon": 29.8925,
+   "lat": 31.1975,
+   "fonte": "wikipedia:Alexandria",
+   "variantes": [
+    "Alexandria"
+   ],
+   "ctx": [
+    "Egypt",
+    "Egyptian"
+   ]
+  },
+  {
+   "id": "rabat",
+   "nome": "Rabat",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -6.8414,
+   "lat": 34.0211,
+   "fonte": "wikipedia:Rabat",
+   "variantes": [
+    "Rabat"
+   ]
+  },
+  {
+   "id": "casablanca",
+   "nome": "Casablanca",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -7.5833,
+   "lat": 33.5333,
+   "fonte": "wikipedia:Casablanca",
+   "variantes": [
+    "Casablanca"
+   ]
+  },
+  {
+   "id": "tangier",
+   "nome": "Tangier",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -5.8039,
+   "lat": 35.7767,
+   "fonte": "wikipedia:Tangier",
+   "variantes": [
+    "Tangier",
+    "Tanger"
+   ]
+  },
+  {
+   "id": "nador",
+   "nome": "Nador",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -2.9333,
+   "lat": 35.1667,
+   "fonte": "wikipedia:Nador",
+   "variantes": [
+    "Nador"
+   ]
+  },
+  {
+   "id": "oujda",
+   "nome": "Oujda",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -1.9114,
+   "lat": 34.6867,
+   "fonte": "wikipedia:Oujda",
+   "variantes": [
+    "Oujda"
+   ]
+  },
+  {
+   "id": "tetouan",
+   "nome": "Tetouan",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -5.3667,
+   "lat": 35.5667,
+   "fonte": "wikipedia:Tétouan",
+   "variantes": [
+    "Tetouan",
+    "Tétouan"
+   ]
+  },
+  {
+   "id": "melilla",
+   "nome": "Melilla",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -2.9408,
+   "lat": 35.2922,
+   "fonte": "wikipedia:Melilla",
+   "variantes": [
+    "Melilla"
+   ]
+  },
+  {
+   "id": "ceuta",
+   "nome": "Ceuta",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -5.3156,
+   "lat": 35.8883,
+   "fonte": "wikipedia:Ceuta",
+   "variantes": [
+    "Ceuta"
+   ]
+  },
+  {
+   "id": "tarifa",
+   "nome": "Tarifa",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -5.606,
+   "lat": 36.014,
+   "fonte": "wikipedia:Tarifa",
+   "variantes": [
+    "Tarifa"
+   ]
+  },
+  {
+   "id": "algeciras",
+   "nome": "Algeciras",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -5.4539,
+   "lat": 36.1275,
+   "fonte": "wikipedia:Algeciras",
+   "variantes": [
+    "Algeciras"
+   ]
+  },
+  {
+   "id": "almeria",
+   "nome": "Almería",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -2.4639,
+   "lat": 36.8417,
+   "fonte": "wikipedia:Almería",
+   "variantes": [
+    "Almeria",
+    "Almería"
+   ]
+  },
+  {
+   "id": "motril",
+   "nome": "Motril",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -3.5167,
+   "lat": 36.75,
+   "fonte": "wikipedia:Motril",
+   "variantes": [
+    "Motril"
+   ]
+  },
+  {
+   "id": "malaga",
+   "nome": "Málaga",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -4.42,
+   "lat": 36.7194,
+   "fonte": "wikipedia:Málaga",
+   "variantes": [
+    "Malaga",
+    "Málaga"
+   ]
+  },
+  {
+   "id": "cadiz",
+   "nome": "Cádiz",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -6.2975,
+   "lat": 36.535,
+   "fonte": "wikipedia:Cádiz",
+   "variantes": [
+    "Cadiz",
+    "Cádiz"
+   ]
+  },
+  {
+   "id": "huelva",
+   "nome": "Huelva",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -6.95,
+   "lat": 37.25,
+   "fonte": "wikipedia:Huelva",
+   "variantes": [
+    "Huelva"
+   ]
+  },
+  {
+   "id": "alicante",
+   "nome": "Alicante",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -0.4831,
+   "lat": 38.3453,
+   "fonte": "wikipedia:Alicante",
+   "variantes": [
+    "Alicante"
+   ]
+  },
+  {
+   "id": "cartagena",
+   "nome": "Cartagena",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -0.9842,
+   "lat": 37.6019,
+   "fonte": "wikipedia:Cartagena, Spain",
+   "variantes": [
+    "Cartagena"
+   ],
+   "ctx": [
+    "Spain",
+    "Spanish",
+    "Murcia"
+   ]
+  },
+  {
+   "id": "murcia",
+   "nome": "Murcia",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -1.1303,
+   "lat": 37.9833,
+   "fonte": "wikipedia:Murcia",
+   "variantes": [
+    "Murcia"
+   ]
+  },
+  {
+   "id": "valencia",
+   "nome": "Valencia",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -0.3764,
+   "lat": 39.47,
+   "fonte": "wikipedia:Valencia",
+   "variantes": [
+    "Valencia"
+   ]
+  },
+  {
+   "id": "barcelona",
+   "nome": "Barcelona",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": 2.1833,
+   "lat": 41.3833,
+   "fonte": "wikipedia:Barcelona",
+   "variantes": [
+    "Barcelona"
+   ]
+  },
+  {
+   "id": "madrid",
+   "nome": "Madrid",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -3.7033,
+   "lat": 40.4169,
+   "fonte": "wikipedia:Madrid",
+   "variantes": [
+    "Madrid"
+   ]
+  },
+  {
+   "id": "palma",
+   "nome": "Palma",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": 2.65,
+   "lat": 39.5667,
+   "fonte": "wikipedia:Palma de Mallorca",
+   "variantes": [
+    "Palma",
+    "Palma de Mallorca"
+   ],
+   "ctx": [
+    "Spain",
+    "Spanish",
+    "Balearic",
+    "Mallorca"
+   ]
+  },
+  {
+   "id": "gibraltar",
+   "nome": "Gibraltar",
+   "pais": "Gibraltar",
+   "tipo": "cidade",
+   "lon": -5.35,
+   "lat": 36.14,
+   "fonte": "wikipedia:Gibraltar",
+   "variantes": [
+    "Gibraltar"
+   ]
+  },
+  {
+   "id": "lisbon",
+   "nome": "Lisbon",
+   "pais": "Portugal",
+   "tipo": "cidade",
+   "lon": -9.15,
+   "lat": 38.7253,
+   "fonte": "wikipedia:Lisbon",
+   "variantes": [
+    "Lisbon",
+    "Lisboa"
+   ]
+  },
+  {
+   "id": "beirut",
+   "nome": "Beirut",
+   "pais": "Lebanon",
+   "tipo": "cidade",
+   "lon": 35.5058,
+   "lat": 33.8981,
+   "fonte": "wikipedia:Beirut",
+   "variantes": [
+    "Beirut"
+   ]
+  },
+  {
+   "id": "arsal",
+   "nome": "Arsal",
+   "pais": "Lebanon",
+   "tipo": "cidade",
+   "lon": 36.4208,
+   "lat": 34.1794,
+   "fonte": "wikipedia:Arsal",
+   "variantes": [
+    "Arsal"
+   ]
+  },
+  {
+   "id": "amman",
+   "nome": "Amman",
+   "pais": "Jordan",
+   "tipo": "cidade",
+   "lon": 35.9328,
+   "lat": 31.9497,
+   "fonte": "wikipedia:Amman",
+   "variantes": [
+    "Amman"
+   ]
+  },
+  {
+   "id": "zaatari",
+   "nome": "Zaatari",
+   "pais": "Jordan",
+   "tipo": "campo",
+   "lon": 36.3237,
+   "lat": 32.2957,
+   "fonte": "wikipedia:Zaatari refugee camp",
+   "variantes": [
+    "Zaatari"
+   ]
+  },
+  {
+   "id": "aleppo",
+   "nome": "Aleppo",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 37.16,
+   "lat": 36.2,
+   "fonte": "wikipedia:Aleppo",
+   "variantes": [
+    "Aleppo"
+   ]
+  },
+  {
+   "id": "idlib",
+   "nome": "Idlib",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.6333,
+   "lat": 35.9333,
+   "fonte": "wikipedia:Idlib",
+   "variantes": [
+    "Idlib"
+   ]
+  },
+  {
+   "id": "damascus",
+   "nome": "Damascus",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.3094,
+   "lat": 33.5131,
+   "fonte": "wikipedia:Damascus",
+   "variantes": [
+    "Damascus"
+   ]
+  },
+  {
+   "id": "homs",
+   "nome": "Homs",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.7094,
+   "lat": 34.7308,
+   "fonte": "wikipedia:Homs",
+   "variantes": [
+    "Homs"
+   ]
+  },
+  {
+   "id": "daraa",
+   "nome": "Daraa",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.1061,
+   "lat": 32.6253,
+   "fonte": "wikipedia:Daraa",
+   "variantes": [
+    "Daraa",
+    "Deraa"
+   ]
+  },
+  {
+   "id": "latakia",
+   "nome": "Latakia",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 35.7781,
+   "lat": 35.52,
+   "fonte": "wikipedia:Latakia",
+   "variantes": [
+    "Latakia"
+   ]
+  },
+  {
+   "id": "raqqa",
+   "nome": "Raqqa",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 39.01,
+   "lat": 35.95,
+   "fonte": "wikipedia:Raqqa",
+   "variantes": [
+    "Raqqa"
+   ]
+  },
+  {
+   "id": "kobani",
+   "nome": "Kobani",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 38.3536,
+   "lat": 36.891,
+   "fonte": "wikipedia:Kobani",
+   "variantes": [
+    "Kobani",
+    "Kobane"
+   ]
+  },
+  {
+   "id": "afrin",
+   "nome": "Afrin",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.8692,
+   "lat": 36.5083,
+   "fonte": "wikipedia:Afrin, Syria",
+   "variantes": [
+    "Afrin"
+   ]
+  },
+  {
+   "id": "douma",
+   "nome": "Douma",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 36.4011,
+   "lat": 33.5711,
+   "fonte": "wikipedia:Douma, Syria",
+   "variantes": [
+    "Douma"
+   ]
+  },
+  {
+   "id": "mosul",
+   "nome": "Mosul",
+   "pais": "Iraq",
+   "tipo": "cidade",
+   "lon": 43.1292,
+   "lat": 36.3417,
+   "fonte": "wikipedia:Mosul",
+   "variantes": [
+    "Mosul"
+   ]
+  },
+  {
+   "id": "baghdad",
+   "nome": "Baghdad",
+   "pais": "Iraq",
+   "tipo": "cidade",
+   "lon": 44.3661,
+   "lat": 33.3153,
+   "fonte": "wikipedia:Baghdad",
+   "variantes": [
+    "Baghdad"
+   ]
+  },
+  {
+   "id": "erbil",
+   "nome": "Erbil",
+   "pais": "Iraq",
+   "tipo": "cidade",
+   "lon": 44.0092,
+   "lat": 36.1912,
+   "fonte": "wikipedia:Erbil",
+   "variantes": [
+    "Erbil",
+    "Arbil",
+    "Hawler"
+   ]
+  },
+  {
+   "id": "sinjar",
+   "nome": "Sinjar",
+   "pais": "Iraq",
+   "tipo": "cidade",
+   "lon": 41.8642,
+   "lat": 36.3225,
+   "fonte": "wikipedia:Sinjar",
+   "variantes": [
+    "Sinjar"
+   ]
+  },
+  {
+   "id": "gaza",
+   "nome": "Gaza",
+   "pais": "Palestine",
+   "tipo": "cidade",
+   "lon": 34.4597,
+   "lat": 31.5075,
+   "fonte": "wikipedia:Gaza City",
+   "variantes": [
+    "Gaza",
+    "Gaza City",
+    "Gaza Strip"
+   ]
+  },
+  {
+   "id": "tehran",
+   "nome": "Tehran",
+   "pais": "Iran",
+   "tipo": "cidade",
+   "lon": 51.3897,
+   "lat": 35.6889,
+   "fonte": "wikipedia:Tehran",
+   "variantes": [
+    "Tehran"
+   ]
+  },
+  {
+   "id": "aegean-sea",
+   "nome": "Aegean Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": 25,
+   "lat": 39,
+   "fonte": "wikipedia:Aegean Sea",
+   "variantes": [
+    "Aegean Sea",
+    "Aegean"
+   ]
+  },
+  {
+   "id": "mediterranean-sea",
+   "nome": "Mediterranean Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": 18,
+   "lat": 35,
+   "fonte": "wikipedia:Mediterranean Sea",
+   "variantes": [
+    "Mediterranean Sea",
+    "Mediterranean",
+    "Central Mediterranean",
+    "Western Mediterranean",
+    "Eastern Mediterranean",
+    "Mediterranée"
+   ]
+  },
+  {
+   "id": "ionian-sea",
+   "nome": "Ionian Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": 19,
+   "lat": 38,
+   "fonte": "wikipedia:Ionian Sea",
+   "variantes": [
+    "Ionian Sea",
+    "Ionian"
+   ]
+  },
+  {
+   "id": "adriatic-sea",
+   "nome": "Adriatic Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": 15,
+   "lat": 43,
+   "fonte": "wikipedia:Adriatic Sea",
+   "variantes": [
+    "Adriatic Sea",
+    "Adriatic"
+   ]
+  },
+  {
+   "id": "english-channel",
+   "nome": "English Channel",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": -2,
+   "lat": 50.2,
+   "fonte": "wikipedia:English Channel",
+   "variantes": [
+    "English Channel",
+    "the Channel",
+    "La Manche"
+   ]
+  },
+  {
+   "id": "alboran-sea",
+   "nome": "Alboran Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": -3,
+   "lat": 36,
+   "fonte": "wikipedia:Alboran Sea",
+   "variantes": [
+    "Alboran Sea",
+    "Alboran"
+   ]
+  },
+  {
+   "id": "strait-of-gibraltar",
+   "nome": "Strait of Gibraltar",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": -5.5,
+   "lat": 35.95,
+   "fonte": "wikipedia:Strait of Gibraltar",
+   "variantes": [
+    "Strait of Gibraltar"
+   ]
+  },
+  {
+   "id": "black-sea",
+   "nome": "Black Sea",
+   "pais": "-",
+   "tipo": "mar",
+   "lon": 35,
+   "lat": 44,
+   "fonte": "wikipedia:Black Sea",
+   "variantes": [
+    "Black Sea"
+   ]
+  },
+  {
+   "id": "tripoli-lebanon",
+   "nome": "Tripoli (Lebanon)",
+   "pais": "Lebanon",
+   "tipo": "cidade",
+   "lon": 35.8344,
+   "lat": 34.4367,
+   "fonte": "wikipedia:Tripoli, Lebanon",
+   "variantes": [
+    "Tripoli"
+   ],
+   "ctx": [
+    "Lebanon",
+    "Lebanese"
+   ],
+   "sem": [
+    "Libya",
+    "Libyan"
+   ]
+  },
+  {
+   "id": "pais-greece",
+   "nome": "Greece",
+   "pais": "Greece",
+   "tipo": "pais",
+   "lon": 21.81,
+   "lat": 39.08,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Greece",
+    "Greek",
+    "Hellenic"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-turkey",
+   "nome": "Turkey",
+   "pais": "Turkey",
+   "tipo": "pais",
+   "lon": 35.5,
+   "lat": 38.95,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Turkey",
+    "Turkish",
+    "Türkiye"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-italy",
+   "nome": "Italy",
+   "pais": "Italy",
+   "tipo": "pais",
+   "lon": 12.67,
+   "lat": 42.52,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Italy",
+    "Italian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-france",
+   "nome": "France",
+   "pais": "France",
+   "tipo": "pais",
+   "lon": 2.19,
+   "lat": 46.72,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "France",
+    "French"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-germany",
+   "nome": "Germany",
+   "pais": "Germany",
+   "tipo": "pais",
+   "lon": 10.48,
+   "lat": 51.08,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Germany",
+    "German"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-spain",
+   "nome": "Spain",
+   "pais": "Spain",
+   "tipo": "pais",
+   "lon": -3.49,
+   "lat": 39.91,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Spain",
+    "Spanish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-portugal",
+   "nome": "Portugal",
+   "pais": "Portugal",
+   "tipo": "pais",
+   "lon": -8.3,
+   "lat": 39.59,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Portugal",
+    "Portuguese"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-united-kingdom",
+   "nome": "United Kingdom",
+   "pais": "United Kingdom",
+   "tipo": "pais",
+   "lon": -1.96,
+   "lat": 54.35,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "United Kingdom",
+    "UK",
+    "Britain",
+    "British",
+    "England"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-ireland",
+   "nome": "Ireland",
+   "pais": "Ireland",
+   "tipo": "pais",
+   "lon": -8.11,
+   "lat": 53.43,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Ireland",
+    "Irish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-belgium",
+   "nome": "Belgium",
+   "pais": "Belgium",
+   "tipo": "pais",
+   "lon": 4.8,
+   "lat": 50.5,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Belgium",
+    "Belgian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-netherlands",
+   "nome": "Netherlands",
+   "pais": "Netherlands",
+   "tipo": "pais",
+   "lon": 5.49,
+   "lat": 52.09,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Netherlands",
+    "Dutch"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-switzerland",
+   "nome": "Switzerland",
+   "pais": "Switzerland",
+   "tipo": "pais",
+   "lon": 8.42,
+   "lat": 46.79,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Switzerland",
+    "Swiss"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-austria",
+   "nome": "Austria",
+   "pais": "Austria",
+   "tipo": "pais",
+   "lon": 14.75,
+   "lat": 47.7,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Austria",
+    "Austrian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-hungary",
+   "nome": "Hungary",
+   "pais": "Hungary",
+   "tipo": "pais",
+   "lon": 19.12,
+   "lat": 47.18,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Hungary",
+    "Hungarian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-serbia",
+   "nome": "Serbia",
+   "pais": "Serbia",
+   "tipo": "pais",
+   "lon": 21.0,
+   "lat": 44.21,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Serbia",
+    "Serbian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-croatia",
+   "nome": "Croatia",
+   "pais": "Croatia",
+   "tipo": "pais",
+   "lon": 15.34,
+   "lat": 44.74,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Croatia",
+    "Croatian",
+    "Hrvatska"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-slovenia",
+   "nome": "Slovenia",
+   "pais": "Slovenia",
+   "tipo": "pais",
+   "lon": 14.61,
+   "lat": 46.15,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Slovenia",
+    "Slovenian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-bosnia-and-herzegovina",
+   "nome": "Bosnia and Herzegovina",
+   "pais": "Bosnia and Herzegovina",
+   "tipo": "pais",
+   "lon": 17.92,
+   "lat": 43.93,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Bosnia",
+    "Bosnia and Herzegovina",
+    "Bosnian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-montenegro",
+   "nome": "Montenegro",
+   "pais": "Montenegro",
+   "tipo": "pais",
+   "lon": 19.28,
+   "lat": 42.71,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Montenegro"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-north-macedonia",
+   "nome": "North Macedonia",
+   "pais": "North Macedonia",
+   "tipo": "pais",
+   "lon": 21.73,
+   "lat": 41.59,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "North Macedonia",
+    "Macedonia",
+    "Macedonian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-albania",
+   "nome": "Albania",
+   "pais": "Albania",
+   "tipo": "pais",
+   "lon": 20.0,
+   "lat": 41.18,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Albania",
+    "Albanian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-kosovo",
+   "nome": "Kosovo",
+   "pais": "Kosovo",
+   "tipo": "pais",
+   "lon": 20.9,
+   "lat": 42.58,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Kosovo"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-bulgaria",
+   "nome": "Bulgaria",
+   "pais": "Bulgaria",
+   "tipo": "pais",
+   "lon": 25.16,
+   "lat": 42.73,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Bulgaria",
+    "Bulgarian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-romania",
+   "nome": "Romania",
+   "pais": "Romania",
+   "tipo": "pais",
+   "lon": 24.25,
+   "lat": 45.96,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Romania",
+    "Romanian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-poland",
+   "nome": "Poland",
+   "pais": "Poland",
+   "tipo": "pais",
+   "lon": 19.16,
+   "lat": 51.93,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Poland",
+    "Polish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-lithuania",
+   "nome": "Lithuania",
+   "pais": "Lithuania",
+   "tipo": "pais",
+   "lon": 24.16,
+   "lat": 55.15,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Lithuania",
+    "Lithuanian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-latvia",
+   "nome": "Latvia",
+   "pais": "Latvia",
+   "tipo": "pais",
+   "lon": 24.39,
+   "lat": 56.86,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Latvia",
+    "Latvian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-estonia",
+   "nome": "Estonia",
+   "pais": "Estonia",
+   "tipo": "pais",
+   "lon": 25.5,
+   "lat": 58.62,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Estonia"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-finland",
+   "nome": "Finland",
+   "pais": "Finland",
+   "tipo": "pais",
+   "lon": 27.47,
+   "lat": 64.9,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Finland",
+    "Finnish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-sweden",
+   "nome": "Sweden",
+   "pais": "Sweden",
+   "tipo": "pais",
+   "lon": 14.92,
+   "lat": 62.19,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Sweden",
+    "Swedish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-norway",
+   "nome": "Norway",
+   "pais": "Norway",
+   "tipo": "pais",
+   "lon": 12.14,
+   "lat": 64.01,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Norway",
+    "Norwegian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-denmark",
+   "nome": "Denmark",
+   "pais": "Denmark",
+   "tipo": "pais",
+   "lon": 9.26,
+   "lat": 56.26,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Denmark",
+    "Danish"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-czech-republic",
+   "nome": "Czech Republic",
+   "pais": "Czech Republic",
+   "tipo": "pais",
+   "lon": 15.51,
+   "lat": 49.81,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Czech Republic",
+    "Czechia",
+    "Czech"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-slovakia",
+   "nome": "Slovakia",
+   "pais": "Slovakia",
+   "tipo": "pais",
+   "lon": 19.64,
+   "lat": 48.68,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Slovakia"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-belarus",
+   "nome": "Belarus",
+   "pais": "Belarus",
+   "tipo": "pais",
+   "lon": 27.94,
+   "lat": 53.74,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Belarus",
+    "Belarusian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-ukraine",
+   "nome": "Ukraine",
+   "pais": "Ukraine",
+   "tipo": "pais",
+   "lon": 31.07,
+   "lat": 48.8,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Ukraine",
+    "Ukrainian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-cyprus",
+   "nome": "Cyprus",
+   "pais": "Cyprus",
+   "tipo": "pais",
+   "lon": 32.98,
+   "lat": 34.88,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Cyprus",
+    "Cypriot"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-malta",
+   "nome": "Malta",
+   "pais": "Malta",
+   "tipo": "pais",
+   "lon": 14.42,
+   "lat": 35.92,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Malta",
+    "Maltese"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-libya",
+   "nome": "Libya",
+   "pais": "Libya",
+   "tipo": "pais",
+   "lon": 17.28,
+   "lat": 26.39,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Libya",
+    "Libyan"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-tunisia",
+   "nome": "Tunisia",
+   "pais": "Tunisia",
+   "tipo": "pais",
+   "lon": 8.88,
+   "lat": 33.78,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Tunisia",
+    "Tunisian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-algeria",
+   "nome": "Algeria",
+   "pais": "Algeria",
+   "tipo": "pais",
+   "lon": 0.6,
+   "lat": 27.97,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Algeria",
+    "Algerian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-morocco",
+   "nome": "Morocco",
+   "pais": "Morocco",
+   "tipo": "pais",
+   "lon": -6.74,
+   "lat": 30.98,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Morocco",
+    "Moroccan"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-egypt",
+   "nome": "Egypt",
+   "pais": "Egypt",
+   "tipo": "pais",
+   "lon": 29.46,
+   "lat": 26.82,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Egypt",
+    "Egyptian"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-lebanon",
+   "nome": "Lebanon",
+   "pais": "Lebanon",
+   "tipo": "pais",
+   "lon": 35.92,
+   "lat": 33.87,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Lebanon",
+    "Lebanese"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-syria",
+   "nome": "Syria",
+   "pais": "Syria",
+   "tipo": "pais",
+   "lon": 38.55,
+   "lat": 34.83,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Syria"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-iraq",
+   "nome": "Iraq",
+   "pais": "Iraq",
+   "tipo": "pais",
+   "lon": 42.49,
+   "lat": 33.2,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Iraq"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-iran",
+   "nome": "Iran",
+   "pais": "Iran",
+   "tipo": "pais",
+   "lon": 54.06,
+   "lat": 32.44,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Iran"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-israel",
+   "nome": "Israel",
+   "pais": "Israel",
+   "tipo": "pais",
+   "lon": 34.67,
+   "lat": 31.45,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Israel"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "pais-luxembourg",
+   "nome": "Luxembourg",
+   "pais": "Luxembourg",
+   "tipo": "pais",
+   "lon": 6.08,
+   "lat": 49.81,
+   "fonte": "naturalearth:ne_50m_admin_0_countries (ponto representativo do maior polígono)",
+   "variantes": [
+    "Luxembourg"
+   ],
+   "fallback": true
+  },
+  {
+   "id": "bristol",
+   "nome": "Bristol",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -2.5833,
+   "lat": 51.45,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Bristol"
+   ]
+  },
+  {
+   "id": "leeds",
+   "nome": "Leeds",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -1.582,
+   "lat": 53.832,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Leeds"
+   ]
+  },
+  {
+   "id": "brighton",
+   "nome": "Brighton",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -0.17,
+   "lat": 50.8303,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Brighton"
+   ]
+  },
+  {
+   "id": "oxford",
+   "nome": "Oxford",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -1.25,
+   "lat": 51.7704,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Oxford"
+   ]
+  },
+  {
+   "id": "sunderland",
+   "nome": "Sunderland",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -1.38,
+   "lat": 54.92,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Sunderland"
+   ]
+  },
+  {
+   "id": "cambridge",
+   "nome": "Cambridge",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": 0.1166,
+   "lat": 52.2004,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Cambridge"
+   ]
+  },
+  {
+   "id": "newcastle",
+   "nome": "Newcastle",
+   "pais": "United Kingdom",
+   "tipo": "cidade",
+   "lon": -1.6019,
+   "lat": 55.0023,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Newcastle"
+   ]
+  },
+  {
+   "id": "foggia",
+   "nome": "Foggia",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 15.56,
+   "lat": 41.4605,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Foggia"
+   ]
+  },
+  {
+   "id": "ragusa",
+   "nome": "Ragusa",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 14.73,
+   "lat": 36.93,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Ragusa"
+   ]
+  },
+  {
+   "id": "trento",
+   "nome": "Trento",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 11.12,
+   "lat": 46.0804,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Trento"
+   ]
+  },
+  {
+   "id": "bergamo",
+   "nome": "Bergamo",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 9.67,
+   "lat": 45.7004,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Bergamo"
+   ]
+  },
+  {
+   "id": "florence",
+   "nome": "Florence",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 11.25,
+   "lat": 43.78,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Florence",
+    "Firenze"
+   ]
+  },
+  {
+   "id": "verona",
+   "nome": "Verona",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 10.99,
+   "lat": 45.4404,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Verona"
+   ]
+  },
+  {
+   "id": "modena",
+   "nome": "Modena",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 10.92,
+   "lat": 44.65,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Modena"
+   ]
+  },
+  {
+   "id": "caserta",
+   "nome": "Caserta",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 14.3374,
+   "lat": 41.06,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Caserta"
+   ]
+  },
+  {
+   "id": "lecce",
+   "nome": "Lecce",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 18.15,
+   "lat": 40.3604,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Lecce"
+   ]
+  },
+  {
+   "id": "ravenna",
+   "nome": "Ravenna",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.22,
+   "lat": 44.4204,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Ravenna"
+   ]
+  },
+  {
+   "id": "novara",
+   "nome": "Novara",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 8.62,
+   "lat": 45.45,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Novara"
+   ]
+  },
+  {
+   "id": "treviso",
+   "nome": "Treviso",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 12.24,
+   "lat": 45.67,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Treviso"
+   ]
+  },
+  {
+   "id": "olbia",
+   "nome": "Olbia",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 9.5151,
+   "lat": 40.9143,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Olbia"
+   ]
+  },
+  {
+   "id": "vibo-valentia",
+   "nome": "Vibo Valentia",
+   "pais": "Italy",
+   "tipo": "cidade",
+   "lon": 16.1,
+   "lat": 38.6666,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Vibo Valentia"
+   ]
+  },
+  {
+   "id": "munster",
+   "nome": "Münster",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.62,
+   "lat": 51.9704,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Münster",
+    "Munster"
+   ]
+  },
+  {
+   "id": "potsdam",
+   "nome": "Potsdam",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 13.07,
+   "lat": 52.4004,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Potsdam"
+   ]
+  },
+  {
+   "id": "rostock",
+   "nome": "Rostock",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 12.15,
+   "lat": 54.0704,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Rostock"
+   ]
+  },
+  {
+   "id": "karlsruhe",
+   "nome": "Karlsruhe",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 8.4,
+   "lat": 49.0,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Karlsruhe"
+   ]
+  },
+  {
+   "id": "dortmund",
+   "nome": "Dortmund",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.45,
+   "lat": 51.53,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Dortmund"
+   ]
+  },
+  {
+   "id": "nurnberg",
+   "nome": "Nürnberg",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 11.08,
+   "lat": 49.45,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Nürnberg",
+    "Nuremberg"
+   ]
+  },
+  {
+   "id": "kassel",
+   "nome": "Kassel",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 9.5,
+   "lat": 51.3,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Kassel"
+   ]
+  },
+  {
+   "id": "freiburg",
+   "nome": "Freiburg",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.8699,
+   "lat": 48.0004,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Freiburg"
+   ]
+  },
+  {
+   "id": "passau",
+   "nome": "Passau",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 13.4412,
+   "lat": 48.5755,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Passau"
+   ]
+  },
+  {
+   "id": "bonn",
+   "nome": "Bonn",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.08,
+   "lat": 50.7205,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Bonn"
+   ]
+  },
+  {
+   "id": "wuppertal",
+   "nome": "Wuppertal",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.17,
+   "lat": 51.25,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Wuppertal"
+   ]
+  },
+  {
+   "id": "regensburg",
+   "nome": "Regensburg",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 12.12,
+   "lat": 49.0204,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Regensburg"
+   ]
+  },
+  {
+   "id": "koblenz",
+   "nome": "Koblenz",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 7.6,
+   "lat": 50.3505,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Koblenz"
+   ]
+  },
+  {
+   "id": "mainz",
+   "nome": "Mainz",
+   "pais": "Germany",
+   "tipo": "cidade",
+   "lon": 8.2732,
+   "lat": 49.9825,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Mainz"
+   ]
+  },
+  {
+   "id": "bilbao",
+   "nome": "Bilbao",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -2.93,
+   "lat": 43.25,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Bilbao"
+   ]
+  },
+  {
+   "id": "zaragoza",
+   "nome": "Zaragoza",
+   "pais": "Spain",
+   "tipo": "cidade",
+   "lon": -0.89,
+   "lat": 41.65,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Zaragoza"
+   ]
+  },
+  {
+   "id": "marrakesh",
+   "nome": "Marrakesh",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -8.0019,
+   "lat": 31.6319,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Marrakesh",
+    "Marrakech"
+   ]
+  },
+  {
+   "id": "safi",
+   "nome": "Safi",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -9.24,
+   "lat": 32.32,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Safi"
+   ]
+  },
+  {
+   "id": "tiznit",
+   "nome": "Tiznit",
+   "pais": "Morocco",
+   "tipo": "cidade",
+   "lon": -9.74,
+   "lat": 29.7104,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Tiznit"
+   ]
+  },
+  {
+   "id": "moscow",
+   "nome": "Moscow",
+   "pais": "Russia",
+   "tipo": "cidade",
+   "lon": 37.6136,
+   "lat": 55.7541,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Moscow"
+   ]
+  },
+  {
+   "id": "uppsala",
+   "nome": "Uppsala",
+   "pais": "Sweden",
+   "tipo": "cidade",
+   "lon": 17.64,
+   "lat": 59.8601,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Uppsala"
+   ]
+  },
+  {
+   "id": "katerini",
+   "nome": "Katerini",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.5025,
+   "lat": 40.2723,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Katerini"
+   ]
+  },
+  {
+   "id": "xanthi",
+   "nome": "Xanthi",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 24.8836,
+   "lat": 41.1418,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Xanthi"
+   ]
+  },
+  {
+   "id": "lamia",
+   "nome": "Lamia",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.434,
+   "lat": 38.899,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Lamia"
+   ]
+  },
+  {
+   "id": "chalkida",
+   "nome": "Chalkida",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 23.6124,
+   "lat": 38.464,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Chalkida"
+   ]
+  },
+  {
+   "id": "kalamata",
+   "nome": "Kalamata",
+   "pais": "Greece",
+   "tipo": "cidade",
+   "lon": 22.1142,
+   "lat": 37.0389,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Kalamata"
+   ]
+  },
+  {
+   "id": "manbij",
+   "nome": "Manbij",
+   "pais": "Syria",
+   "tipo": "cidade",
+   "lon": 37.9563,
+   "lat": 36.5266,
+   "fonte": "naturalearth:ne_10m_populated_places_simple",
+   "variantes": [
+    "Manbij"
+   ]
+  },
+  {
+   "id": "farmakonisi",
+   "nome": "Farmakonisi",
+   "pais": "Greece",
+   "tipo": "ilha",
+   "lon": 27.085,
+   "lat": 37.29,
+   "fonte": "wikipedia:Farmakonisi",
+   "variantes": [
+    "Farmakonisi"
+   ]
+  },
+  {
+   "id": "gradisca-d-isonzo",
+   "nome": "Gradisca d'Isonzo",
+   "pais": "Italy",
+   "tipo": "campo",
+   "lon": 13.5,
+   "lat": 45.8833,
+   "fonte": "wikipedia:Gradisca d'Isonzo",
+   "variantes": [
+    "Gradisca d'Isonzo",
+    "Gradisca"
+   ]
+  },
+  {
+   "id": "sardinia",
+   "nome": "Sardinia",
+   "pais": "Italy",
+   "tipo": "ilha",
+   "lon": 9,
+   "lat": 40,
+   "fonte": "wikipedia:Sardinia",
+   "variantes": [
+    "Sardinia",
+    "Sardegna"
+   ]
+  }
+ ],
+ "descartados": [
+  {
+   "nome": "Canary Islands / Las Palmas / Tenerife / Arguineguín",
+   "motivo": "fora do quadro do mapa (lon -15,4; o quadro vai de -12 a 64)"
+  },
+  {
+   "nome": "Kabul, Herat, Kandahar e outras cidades afegãs",
+   "motivo": "fora do quadro do mapa (lon > 64)"
+  },
+  {
+   "nome": "York, Reading, Mary, Gay, Dover (verbo)",
+   "motivo": "homônimos de palavras ou de sobrenomes (\"New York\", \"reading\", prenomes); sem como separar por regra"
+  },
+  {
+   "nome": "Brest (França)",
+   "motivo": "o texto cita Brest da Bielorrússia (fronteira polonesa) e da Bretanha; só a bielorrussa entra, com contexto"
+  },
+  {
+   "nome": "Dublin como regulamento",
+   "motivo": "\"Dublin Regulation/III/system\" são o regulamento, não a cidade; entra só Dublin sem esses sufixos"
+  },
+  {
+   "nome": "Aegean Boat Report, Refugee Support Aegean, SOS Mediterranee",
+   "motivo": "nomes de organizações; removidos antes da busca, senão o mar Egeu e o Mediterrâneo ganhariam ~700 posts falsos"
+  },
+  {
+   "nome": "Geneva Convention, Vienna Convention, Rome Statute",
+   "motivo": "tratados, não cidades"
+  },
+  {
+   "nome": "Ellebæk, Kærshovedgård, Sjælmark, Principovac, Ključ, Trnovi",
+   "motivo": "sem coordenada conferida em fonte pública que eu pudesse verificar"
+  }
+ ]
+}
