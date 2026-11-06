@@ -31,8 +31,8 @@ describe("dados", () => {
 });
 
 describe("convite e começo", () => {
-  test("?tour=1 mostra o convite sóbrio; nenhum AudioContext antes do gesto; o toque começa e o som nasce uma vez", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20&fim=fica"));
+  test("tour/ mostra o convite sóbrio, sobre fundo preto e sem a página do arquivo; nenhum AudioContext antes do gesto; o toque começa e o som nasce uma vez", async () => {
+    const { pg, erros, fecha } = await abre(cr, url("tour/index.html", "?rapido=20&fim=fica"));
     try {
       const conv = pg.locator("#ays-tour-convite");
       await conv.waitFor({ state: "visible" });
@@ -41,7 +41,9 @@ describe("convite e começo", () => {
       expect(t).toContain("Press to start");
       expect(await ev(pg, `window.aysTour.ativo()`)).toBe(false);
       expect(await ev(pg, `window.__audios`), "AudioContext antes do gesto").toBe(0);
-      expect(pg.url()).not.toContain("tour=1");
+      expect(pg.url()).toMatch(/\/tour\/index\.html\?rapido=20/);
+      expect(await ev(pg, `getComputedStyle(document.body).backgroundColor`)).toBe("rgb(0, 0, 0)");
+      expect(await ev(pg, `document.querySelectorAll('header, nav, .top-bar, li').length`)).toBe(0);
       await pg.click("#ays-tour-convite button");
       expect(await ev(pg, `window.__audios`)).toBe(1);
       expect(await ev(pg, `window.AysSom.criado()`)).toBe(true);
@@ -52,24 +54,21 @@ describe("convite e começo", () => {
     } finally { await fecha(); }
   });
 
-  test("o botão Tour do index e do timeline abre o convite sem sair da página; Esc fecha só o convite", async () => {
-    for (const pagina of ["index.html", "timeline.html"]) {
+  test("os botões Tour do index, do timeline e do mapa apontam para tour/ e não abrem o tour por cima", async () => {
+    for (const [pagina, sel] of [["index.html", ".top-links a.tour-btn"], ["timeline.html", ".top-links a.tour-btn"], ["map.html", ".topo nav a:has-text('Tour')"]] as const) {
       const { pg, fecha } = await abre(cr, url(pagina));
       try {
-        await pg.waitForSelector("[data-tour]");
-        await pg.click("[data-tour]");
-        await espera(pg, `window.aysTour.ativo()`, 8000);
-        expect(pg.url()).toContain(pagina);
-        await pg.keyboard.press("Escape");
-        await espera(pg, `!window.aysTour.ativo()`, 3000);
+        expect(await pg.locator(sel).getAttribute("href"), pagina).toBe("tour/");
+        expect(await pg.evaluate(`typeof window.aysTour`), pagina).toBe("undefined");
       } finally { await fecha(); }
     }
   });
 
-  test("tour/index.html redireciona para a página com ?tour=1 e leva ?rapido junto", async () => {
-    const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=7"));
+  test("index.html?tour=1&rapido=7 redireciona para tour/ e leva ?rapido junto", async () => {
+    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=7"));
     try {
-      await pg.waitForURL(/index\.html/, { timeout: 5000 });
+      await pg.waitForURL(/\/tour\/(index\.html)?\?rapido=7/, { timeout: 5000 });
+      expect(pg.url()).not.toContain("tour=1");
       await pg.locator("#ays-tour-convite").waitFor({ state: "visible" });
       expect(await ev(pg, `window.aysTour.rapido`)).toBe(7);
     } finally { await fecha(); }
@@ -77,12 +76,10 @@ describe("convite e começo", () => {
 });
 
 describe("o passeio", () => {
-  test("as 33 cenas passam em ordem, o mapa aparece em cada episódio, a fronteira acende por ano e o fim devolve a página", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20&fim=fica"));
+  test("as 33 cenas passam em ordem, o mapa aparece em cada episódio, a fronteira acende por ano e o fim (com fim=fica) fecha a camada", async () => {
+    const { pg, erros, fecha } = await abre(cr, url("tour/index.html", "?rapido=20&fim=fica"));
     try {
       await pg.locator("#ays-tour-convite").waitFor();
-      await ev(pg, `window.scrollTo(0, 400)`);
-      const y0 = await ev<number>(pg, `window.scrollY`);
       await ev(pg, `(() => { window.__v = { cenas: [], frases: new Set(), mapas: [], acesas: 0, fotos: 0 };
         const tick = () => { const T = window.aysTour; if (T.ativo()) { const v = window.__v;
           if (!v.cenas.includes(T.cena()) && T.cena() >= 0) v.cenas.push(T.cena());
@@ -103,32 +100,32 @@ describe("o passeio", () => {
       await pg.waitForTimeout(1500);
       expect(await ev(pg, `document.body.style.overflow`)).toBe("");
       expect(await ev(pg, `document.getElementById('ays-tour').hidden`)).toBe(true);
-      expect(await ev<number>(pg, `window.scrollY`)).toBe(y0);
       expect(erros).toEqual([]);
     } finally { await fecha(); }
   });
 
-  test("Esc para o tour, devolve o foco, a rolagem e o corpo da página, e o som apaga", async () => {
-    const { pg, fecha } = await abre(cr, url("index.html", "?rapido=1"));
+  test("Esc (e o botão ✕ esc) levam ao arquivo, index.html, e o fim natural leva ao mapa", async () => {
+    for (const via of ["tecla", "botao"]) {
+      const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=20"));
+      try {
+        await pg.locator("#ays-tour-convite").waitFor({ state: "visible" });
+        await pg.click("#ays-tour-convite button");
+        await espera(pg, `window.aysTour.cena() >= 0`, 15000);
+        if (via === "tecla") await pg.keyboard.press("Escape"); else await pg.click("#ays-tour .t-parar");
+        await pg.waitForURL(/\/index\.html$/, { timeout: 5000 });
+        expect(pg.url()).not.toContain("tour/");
+      } finally { await fecha(); }
+    }
+    const { pg, fecha } = await abre(cr, url("tour/index.html"));
     try {
-      await pg.waitForSelector("[data-tour]");
-      await ev(pg, `window.scrollTo(0, 300)`);
-      const y0 = await ev<number>(pg, `window.scrollY`);
-      await pg.focus("[data-tour]");
-      await pg.keyboard.press("Enter");
-      await espera(pg, `window.aysTour.cena() >= 0`, 15000);
+      await pg.locator("#ays-tour-convite").waitFor({ state: "visible" });
       await pg.keyboard.press("Escape");
-      await espera(pg, `!window.aysTour.ativo()`, 3000);
-      await pg.waitForTimeout(1300);
-      expect(await ev(pg, `document.body.style.overflow`)).toBe("");
-      expect(await ev(pg, `document.getElementById('ays-tour').hidden`)).toBe(true);
-      expect(await ev(pg, `document.activeElement.hasAttribute('data-tour')`)).toBe(true);
-      expect(await ev<number>(pg, `window.scrollY`)).toBe(y0);
+      await pg.waitForURL(/\/index\.html$/, { timeout: 5000 });
     } finally { await fecha(); }
   });
 
   test("com o som desligado em localStorage nenhum AudioContext nasce", async () => {
-    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=60&fim=fica"), { som: "off" });
+    const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=60&fim=fica"), { som: "off" });
     try {
       await pg.click("#ays-tour-convite button");
       expect(await ev(pg, `window.__audios`)).toBe(0);
@@ -137,7 +134,7 @@ describe("o passeio", () => {
   });
 
   test("prefers-reduced-motion: sem Ken Burns nem voo, cortes secos, e o passeio termina", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=40&fim=fica"), { ctx: { reducedMotion: "reduce" } });
+    const { pg, erros, fecha } = await abre(cr, url("tour/index.html", "?rapido=40&fim=fica"), { ctx: { reducedMotion: "reduce" } });
     try {
       await pg.click("#ays-tour-convite button");
       await espera(pg, `window.aysTour.cena() >= 1`, 8000);
@@ -154,9 +151,9 @@ describe("o passeio", () => {
 describe("mapa", () => {
   for (const [nome, dev] of [["desktop", {}], ["iphone", { ...devices["iPhone 13"] }]] as const) {
     test(`${nome}: quadros regionais com nomes, sem linhas de rota, e o fecho contém todos os pontos`, async () => {
-      const { pg, fecha } = await abre(nome === "desktop" ? cr : wk, url("index.html"), { ctx: dev });
+      const { pg, fecha } = await abre(nome === "desktop" ? cr : wk, url("tour/index.html"), { ctx: dev });
       try {
-        await pg.waitForSelector("[data-tour]");
+        await pg.waitForSelector("#ays-tour-convite");
         const beats = tour.map((c: any, i: number) => (c.mapa ? i : -1)).filter((i: number) => i >= 0);
         for (const i of beats) {
           await ev(pg, `window.aysTour.mapa(${i})`);
@@ -189,9 +186,9 @@ describe("mapa", () => {
 
 describe("celular (iPhone 13, webkit)", () => {
   test("a legenda é legível (>= 16 px), não cobre a foto nem o mapa, e nada passa da tela", async () => {
-    const { pg, fecha } = await abre(wk, url("index.html", "?rapido=20"), { ctx: { ...devices["iPhone 13"] } });
+    const { pg, fecha } = await abre(wk, url("tour/index.html", "?rapido=20"), { ctx: { ...devices["iPhone 13"] } });
     try {
-      await pg.waitForSelector("[data-tour]");
+      await pg.waitForSelector("#ays-tour-convite");
       await ev(pg, `window.aysTour.mostra(0)`);
       const r = async () => ev<any>(pg, `(() => { const b = e => document.querySelector(e).getBoundingClientRect();
         const f = getComputedStyle(document.querySelector('#ays-tour .t-frase')).fontSize;
@@ -217,10 +214,11 @@ describe("celular (iPhone 13, webkit)", () => {
   });
 
   test("o toque começa o tour no celular e o AudioContext só nasce depois do gesto", async () => {
-    const { pg, fecha } = await abre(wk, url("index.html", "?tour=1&rapido=40&fim=fica"), { ctx: { ...devices["iPhone 13"] } });
+    const { pg, fecha } = await abre(wk, url("tour/index.html", "?rapido=40&fim=fica"), { ctx: { ...devices["iPhone 13"] } });
     try {
       await pg.locator("#ays-tour-convite").waitFor({ state: "visible" });
       expect(await ev(pg, `window.__audios`)).toBe(0);
+      expect(pg.url()).toContain("/tour/");
       await pg.tap("#ays-tour-convite button");
       expect(await ev(pg, `window.__audios`)).toBe(1);
       await espera(pg, `!window.aysTour.ativo()`);

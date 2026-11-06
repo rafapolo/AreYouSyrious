@@ -7,6 +7,7 @@
   const AQUI = (document.currentScript && document.currentScript.src) || '';
   const BASE = AQUI.replace(/[^/]*$/, '');             // .../tour/
   const q0 = new URLSearchParams(location.search);
+  const SOZINHA = document.body && document.body.hasAttribute('data-tour-pagina');   // tour/ é a página do tour, sem arquivo por trás
   const RAPIDO = Math.min(60, Math.max(1, parseFloat(q0.get('rapido')) || 1));
   const SILENCIO_FINAL = 5000;                          // ms de preto e quase silêncio antes de devolver a página
   const FUSAO = 1400;                                   // ms da fusão entre fotos
@@ -434,6 +435,7 @@
     }
     document.body.style.overflow = salvo ? salvo.ov : '';
     cena = -1;
+    if (SOZINHA && !natural) { location.assign(new URL('../index.html', BASE || location.href).href); return; }   // não há página a restaurar
     if (quemChamou && quemChamou.isConnected && quemChamou !== document.body) { try { quemChamou.focus({ preventScroll: true }); } catch (e) { /* sem foco */ } }
   }
 
@@ -462,11 +464,12 @@
   document.addEventListener('keydown', e => {
     if (e.key !== 'Escape') return;
     if (ativo) { e.stopPropagation(); e.preventDefault(); parar(false); }
-    else if (convite && !convite.hidden) { e.stopPropagation(); fechaConvite(); }
+    else if (convite && !convite.hidden) { e.stopPropagation(); if (SOZINHA) location.assign(new URL('../index.html', BASE || location.href).href); else fechaConvite(); }
   }, true);
 
   function ligaBotoes() {
     document.querySelectorAll('[data-tour]').forEach(b => b.addEventListener('click', e => { e.preventDefault(); iniciar(e.currentTarget); }));
+    if (SOZINHA) { convida(); return; }
     if (q0.get('tour') === '1') {
       try { const u = new URL(location.href); u.searchParams.delete('tour'); history.replaceState(null, '', u); } catch (e) { /* file:// */ }
       convida();

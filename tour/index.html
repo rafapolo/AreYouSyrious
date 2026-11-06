@@ -2,20 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>AreYouSyrious — tour</title>
 <meta name="robots" content="noindex">
-<!-- Só leva ao arquivo com o tour pedido. Por file:// "../" é uma pasta, então o endereço leva o nome do arquivo;
-     os parâmetros que vierem (?rapido=…) seguem. -->
-<noscript><meta http-equiv="refresh" content="0; url=../index.html?tour=1"></noscript>
-<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#050505;color:#e9e6e0;font:16px/1.5 Georgia,serif}a{color:#b9b3a7}</style>
+<meta name="theme-color" content="#000000">
+<style>
+  html,body{margin:0;height:100%;background:#000;color:#e9e6e0;font:16px/1.5 Georgia,serif}
+  a{color:#b9b3a7}
+  noscript p{padding:2rem;text-align:center}
+</style>
 </head>
-<body>
-<p>Opening the tour… <a href="../index.html?tour=1">If it does not open, tap here.</a></p>
-<script>
-  var extra = new URLSearchParams(location.search);
-  extra.set('tour', '1');
-  location.replace('../index.html?' + extra.toString());
-</script>
+<body data-tour-pagina>
+<noscript><p>The tour needs JavaScript. <a href="../index.html">Back to the archive</a></p></noscript>
+<script src="som.js"></script>
+<script src="tour.js"></script>
 </body>
 </html>

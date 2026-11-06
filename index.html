@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AreYouSyrious — archive</title>
+<script>if(/[?&]tour=1\b/.test(location.search)){var q=new URLSearchParams(location.search);q.delete('tour');location.replace((location.protocol==='file:'?'tour/index.html':'tour/')+(q.toString()?'?'+q:''));}</script>
 <script>if(localStorage.getItem('ays-theme')==='dark')document.documentElement.classList.add('dark');</script>
 <style>
   :root{--bg:#fff;--fg:#1a1a1a;--muted:#666;--accent:#FF2700;--border:#DBDBDB;--soft:#F5F5F5;--w:1200px;--pad:clamp(1rem,4vw,3rem)}
@@ -79,7 +80,7 @@
   <div class="top-links">
     <a href="timeline.html">Timeline</a>
     <a href="images.html">Images</a>
-    <a href="tour/index.html" class="tour-btn" data-tour>Tour</a>
+    <a href="tour/" class="tour-btn">Tour</a>
     <a href="map.html">Map</a>
     <a href="https://medium.com/are-you-syrious" target="_blank" rel="noopener">Medium</a>
     <a href="https://github.com/rafapolo/AreYouSyrious" target="_blank" rel="noopener">GitHub</a>
@@ -3659,7 +3660,5 @@
   }
 })();
 </script>
-<script src="tour/som.js" defer></script>
-<script src="tour/tour.js" defer></script>
 </body>
 </html>

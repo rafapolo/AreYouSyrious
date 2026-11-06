@@ -148,7 +148,7 @@ describe("a página do mapa", () => {
 
 describe("do tour para o mapa", () => {
   test("o fim natural do tour (?tour=1&rapido=20) navega para map.html?de=tour", async () => {
-    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20"));
+    const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=20"));
     try {
       await pg.locator("#ays-tour-convite").waitFor();
       await pg.click("#ays-tour-convite button");
@@ -158,17 +158,17 @@ describe("do tour para o mapa", () => {
     } finally { await fecha(); }
   });
 
-  test("Esc no meio do tour não navega: a página volta como estava", async () => {
-    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20"));
+  test("Esc no meio do tour leva ao arquivo (index.html), não ao mapa", async () => {
+    const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=20"));
     try {
       await pg.locator("#ays-tour-convite").waitFor();
       await pg.click("#ays-tour-convite button");
       await espera(pg, `window.aysTour.cena() >= 2`, 15000);
       await pg.keyboard.press("Escape");
-      await espera(pg, `!window.aysTour.ativo()`, 3000);
+      await pg.waitForURL(/\/index\.html/, { timeout: 5000 });
       await pg.waitForTimeout(4000);       // mais que a fusão e o silêncio finais, que não podem acontecer
-      expect(pg.url()).toContain("index.html");
-      expect(pg.url()).not.toContain("map.html");
+      expect(pg.url()).toMatch(/\/index\.html$/);
+      expect(pg.url()).not.toContain("tour/");
     } finally { await fecha(); }
   });
 });
