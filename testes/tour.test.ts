@@ -26,7 +26,7 @@ describe("dados", () => {
     const total = readdirSync(`${RAIZ}/tour/img`).reduce((s, f) => s + statSync(`${RAIZ}/tour/img/${f}`).size, 0);
     expect(total).toBeLessThan(6 * 1024 * 1024);
     const seg = tour.reduce((s: number, c: any) => s + c.duracao_ms + (c.mapa ? c.mapa.ms : 0), 0) / 1000;
-    expect(seg).toBeGreaterThan(170); expect(seg).toBeLessThan(240);
+    expect(seg).toBeGreaterThan(170); expect(seg).toBeLessThan(260);
   });
 });
 

@@ -348,3 +348,7 @@ index.html: 1.288.620 -> 1.288.771 bytes; timeline.html: 155.150 -> 155.301 byte
 - Os números de 'Pylos' e 'Moria' variam entre posts (registrado).
 - O mapa 50m é grosseiro nas pequenas fronteiras (Kosovo, Ceuta) e as cercas acesas são fronteiras, não traçados.
 - Sem verificação auditiva da música em hardware real: a suíte só confirma que o AudioContext nasce depois do gesto.
+
+## Ajuste de 2026-11-06
+
+A pedido: as fronteiras cercadas e a fronteira em foco passaram a vermelho (antes azul frio), a fronteira externa da UE a vermelho escuro, e cada mapa de episódio fica 5 s na tela (antes 3,2 s; o do fecho, 10 s). A foto da cena anterior não reaparece mais quando o mapa se apaga, e qualquer toque no convite começa o tour.

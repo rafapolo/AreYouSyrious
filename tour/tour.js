@@ -38,15 +38,15 @@
   #ays-tour .t-mapa svg{width:100%;height:100%;display:block}
   #ays-tour .m-terra{fill:#15181c;stroke:#2c3138;stroke-width:.8px;vector-effect:non-scaling-stroke}
   #ays-tour .m-lin{fill:none;stroke:#3b3f46;stroke-width:.7px;vector-effect:non-scaling-stroke}
-  #ays-tour .m-ext{fill:none;stroke:#6b7078;stroke-width:1.2px;vector-effect:non-scaling-stroke}
+  #ays-tour .m-ext{fill:none;stroke:#7a3a36;stroke-width:1.2px;vector-effect:non-scaling-stroke}
   #ays-tour .m-viz{stroke:#9aa1a9;stroke-width:1.8px}
-  #ays-tour .m-cerca{fill:none;stroke:#7aa6bd;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
+  #ays-tour .m-cerca{fill:none;stroke:#c8372d;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
   #ays-tour .m-cerca.on{opacity:.95}
-  #ays-tour .m-foco{stroke:#a9cddd;stroke-width:2.8px}
+  #ays-tour .m-foco{stroke:#ff4a3d;stroke-width:3px}
   #ays-tour .m-pais{fill:#5d636b;font:600 11px ui-sans-serif,system-ui,sans-serif;font-variant:small-caps;letter-spacing:.14em;pointer-events:none}
   #ays-tour .m-pais.mar{fill:#454b55;font-style:italic}
   #ays-tour .m-pais.encl{fill:#a9cddd;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
-  #ays-tour .m-encl .m-anel{stroke:#7aa6bd;stroke-width:1.6px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
+  #ays-tour .m-encl .m-anel{stroke:#c8372d;stroke-width:1.6px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
   #ays-tour .m-encl.on .m-anel{opacity:.95}
   #ays-tour .m-encl.on .m-pais.encl{opacity:1}
   #ays-tour .m-ptano{fill:#aaa496;font:600 10.5px ui-sans-serif,system-ui,sans-serif}
@@ -177,6 +177,9 @@
     const im = poeFoto(i, depois);
     try { await im.decode(); } catch (e) { /* segue sem decode */ }
     if (!ativo) return;
+    // o elemento é reaproveitado: volta ao tamanho natural antes de acender,
+    // senão começa com o zoom que tinha no uso anterior
+    depois.style.transition = 'none'; depois.style.transform = 'scale(1)'; void depois.offsetWidth;
     depois.style.transition = semMov.matches ? 'none' : '';
     depois.classList.add('vis');
     antes.classList.remove('vis');
@@ -383,6 +386,9 @@
           await espera(semMov.matches ? 0 : 450 / RAPIDO);
           await mapaDaCena(i, mdur, false);
           await espera(mdur - (performance.now() - t0));
+          // a foto da cena anterior ficava acesa debaixo do mapa e reaparecia
+          // quando ele se apagava; some agora, ainda coberta, e a nova entra do preto
+          fotos.forEach(f => { f.style.transition = 'none'; f.classList.remove('vis'); });
           leg.classList.remove('on'); fechaMapa();
           await espera(FUSAO / RAPIDO * 0.6);
           leg.classList.remove('on');
@@ -428,7 +434,8 @@
       const b = el('button', '', 'Press to start'); b.type = 'button';
       const s = el('small'); convite.append(p, b, s);
       document.body.appendChild(convite);
-      convite.addEventListener('click', e => { if (e.target.closest('button')) iniciar(); else fechaConvite(); });
+      // qualquer toque no convite começa (é o gesto que libera o som); Esc fecha
+      convite.addEventListener('click', () => iniciar());
       if (!document.getElementById('ays-tour-css')) {
         const st = document.createElement('style'); st.id = 'ays-tour-css'; st.textContent = CSS; document.head.appendChild(st);
       }

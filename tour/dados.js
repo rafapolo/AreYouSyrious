@@ -27,7 +27,7 @@ window.AYS_TOUR = [
     41.0,
     18
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -176,7 +176,7 @@ window.AYS_TOUR = [
     50.5,
     14
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -269,7 +269,7 @@ window.AYS_TOUR = [
     44.5,
     16
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -362,7 +362,7 @@ window.AYS_TOUR = [
     35.0,
     24
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": true,
   "legivel": false,
@@ -455,7 +455,7 @@ window.AYS_TOUR = [
     44.0,
     16
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -548,7 +548,7 @@ window.AYS_TOUR = [
     40.5,
     14
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -641,7 +641,7 @@ window.AYS_TOUR = [
     38.7,
     12
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -734,7 +734,7 @@ window.AYS_TOUR = [
     38.8,
     18
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -799,7 +799,7 @@ window.AYS_TOUR = [
     52.5,
     16
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -836,7 +836,7 @@ window.AYS_TOUR = [
     49.5,
     18
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -929,7 +929,7 @@ window.AYS_TOUR = [
     37.5,
     14
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": true,
   "legivel": false,
@@ -994,7 +994,7 @@ window.AYS_TOUR = [
     38.2,
     15
    ],
-   "ms": 3200
+   "ms": 5000
   },
   "silencio": false,
   "legivel": false,
@@ -1031,7 +1031,7 @@ window.AYS_TOUR = [
     43.3,
     74
    ],
-   "ms": 8000,
+   "ms": 10000,
    "fecho": true
   },
   "silencio": true,
