@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AreYouSyrious — Map</title>
+<meta name="description" content="Every place named in the AreYouSyrious daily digests, 2016–2025, with the stories and photos that mention it.">
+<style>
+  :root{--bg:#06070a;--fg:#e9e6e0;--mut:#8d887e;--lin:#2c3138;--red:#c8372d;--panel:#0d0e11;--bord:#23262b;--topo:92px}
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--fg);font:15px/1.5 ui-sans-serif,system-ui,"Helvetica Neue",Arial,sans-serif;overflow:hidden}
+  body{display:grid;grid-template-rows:auto auto 1fr;height:100vh;height:100dvh}
+  a{color:inherit;text-decoration:none}
+  button{font:inherit;color:inherit;cursor:pointer}
+  .topo{display:flex;align-items:center;gap:1rem;padding:.55rem 1rem;border-bottom:1px solid var(--bord);flex-wrap:wrap}
+  .topo .marca{font:700 12px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+  .topo h1{margin:0;font:400 20px/1.2 Georgia,"Times New Roman",serif;letter-spacing:.01em}
+  .topo nav{margin-left:auto;display:flex;gap:.4rem;align-items:center;flex-wrap:wrap}
+  .topo nav a,.btn{border:1px solid #3a3733;border-radius:3px;padding:.4rem .65rem;min-height:34px;display:inline-flex;align-items:center;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em;color:#bdb7ab;background:rgba(20,19,17,.7)}
+  .topo nav a:hover,.btn:hover,.btn:focus-visible,.topo nav a:focus-visible{color:#fff;border-color:#8a847a;outline:none}
+  .anos{display:flex;gap:.35rem;align-items:center;padding:.45rem 1rem;border-bottom:1px solid var(--bord);overflow-x:auto;scrollbar-width:none;white-space:nowrap}
+  .anos::-webkit-scrollbar{display:none}
+  .anos .rot{font:600 11px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-right:.3rem}
+  .anos button{background:transparent;border:1px solid #2f2d29;border-radius:999px;padding:.35rem .7rem;min-height:32px;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;color:#9d978c}
+  .anos button[aria-pressed=true]{background:#e9e6e0;color:#0b0b0b;border-color:#e9e6e0}
+  .anos .tot{margin-left:auto;padding-left:1rem;font:12px/1 ui-sans-serif,system-ui,sans-serif;color:var(--mut)}
+  .campo{position:relative;min-height:0;overflow:hidden}
+  #mapa{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none;cursor:grab;background:var(--bg)}
+  #mapa.arrasta{cursor:grabbing}
+  .m-terra{fill:#15181c;stroke:#2c3138;stroke-width:.8px;vector-effect:non-scaling-stroke}
+  .m-lin{fill:none;stroke:#3b3f46;stroke-width:.7px;vector-effect:non-scaling-stroke}
+  .m-ext{fill:none;stroke:#7a3a36;stroke-width:1.2px;vector-effect:non-scaling-stroke}
+  .m-cerca{fill:none;stroke:#c8372d;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity .6s ease}
+  .m-cerca.on{opacity:.95}
+  .m-anel{fill:none;stroke:#c8372d;stroke-width:1.6px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity .6s ease}
+  .m-encl.on .m-anel{opacity:.95}
+  .m-rot{fill:#5d636b;font:600 11px ui-sans-serif,system-ui,sans-serif;font-variant:small-caps;letter-spacing:.14em;pointer-events:none;text-anchor:middle}
+  .m-rot.mar{fill:#454b55;font-style:italic}
+  .pt{fill:rgba(217,212,200,.5);stroke:#d9d4c8;stroke-width:1px;vector-effect:non-scaling-stroke;cursor:pointer}
+  .pt.mar{fill:rgba(154,161,169,.22);stroke:#9aa1a9}
+  .pt.pais{fill:none;stroke:#a7a195;stroke-width:1.6px;stroke-dasharray:none}
+  .pt:focus{outline:none}
+  .pt:hover{fill:rgba(255,255,255,.8)}
+  .pt:focus-visible{stroke:#fff;stroke-width:2.6px}
+  .pt.pais:hover,.pt.pais:focus-visible{fill:rgba(255,255,255,.12)}
+  .pt.sel{stroke:#fff;stroke-width:2.6px;fill:rgba(255,255,255,.75)}
+  .pt.pais.sel{fill:rgba(255,255,255,.14)}
+  .alvo{fill:none;stroke:transparent;pointer-events:none}
+  .rotulo{fill:#d6d1c6;font:600 11px ui-sans-serif,system-ui,sans-serif;paint-order:stroke;stroke:#06070a;stroke-width:3px;stroke-linejoin:round;pointer-events:none;vector-effect:non-scaling-stroke}
+  .zoom{position:absolute;left:.7rem;top:.7rem;display:flex;flex-direction:column;gap:.3rem;z-index:3}
+  .zoom button{width:38px;height:38px;border:1px solid #3a3733;border-radius:3px;background:rgba(20,19,17,.85);color:#cfcac0;font:600 20px/1 ui-sans-serif,system-ui,sans-serif}
+  .zoom button:hover,.zoom button:focus-visible{color:#fff;border-color:#8a847a;outline:none}
+  .leg{position:absolute;left:.7rem;bottom:.6rem;z-index:2;font:11.5px/1.5 ui-sans-serif,system-ui,sans-serif;color:var(--mut);max-width:36rem;pointer-events:none}
+  .leg i{display:inline-block;width:10px;height:10px;border-radius:50%;vertical-align:-1px;margin-right:.3rem}
+  .leg .d{background:rgba(217,212,200,.5);border:1px solid #d9d4c8}
+  .leg .a{border:1.5px solid #a7a195}
+  .leg .r{width:14px;height:0;border-radius:0;border-top:2px solid var(--red);vertical-align:3px}
+  /* painel do lugar: lateral no desktop, folha de baixo no celular */
+  #painel{position:absolute;top:0;right:0;bottom:0;width:min(420px,92vw);background:var(--panel);border-left:1px solid var(--bord);z-index:5;display:flex;flex-direction:column;transform:translateX(102%);transition:transform .3s ease;visibility:hidden}
+  #painel.on{transform:none;visibility:visible}
+  .ph{padding:1rem 1rem .7rem;border-bottom:1px solid var(--bord);position:relative}
+  .ph h2{margin:0 2.4rem .15rem 0;font:400 24px/1.2 Georgia,"Times New Roman",serif}
+  .ph .sub{font:12px/1.4 ui-sans-serif,system-ui,sans-serif;color:var(--mut);letter-spacing:.04em}
+  .ph .fecha{position:absolute;right:.6rem;top:.6rem;width:38px;height:38px;border:1px solid #3a3733;border-radius:3px;background:transparent;color:#bdb7ab;font-size:20px;line-height:1}
+  .ph .lin{display:flex;gap:.5rem;align-items:center;margin-top:.7rem;flex-wrap:wrap}
+  .ph select{background:#15161a;color:var(--fg);border:1px solid #3a3733;border-radius:3px;padding:.4rem .5rem;min-height:34px;font:600 12px ui-sans-serif,system-ui,sans-serif}
+  .lista{overflow-y:auto;flex:1;min-height:0;padding:.2rem 1rem 1.2rem;-webkit-overflow-scrolling:touch}
+  .post{padding:.8rem 0;border-bottom:1px solid #1a1c20}
+  .post time{display:block;font:600 11px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.1em;color:var(--mut);margin-bottom:.2rem}
+  .post .t{font:400 16px/1.35 Georgia,"Times New Roman",serif;color:#efece5}
+  .post .t:hover{text-decoration:underline;text-underline-offset:2px}
+  .post .r{font:13px/1.4 ui-sans-serif,system-ui,sans-serif;color:#9d978c;margin-top:.2rem}
+  .fotos{display:flex;gap:4px;margin-top:.5rem}
+  .fotos a{display:block;width:64px;height:64px;background:#15161a;border-radius:2px;overflow:hidden}
+  .fotos img{width:100%;height:100%;object-fit:cover;display:block}
+  .mais{display:block;width:100%;margin:1rem 0 0;padding:.7rem;border:1px solid #3a3733;border-radius:3px;background:rgba(20,19,17,.7);color:#bdb7ab;font:600 12px ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
+  .vazio{color:var(--mut);padding:1rem 0;font-size:14px}
+  /* índice em lista */
+  #indice{position:absolute;top:0;left:0;bottom:0;width:min(340px,92vw);background:var(--panel);border-right:1px solid var(--bord);z-index:6;display:flex;flex-direction:column;transform:translateX(-102%);transition:transform .3s ease;visibility:hidden}
+  #indice.on{transform:none;visibility:visible}
+  #indice .ih{padding:.8rem 1rem;border-bottom:1px solid var(--bord);display:flex;gap:.5rem}
+  #indice input{flex:1;min-width:0;background:#15161a;color:var(--fg);border:1px solid #3a3733;border-radius:3px;padding:.5rem .65rem;min-height:38px;font:14px ui-sans-serif,system-ui,sans-serif}
+  #indice .fecha{width:38px;height:38px;border:1px solid #3a3733;border-radius:3px;background:transparent;color:#bdb7ab;font-size:20px;line-height:1}
+  #indice .corpo{overflow-y:auto;flex:1;min-height:0;padding:0 .4rem 1rem}
+  #indice h3{margin:.9rem .6rem .2rem;font:700 11px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+  #indice li{list-style:none}
+  #indice ul{margin:0;padding:0}
+  #indice li button{display:flex;justify-content:space-between;gap:.6rem;width:100%;text-align:left;background:transparent;border:0;border-radius:3px;padding:.45rem .6rem;min-height:36px;color:#d6d1c6;font-size:14px}
+  #indice li button:hover,#indice li button:focus-visible{background:#1a1c20;outline:none}
+  #indice li button span{color:var(--mut);font-variant-numeric:tabular-nums}
+  #indice li.so{display:none}
+  #indice .nada{padding:1rem .6rem;color:var(--mut);font-size:14px}
+  #bv{position:absolute;left:.7rem;bottom:3.6rem;z-index:4;max-width:24rem;background:rgba(13,14,17,.94);border:1px solid var(--bord);border-radius:3px;padding:.8rem 2.6rem .8rem .9rem;font:400 15px/1.45 Georgia,"Times New Roman",serif;color:#cfcac0;opacity:0;transition:opacity 1.2s ease 1s}
+  #bv.on{opacity:1}
+  #bv[hidden]{display:none}
+  #bv button{position:absolute;right:.2rem;top:.2rem;width:36px;height:36px;border:0;background:transparent;color:#8d887e;font-size:18px}
+  #veu{position:fixed;inset:0;z-index:50;background:#000;opacity:1;transition:opacity 1.6s ease;pointer-events:none}
+  #veu.fora{opacity:0}
+  @media (max-width:720px){
+    .topo{gap:.5rem;padding:.45rem .7rem}
+    .topo h1{font-size:17px}
+    .topo nav{margin-left:auto}
+    .topo nav a.sec{display:none}
+    .anos{padding:.4rem .7rem}
+    .anos .tot{display:none}
+    #painel{top:auto;left:0;right:0;width:auto;max-height:62vh;max-height:62dvh;height:62vh;height:62dvh;border-left:0;border-top:1px solid #3a3733;border-radius:12px 12px 0 0;transform:translateY(102%);padding-bottom:env(safe-area-inset-bottom)}
+    #painel.on{transform:none}
+    .ph{padding:.8rem .9rem .6rem}
+    .ph h2{font-size:21px}
+    .leg{display:none}
+    #bv{left:.5rem;right:.5rem;bottom:.6rem;max-width:none}
+    #indice{width:100%}
+  }
+  @media (prefers-reduced-motion:reduce){#painel,#indice,.m-cerca,#veu,#bv{transition:none!important}}
+</style>
+</head>
+<body>
+<div id="veu" aria-hidden="true"></div>
+<header class="topo">
+  <a class="marca" href="../index.html">AreYouSyrious</a>
+  <h1>Map</h1>
+  <nav>
+    <button class="btn" id="abre-indice" type="button" aria-controls="indice" aria-expanded="false">Index</button>
+    <a class="sec" href="../index.html">Archive</a>
+    <a class="sec" href="../timeline.html">Timeline</a>
+    <a class="sec" href="../tour/index.html">Tour</a>
+  </nav>
+</header>
+<div class="anos" id="anos" role="group" aria-label="Filter by year"><span class="rot">Year</span></div>
+<main class="campo" id="campo">
+  <svg id="mapa" role="img" aria-label="Map of Europe and the Mediterranean with every place named in the archive"></svg>
+  <div class="zoom"><button id="z-mais" type="button" aria-label="Zoom in">+</button><button id="z-menos" type="button" aria-label="Zoom out">−</button></div>
+  <div class="leg"><i class="d"></i>place &nbsp;<i class="a"></i>only the country is named &nbsp;·&nbsp; size = number of posts &nbsp;·&nbsp; <i class="r"></i>fenced borders</div>
+  <div id="bv" hidden><span id="bv-txt"></span><button type="button" aria-label="Dismiss">×</button></div>
+  <aside id="indice" aria-label="Index of places">
+    <div class="ih"><input id="busca" type="search" placeholder="Search a place" autocomplete="off" aria-label="Search a place"><button class="fecha" type="button" aria-label="Close index">×</button></div>
+    <div class="corpo" id="indice-corpo"></div>
+  </aside>
+  <aside id="painel" aria-label="Posts that mention this place" aria-live="polite">
+    <div class="ph">
+      <button class="fecha" type="button" aria-label="Close">×</button>
+      <h2 id="p-nome"></h2>
+      <div class="sub" id="p-sub"></div>
+      <div class="lin"><label class="sub" for="p-ano">Year</label><select id="p-ano"></select><button class="btn" id="p-link" type="button">Copy link</button></div>
+    </div>
+    <div class="lista" id="p-lista" tabindex="-1"></div>
+  </aside>
+</main>
+<noscript><p style="position:fixed;top:40%;left:0;right:0;text-align:center">This map needs JavaScript.</p></noscript>
+<script src="../tour/mapa.js"></script>
+<script src="dados.js"></script>
+<script>
+(() => {
+  'use strict';
+  const M = window.AYS_MAPA, D = window.AYS_LUGARES;
+  const NS = 'http://www.w3.org/2000/svg';
+  const $ = id => document.getElementById(id);
+  const sv = (tag, attrs, pai) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (pai) pai.appendChild(e); return e; };
+  const px = lon => (lon - M.lon0) * M.kx, py = lat => (M.lat1 - lat) * M.ky;
+  const svg = $('mapa'), campo = $('campo');
+  const semMov = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/đ/g, 'd').toLowerCase();
+  const TIPO = { cidade: 'city or town', campo: 'camp', ilha: 'island', fronteira: 'border crossing', regiao: 'region', mar: 'sea', pais: 'country-wide mentions' };
+
+  /* ---- dados: contagem por ano de cada lugar ---- */
+  const anoPost = D.posts.map(p => +p[1].slice(0, 4));
+  const ANOS = [...new Set(anoPost)].sort();
+  const L = D.lugares;
+  for (const l of L) { l.cy = {}; for (const e of l.pp) l.cy[anoPost[e[0]]] = (l.cy[anoPost[e[0]]] || 0) + 1; l.nn = norm(l.n); }
+  const porId = Object.fromEntries(L.map(l => [l.id, l]));
+  let ano = null, sel = null;
+  const cont = l => ano ? (l.cy[ano] || 0) : l.c;
+
+  /* ---- desenho do mapa (mesmas camadas do tour: fronteiras como traço principal) ---- */
+  const gTerra = sv('g', {}, svg), gLin = sv('g', {}, svg), gCerca = sv('g', {}, svg), gEncl = sv('g', {}, svg), gNomes = sv('g', {}, svg), gPts = sv('g', {}, svg), gRot = sv('g', {}, svg);
+  sv('path', { d: M.terra, class: 'm-terra' }, gTerra);
+  const cercas = [];
+  for (const l of M.lin) {
+    if (M.cercas[l.p]) {
+      sv('path', { d: l.d, class: 'm-lin' }, gLin);
+      cercas.push(sv('path', { d: l.d, class: 'm-cerca', 'data-ano': M.cercas[l.p] }, gCerca));
+    } else sv('path', { d: l.d, class: l.e ? 'm-ext' : 'm-lin' }, gLin);
+  }
+  const ENC = { Ceuta: [-5.31, 35.89], Melilla: [-2.94, 35.29] };
+  const encl = [];
+  for (const n in M.extra) {
+    cercas.push(sv('path', { d: M.extra[n].d, class: 'm-cerca', 'data-ano': M.extra[n].ano }, gCerca));
+    const g = sv('g', { class: 'm-encl', 'data-ano': M.extra[n].ano }, gEncl); encl.push(g);
+    g._c = sv('circle', { cx: px(ENC[n][0]), cy: py(ENC[n][1]), r: 8, class: 'm-anel' }, g);
+  }
+  const nomes = M.nomes.map(n => { const t = sv('text', { x: n.x, y: n.y, class: 'm-rot' + (n.mar ? ' mar' : '') }, gNomes); t.textContent = n.n; t._a = n.a; t._w = n.n.length * 7.2; return t; });
+
+  const ordem = [...L].sort((a, b) => b.c - a.c);
+  const R = c => innerWidth <= 720 ? 1.6 + 0.42 * Math.sqrt(c) : 2 + 0.65 * Math.sqrt(c);
+  for (const l of ordem) {
+    const c = sv('circle', { cx: px(l.x), cy: py(l.y), r: 4, class: 'pt ' + (l.t === 'mar' ? 'mar' : l.t === 'pais' ? 'pais' : ''), tabindex: 0, role: 'button', 'data-id': l.id, 'aria-label': l.n }, gPts);
+    sv('title', {}, c).textContent = l.n;
+    l._el = c;
+    l._rot = sv('text', { class: 'rotulo' }, gRot); l._rot.textContent = l.n;
+  }
+  const acendeCercas = () => {
+    const a = ano || 9999;
+    cercas.forEach(e => e.classList.toggle('on', +e.dataset.ano <= a));
+    encl.forEach(e => e.classList.toggle('on', +e.dataset.ano <= a));
+  };
+
+  /* ---- vista: viewBox com arrastar, roda e pinça ---- */
+  let view = { cx: 0, cy: 0, w: 1 };
+  const W = () => campo.clientWidth || 1280, H = () => campo.clientHeight || 700;
+  const wMin = () => M.kx * 2.5, wMax = () => Math.min(M.w * 1.15, M.h * 1.15 * W() / H());
+  const vistaInicial = () => { const larg = W() / H() < 0.9 ? 54 : 64; return { cx: px(19), cy: py(W() / H() < 0.9 ? 43 : 44), w: larg * M.kx }; };
+  let pend = 0;
+  function aplica() {
+    view.w = Math.max(wMin(), Math.min(wMax(), view.w));
+    view.cx = Math.max(0, Math.min(M.w, view.cx)); view.cy = Math.max(0, Math.min(M.h, view.cy));
+    if (!pend) pend = requestAnimationFrame(desenha);
+  }
+  const u = () => view.w / W();                           // unidades do mapa por pixel
+  function desenha() {
+    pend = 0;
+    const k = u(), h = view.w * H() / W();
+    const x0 = view.cx - view.w / 2, y0 = view.cy - h / 2;
+    svg.setAttribute('viewBox', `${x0} ${y0} ${view.w} ${h}`);
+    for (const l of L) {
+      const c = cont(l), el = l._el;
+      el.style.display = c ? '' : 'none';
+      if (!c) continue;
+      el.setAttribute('r', R(c) * k);
+      el.setAttribute('stroke-width', '');
+    }
+    encl.forEach(g => g._c.setAttribute('r', 8 * k));
+    rotulos(k, x0, y0, h);
+  }
+  function rotulos(k, x0, y0, h) {
+    const Wp = W(), Hp = H(), caixas = [];
+    const livre = b => !caixas.some(o => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
+    const dentro = (sx, sy) => sx > 4 && sx < Wp - 4 && sy > 4 && sy < Hp - 4;
+    const ativos = [];
+    for (const l of L) {                                 // os pontos ocupam espaço: nomes não passam por cima deles
+      const c = cont(l); l._rot.style.display = 'none';
+      if (!c) continue;
+      const sx = (px(l.x) - x0) / k, sy = (py(l.y) - y0) / k, r = R(c);
+      if (dentro(sx, sy)) ativos.push([l, c, sx, sy, r]);
+    }
+    ativos.sort((a, b) => (b[0] === byId(sel) ? 1 : 0) - (a[0] === byId(sel) ? 1 : 0) || b[1] - a[1]);
+    for (const [l, c, sx, sy, r] of ativos) {
+      const w = l.n.length * 6.4 + 4, esq = sx + r + 4 + w > Wp - 6;
+      const bx = esq ? sx - r - 4 - w : sx + r + 4, b = [bx, sy - 8, bx + w, sy + 8];
+      if (l.id !== sel && !livre(b)) continue;
+      caixas.push(b);
+      const t = l._rot;
+      t.style.display = ''; t.style.fontSize = 11 * k + 'px';
+      t.setAttribute('x', esq ? px(l.x) - (r + 4) * k : px(l.x) + (r + 4) * k); t.setAttribute('y', py(l.y) + 3.8 * k);
+      t.setAttribute('text-anchor', esq ? 'end' : 'start');
+    }
+    for (const t of [...nomes].sort((a, b) => b._a - a._a)) {
+      const sx = (+t.getAttribute('x') - x0) / k, sy = (+t.getAttribute('y') - y0) / k, w = t._w;
+      let ok = dentro(sx, sy);
+      if (ok) { const b = [sx - w / 2, sy - 8, sx + w / 2, sy + 8]; ok = livre(b); if (ok) caixas.push(b); }
+      t.style.display = ok ? '' : 'none'; t.style.fontSize = 11 * k + 'px';
+    }
+  }
+  const byId = id => (id ? porId[id] : null);
+
+  function voa(alvo, dur) {
+    cancelAnimationFrame(voa.raf);
+    const a = { ...view };
+    if (semMov || !dur) { view = alvo; aplica(); return; }
+    const t0 = performance.now();
+    const f = t => t < .5 ? 2 * t * t : 1 - (-2 * t + 2) ** 2 / 2;
+    const passo = () => {
+      const k = Math.min(1, (performance.now() - t0) / dur), e = f(k);
+      view = { cx: a.cx + (alvo.cx - a.cx) * e, cy: a.cy + (alvo.cy - a.cy) * e, w: a.w * (alvo.w / a.w) ** e };
+      aplica();
+      if (k < 1) voa.raf = requestAnimationFrame(passo);
+    };
+    passo();
+  }
+  /* área livre do mapa quando o painel está aberto: o ponto vai para o centro dela */
+  function areaLivre() {
+    const p = $('painel'), i = $('indice'), Wp = W(), Hp = H();
+    let x0 = 0, x1 = Wp, y0 = 0, y1 = Hp;
+    if (p.classList.contains('on')) { if (innerWidth <= 720) y1 = Hp - p.offsetHeight; else x1 = Wp - p.offsetWidth; }
+    if (i.classList.contains('on') && innerWidth > 720) x0 = i.offsetWidth;
+    return [x0, y0, x1, y1];
+  }
+  function centraliza(l, zoomW) {
+    const w = zoomW ? Math.min(view.w, zoomW * M.kx) : view.w, k = w / W();
+    const [x0, y0, x1, y1] = areaLivre();
+    voa({ cx: px(l.x) - ((x0 + x1) / 2 - W() / 2) * k, cy: py(l.y) - ((y0 + y1) / 2 - H() / 2) * k, w }, 520);
+  }
+
+  let ptrs = new Map(), down = null, pinca = null;
+  svg.addEventListener('pointerdown', e => {
+    svg.setPointerCapture(e.pointerId);
+    ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    if (ptrs.size === 1) down = { x: e.clientX, y: e.clientY, alvo: e.target.closest && e.target.closest('.pt'), mov: 0 };
+    if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinca = { d: Math.hypot(a.x - b.x, a.y - b.y), w: view.w }; down = null; }
+    cancelAnimationFrame(voa.raf);
+  });
+  svg.addEventListener('pointermove', e => {
+    const p = ptrs.get(e.pointerId); if (!p) return;
+    const dx = e.clientX - p.x, dy = e.clientY - p.y;
+    if (ptrs.size === 2 && pinca) {
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      const [a, b] = [...ptrs.values()], d = Math.hypot(a.x - b.x, a.y - b.y);
+      zoomEm((a.x + b.x) / 2, (a.y + b.y) / 2, pinca.w * pinca.d / Math.max(d, 1));
+      return;
+    }
+    p.x = e.clientX; p.y = e.clientY;
+    if (down) { down.mov += Math.abs(dx) + Math.abs(dy); if (down.mov > 6) svg.classList.add('arrasta'); }
+    if (!down || down.mov > 6) { const k = u(); view.cx -= dx * k; view.cy -= dy * k; aplica(); }
+  });
+  const fim = e => {
+    ptrs.delete(e.pointerId); svg.classList.remove('arrasta');
+    if (ptrs.size < 2) pinca = null;
+    if (e.type === 'pointerup' && down && down.mov <= 6 && ptrs.size === 0) {
+      if (down.alvo) abre(down.alvo.dataset.id, false);
+      else if (sel === null) escondeBoasVindas();
+    }
+    if (ptrs.size === 0) down = null;
+  };
+  svg.addEventListener('pointerup', fim); svg.addEventListener('pointercancel', fim);
+  function zoomEm(cx, cy, novoW) {                      // mantém o ponto sob o dedo/cursor
+    const r = svg.getBoundingClientRect(), k = u();
+    const mx = view.cx + (cx - r.left - W() / 2) * k, my = view.cy + (cy - r.top - H() / 2) * k;
+    const w = Math.max(wMin(), Math.min(wMax(), novoW)), k2 = w / W();
+    view = { w, cx: mx - (cx - r.left - W() / 2) * k2, cy: my - (cy - r.top - H() / 2) * k2 };
+    aplica();
+  }
+  svg.addEventListener('wheel', e => { e.preventDefault(); cancelAnimationFrame(voa.raf); zoomEm(e.clientX, e.clientY, view.w * Math.exp(e.deltaY * (e.deltaMode ? 0.05 : 0.0015))); }, { passive: false });
+  $('z-mais').onclick = () => voa({ ...view, w: Math.max(wMin(), view.w / 1.6) }, 250);
+  $('z-menos').onclick = () => voa({ ...view, w: Math.min(wMax(), view.w * 1.6) }, 250);
+  svg.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset && e.target.dataset.id) { e.preventDefault(); abre(e.target.dataset.id, false); } });
+  addEventListener('resize', aplica);
+
+  /* ---- filtro por ano ---- */
+  const chips = $('anos');
+  const mkChip = (txt, v) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = txt; b.dataset.ano = v ?? ''; b.setAttribute('aria-pressed', 'false'); b.onclick = () => defineAno(v); chips.appendChild(b); return b; };
+  mkChip('All', null); ANOS.forEach(a => mkChip(a, a));
+  const tot = document.createElement('span'); tot.className = 'tot'; chips.appendChild(tot);
+  function defineAno(a, hash = true) {
+    ano = a;
+    chips.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.ano === '' ? null : +b.dataset.ano) === ano)));
+    acendeCercas(); aplica(); atualizaIndice(); atualizaTotais();
+    if (sel) { montaPainel(false); }
+    if (hash) fazHash();
+  }
+  function atualizaTotais() {
+    const ps = new Set(); let n = 0;
+    for (const l of L) { const c = cont(l); if (c) { n++; for (const e of l.pp) if (!ano || anoPost[e[0]] === ano) ps.add(e[0]); } }
+    tot.textContent = `${n} places · ${ps.size.toLocaleString('en-US')} posts`;
+  }
+
+  /* ---- painel do lugar ---- */
+  const PAG = 25;
+  let mostrados = 0, lista = [];
+  const fotoSrc = [r => `../thumbs/assets/${r}`, r => `../assets/${r}`, r => `https://miro.medium.com/v2/resize:fit:160/${r.split('/')[1]}`];
+  function foto(ref) {
+    const im = new Image(); im.loading = 'lazy'; im.decoding = 'async'; im.alt = ''; im.width = 64; im.height = 64;
+    let i = 0; im.onerror = () => { i++; if (i < fotoSrc.length) im.src = fotoSrc[i](ref); else im.parentNode && im.remove(); };
+    im.src = fotoSrc[0](ref); return im;
+  }
+  const dataTxt = iso => new Date(iso + 'T12:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+  function linha(e) {
+    const [stem, d, titulo, resumo] = D.posts[e[0]], href = `../post.html?p=${encodeURIComponent(stem)}.md`;
+    const a = document.createElement('article'); a.className = 'post';
+    const t = document.createElement('time'); t.dateTime = d; t.textContent = dataTxt(d);
+    const ln = document.createElement('a'); ln.className = 't'; ln.href = href; ln.textContent = titulo;
+    a.append(t, ln);
+    if (resumo) { const r = document.createElement('div'); r.className = 'r'; r.textContent = resumo; a.appendChild(r); }
+    if (e.length > 1) {
+      const f = document.createElement('div'); f.className = 'fotos';
+      for (const ix of e.slice(1)) { const l = document.createElement('a'); l.href = href; l.tabIndex = -1; l.setAttribute('aria-hidden', 'true'); l.appendChild(foto(D.imgs[ix])); f.appendChild(l); }
+      a.appendChild(f);
+    }
+    return a;
+  }
+  function maisLinhas() {
+    const box = $('p-lista'); box.querySelector('.mais')?.remove();
+    const fim = Math.min(lista.length, mostrados + PAG);
+    const frag = document.createDocumentFragment();
+    for (let i = mostrados; i < fim; i++) frag.appendChild(linha(lista[i]));
+    box.appendChild(frag); mostrados = fim;
+    if (mostrados < lista.length) {
+      const b = document.createElement('button'); b.type = 'button'; b.className = 'mais';
+      b.textContent = `Show ${Math.min(PAG, lista.length - mostrados)} more (${(lista.length - mostrados).toLocaleString('en-US')} left)`;
+      b.onclick = maisLinhas; box.appendChild(b);
+    }
+  }
+  function montaPainel(rolaTopo) {
+    const l = byId(sel); if (!l) return;
+    lista = l.pp.filter(e => !ano || anoPost[e[0]] === ano);       // já em ordem cronológica
+    $('p-nome').textContent = l.n;
+    const n = lista.length;
+    $('p-sub').textContent = `${l.p !== '-' && l.t !== 'pais' ? l.p + ' · ' : l.t === 'pais' ? '' : ''}${TIPO[l.t]} · ${n.toLocaleString('en-US')} post${n === 1 ? '' : 's'}${ano ? ' in ' + ano : ''}${ano ? ` (${l.c.toLocaleString('en-US')} in all years)` : ''}`;
+    const s = $('p-ano'); s.innerHTML = '';
+    const o0 = new Option(`All years (${l.c})`, ''); s.add(o0);
+    for (const a of ANOS) if (l.cy[a]) s.add(new Option(`${a} (${l.cy[a]})`, a));
+    s.value = ano ? String(ano) : '';
+    const box = $('p-lista'); box.textContent = ''; mostrados = 0;
+    if (!n) { box.innerHTML = '<p class="vazio">No posts for this place in the selected year.</p>'; return; }
+    maisLinhas();
+    if (rolaTopo) box.scrollTop = 0;
+  }
+  $('p-ano').onchange = e => defineAno(e.target.value ? +e.target.value : null);
+  function abre(id, doIndice) {
+    const l = byId(id); if (!l) return;
+    if (ano && !l.cy[ano]) defineAno(null, false);
+    sel = id;
+    for (const x of L) x._el.classList.toggle('sel', x.id === id);
+    $('painel').classList.add('on'); montaPainel(true);
+    if (innerWidth <= 720) $('indice').classList.remove('on'), $('abre-indice').setAttribute('aria-expanded', 'false');
+    escondeBoasVindas();
+    centraliza(l, doIndice ? (l.t === 'pais' ? 30 : 22) : null);
+    fazHash(); aplica();
+  }
+  function fecha() {
+    sel = null; $('painel').classList.remove('on'); L.forEach(x => x._el.classList.remove('sel')); fazHash(); aplica();
+  }
+  $('painel').querySelector('.fecha').onclick = fecha;
+  $('p-link').onclick = () => {
+    const b = $('p-link'), u0 = location.href;
+    (navigator.clipboard && navigator.clipboard.writeText ? navigator.clipboard.writeText(u0) : Promise.reject()).then(() => b.textContent = 'Copied', () => b.textContent = 'Press ⌘/Ctrl+C on the address bar');
+    setTimeout(() => b.textContent = 'Copy link', 2200);
+  };
+  addEventListener('keydown', e => { if (e.key === 'Escape') { if ($('indice').classList.contains('on')) fechaIndice(); else if (sel) fecha(); } });
+
+  /* ---- índice em lista: alfabético, por país ---- */
+  const corpo = $('indice-corpo');
+  const grupos = {};
+  for (const l of L) (grupos[l.t === 'mar' || l.p === '-' ? 'Seas' : l.p] ||= []).push(l);
+  const nomesGrupo = Object.keys(grupos).sort((a, b) => a === 'Seas' ? 1 : b === 'Seas' ? -1 : a.localeCompare(b));
+  const itens = [];
+  for (const g of nomesGrupo) {
+    const h = document.createElement('h3'); h.textContent = g; const ul = document.createElement('ul');
+    corpo.append(h, ul);
+    for (const l of grupos[g].sort((a, b) => (a.t === 'pais' ? -1 : 0) - (b.t === 'pais' ? -1 : 0) || a.n.localeCompare(b.n))) {
+      const li = document.createElement('li'), b = document.createElement('button'); b.type = 'button'; b.dataset.id = l.id;
+      b.innerHTML = '<b style="font-weight:400"></b><span></span>'; b.firstChild.textContent = l.t === 'pais' ? `${l.n} (country only)` : l.n;
+      b.onclick = () => abre(l.id, true);
+      li.appendChild(b); ul.appendChild(li); itens.push({ l, li, n: b.lastChild, h, ul });
+    }
+  }
+  const nada = document.createElement('p'); nada.className = 'nada'; nada.textContent = 'No place matches.'; nada.hidden = true; corpo.appendChild(nada);
+  function atualizaIndice() {
+    const q = norm($('busca').value.trim());
+    let achou = 0;
+    for (const it of itens) {
+      const c = cont(it.l), vis = c > 0 && (!q || it.l.nn.includes(q) || norm(it.l.p).includes(q));
+      it.li.classList.toggle('so', !vis); it.n.textContent = c.toLocaleString('en-US'); if (vis) achou++;
+    }
+    const gs = new Set(itens.filter(i => !i.li.classList.contains('so')).map(i => i.h));
+    corpo.querySelectorAll('h3').forEach(h => { h.style.display = gs.has(h) ? '' : 'none'; });
+    nada.hidden = achou > 0;
+  }
+  $('busca').addEventListener('input', atualizaIndice);
+  function fechaIndice() { $('indice').classList.remove('on'); $('abre-indice').setAttribute('aria-expanded', 'false'); }
+  $('abre-indice').onclick = () => {
+    const on = $('indice').classList.toggle('on'); $('abre-indice').setAttribute('aria-expanded', String(on));
+    if (on) { if (innerWidth <= 720) $('painel').classList.remove('on'); setTimeout(() => $('busca').focus({ preventScroll: true }), 50); } else if (sel) $('painel').classList.add('on');
+  };
+  $('indice').querySelector('.fecha').onclick = () => { fechaIndice(); if (sel) $('painel').classList.add('on'); };
+
+  /* ---- URL compartilhável: #lugar=idomeni&ano=2016 ---- */
+  let travaHash = false;
+  function fazHash() {
+    const p = []; if (sel) p.push('lugar=' + sel); if (ano) p.push('ano=' + ano);
+    const h = p.join('&'); travaHash = true;
+    try { history.replaceState(null, '', location.pathname + location.search + (h ? '#' + h : '')); } catch (e) { location.hash = h; }
+    setTimeout(() => { travaHash = false; }, 0);
+  }
+  function lerHash() {
+    const q = new URLSearchParams(location.hash.slice(1));
+    const a = +q.get('ano'); defineAno(a && ANOS.includes(a) ? a : null, false);
+    const id = q.get('lugar');
+    if (id && porId[id]) abre(id, true); else if (sel) { sel = null; $('painel').classList.remove('on'); L.forEach(x => x._el.classList.remove('sel')); }
+  }
+  addEventListener('hashchange', () => { if (!travaHash) lerHash(); });
+
+  /* ---- chegada vinda do tour ---- */
+  function escondeBoasVindas() { const b = $('bv'); if (!b.hidden) { b.classList.remove('on'); setTimeout(() => { b.hidden = true; }, 400); } }
+  $('bv').querySelector('button').onclick = escondeBoasVindas;
+  const de = new URLSearchParams(location.search).get('de');
+  if (de === 'tour') {
+    $('bv-txt').textContent = `Every place the archive names, 2016–2025. Choose a point to read what was written there.`;
+    $('bv').hidden = false; requestAnimationFrame(() => $('bv').classList.add('on'));
+    const v = $('veu'); requestAnimationFrame(() => requestAnimationFrame(() => v.classList.add('fora')));
+    setTimeout(() => v.remove(), 1900);
+    setTimeout(escondeBoasVindas, 14000);
+  } else $('veu').remove();
+
+  view = vistaInicial(); acendeCercas(); atualizaIndice(); atualizaTotais();
+  lerHash(); aplica();
+  window.aysMapa = { lugares: () => L.map(l => ({ id: l.id, n: l.n, x: l.x, y: l.y, c: l.c })), abre: id => abre(id, false), ano: a => defineAno(a), vista: () => ({ ...view }), quadro: () => ({ w: M.w, h: M.h }), selecionado: () => sel };
+})();
+</script>
+</body>
+</html>
