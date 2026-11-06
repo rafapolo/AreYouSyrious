@@ -24,8 +24,8 @@ window.AYS_TOUR = [
    "nome": "Greece–North Macedonia border",
    "vista": [
     22.5,
-    41.1,
-    5
+    41.0,
+    18
    ],
    "ms": 3200
   },
@@ -172,9 +172,9 @@ window.AYS_TOUR = [
    "fronteira": null,
    "nome": "Calais",
    "vista": [
-    1.9,
-    50.9,
-    9
+    2.0,
+    50.5,
+    14
    ],
    "ms": 3200
   },
@@ -265,9 +265,9 @@ window.AYS_TOUR = [
    "fronteira": "HUN-SRB",
    "nome": "Serbia–Hungary border",
    "vista": [
-    20.2,
-    45.2,
-    9
+    20.5,
+    44.5,
+    16
    ],
    "ms": 3200
   },
@@ -349,7 +349,7 @@ window.AYS_TOUR = [
    688
   ],
   "credito": "",
-  "lugar": "Central Mediterranean, off Libya",
+  "lugar": "Off Libya",
   "coord": [
    13.2,
    33.5
@@ -359,8 +359,8 @@ window.AYS_TOUR = [
    "nome": "Central Mediterranean, off Libya",
    "vista": [
     14,
-    34.5,
-    16
+    35.0,
+    24
    ],
    "ms": 3200
   },
@@ -451,9 +451,9 @@ window.AYS_TOUR = [
    "fronteira": "BIH-HRV",
    "nome": "Bosnia and Herzegovina–Croatia border",
    "vista": [
-    16.0,
-    44.8,
-    7
+    16.5,
+    44.0,
+    16
    ],
    "ms": 3200
   },
@@ -544,9 +544,9 @@ window.AYS_TOUR = [
    "fronteira": "GRC-TUR",
    "nome": "Greece–Turkey border",
    "vista": [
-    26.3,
-    41.5,
-    5
+    26.5,
+    40.5,
+    14
    ],
    "ms": 3200
   },
@@ -637,9 +637,9 @@ window.AYS_TOUR = [
    "fronteira": null,
    "nome": "Moria",
    "vista": [
-    26.3,
-    39.2,
-    5
+    26.0,
+    38.7,
+    12
    ],
    "ms": 3200
   },
@@ -730,9 +730,9 @@ window.AYS_TOUR = [
    "fronteira": "IRN-TUR",
    "nome": "Turkey–Iran border",
    "vista": [
-    44.0,
-    39.5,
-    8
+    43.5,
+    38.8,
+    18
    ],
    "ms": 3200
   },
@@ -795,9 +795,9 @@ window.AYS_TOUR = [
    "fronteira": "BLR-POL",
    "nome": "Poland–Belarus border",
    "vista": [
-    23.6,
-    52.8,
-    8
+    24.0,
+    52.5,
+    16
    ],
    "ms": 3200
   },
@@ -832,9 +832,9 @@ window.AYS_TOUR = [
    "fronteira": "POL-UKR",
    "nome": "Ukraine–Poland border",
    "vista": [
-    23.5,
-    50.5,
-    8
+    26.0,
+    49.5,
+    18
    ],
    "ms": 3200
   },
@@ -925,9 +925,9 @@ window.AYS_TOUR = [
    "fronteira": null,
    "nome": "Off Pylos",
    "vista": [
-    21,
-    36.5,
-    10
+    22.0,
+    37.5,
+    14
    ],
    "ms": 3200
   },
@@ -990,9 +990,9 @@ window.AYS_TOUR = [
    "fronteira": null,
    "nome": "Samos",
    "vista": [
-    27,
-    37.8,
-    6
+    26.5,
+    38.2,
+    15
    ],
    "ms": 3200
   },
@@ -1027,9 +1027,9 @@ window.AYS_TOUR = [
    "fronteira": null,
    "nome": "Molyvos, Lesvos",
    "vista": [
-    20,
-    44.5,
-    62
+    26,
+    43.3,
+    74
    ],
    "ms": 8000,
    "fecho": true

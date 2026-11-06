@@ -16,7 +16,7 @@ from shapely.ops import linemerge
 RAIZ = Path(__file__).resolve().parent.parent
 PASTA = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("/tmp/ne_ays")
 URL = "https://naciscdn.org/naturalearth/%s/cultural/ne_%s_admin_0_%s.zip"
-LON0, LON1, LAT0, LAT1 = -12, 60, 27, 62
+LON0, LON1, LAT0, LAT1 = -12, 64, 18, 70
 KX, KY = 14, 20                       # unidades por grau: x = (lon+12)*14, y = (62-lat)*20
 UE = set("AUT BEL BGR HRV CYP CZE DNK EST FIN FRA DEU GRC HUN IRL ITA LVA LTU LUX MLT NLD POL PRT ROU SVK SVN ESP SWE"
          " NOR CHE ISL LIE".split())
@@ -95,8 +95,24 @@ def main():
         g = l10[l10.intersects(c)].geometry.intersection(c)
         g = g[~g.is_empty]
         extra[nome] = {"ano": 2017, "d": d_path(MultiLineString([s for gg in g for s in getattr(gg, "geoms", [gg])]), 0)}
+    # nomes de países (ponto dentro do polígono maior de cada um) e de mares, para os quadros regionais
+    nomes = []
+    for _, p in paises.iterrows():
+        g = p.geometry
+        if g.is_empty or g.area < 0.6:
+            continue
+        maior = max(getattr(g, "geoms", [g]), key=lambda x: x.area).representative_point()
+        nomes.append({"n": p["NAME_EN"], "x": round((maior.x - LON0) * KX), "y": round((LAT1 - maior.y) * KY), "a": round(g.area, 1)})
+    # países grandes ganham uma segunda âncora, perto das fronteiras que o tour enquadra (só uma aparece por quadro)
+    for n, (x, y) in {"Turkey": (41.4, 38.9), "Iran": (46.6, 37.0), "Ukraine": (24.8, 49.4), "Poland": (21.5, 52.6), "Belarus": (27.8, 53.0),
+                      "Greece": (22.2, 39.7), "Turkey ": (30.6, 38.6)}.items():
+        nomes.append({"n": n.strip(), "x": round((x - LON0) * KX), "y": round((LAT1 - y) * KY), "a": 1})
+    mares = {"Aegean Sea": (25.0, 38.9), "Mediterranean Sea": (17.0, 34.4), "Adriatic Sea": (15.6, 42.9), "Black Sea": (34.0, 43.4),
+             "English Channel": (-1.2, 50.2), "Baltic Sea": (19.5, 56.2), "Ionian Sea": (18.5, 38.3)}
+    for n, (x, y) in mares.items():
+        nomes.append({"n": n, "x": round((x - LON0) * KX), "y": round((LAT1 - y) * KY), "a": 0, "mar": 1})
     obj = {"kx": KX, "ky": KY, "lon0": LON0, "lat1": LAT1, "w": (LON1 - LON0) * KX, "h": (LAT1 - LAT0) * KY,
-           "terra": terra, "lin": saida, "cercas": CERCAS, "extra": extra}
+           "terra": terra, "nomes": nomes, "lin": saida, "cercas": CERCAS, "extra": extra}
     out = RAIZ / "tour" / "mapa.js"
     out.write_text("/* gerado por script/monta_mapa.py. Natural Earth (domínio público): países 1:50m e linhas de fronteira "
                    "1:50m (Ceuta e Melilla: 1:10m).\n   Cada linha é a fronteira entre dois países, não o traçado de uma cerca. */\n"

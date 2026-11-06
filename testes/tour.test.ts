@@ -151,6 +151,42 @@ describe("o passeio", () => {
   });
 });
 
+describe("mapa", () => {
+  for (const [nome, dev] of [["desktop", {}], ["iphone", { ...devices["iPhone 13"] }]] as const) {
+    test(`${nome}: quadros regionais com nomes, sem linhas de rota, e o fecho contém todos os pontos`, async () => {
+      const { pg, fecha } = await abre(nome === "desktop" ? cr : wk, url("index.html"), { ctx: dev });
+      try {
+        await pg.waitForSelector("[data-tour]");
+        const beats = tour.map((c: any, i: number) => (c.mapa ? i : -1)).filter((i: number) => i >= 0);
+        for (const i of beats) {
+          await ev(pg, `window.aysTour.mapa(${i})`);
+          const m = await ev<any>(pg, `(() => { const f = document.querySelector('#ays-tour .t-faixa').getBoundingClientRect();
+            const vis = [...document.querySelectorAll('#ays-tour .m-pais:not(.encl)')].filter(t => t.style.display !== 'none' && t.getBoundingClientRect().width > 0);
+            const dentro = vis.every(t => { const r = t.getBoundingClientRect(); return r.left >= f.left - 2 && r.right <= f.right + 2 && r.top >= f.top - 2 && r.bottom <= f.bottom + 2; });
+            const pts = [...document.querySelectorAll('#ays-tour .m-pt:not(.velho)')];
+            return { nomes: vis.length, dentro, rota: document.querySelectorAll('#ays-tour .m-rota').length, atuais: pts.length,
+              span: document.querySelector('#ays-tour svg').viewBox.baseVal.width / window.AYS_MAPA.kx } })()`);
+          const c = tour[i];
+          expect(m.rota).toBe(0);
+          if (c.mapa.fecho) continue;
+          expect(m.atuais, c.id).toBe(1);
+          expect(m.span, `${c.id}: quadro regional, não a fronteira solta`).toBeGreaterThanOrEqual(10);
+          expect(m.nomes, `${c.id}: nomes de países no quadro`).toBeGreaterThanOrEqual(2);
+          expect(m.dentro, `${c.id}: nomes dentro do quadro`).toBe(true);
+        }
+        const f = await ev<any>(pg, `(() => { const r = document.querySelector('#ays-tour .t-faixa').getBoundingClientRect();
+          const pts = [...document.querySelectorAll('#ays-tour .m-pt')].map(c => c.getBoundingClientRect());
+          return { n: pts.length, fora: pts.filter(b => b.left < r.left || b.right > r.right || b.top < r.top || b.bottom > r.bottom).length,
+            anos: document.querySelectorAll('#ays-tour .m-ptano').length, encl: document.querySelectorAll('#ays-tour .m-encl.on').length } })()`);
+        expect(f.n).toBe(beats.length - 1);
+        expect(f.fora, "pontos fora do quadro do fecho").toBe(0);
+        expect(f.anos).toBe(f.n);
+        expect(f.encl, "Ceuta e Melilla acesas no fecho").toBe(2);
+      } finally { await fecha(); }
+    });
+  }
+});
+
 describe("celular (iPhone 13, webkit)", () => {
   test("a legenda é legível (>= 16 px), não cobre a foto nem o mapa, e nada passa da tela", async () => {
     const { pg, fecha } = await abre(wk, url("index.html", "?rapido=20"), { ctx: { ...devices["iPhone 13"] } });

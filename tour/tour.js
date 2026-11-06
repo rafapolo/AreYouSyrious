@@ -43,7 +43,13 @@
   #ays-tour .m-cerca{fill:none;stroke:#7aa6bd;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
   #ays-tour .m-cerca.on{opacity:.95}
   #ays-tour .m-foco{stroke:#a9cddd;stroke-width:2.8px}
-  #ays-tour .m-rota{fill:none;stroke:#8c929a;stroke-width:.9px;vector-effect:non-scaling-stroke;opacity:.7}
+  #ays-tour .m-pais{fill:#5d636b;font:600 11px ui-sans-serif,system-ui,sans-serif;font-variant:small-caps;letter-spacing:.14em;pointer-events:none}
+  #ays-tour .m-pais.mar{fill:#454b55;font-style:italic}
+  #ays-tour .m-pais.encl{fill:#a9cddd;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
+  #ays-tour .m-encl .m-anel{stroke:#7aa6bd;stroke-width:1.6px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
+  #ays-tour .m-encl.on .m-anel{opacity:.95}
+  #ays-tour .m-encl.on .m-pais.encl{opacity:1}
+  #ays-tour .m-ptano{fill:#aaa496;font:600 10.5px ui-sans-serif,system-ui,sans-serif}
   #ays-tour .m-pt{fill:#d9d4c8}
   #ays-tour .m-pt.velho{fill:#8d887e}
   #ays-tour .m-nome{fill:#cfcac0;font:600 12px ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
@@ -77,7 +83,7 @@
 
   const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt) e.textContent = txt; return e; };
   let raiz, faixa, fotos, leg, kick, frase, fonte, prog, topo, baixo, botSom, convite;
-  let mapaDiv, svg, MAPA = null, gTerra, gLin, gCerca, gRota, gPts, nomeEl, anoEl, vista = null, visitados = [], cercaEl = [], vooRaf = 0, fimTimer = 0;
+  let mapaDiv, svg, MAPA = null, gTerra, gLin, gCerca, gNomes, gEncl, gPts, nomeEl, anoEl, vista = null, visitados = [], cercaEl = [], vooRaf = 0, fimTimer = 0;
 
   function monta() {
     if (raiz) return;
@@ -192,7 +198,8 @@
     if (svg) return;
     svg = sv('svg', { viewBox: `0 0 ${MAPA.w} ${MAPA.h}`, preserveAspectRatio: 'xMidYMid slice', role: 'presentation' });
     gTerra = sv('g', {}, svg); sv('path', { d: MAPA.terra, class: 'm-terra' }, gTerra);
-    gLin = sv('g', {}, svg); gCerca = sv('g', {}, svg); gRota = sv('g', {}, svg); gPts = sv('g', {}, svg);
+    gLin = sv('g', {}, svg); gCerca = sv('g', {}, svg); gEncl = sv('g', {}, svg); gNomes = sv('g', {}, svg); gPts = sv('g', {}, svg);
+    for (const n of MAPA.nomes) { const t = sv('text', { x: n.x, y: n.y, class: 'm-pais' + (n.mar ? ' mar' : ''), 'text-anchor': 'middle' }, gNomes); t.textContent = n.n; t.dataset.a = n.a; }
     for (const l of MAPA.lin) {
       if (MAPA.cercas[l.p]) {                       // a linha de fronteira do par: base fina + traço aceso por cima
         sv('path', { d: l.d, class: 'm-lin', 'data-par': l.p }, gLin);
@@ -200,6 +207,12 @@
       } else sv('path', { d: l.d, class: l.e ? 'm-ext' : 'm-lin', 'data-par': l.p }, gLin);
     }
     for (const n in MAPA.extra) { const e = sv('path', { d: MAPA.extra[n].d, class: 'm-cerca', 'data-par': n, 'data-ano': MAPA.extra[n].ano }, gCerca); cercaEl.push(e); }
+    const ENC = { Ceuta: [-5.31, 35.89], Melilla: [-2.94, 35.29] };
+    for (const n in ENC) {                            // enclaves minúsculas: anel e nome, para não sumirem
+      const g = sv('g', { class: 'm-encl', 'data-ano': MAPA.extra[n].ano }, gEncl);
+      sv('circle', { cx: px(ENC[n][0]), cy: py(ENC[n][1]), r: 8, fill: 'none', class: 'm-anel' }, g);
+      const t = sv('text', { x: px(ENC[n][0]), y: py(ENC[n][1]) - 12, class: 'm-pais encl', 'text-anchor': 'middle' }, g); t.textContent = n;
+    }
     nomeEl = sv('text', { class: 'm-nome' }, svg);
     mapaDiv.insertBefore(svg, mapaDiv.firstChild);
   }
@@ -213,7 +226,47 @@
     svg.setAttribute('viewBox', `${v.cx - v.w / 2} ${v.cy - v.h / 2} ${v.w} ${v.h}`);
     const u = v.w / (faixa.clientWidth || 1280);     // unidades do mapa por pixel
     gPts.querySelectorAll('circle').forEach(c => c.setAttribute('r', (c.classList.contains('velho') ? 2.6 : 3.8) * u));
-    if (nomeEl.dataset.x) { nomeEl.setAttribute('x', +nomeEl.dataset.x + 9 * u); nomeEl.setAttribute('y', +nomeEl.dataset.y - 7 * u); nomeEl.style.fontSize = 12 * u + 'px'; }
+    const anos = [...gPts.querySelectorAll('text')], ocupados = [...gPts.querySelectorAll('circle')].map(c => [+c.getAttribute('cx'), +c.getAttribute('cy'), 4 * u, 4 * u]);
+    const colide = (a, b) => Math.abs(a[0] - b[0]) < (a[2] + b[2]) && Math.abs(a[1] - b[1]) < (a[3] + b[3]);
+    for (const t of anos) {                          // ano ao lado do ponto, no primeiro canto que não encosta em outro ano nem em ponto
+      t.style.fontSize = 10.5 * u + 'px';
+      const x = +t.getAttribute('x'), y = +t.getAttribute('y'), w = 2.1 * 10.5 * u, h = 6 * u;
+      const cand = [[7 * u + w, -6 * u], [7 * u + w, 12 * u], [-7 * u - w, -6 * u], [-7 * u - w, 12 * u], [7 * u + w, 26 * u], [-7 * u - w, 26 * u]];
+      let esc = cand[0];
+      for (const c of cand) { const r = [x + c[0] - (c[0] > 0 ? w : -w) + 0 * u, y + c[1], w, h]; r[0] = x + (c[0] > 0 ? 7 * u + w / 2 : -7 * u - w / 2); if (!ocupados.some(o => colide(r, o))) { esc = c; break; } }
+      const cx = x + (esc[0] > 0 ? 7 * u + w / 2 : -7 * u - w / 2);
+      t.setAttribute('dx', esc[0] > 0 ? 7 * u : -7 * u - w); t.setAttribute('dy', esc[1]);
+      ocupados.push([cx, y + esc[1], w / 2, h]);
+    }
+    rotulos(v, u);
+    if (nomeEl.dataset.x) { nomeEl.setAttribute('y', +nomeEl.dataset.y - 7 * u); nomeEl.style.fontSize = 12 * u + 'px'; }
+  }
+  /* nomes de países e mares só nos quadros regionais, só os que estão no quadro, sem se sobrepor */
+  function rotulos(v, u) {
+    const regional = v.w / MAPA.kx <= 30, x0 = v.cx - v.w / 2, y0 = v.cy - v.h / 2, W = faixa.clientWidth || 1280;
+    const usados = [], nomesUsados = new Set(), fs = 11 * u;
+    if (nomeEl.dataset.x) {                          // o nome do lugar atual: fica dentro do quadro e os países desviam dele
+      const px0 = +nomeEl.dataset.x, py0 = +nomeEl.dataset.y, wn = nomeEl.textContent.length * 12 * u * 0.62;
+      const esq = px0 + 9 * u + wn > x0 + v.w * 0.98;
+      nomeEl.setAttribute('text-anchor', esq ? 'end' : 'start'); nomeEl.setAttribute('x', esq ? px0 - 9 * u : px0 + 9 * u);
+      usados.push([esq ? px0 - 9 * u - wn / 2 : px0 + 9 * u + wn / 2, py0 - 7 * u, wn + 14 * u]);
+    }
+    const ts = [...gNomes.children].sort((a, b) => b.dataset.a - a.dataset.a);
+    for (const t of ts) {
+      const x = +t.getAttribute('x'), y = +t.getAttribute('y');
+      const w = t.textContent.length * fs * 0.8;
+      let ok = regional && x - w / 2 > x0 + v.w * 0.02 && x + w / 2 < x0 + v.w * 0.98 && y > y0 + v.h * 0.1 && y < y0 + v.h * 0.9;
+      if (ok && nomesUsados.has(t.textContent)) ok = false;
+      if (ok) { ok = !usados.some(r => Math.abs(r[0] - x) < (r[2] + w) / 2 && Math.abs(r[1] - y) < fs * 1.6); if (ok) { usados.push([x, y, w]); nomesUsados.add(t.textContent); } }
+      t.style.display = ok ? '' : 'none';
+      t.style.fontSize = fs + 'px';
+    }
+    gEncl.querySelectorAll('text').forEach(t => {
+      const cy = +t.previousSibling.getAttribute('cy'), cx = +t.previousSibling.getAttribute('cx'), baixo = t.textContent === 'Melilla';
+      t.style.fontSize = 11 * u + 'px'; t.setAttribute('y', baixo ? cy + 24 * u : cy - 13 * u);
+      t.setAttribute('x', baixo ? cx + 4 * u : cx - 4 * u); t.setAttribute('text-anchor', baixo ? 'start' : 'end');
+    });
+    gEncl.querySelectorAll('circle').forEach(c => c.setAttribute('r', 8 * u));
   }
   function voaPara(alvo, dur) {
     cancelAnimationFrame(vooRaf);
@@ -230,6 +283,7 @@
     passo();
   }
   function acendeCercas(ano, foco) {
+    gEncl.querySelectorAll('.m-encl').forEach(e => e.classList.toggle('on', +e.dataset.ano <= ano));
     // a fronteira da cena, quando não é cerca, só ganha um traço um pouco mais claro (ex.: Bósnia–Croácia, Ucrânia–Polônia)
     gLin.querySelectorAll('[data-par]').forEach(e => e.classList.toggle('m-viz', !!foco && e.dataset.par === foco && !(MAPA.cercas[foco] <= ano)));
     cercaEl.forEach(e => {
@@ -237,9 +291,11 @@
       e.classList.toggle('m-foco', !!foco && e.dataset.par === foco && +e.dataset.ano <= ano);
     });
   }
-  function pontoNo(c, velho) {
-    const [lon, lat] = c.coord;
-    return sv('circle', { cx: px(lon), cy: py(lat), r: 3, class: 'm-pt' + (velho ? ' velho' : '') }, gPts);
+  function pontoNo(coord, velho, ano, comAno) {
+    const [lon, lat] = coord;
+    const c = sv('circle', { cx: px(lon), cy: py(lat), r: 3, class: 'm-pt' + (velho ? ' velho' : '') }, gPts);
+    if (comAno) { const t = sv('text', { x: px(lon), y: py(lat), class: 'm-ptano' }, gPts); t.textContent = ano; }
+    return c;
   }
   /* o mapa de uma cena: aproxima da fronteira, acende as cercas até o ano da cena e acrescenta o trecho da rota */
   async function mapaDaCena(i, dur, parado) {
@@ -254,22 +310,12 @@
       acendeCercas(ano, m.fronteira);
       anoEl.textContent = ano;
       gPts.querySelectorAll('circle').forEach(p => p.classList.add('velho'));
-      const ant = visitados[visitados.length - 1];
-      if (ant) {                                      // o traço se desenha do lugar anterior até este
-        const x1 = px(ant[0]), y1 = py(ant[1]), x2 = px(c.coord[0]), y2 = py(c.coord[1]);
-        const ln = sv('line', { x1, y1, x2: anim ? x1 : x2, y2: anim ? y1 : y2, class: 'm-rota' }, gRota);
-        if (anim) {
-          const t0 = performance.now(), D = 1800 / RAPIDO;
-          const passo = () => { const k = Math.min(1, (performance.now() - t0) / D), e = k * k * (3 - 2 * k);
-            ln.setAttribute('x2', x1 + (x2 - x1) * e); ln.setAttribute('y2', y1 + (y2 - y1) * e); if (k < 1 && ativo) requestAnimationFrame(passo); };
-          passo();
-        }
-      }
-      visitados.push(c.coord);
-      pontoNo(c, false);
+      visitados.push({ coord: c.coord, ano });
+      gPts.textContent = '';
+      visitados.forEach((v, k) => pontoNo(v.coord, k < visitados.length - 1, v.ano, false));
       nomeEl.textContent = c.lugar; nomeEl.dataset.x = px(c.coord[0]); nomeEl.dataset.y = py(c.coord[1]);
     }
-    const alvo = vistaDe(m.vista);
+    const alvo = vistaDe(m.fecho && innerWidth < 720 && innerHeight > innerWidth ? [20, 44, 64] : m.vista);
     if (!vista) aplicaVista(vistaDe([18, 45, 60]));
     if (parado) { aplicaVista(alvo); }
     else voaPara(alvo, m.fecho ? 2600 / RAPIDO : Math.min(2300, dur * 0.72));
@@ -278,7 +324,9 @@
   /* fecho: o mapa inteiro, as cercas acendendo ano a ano (2016 -> 2025), todos os lugares acesos */
   function fecho(i, dur, parado) {
     nomeEl.textContent = ''; nomeEl.dataset.x = '';
-    gPts.querySelectorAll('circle').forEach(p => p.classList.remove('velho'));
+    gPts.textContent = '';
+    visitados.forEach(v => pontoNo(v.coord, false, v.ano, true));
+    aplicaVista(vista);
     const anos = [...new Set(cercaEl.map(e => +e.dataset.ano))].sort();
     clearInterval(fimTimer);
     if (parado || semMov.matches) { acendeCercas(2025); anoEl.textContent = '2016 → 2025'; return; }
@@ -293,7 +341,7 @@
   function fechaMapa() { clearInterval(fimTimer); if (mapaDiv) mapaDiv.classList.remove('vis'); }
   function limpaMapa() {
     if (!svg) return;
-    gRota.textContent = ''; gPts.textContent = ''; visitados = []; vista = null; cercaEl.forEach(e => e.classList.remove('on', 'm-foco'));
+    gPts.textContent = ''; visitados = []; vista = null; cercaEl.forEach(e => e.classList.remove('on', 'm-foco'));
     nomeEl.textContent = ''; nomeEl.dataset.x = '';
   }
 

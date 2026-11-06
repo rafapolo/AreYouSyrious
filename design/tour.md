@@ -34,7 +34,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2016-04-12-ays-daily-digest-11-4-2016-8e8297bf418b.md`
 - Número/fato e segunda via: "around 300 refugees hurt" (post de 11/4). Segunda via: o resumo de abril em chronological_list_of_events.md fala em 250 feridos no mesmo episódio; mesma ordem de grandeza, a diferença fica registrada.
 - Imagem `assets/8e8297bf418b/1*eRSLNKJj_XPdZaoxa6oaAg.jpeg`: Policiais macedônios atrás da cerca de arame (legenda do post: "Macedonian police on the border with Greece"). Rostos de policiais de capacete e máscara, nenhum refugiado.
-- Lugar: Idomeni [22.51, 41.13] (lon, lat). Trecho do post: Legenda "Photo taken by refugees stranded in Idomeni"; texto "Tensions are still high in Idomeni". Mapa: fronteira `GRC-MKD`, vista [22.5, 41.1, 5].
+- Lugar: Idomeni [22.51, 41.13] (lon, lat). Trecho do post: Legenda "Photo taken by refugees stranded in Idomeni"; texto "Tensions are still high in Idomeni". Mapa: fronteira `GRC-MKD`, vista [22.5, 41.0, 18].
 
 **2. `idomeni-gas`** · 2016-05-18 · Idomeni, Greece · May 2016
 - Frase: "Refugees and police clash in Idomeni." (37 caracteres, literal)
@@ -75,7 +75,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2016-10-27-children-left-without-shelter-after-large-fires-in-the-jungle-dd9301cff389.md`
 - Número/fato e segunda via: Post de 26/10. Segunda via: o resumo de outubro em chronological_list_of_events.md ("final destruction of the Calais Jungle").
 - Imagem `assets/dd9301cff389/0*Y-iKmWuZhXXzwLbp.`: Silhuetas ao longe diante de fumaça e fogo, à noite; foto de abertura do post, sem legenda. Ninguém identificável. Recorte: [0, 0.13, 1, 0.87].
-- Lugar: Calais [1.86, 50.95] (lon, lat). Trecho do post: Título "Calais children with nowhere to sleep". Mapa sem linha de fronteira, vista [1.9, 50.9, 9].
+- Lugar: Calais [1.86, 50.95] (lon, lat). Trecho do post: Título "Calais children with nowhere to sleep". Mapa sem linha de fronteira, vista [2.0, 50.5, 14].
 
 **7. `calais-conteineres`** · 2016-10-26 · Calais, France · October 2016
 - Frase: "today’s and yesterday’s fires destroyed community centers, restaurants, and shelters" (84 caracteres, literal)
@@ -99,7 +99,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2017-01-09-ays-digest-09-01-if-you-are-cold-count-on-europe-to-steal-your-blanket-fd5399d4cd48.md`
 - Número/fato e segunda via: É a legenda da foto, literal.
 - Imagem `assets/fd5399d4cd48/1*U5uibhDz-gaCQ7e6C40b7A.jpeg`: Interior escuro de armazém abandonado com fogueira ao fundo, silhuetas distantes (Igor Čoko). Crédito exibido: Igor Čoko.
-- Lugar: Belgrade [20.46, 44.82] (lon, lat). Trecho do post: Legenda: "near the train station", e o post trata do frio em Belgrado. Mapa: fronteira `HUN-SRB`, vista [20.2, 45.2, 9].
+- Lugar: Belgrade [20.46, 44.82] (lon, lat). Trecho do post: Legenda: "near the train station", e o post trata do frio em Belgrado. Mapa: fronteira `HUN-SRB`, vista [20.5, 44.5, 16].
 
 **10. `lesvos-neve`** · 2017-01-09 · Lesvos, Greece · January 2017
 - Frase: "Lesvos. 14 cm of snow and still falling." (40 caracteres, literal)
@@ -123,7 +123,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2018-01-16-ays-daily-digest-15-01-18-suicide-attacks-in-baghdad-show-iraq-is-no-safe-third-country-78c842933eb6.md`
 - Número/fato e segunda via: Legenda literal. Segunda via: o texto do post repete "After coming across an empty dinghy in the Mediterranean, they still have found no bodies or survivors".
 - Imagem `assets/78c842933eb6/1*c1vSsXRSWYyOGvOao0u5jg.jpeg`: Mar aberto com o bote vazio ao longe. Marca d'água da fotógrafa/organização cortada em script/monta_tour.py (recorte). Recorte: [0, 0, 1, 0.86]. Crédito de organização (não exibido): SOS Mediterranee.
-- Lugar: Central Mediterranean, off Libya [13.2, 33.5] (lon, lat). Trecho do post: Legenda da capa: "...37 nautical miles off Libya". Coordenada aproximada (33,5 N, 13,2 L): 37 milhas ao norte da costa líbia; é do tour, não do post. Mapa sem linha de fronteira, vista [14, 34.5, 16].
+- Lugar: Off Libya [13.2, 33.5] (lon, lat). Trecho do post: Legenda da capa: "...37 nautical miles off Libya". Coordenada aproximada (33,5 N, 13,2 L): 37 milhas ao norte da costa líbia; é do tour, não do post. Mapa sem linha de fronteira, vista [14, 35.0, 24].
 
 **13. `mar-coletes`** · 2018-02-17 · Mediterranean · February 2018
 - Frase: "people are still risking their lives in the Mediterranean to reach a place of safety" (84 caracteres, literal)
@@ -147,7 +147,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2019-11-03-ays-special-documenting-human-rights-violations-in-vučjak-camp-923607ace85d.md`
 - Número/fato e segunda via: "2,400 in October". Segunda via: o post de 21/10/2019 diz "approximately 2400 people living in tents" depois de 1700 transferidos em 16/10.
 - Imagem `assets/923607ace85d/1*3y7Yq3NcA5_KTmXy0WayYw.jpeg`: Fileiras de tendas brancas na encosta verde; duas figuras de costas ao longe (Thom Davies). Crédito exibido: Thom Davies.
-- Lugar: Bihać [15.87, 44.81] (lon, lat). Trecho do post: Título/legenda "Vučjak camp near Bihać". Mapa: fronteira `BIH-HRV`, vista [16.0, 44.8, 7].
+- Lugar: Bihać [15.87, 44.81] (lon, lat). Trecho do post: Título/legenda "Vučjak camp near Bihać". Mapa: fronteira `BIH-HRV`, vista [16.5, 44.0, 16].
 
 **16. `vucjak-agua-cortada`** · 2019-11-03 · Vučjak, Bosnia and Herzegovina · October 2019
 - Frase: "On October 21st, local authorities ceased providing water to the camp." (70 caracteres, literal)
@@ -171,7 +171,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2020-03-02-ays-weekend-digest-29-02-01-03-2020-greece-emergency-measures-and-live-ammo-training-at-border-73a737de9017.md`
 - Número/fato e segunda via: Título da seção do post de 2/3/2020. Segunda via: o post de 11/3 descreve a tensão "between Turkey and Greece" no Evros.
 - Imagem `assets/73a737de9017/1*KcBS7qVr351OPYALivh09w.jpeg`: Bandeira da UE atrás de arame farpado, a capa do post; a legenda original cita uma ONG, não usada.
-- Lugar: Evros [26.36, 41.7] (lon, lat). Trecho do post: "in the Evros region and off the coast of Lesvos". Mapa: fronteira `GRC-TUR`, vista [26.3, 41.5, 5].
+- Lugar: Evros [26.36, 41.7] (lon, lat). Trecho do post: "in the Evros region and off the coast of Lesvos". Mapa: fronteira `GRC-TUR`, vista [26.5, 40.5, 14].
 
 **19. `edirne-tendas`** · 2020-03-11 · Edirne, Turkey · March 2020
 - Frase: "where approximately 9,000–20,000 people are stuck at the moment" (63 caracteres, literal)
@@ -195,7 +195,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2020-09-11-ays-daily-digest-10-09-2020-moria-the-days-after-e762110f8ae1.md`
 - Número/fato e segunda via: Post de 10/9/2020. Literal.
 - Imagem `assets/e762110f8ae1/0*QGGu3ioVxBiBE0jZ.jpeg`: Árvores em chamas e roupas espalhadas no chão; sem pessoas (Angelos Christofilopoulos). Crédito exibido: Angelos Christofilopoulos.
-- Lugar: Moria [26.5, 39.14] (lon, lat). Trecho do post: Título "Moria, the Days After". Mapa sem linha de fronteira, vista [26.3, 39.2, 5].
+- Lugar: Moria [26.5, 39.14] (lon, lat). Trecho do post: Título "Moria, the Days After". Mapa sem linha de fronteira, vista [26.0, 38.7, 12].
 
 **22. `moria-campo-novo`** · 2020-09-13 · Lesvos, Greece · September 2020
 - Frase: "That means that more than 10,000 people will still be without shelter." (70 caracteres, literal)
@@ -219,7 +219,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2021-08-23-ays-weekend-digest-21-22-8-21-the-crisis-of-solidarity-at-the-polish-belarusian-border-cb2f9d162a68.md`
 - Número/fato e segunda via: "243-kilometre ... wall". Segunda via no mesmo parágrafo: "534-kilometre frontier with Iran", "156 kilometres have already been built". Km não aparece na tela além do que a frase diz.
 - Imagem `assets/cb2f9d162a68/0*clbOcyCoX87DB3MB`: Muro de concreto e veículo blindado em paisagem de montanhas, soldados ao longe (sem crédito).
-- Lugar: Turkey–Iran border [44.1, 39.5] (lon, lat). Trecho do post: Seção "TURKEY — Closing up with more walls". Mapa: fronteira `IRN-TUR`, vista [44.0, 39.5, 8].
+- Lugar: Turkey–Iran border [44.1, 39.5] (lon, lat). Trecho do post: Seção "TURKEY — Closing up with more walls". Mapa: fronteira `IRN-TUR`, vista [43.5, 38.8, 18].
 
 **25. `evros-muro`** · 2021-08-22 · Evros, Greece · August 2021
 - Frase: "There are 11 cameras which can see 15km into Turkish territory" (62 caracteres, literal)
@@ -233,7 +233,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2021-10-17-ays-news-digest-15-10-21-poland-legalizes-pushbacks-e7140651e8b0.md`
 - Número/fato e segunda via: Literal (post de 15/10/2021). Segunda via: "eighth person died" na Polônia-Belarus em outubro (chronological_list_of_events.md) após o sétimo citado neste post.
 - Imagem `assets/e7140651e8b0/0*uN3OYpu-AfH7hiTu.jpeg`: Soldados poloneses entrando em caminhões, legenda "Polish soldiers in front of the border guard headquarters in Michalowo, Poland on October 11"; corte à direita tira a marca vertical da agência. Rostos de militares, não de pessoas em risco. Recorte: [0, 0, 0.94, 1]. Crédito de organização (não exibido): CNN.
-- Lugar: Michałowo, Poland [23.62, 53.04] (lon, lat). Trecho do post: Legenda: Michałowo. Mapa: fronteira `BLR-POL`, vista [23.6, 52.8, 8].
+- Lugar: Michałowo, Poland [23.62, 53.04] (lon, lat). Trecho do post: Legenda: Michałowo. Mapa: fronteira `BLR-POL`, vista [24.0, 52.5, 16].
 
 
 ### Episódio 10
@@ -243,7 +243,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2022-03-05-ays-news-digest-04-03-2022-temporary-protection-directive-reveals-double-standard-refugee-law-55c4be103ac2.md`
 - Número/fato e segunda via: "500,000 children among the 1,368,864 people who have fled Ukraine" (post de 4/3/2022). A frase com "more than 600 thousand ... arrived to Poland" foi trocada: no original há um "[from Belarus]" editorial que o corte removeria. Segunda via: a tabela da própria página (ver cena seguinte).
 - Imagem `assets/55c4be103ac2/0*o2xE21glBeP0ghpw.jpeg`: Mapa "UKRAINE Border crossing points" (Humanitarian Data Exchange); a linha de crédito inferior foi cortada. Recorte: [0, 0, 1, 0.93]. Crédito de organização (não exibido): Humanitarian Data Exchange.
-- Lugar: Ukraine–Poland border [23.0, 49.8] (lon, lat). Trecho do post: Seção "Updates from the borders". Mapa: fronteira `POL-UKR`, vista [23.5, 50.5, 8].
+- Lugar: Ukraine–Poland border [23.0, 49.8] (lon, lat). Trecho do post: Seção "Updates from the borders". Mapa: fronteira `POL-UKR`, vista [26.0, 49.5, 18].
 
 **28. `ucrania-tabela`** · 2022-03-04 · Ukraine · March 2022
 - Frase: "Refugee arrivals from Ukraine (since 24 February 2022), By Country and By Date" (78 caracteres, literal)
@@ -267,7 +267,7 @@ O tour não é espetáculo.
 - Fonte: `posts/2023-06-15-ays-news-digest-14-6-23-foul-play-as-hundreds-dead-after-greek-shipwreck-tragedy-ed5fdf891640.md`
 - Número/fato e segunda via: "It is thought that approximately 750 people were onboard ... around 100 children": a ressalva fica (98 caracteres). Segunda via: o post de 14/7 diz "at least 600 people are still missing".
 - Imagem `assets/ed5fdf891640/0*sNLzdj7Cmnuf_a3K.jpg`: Foto aérea do barco de pesca lotado, divulgada pela guarda costeira; centenas de pessoas minúsculas, nenhuma identificável. Pessoas em risco, vistas de muito longe; avaliado e mantido. Crédito de organização (não exibido): Hellenic Coast Guard.
-- Lugar: Off Pylos [21.0, 36.4] (lon, lat). Trecho do post: "47 nautical miles off the coast of the island of Pylos". Coordenada aproximada do tour. Mapa sem linha de fronteira, vista [21, 36.5, 10].
+- Lugar: Off Pylos [21.0, 36.4] (lon, lat). Trecho do post: "47 nautical miles off the coast of the island of Pylos". Coordenada aproximada do tour. Mapa sem linha de fronteira, vista [22.0, 37.5, 14].
 
 **31. `pylos-berlim`** · 2023-07-14 · Berlin · July 2023
 - Frase: "One month after the shipwreck off Pylos in Greece, from which at least 600 people are still missing" (99 caracteres, literal)
@@ -284,25 +284,26 @@ O tour não é espetáculo.
 - Fonte: `posts/2025-02-11-phone-is-company-how-the-authorities-routinely-and-forcibly-remove-the-phones-of-people-on-the-37d25ea7c5ee.md`
 - Número/fato e segunda via: Frase literal do post de 11/2/2025, o último do arquivo. Segunda via: o mesmo post fala de 59 depoentes.
 - Imagem `assets/37d25ea7c5ee/0*dSQUlmQfbVxVgJmz`: Vista do centro de Samos através de uma cerca (© Sam Jubb). Crédito exibido: Sam Jubb.
-- Lugar: Samos [26.98, 37.755] (lon, lat). Trecho do post: Legenda "Exterior view of the Samos CCAC". Mapa sem linha de fronteira, vista [27, 37.8, 6].
+- Lugar: Samos [26.98, 37.755] (lon, lat). Trecho do post: Legenda "Exterior view of the Samos CCAC". Mapa sem linha de fronteira, vista [26.5, 38.2, 15].
 
 **33. `lesvos-coletes`** · 2020-03-01 · Lesvos, Greece · 2020
 - Frase: "“Life-jacket Graveyard” near Molyvos, Lesvos." (45 caracteres, literal)
 - Fonte: `posts/2020-03-01-ays-special-lesvos-well-beyond-the-brink-this-is-what-we-know-so-far-7c11873e12f8.md`
 - Número/fato e segunda via: Legenda literal. Cena de memória: coletes deixados em Lesvos. Sem número.
 - Imagem `assets/7c11873e12f8/0*uV5n6NBhodA77OOI`: Aterro de coletes salva-vidas (@dfherman). Objetos deixados; nenhuma pessoa. Crédito exibido: Douglas F. Herman.
-- Lugar: Molyvos, Lesvos [26.17, 39.37] (lon, lat). Trecho do post: Legenda "near Molyvos, Lesvos". Mapa sem linha de fronteira, vista [20, 44.5, 62].
+- Lugar: Molyvos, Lesvos [26.17, 39.37] (lon, lat). Trecho do post: Legenda "near Molyvos, Lesvos". Mapa sem linha de fronteira, vista [26, 43.3, 74].
 
 ## Mapa
 
-As fotos não têm GPS: a amostra do coordenador (400) e uma amostra própria (400 JPEG sorteados, 9 com algum EXIF e 0 com GPS) concordam; o Medium remove o EXIF. O lugar vem do texto do post, na coluna "Trecho do post" de cada cena acima, e a coordenada é do tour, marcada à mão: Idomeni 41,13 N 22,51 L; Calais 50,95 N 1,86 L; Belgrado 44,82 N 20,46 L; Lesvos/Moria 39,14 N 26,50 L; Bihać 44,81 N 15,87 L; Evros/Kastanies 41,70 N 26,36 L; Edirne 41,68 N 26,56 L; fronteira Turquia–Irã 39,5 N 44,1 L; Michałowo 53,04 N 23,62 L; fronteira Ucrânia–Polônia 49,8 N 23,0 L; Pylos 36,4 N 21,0 L ("47 nautical miles off" Pylos: o ponto é aproximado); Samos 37,755 N 26,98 L; Molyvos 39,37 N 26,17 L. Os pontos "Central Mediterranean" (33,5 N 13,2 L), "Mediterranean" e Malta são aproximados e valem só como situação geral.
+As fotos não têm GPS: a amostra do coordenador (400) e uma amostra própria (400 JPEG sorteados, 9 com algum EXIF e 0 com GPS) concordam; o Medium remove o EXIF. O lugar vem do texto do post, na coluna "Trecho do post" de cada cena acima, e a coordenada é do tour, marcada à mão: Idomeni 41,13 N 22,51 L; Calais 50,95 N 1,86 L; Belgrado 44,82 N 20,46 L; Lesvos/Moria 39,14 N 26,50 L; Bihać 44,81 N 15,87 L; Evros/Kastanies 41,70 N 26,36 L; Edirne 41,68 N 26,56 L; fronteira Turquia–Irã 39,5 N 44,1 L; Michałowo 53,04 N 23,62 L; fronteira Ucrânia–Polônia 49,8 N 23,0 L; Pylos 36,4 N 21,0 L ("47 nautical miles off" Pylos: o ponto é aproximado); Samos 37,755 N 26,98 L; Molyvos 39,37 N 26,17 L. Os pontos "Off Libya" (33,5 N 13,2 L), "Mediterranean" e Malta são aproximados e valem só como situação geral.
 
 - **Dados**: Natural Earth (domínio público), países 1:50m e linhas de fronteira terrestre 1:50m, recortados para lon -12..60, lat 27..62, simplificados (0,02° nas linhas, 0,012° na terra) e embutidos em `tour/mapa.js` (~39 kB). Ceuta e Melilla vêm do 1:10m, porque o 1:50m não as tem. Crédito "Borders: Natural Earth (public domain)" no canto do mapa. Nada de MapLibre nem de tiles: SVG puro.
 - O campo NAME das linhas do 1:50m vem vazio; o par de países de cada linha é achado espacialmente em `script/monta_mapa.py` (uma linha que junta três países é partida em pares).
 - A fronteira externa da UE/Schengen (UE-27 mais Noruega, Suíça, Islândia e Liechtenstein, composição atual) tem traço um pouco mais marcado. Terra quase apagada.
 - **O trecho aceso é a linha de fronteira do Natural Earth entre os dois países, não o traçado exato da cerca.** Cor fria (azul-acinzentado), sem vermelho.
 - Os trechos acendem no ano em que o arquivo registra a cerca pela primeira vez (cumulativo). Só entram pares com fonte no arquivo; Croácia–Bósnia (pushbacks) aparece sem acender, porque o arquivo fala de pushbacks e não de cerca ali. Nenhum número de quilômetros de cerca aparece na tela.
-- Em cada episódio a câmera aproxima da fronteira em questão com zoom lento (viewBox), ponto discreto e nome; a rota liga os lugares já visitados em ordem, com um traço fino. No fecho o mapa inteiro mostra os pontos acesos e as cercas acendendo de 2016 a 2025.
+- Em cada episódio a câmera aproxima, com zoom lento (viewBox), de um quadro regional (Bálcãs, Egeu, Canal da Mancha, Mediterrâneo central, Cáucaso, Polônia–Ucrânia), nunca da fronteira solta: a fronteira em foco aparece com os países vizinhos, nomeados em versalete discreto, e 1 ou 2 mares, só os que estão no quadro e sem se sobrepor. Ponto atual aceso e os anteriores apagados; não há linhas de rota. No fecho o mapa inteiro mostra todos os pontos (incluindo o Mediterrâneo central e a Polônia) com o ano ao lado, e as cercas acendendo de 2016 a 2025; Ceuta e Melilla ganham um anel e o nome. Em celular em pé o fecho usa um quadro mais fechado (lon 20, span 64) para os pontos não saírem da tela.
+- A suíte confere: quadro regional (span >= 10 graus), 2 nomes ou mais dentro do quadro, nenhum elemento de rota, 1 ponto atual, e no fecho todos os pontos dentro da faixa, um ano por ponto e Ceuta e Melilla acesas.
 
 ### Cercas e muros acesos (par, ano, trecho que sustenta)
 
