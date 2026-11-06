@@ -18,13 +18,37 @@
   .topo nav{margin-left:auto;display:flex;gap:.4rem;align-items:center;flex-wrap:wrap}
   .topo nav a,.btn{border:1px solid #3a3733;border-radius:3px;padding:.4rem .65rem;min-height:34px;display:inline-flex;align-items:center;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em;color:#bdb7ab;background:rgba(20,19,17,.7)}
   .topo nav a:hover,.btn:hover,.btn:focus-visible,.topo nav a:focus-visible{color:#fff;border-color:#8a847a;outline:none}
-  .anos{display:flex;gap:.35rem;align-items:center;padding:.45rem 1rem;border-bottom:1px solid var(--bord);overflow-x:auto;scrollbar-width:none;white-space:nowrap}
-  .anos::-webkit-scrollbar{display:none}
-  .anos .rot{font:600 11px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin-right:.3rem}
-  .anos button{background:transparent;border:1px solid #2f2d29;border-radius:999px;padding:.35rem .7rem;min-height:32px;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;color:#9d978c}
-  .anos button[aria-pressed=true]{background:#e9e6e0;color:#0b0b0b;border-color:#e9e6e0}
+  .anos{display:flex;gap:.9rem;align-items:center;padding:.35rem 1rem .3rem;border-bottom:1px solid var(--bord);white-space:nowrap}
+  .anos .rot{font:600 11px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+  .anos .todos{background:transparent;border:1px solid #2f2d29;border-radius:999px;padding:.35rem .8rem;min-height:32px;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;color:#9d978c;cursor:pointer}
+  .anos .todos:hover,.anos .todos:focus-visible{color:#fff;border-color:#8a847a;outline:none}
+  .anos .todos[aria-pressed=true]{background:#e9e6e0;color:#0b0b0b;border-color:#e9e6e0}
+  /* slider de anos: trilho fino, o trecho até o ano escolhido aceso (as cercas acesas são as erguidas até ali) */
+  .reg{--th:16px;position:relative;flex:1;min-width:0;max-width:720px;height:44px}
+  .reg input{position:absolute;z-index:1;left:0;right:0;top:0;width:100%;height:26px;margin:0;background:transparent;-webkit-appearance:none;appearance:none;cursor:pointer;touch-action:pan-y}
+  .reg input:focus{outline:none}
+  .reg input::-webkit-slider-runnable-track{height:2px;border-radius:2px;background:linear-gradient(90deg,#c9c3b7 var(--f,0%),#34312d var(--f,0%))}
+  .reg input::-moz-range-track{height:2px;border-radius:2px;background:linear-gradient(90deg,#c9c3b7 var(--f,0%),#34312d var(--f,0%))}
+  .reg input::-webkit-slider-thumb{-webkit-appearance:none;width:var(--th);height:var(--th);margin-top:calc(1px - var(--th) / 2);border-radius:50%;background:#e9e6e0;border:3px solid #0b0b0b;box-shadow:0 0 0 1px #8a847a}
+  .reg input::-moz-range-thumb{width:var(--th);height:var(--th);border-radius:50%;background:#e9e6e0;border:3px solid #0b0b0b;box-shadow:0 0 0 1px #8a847a}
+  .reg input:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 2px #fff}
+  .reg input:focus-visible::-moz-range-thumb{box-shadow:0 0 0 2px #fff}
+  .reg.livre input::-webkit-slider-thumb{background:#0b0b0b;box-shadow:0 0 0 1px #5d5952}
+  .reg.livre input::-moz-range-thumb{background:#0b0b0b;box-shadow:0 0 0 1px #5d5952}
+  .reg .marcas{position:absolute;left:0;right:0;top:22px;height:22px}
+  .reg .marcas button{position:absolute;top:0;transform:translateX(-50%);background:transparent;border:0;padding:3px 2px;min-height:0;font:600 11px/1 ui-sans-serif,system-ui,sans-serif;color:#6f6a62;cursor:pointer;font-variant-numeric:tabular-nums}
+  .reg .marcas button::before{content:"";position:absolute;left:50%;top:-6px;width:1px;height:4px;background:#3a3733}
+  .reg .marcas .ct{display:none}
+  .reg .marcas button:hover{color:#e9e6e0}
+  .reg .marcas button[aria-pressed=true]{color:#f2efe8}
+  .reg .marcas button[aria-pressed=true]::before{background:#c9c3b7}
   .anos .tot{margin-left:auto;padding-left:1rem;font:12px/1 ui-sans-serif,system-ui,sans-serif;color:var(--mut)}
   .campo{position:relative;min-height:0;overflow:hidden}
+  .topo nav .ic{width:15px;height:15px;flex:0 0 auto;margin-right:.45rem;fill:none;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+  .topo nav .ic circle,.topo nav .ic .ch{fill:currentColor}
+  .topo nav .ic .oc{fill:#0b0b0b}
+  /* arrastar o mapa não seleciona os nomes dos lugares */
+  #mapa,#mapa *,.leg,.zoom{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
   #mapa{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none;cursor:grab;background:var(--bg)}
   #mapa.arrasta{cursor:grabbing}
   .m-terra{fill:#15181c;stroke:#2c3138;stroke-width:.8px;vector-effect:non-scaling-stroke}
@@ -34,6 +58,18 @@
   .m-cerca.on{opacity:.95}
   .m-anel{fill:none;stroke:#c8372d;stroke-width:1.6px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity .6s ease}
   .m-encl.on .m-anel{opacity:.95}
+  /* fronteiras clicáveis: traço largo invisível para o toque, traço fino que acende no hover e na seleção */
+  .m-b{cursor:pointer}
+  .m-b:focus{outline:none}
+  .m-bh{fill:none;stroke:transparent;stroke-width:14px;vector-effect:non-scaling-stroke;pointer-events:stroke}
+  .m-bv{fill:none;stroke:transparent;stroke-width:2.4px;vector-effect:non-scaling-stroke;pointer-events:none;transition:stroke .15s ease}
+  .m-b:hover .m-bv,.m-b:focus-visible .m-bv{stroke:rgba(233,230,224,.55)}
+  .m-b.sel .m-bv{stroke:#f2efe8;stroke-width:3px}
+  .ph .cruz{display:flex;flex-wrap:wrap;gap:.35rem;margin:.55rem 0 .1rem}
+  .ph .cruz:empty{display:none}
+  .ph .cruz button{background:transparent;border:1px solid #3a3733;border-radius:999px;padding:.3rem .65rem;min-height:30px;font:600 12px/1 ui-sans-serif,system-ui,sans-serif;color:#cfcac0;cursor:pointer}
+  .ph .cruz button span{color:var(--mut);font-weight:400;margin-left:.35rem}
+  .ph .cruz button:hover,.ph .cruz button:focus-visible{color:#fff;border-color:#8a847a;outline:none}
   .m-rot{fill:#5d636b;font:600 11px ui-sans-serif,system-ui,sans-serif;font-variant:small-caps;letter-spacing:.14em;pointer-events:none;text-anchor:middle}
   .m-rot.mar{fill:#454b55;font-style:italic}
   .pt{fill:rgba(217,212,200,.5);stroke:#d9d4c8;stroke-width:1px;vector-effect:non-scaling-stroke;cursor:pointer}
@@ -102,15 +138,21 @@
     .topo{gap:.5rem;padding:max(.1rem,env(safe-area-inset-top)) max(.5rem,env(safe-area-inset-right)) .1rem max(.5rem,env(safe-area-inset-left));flex-wrap:nowrap}
     .topo .marca,.topo h1{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
     .topo nav{margin:0;flex:1;display:flex;justify-content:space-between;gap:.25rem;flex-wrap:nowrap}
+    .topo nav a,.topo nav .btn{flex-direction:column;gap:.2rem;line-height:1}
+    .topo nav .ic{margin-right:0;width:16px;height:16px}
     .topo nav a,.btn{min-height:44px;min-width:44px;justify-content:center;padding:0 .55rem;font-size:14px;border-color:transparent;background:transparent;letter-spacing:.04em}
     .topo nav a.sec{display:inline-flex}
     .topo nav #abre-indice{order:9;border-color:#3a3733;background:rgba(20,19,17,.7);color:#e9e6e0}
-    .anos{padding:0 max(.5rem,env(safe-area-inset-right)) 0 max(.5rem,env(safe-area-inset-left));gap:.3rem;-webkit-overflow-scrolling:touch;scroll-padding:0 2rem}
-    .anos.mais-d{-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent);mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent)}
-    .anos.mais-e{-webkit-mask-image:linear-gradient(to right,transparent,#000 34px);mask-image:linear-gradient(to right,transparent,#000 34px)}
-    .anos.mais-d.mais-e{-webkit-mask-image:linear-gradient(to right,transparent,#000 34px,#000 calc(100% - 34px),transparent);mask-image:linear-gradient(to right,transparent,#000 34px,#000 calc(100% - 34px),transparent)}
+    .anos{padding:0 max(.6rem,env(safe-area-inset-right)) 0 max(.6rem,env(safe-area-inset-left));gap:.6rem}
     .anos .rot,.anos .tot{display:none}
-    .anos button{min-height:44px;min-width:48px;padding:0 .85rem;font-size:14px;border-radius:22px;flex:0 0 auto}
+    .anos .todos{min-height:44px;min-width:48px;padding:0 .8rem;font-size:14px;border-radius:22px;flex:0 0 auto}
+    .reg{--th:22px;height:62px}
+    .reg input{height:44px}
+    .reg .marcas{top:38px;height:22px}
+    .reg .marcas button{font-size:14px;padding:2px 1px}
+    .reg .marcas button::before{top:-4px}
+    .reg .marcas .lg{display:none}
+    .reg .marcas .ct{display:inline}
     .zoom{left:max(.5rem,env(safe-area-inset-left))}
     .zoom button{width:44px;height:44px}
     .ph .fecha,#indice .fecha,#bv button{width:44px;height:44px}
@@ -129,6 +171,8 @@
     #indice{padding-left:env(safe-area-inset-left)}
     .lista{padding-bottom:calc(1.2rem + env(safe-area-inset-bottom));padding-right:max(1rem,env(safe-area-inset-right))}
     .leg{display:none}
+    .m-bh{stroke-width:22px}
+    .ph .cruz button{min-height:44px;font-size:14px;padding:0 .8rem}
     .pt{fill:rgba(217,212,200,.32)}
     .pt.sel{fill:rgba(255,255,255,.75)}
     .m-rot{font-size:12px}
@@ -163,17 +207,17 @@
   <a class="marca" href="index.html">AreYouSyrious</a>
   <h1>Map</h1>
   <nav>
-    <button class="btn" id="abre-indice" type="button" aria-controls="indice" aria-expanded="false">Index</button>
-    <a class="sec" href="index.html">Archive</a>
-    <a class="sec" href="timeline.html">Timeline</a>
-    <a class="sec" href="tour/">Tour</a>
+    <button class="btn" id="abre-indice" type="button" aria-controls="indice" aria-expanded="false"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M5 4h9M5 8h9M5 12h9"/><circle cx="2" cy="4" r=".6"/><circle cx="2" cy="8" r=".6"/><circle cx="2" cy="12" r=".6"/></svg><span>Index</span></button>
+    <a class="sec" href="index.html"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect x="1.5" y="2.5" width="13" height="3.5" rx=".6"/><path d="M2.5 6v7.5h11V6M6.5 9h3"/></svg><span>Archive</span></a>
+    <a class="sec" href="timeline.html"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M1.5 8h13"/><circle class="oc" cx="4" cy="8" r="1.6"/><circle class="oc" cx="8.5" cy="8" r="1.6"/><circle cx="12.5" cy="8" r="1.6"/></svg><span>Timeline</span></a>
+    <a class="sec" href="tour/"><svg class="ic" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect x="1.5" y="3" width="13" height="10" rx="1.2"/><path d="M6.5 5.8v4.4L10.3 8z" class="ch"/></svg><span>Tour</span></a>
   </nav>
 </header>
 <div class="anos" id="anos" role="group" aria-label="Filter by year"><span class="rot">Year</span></div>
 <main class="campo" id="campo">
   <svg id="mapa" role="img" aria-label="Map of Europe and the Mediterranean with every place named in the archive"></svg>
   <div class="zoom"><button id="z-mais" type="button" aria-label="Zoom in">+</button><button id="z-menos" type="button" aria-label="Zoom out">−</button></div>
-  <div class="leg"><i class="d"></i>place &nbsp;<i class="a"></i>only the country is named &nbsp;·&nbsp; size = number of posts &nbsp;·&nbsp; <i class="r"></i>fenced borders</div>
+  <div class="leg"><i class="d"></i>place &nbsp;<i class="a"></i>only the country is named &nbsp;·&nbsp; size = number of posts &nbsp;·&nbsp; <i class="r"></i>fenced borders &nbsp;·&nbsp; click a border for its crossings</div>
   <div id="bv" hidden><span id="bv-txt"></span><button type="button" aria-label="Dismiss">×</button></div>
   <aside id="indice" aria-label="Index of places">
     <div class="ih"><input id="busca" type="search" placeholder="Search a place" autocomplete="off" aria-label="Search a place"><button class="fecha" type="button" aria-label="Close index">×</button></div>
@@ -184,6 +228,7 @@
       <button class="fecha" type="button" aria-label="Close">×</button>
       <h2 id="p-nome"></h2>
       <div class="sub" id="p-sub"></div>
+      <div class="cruz" id="p-cruz"></div>
       <div class="lin"><label class="sub" for="p-ano">Year</label><select id="p-ano"></select><button class="btn" id="p-link" type="button">Copy link</button></div>
     </div>
     <div class="lista" id="p-lista" tabindex="-1"></div>
@@ -216,7 +261,7 @@
   const cont = l => ano ? (l.cy[ano] || 0) : l.c;
 
   /* ---- desenho do mapa (mesmas camadas do tour: fronteiras como traço principal) ---- */
-  const gTerra = sv('g', {}, svg), gLin = sv('g', {}, svg), gCerca = sv('g', {}, svg), gEncl = sv('g', {}, svg), gNomes = sv('g', {}, svg), gPts = sv('g', {}, svg), gRot = sv('g', {}, svg);
+  const gTerra = sv('g', {}, svg), gLin = sv('g', {}, svg), gCerca = sv('g', {}, svg), gEncl = sv('g', {}, svg), gNomes = sv('g', {}, svg), gBord = sv('g', {}, svg), gPts = sv('g', {}, svg), gRot = sv('g', {}, svg);
   sv('path', { d: M.terra, class: 'm-terra' }, gTerra);
   const cercas = [];
   for (const l of M.lin) {
@@ -242,6 +287,78 @@
     l._el = c;
     l._rot = sv('text', { class: 'rotulo' }, gRot); l._rot.textContent = l.n;
   }
+  /* ---- fronteiras clicáveis: cada par de países (Natural Earth) e os enclaves; os posts são os dos pontos de travessia dela ---- */
+  const PAIS = { AFG: 'Afghanistan', ALB: 'Albania', AND: 'Andorra', ARE: 'United Arab Emirates', ARM: 'Armenia', AUT: 'Austria', AZE: 'Azerbaijan', BEL: 'Belgium',
+    BGR: 'Bulgaria', BIH: 'Bosnia and Herzegovina', BLR: 'Belarus', CHE: 'Switzerland', CYN: 'Northern Cyprus', CYP: 'Cyprus', CZE: 'Czechia', DEU: 'Germany',
+    DNK: 'Denmark', DZA: 'Algeria', EGY: 'Egypt', ESP: 'Spain', EST: 'Estonia', FIN: 'Finland', FRA: 'France', GBR: 'United Kingdom', GEO: 'Georgia', GRC: 'Greece',
+    HRV: 'Croatia', HUN: 'Hungary', IRL: 'Ireland', IRN: 'Iran', IRQ: 'Iraq', ISR: 'Israel', ITA: 'Italy', JOR: 'Jordan', KAZ: 'Kazakhstan', KOS: 'Kosovo',
+    KWT: 'Kuwait', LBN: 'Lebanon', LBY: 'Libya', LIE: 'Liechtenstein', LTU: 'Lithuania', LUX: 'Luxembourg', LVA: 'Latvia', MAR: 'Morocco', MCO: 'Monaco',
+    MDA: 'Moldova', MKD: 'North Macedonia', MLI: 'Mali', MNE: 'Montenegro', MRT: 'Mauritania', NER: 'Niger', NLD: 'Netherlands', NOR: 'Norway', OMN: 'Oman',
+    PAK: 'Pakistan', POL: 'Poland', PRT: 'Portugal', PSX: 'Palestine', QAT: 'Qatar', ROU: 'Romania', RUS: 'Russia', SAH: 'Western Sahara', SAU: 'Saudi Arabia',
+    SDN: 'Sudan', SMR: 'San Marino', SRB: 'Serbia', SVK: 'Slovakia', SVN: 'Slovenia', SWE: 'Sweden', SYR: 'Syria', TCD: 'Chad', TKM: 'Turkmenistan', TUN: 'Tunisia',
+    TUR: 'Turkey', UKR: 'Ukraine', UZB: 'Uzbekistan', YEM: 'Yemen' };
+  const ISO = Object.fromEntries(Object.entries(PAIS).map(([k, v]) => [v, k]));
+  const pontos = d => {                                  // M/L absolutos e m/l relativos, como gera script/monta_mapa.py
+    const out = []; let x = 0, y = 0, c = 'M';
+    const t = d.match(/[MLml]|-?[\d.]+/g) || [];
+    for (let i = 0; i < t.length;) {
+      if (/[MLml]/.test(t[i])) c = t[i++];
+      const a = +t[i++], b = +t[i++];
+      if (c === 'M' || c === 'L') { x = a; y = b; } else { x += a; y += b; }
+      out.push([x, y]); if (c === 'M') c = 'L'; else if (c === 'm') c = 'l';
+    }
+    return out;
+  };
+  const BORD = {}, bordas = [];
+  for (const l of M.lin) {
+    const b = BORD[l.p] ||= { id: l.p, ds: [], pts: [], cerca: M.cercas[l.p] || 0 };
+    b.ds.push(l.d); b.pts.push(...pontos(l.d));
+  }
+  for (const n in M.extra) {
+    const id = 'ESP-MAR-' + n.toLowerCase();
+    BORD[id] = { id, ds: [M.extra[n].d], pts: pontos(M.extra[n].d), cerca: M.extra[n].ano, encl: n, cruz: porId[n.toLowerCase()] ? [porId[n.toLowerCase()]] : [] };
+  }
+  for (const b of Object.values(BORD)) {
+    const [a, c] = b.id.split('-');
+    b.n = b.encl ? `${b.encl} · Spain – Morocco` : `${PAIS[a] || a} – ${PAIS[c] || c}`;
+    b.cruz ||= [];
+    const xs = b.pts.map(p => p[0]), ys = b.pts.map(p => p[1]);
+    b.bx = [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)];
+    b.nn = norm(b.n);
+    bordas.push(b);
+  }
+  // cada ponto de travessia vai para a fronteira mais próxima entre as do seu país
+  for (const l of L) if (l.t === 'fronteira') {
+    const iso = ISO[l.p], x = px(l.x), y = py(l.y); let melhor = null, dm = Infinity;
+    for (const b of bordas) {
+      if (b.encl || !b.id.split('-').includes(iso)) continue;
+      for (const d0 of b.ds) {                           // distância ao segmento, não ao vértice: perto de um ponto triplo os vértices enganam
+        const q = pontos(d0);
+        for (let i = 1; i < q.length; i++) {
+          const [ax, ay] = q[i - 1], vx = q[i][0] - ax, vy = q[i][1] - ay, t = Math.max(0, Math.min(1, ((x - ax) * vx + (y - ay) * vy) / (vx * vx + vy * vy || 1)));
+          const d = (ax + t * vx - x) ** 2 + (ay + t * vy - y) ** 2; if (d < dm) { dm = d; melhor = b; }
+        }
+      }
+    }
+    if (melhor && dm < (1.5 * M.kx) ** 2) melhor.cruz.push(l);
+  }
+  for (const b of bordas) {
+    b.cruz.sort((p, q) => q.c - p.c);
+    const m = new Map();                                 // posts dos pontos, sem repetir; junta as fotos
+    for (const l of b.cruz) for (const e of l.pp) { const o = m.get(e[0]); if (!o) m.set(e[0], [...e]); else for (const f of e.slice(1)) if (o.length < 4 && !o.includes(f)) o.push(f); }
+    b.pp = [...m.values()].sort((p, q) => p[0] - q[0]);
+    b.c = b.pp.length; b.cy = {}; for (const e of b.pp) b.cy[anoPost[e[0]]] = (b.cy[anoPost[e[0]]] || 0) + 1;
+    const ativa = b.cruz.length || b.cerca;              // só as que têm algo a dizer entram no Tab
+    const g = sv('g', { class: 'm-b', 'data-b': b.id, role: 'button', 'aria-label': `${b.n} border`, ...(ativa ? { tabindex: 0 } : {}) }, gBord);
+    const d = b.ds.join(' ');
+    sv('path', { d, class: 'm-bh' }, g); sv('path', { d, class: 'm-bv' }, g);
+    sv('title', {}, g).textContent = b.n + (b.cruz.length ? ` · ${b.cruz.length} crossing point${b.cruz.length > 1 ? 's' : ''}` : '');
+    b._el = g;
+  }
+  const porB = Object.fromEntries(bordas.map(b => [b.id, b]));
+  const contB = b => ano ? (b.cy[ano] || 0) : b.c;
+  let selB = null;
+
   const acendeCercas = () => {
     const a = ano || 9999;
     cercas.forEach(e => e.classList.toggle('on', +e.dataset.ano <= a));
@@ -367,7 +484,7 @@
   svg.addEventListener('pointerdown', e => {
     svg.setPointerCapture(e.pointerId);
     ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
-    if (ptrs.size === 1) down = { x: e.clientX, y: e.clientY, alvo: e.target.closest && e.target.closest('.pt'), mov: 0 };
+    if (ptrs.size === 1) down = { x: e.clientX, y: e.clientY, alvo: e.target.closest && e.target.closest('.pt, .m-b'), mov: 0 };
     if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinca = { d: Math.hypot(a.x - b.x, a.y - b.y), w: view.w }; down = null; }
     cancelAnimationFrame(voa.raf);
   });
@@ -388,7 +505,7 @@
     ptrs.delete(e.pointerId); svg.classList.remove('arrasta');
     if (ptrs.size < 2) pinca = null;
     if (e.type === 'pointerup' && down && down.mov <= 6 && ptrs.size === 0) {
-      if (down.alvo) abre(down.alvo.dataset.id, false);
+      if (down.alvo) down.alvo.dataset.b ? abreB(down.alvo.dataset.b, false) : abre(down.alvo.dataset.id, false);
       else if (sel === null) escondeBoasVindas();
     }
     if (ptrs.size === 0) down = null;
@@ -404,22 +521,38 @@
   svg.addEventListener('wheel', e => { e.preventDefault(); cancelAnimationFrame(voa.raf); zoomEm(e.clientX, e.clientY, view.w * Math.exp(e.deltaY * (e.deltaMode ? 0.05 : 0.0015))); }, { passive: false });
   $('z-mais').onclick = () => voa({ ...view, w: Math.max(wMin(), view.w / 1.6) }, 250);
   $('z-menos').onclick = () => voa({ ...view, w: Math.min(wMax(), view.w * 1.6) }, 250);
-  svg.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset && e.target.dataset.id) { e.preventDefault(); abre(e.target.dataset.id, false); } });
+  svg.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset && (e.target.dataset.id || e.target.dataset.b)) { e.preventDefault(); e.target.dataset.b ? abreB(e.target.dataset.b, false) : abre(e.target.dataset.id, false); } });
   addEventListener('resize', aplica);
 
   /* ---- filtro por ano ---- */
   const chips = $('anos');
-  const mkChip = (txt, v) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = txt; b.dataset.ano = v ?? ''; b.setAttribute('aria-pressed', 'false'); b.onclick = () => defineAno(v); chips.appendChild(b); return b; };
-  mkChip('All', null); ANOS.forEach(a => mkChip(a, a));
+  const bTodos = document.createElement('button'); bTodos.type = 'button'; bTodos.className = 'todos'; bTodos.textContent = 'All'; bTodos.dataset.ano = '';
+  bTodos.setAttribute('aria-pressed', 'false'); bTodos.onclick = () => defineAno(null); chips.appendChild(bTodos);
+  const reg = document.createElement('div'); reg.className = 'reg livre';
+  const rng = document.createElement('input'); rng.type = 'range'; rng.min = ANOS[0]; rng.max = ANOS[ANOS.length - 1]; rng.step = 1; rng.value = rng.max;
+  rng.setAttribute('aria-label', 'Year');
+  const marcas = document.createElement('div'); marcas.className = 'marcas';
+  const A0 = ANOS[0], NA = ANOS[ANOS.length - 1] - A0 || 1;
+  const posAno = a => `calc(var(--th) / 2 + ${(a - A0) / NA} * (100% - var(--th)))`;   // o centro do polegar em cada ano
+  for (const a of ANOS) {
+    const b = document.createElement('button'); b.type = 'button'; b.dataset.ano = a; b.setAttribute('aria-label', a);
+    b.innerHTML = `<span class="lg">${a}</span><span class="ct">${String(a).slice(2)}</span>`;   // celular: 16 a 25, em 14 px
+    b.tabIndex = -1;                                     // o teclado usa o slider (setas)
+    b.setAttribute('aria-pressed', 'false'); b.style.left = posAno(a); b.onclick = () => defineAno(a); marcas.appendChild(b);
+  }
+  reg.append(rng, marcas); chips.appendChild(reg);
+  const doSlider = () => { if (+rng.value !== ano) defineAno(+rng.value); };   // change: tocar no polegar parado em 2025 com "All" ativo também filtra
+  rng.addEventListener('input', doSlider); rng.addEventListener('change', doSlider);
   const tot = document.createElement('span'); tot.className = 'tot'; chips.appendChild(tot);
-  const indicaMais = () => { chips.classList.toggle('mais-e', chips.scrollLeft > 4); chips.classList.toggle('mais-d', chips.scrollLeft + chips.clientWidth < chips.scrollWidth - 4); };
-  chips.addEventListener('scroll', indicaMais, { passive: true }); addEventListener('resize', indicaMais);
   function defineAno(a, hash = true) {
     ano = a;
     chips.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.ano === '' ? null : +b.dataset.ano) === ano)));
     acendeCercas(); aplica(); atualizaIndice(); atualizaTotais();
-    const ch = chips.querySelector('[aria-pressed=true]'); if (ch && compacto()) { const r = ch.getBoundingClientRect(), c0 = chips.getBoundingClientRect(); if (r.left < c0.left + 30 || r.right > c0.right - 30) chips.scrollBy({ left: r.left - c0.left - (c0.width - r.width) / 2, behavior: semMov ? 'auto' : 'smooth' }); }
-    if (sel) { montaPainel(false); }
+    reg.classList.toggle('livre', !ano);
+    if (ano) rng.value = ano;
+    rng.setAttribute('aria-valuetext', ano ? String(ano) : 'All years');
+    rng.style.setProperty('--f', ano ? `calc(var(--th) / 2 + ${(ano - A0) / NA} * (100% - var(--th)))` : '0%');
+    if (sel || selB) { montaPainel(false); }
     if (hash) fazHash();
   }
   function atualizaTotais() {
@@ -465,6 +598,8 @@
     }
   }
   function montaPainel(rolaTopo) {
+    if (selB) return montaPainelB(rolaTopo);
+    $('p-cruz').textContent = '';
     const l = byId(sel); if (!l) return;
     lista = l.pp.filter(e => !ano || anoPost[e[0]] === ano);       // já em ordem cronológica
     $('p-nome').textContent = l.n;
@@ -479,12 +614,47 @@
     maisLinhas();
     if (rolaTopo) box.scrollTop = 0;
   }
+  function montaPainelB(rolaTopo) {
+    const b = porB[selB]; if (!b) return;
+    lista = b.pp.filter(e => !ano || anoPost[e[0]] === ano);
+    const n = lista.length, k = b.cruz.length;
+    $('p-nome').textContent = b.n;
+    const partes = [b.encl ? 'enclave border' : 'border'];
+    if (b.cerca) partes.push(`fenced since ${b.cerca}`);
+    if (k) partes.push(`${n.toLocaleString('en-US')} post${n === 1 ? '' : 's'}${ano ? ' in ' + ano : ''} naming ${b.encl ? 'it' : `its ${k === 1 ? 'crossing point' : k + ' crossing points'}`}`);
+    $('p-sub').textContent = partes.join(' · ');
+    const cz = $('p-cruz'); cz.textContent = '';
+    if (!b.encl) for (const l of b.cruz) {
+      const bt = document.createElement('button'); bt.type = 'button'; bt.textContent = l.n;
+      const sp = document.createElement('span'); sp.textContent = cont(l).toLocaleString('en-US'); bt.appendChild(sp);
+      bt.setAttribute('aria-label', `${l.n}, ${l.p}: ${cont(l)} posts`); bt.onclick = () => abre(l.id, true); cz.appendChild(bt);
+    }
+    const s = $('p-ano'); s.innerHTML = '';
+    s.add(new Option(`All years (${b.c})`, ''));
+    for (const a of ANOS) if (b.cy[a] || a === ano) s.add(new Option(`${a} (${b.cy[a] || 0})`, a));
+    s.value = ano ? String(ano) : '';
+    const box = $('p-lista'); box.textContent = ''; mostrados = 0;
+    if (!k) { box.innerHTML = '<p class="vazio">The archive names no crossing point on this border.</p>'; return; }
+    if (!n) { box.innerHTML = '<p class="vazio">No posts name its crossing points in the selected year.</p>'; return; }
+    maisLinhas();
+    if (rolaTopo) box.scrollTop = 0;
+  }
+  const marcaSel = () => { for (const x of L) x._el.classList.toggle('sel', x.id === sel); for (const b of bordas) b._el.classList.toggle('sel', b.id === selB); };
+  function abreB(id, doIndice) {
+    const b = porB[id]; if (!b) return;
+    sel = null; selB = id; marcaSel();
+    $('painel').classList.add('on'); montaPainelB(true);
+    if (folha()) $('indice').classList.remove('on'), $('abre-indice').setAttribute('aria-expanded', 'false');
+    escondeBoasVindas();
+    const [x0, y0, x1, y1] = b.bx, centro = { x: M.lon0 + (x0 + x1) / 2 / M.kx, y: M.lat1 - (y0 + y1) / 2 / M.ky };
+    centraliza(centro, doIndice ? Math.max(6, Math.min(30, (x1 - x0) / M.kx * 1.8, (y1 - y0) / M.ky * 2.4 + 4)) : null);
+    fazHash(); aplica();
+  }
   $('p-ano').onchange = e => defineAno(e.target.value ? +e.target.value : null);
   function abre(id, doIndice) {
     const l = byId(id); if (!l) return;
     if (ano && !l.cy[ano]) defineAno(null, false);
-    sel = id;
-    for (const x of L) x._el.classList.toggle('sel', x.id === id);
+    sel = id; selB = null; marcaSel();
     $('painel').classList.add('on'); montaPainel(true);
     if (folha()) $('indice').classList.remove('on'), $('abre-indice').setAttribute('aria-expanded', 'false');
     escondeBoasVindas();
@@ -492,7 +662,7 @@
     fazHash(); aplica();
   }
   function fecha() {
-    sel = null; $('painel').classList.remove('on'); L.forEach(x => x._el.classList.remove('sel')); fazHash(); aplica();
+    sel = null; selB = null; $('painel').classList.remove('on'); marcaSel(); $('p-cruz').textContent = ''; fazHash(); aplica();
   }
   $('painel').querySelector('.fecha').onclick = fecha;
   $('p-link').onclick = () => {
@@ -500,7 +670,7 @@
     (navigator.clipboard && navigator.clipboard.writeText ? navigator.clipboard.writeText(u0) : Promise.reject()).then(() => b.textContent = 'Copied', () => b.textContent = 'Press ⌘/Ctrl+C on the address bar');
     setTimeout(() => b.textContent = 'Copy link', 2200);
   };
-  addEventListener('keydown', e => { if (e.key === 'Escape') { if ($('indice').classList.contains('on')) fechaIndice(); else if (sel) fecha(); } });
+  addEventListener('keydown', e => { if (e.key === 'Escape') { if ($('indice').classList.contains('on')) fechaIndice(); else if (sel || selB) fecha(); } });
 
   /* ---- índice em lista: alfabético, por país ---- */
   const corpo = $('indice-corpo');
@@ -508,6 +678,16 @@
   for (const l of L) (grupos[l.t === 'mar' || l.p === '-' ? 'Seas' : l.p] ||= []).push(l);
   const nomesGrupo = Object.keys(grupos).sort((a, b) => a === 'Seas' ? 1 : b === 'Seas' ? -1 : a.localeCompare(b));
   const itens = [];
+  const itensB = [];
+  {
+    const h = document.createElement('h3'); h.textContent = 'Borders'; const ul = document.createElement('ul'); corpo.append(h, ul);
+    for (const b of bordas.filter(b => b.cruz.length || b.cerca).sort((p, q) => p.n.localeCompare(q.n))) {
+      const li = document.createElement('li'), bt = document.createElement('button'); bt.type = 'button'; bt.dataset.b = b.id;
+      bt.innerHTML = '<b style="font-weight:400"></b><span></span>'; bt.firstChild.textContent = b.n + (b.cerca ? ' (fenced)' : '');
+      bt.onclick = () => abreB(b.id, true);
+      li.appendChild(bt); ul.appendChild(li); itensB.push({ b, li, n: bt.lastChild, h });
+    }
+  }
   for (const g of nomesGrupo) {
     const h = document.createElement('h3'); h.textContent = g; const ul = document.createElement('ul');
     corpo.append(h, ul);
@@ -526,7 +706,11 @@
       const c = cont(it.l), vis = c > 0 && (!q || it.l.nn.includes(q) || norm(it.l.p).includes(q));
       it.li.classList.toggle('so', !vis); it.n.textContent = c.toLocaleString('en-US'); if (vis) achou++;
     }
-    const gs = new Set(itens.filter(i => !i.li.classList.contains('so')).map(i => i.h));
+    for (const it of itensB) {                         // fronteiras: sempre listadas (a cerca vale mesmo sem posts no ano)
+      const vis = !q || it.b.nn.includes(q) || it.b.cruz.some(l => l.nn.includes(q));
+      it.li.classList.toggle('so', !vis); it.n.textContent = contB(it.b).toLocaleString('en-US'); if (vis) achou++;
+    }
+    const gs = new Set([...itens, ...itensB].filter(i => !i.li.classList.contains('so')).map(i => i.h));
     corpo.querySelectorAll('h3').forEach(h => { h.style.display = gs.has(h) ? '' : 'none'; });
     nada.hidden = achou > 0;
   }
@@ -534,14 +718,14 @@
   function fechaIndice() { $('indice').classList.remove('on'); $('abre-indice').setAttribute('aria-expanded', 'false'); }
   $('abre-indice').onclick = () => {
     const on = $('indice').classList.toggle('on'); $('abre-indice').setAttribute('aria-expanded', String(on));
-    if (on) { if (folha()) $('painel').classList.remove('on'); setTimeout(() => $('busca').focus({ preventScroll: true }), 50); } else if (sel) $('painel').classList.add('on');
+    if (on) { if (folha()) $('painel').classList.remove('on'); setTimeout(() => $('busca').focus({ preventScroll: true }), 50); } else if (sel || selB) $('painel').classList.add('on');
   };
-  $('indice').querySelector('.fecha').onclick = () => { fechaIndice(); if (sel) $('painel').classList.add('on'); };
+  $('indice').querySelector('.fecha').onclick = () => { fechaIndice(); if (sel || selB) $('painel').classList.add('on'); };
 
   /* ---- URL compartilhável: #lugar=idomeni&ano=2016 ---- */
   let travaHash = false;
   function fazHash() {
-    const p = []; if (sel) p.push('lugar=' + sel); if (ano) p.push('ano=' + ano);
+    const p = []; if (sel) p.push('lugar=' + sel); if (selB) p.push('fronteira=' + selB); if (ano) p.push('ano=' + ano);
     const h = p.join('&'); travaHash = true;
     try { history.replaceState(null, '', location.pathname + location.search + (h ? '#' + h : '')); } catch (e) { location.hash = h; }
     setTimeout(() => { travaHash = false; }, 0);
@@ -550,7 +734,10 @@
     const q = new URLSearchParams(location.hash.slice(1));
     const a = +q.get('ano'); defineAno(a && ANOS.includes(a) ? a : null, false);
     const id = q.get('lugar');
-    if (id && porId[id]) abre(id, true); else if (sel) { sel = null; $('painel').classList.remove('on'); L.forEach(x => x._el.classList.remove('sel')); }
+    const fb = q.get('fronteira');
+    if (id && porId[id]) abre(id, true);
+    else if (fb && porB[fb]) abreB(fb, true);
+    else if (sel || selB) { sel = null; selB = null; $('painel').classList.remove('on'); marcaSel(); }
   }
   addEventListener('hashchange', () => { if (!travaHash) lerHash(); });
 
@@ -566,9 +753,9 @@
     setTimeout(escondeBoasVindas, 14000);
   } else $('veu').remove();
 
-  view = vistaInicial(); indicaMais(); acendeCercas(); atualizaIndice(); atualizaTotais();
+  view = vistaInicial(); acendeCercas(); atualizaIndice(); atualizaTotais();
   lerHash(); aplica();
-  window.aysMapa = { lugares: () => L.map(l => ({ id: l.id, n: l.n, x: l.x, y: l.y, c: l.c })), abre: id => abre(id, false), ano: a => defineAno(a), vista: () => ({ ...view }), quadro: () => ({ w: M.w, h: M.h }), selecionado: () => sel };
+  window.aysMapa = { lugares: () => L.map(l => ({ id: l.id, n: l.n, x: l.x, y: l.y, c: l.c })), abre: id => abre(id, false), ano: a => defineAno(a), vista: () => ({ ...view }), quadro: () => ({ w: M.w, h: M.h }), selecionado: () => sel, fronteira: () => selB, fronteiras: () => bordas.map(b => ({ id: b.id, n: b.n, encl: b.encl || null, cerca: b.cerca, cruz: b.cruz.map(l => l.id), c: b.c })), abreFronteira: id => abreB(id, false) };
 })();
 </script>
 </body>

@@ -54,7 +54,7 @@ describe("alvos de toque (>= 44 px) nos menus e controles", () => {
     ["timeline.html", ".top-links a, .top-links button, footer a"],
     [POST, ".top-links a, .top-links button, .back-link"],
     ["images.html", ".top-links a, .top-links button, .btn, footer a"],
-    ["map.html", ".topo nav a, .topo nav button, #anos button, .zoom button"],
+    ["map.html", ".topo nav a, .topo nav button, #anos .todos, #anos input, .zoom button"],
   ];
   for (const [nome, nav, ctx] of AP) for (const [pagina, sel] of CASOS) {
     test(`${nome}: ${pagina}`, async () => {
@@ -115,19 +115,22 @@ describe("mapa no celular", () => {
     });
   }
 
-  test("a barra de anos rola e indica que há mais dos dois lados (máscara nas bordas)", async () => {
-    const { pg, fecha } = await abre(wk, { ...devices["iPhone 13"] }, "map.html", "#anos button");
+  test("a barra de anos é um slider que cabe na tela: arrastar e tocar num ano filtram, All volta a todos", async () => {
+    const { pg, fecha } = await abre(wk, { ...devices["iPhone 13"] }, "map.html", "#anos input[type=range]");
     try {
-      const g = () => ev<any>(pg, `({ d: anos.classList.contains('mais-d'), e: anos.classList.contains('mais-e'), x: anos.scrollLeft, mask: getComputedStyle(anos).webkitMaskImage || getComputedStyle(anos).maskImage })`);
-      let r = await g(); expect(r.d).toBe(true); expect(r.e).toBe(false); expect(r.mask).toContain("gradient");
-      await ev(pg, `anos.scrollTo(150, 0)`); await pg.waitForTimeout(300);
-      r = await g(); expect(r.d).toBe(true); expect(r.e).toBe(true);
-      await ev(pg, `anos.scrollTo(9999, 0)`); await pg.waitForTimeout(300);
-      r = await g(); expect(r.d).toBe(false); expect(r.e).toBe(true);
-      // tocar num ano do fim da barra filtra e o botão fica à vista
-      await pg.locator("#anos button", { hasText: "2025" }).tap(); await pg.waitForTimeout(500);
-      expect(await ev(pg, `aysMapa.ano ? true : false`)).toBe(true);
-      expect(await ev<boolean>(pg, `(() => { const b = anos.querySelector('[aria-pressed=true]').getBoundingClientRect(); return b.left >= 0 && b.right <= innerWidth; })()`)).toBe(true);
+      const r = await ev<any>(pg, `(() => { const b = anos.getBoundingClientRect(), m = [...anos.querySelectorAll('.marcas button')].map(x => x.getBoundingClientRect());
+        return { sw: anos.scrollWidth <= anos.clientWidth + 1, l: Math.min(...m.map(x => x.left)), rr: Math.max(...m.map(x => x.right)), W: innerWidth, n: m.length } })()`);
+      expect(r.sw, "sem rolagem lateral").toBe(true);
+      expect(r.n).toBe(10); expect(r.l).toBeGreaterThanOrEqual(0); expect(r.rr).toBeLessThanOrEqual(r.W);
+      const b = await pg.locator("#anos input").boundingBox();
+      await pg.touchscreen.tap(b!.x + 10, b!.y + b!.height / 2); await pg.waitForTimeout(400);   // perto do começo do trilho
+      expect(await ev(pg, `aysMapa.selecionado() === null && document.querySelector('#anos .marcas [aria-pressed=true]')?.dataset.ano`)).toBe("2016");
+      await pg.locator('#anos .marcas button[data-ano="2025"]').tap(); await pg.waitForTimeout(400);
+      expect(await ev(pg, `anos.querySelector('input').value`)).toBe("2025");
+      expect(await ev(pg, `location.hash`)).toContain("ano=2025");
+      await pg.locator("#anos .todos").tap(); await pg.waitForTimeout(400);
+      expect(await ev(pg, `anos.querySelector('.todos').getAttribute('aria-pressed')`)).toBe("true");
+      expect(await ev(pg, `location.hash`)).not.toContain("ano=");
     } finally { await fecha(); }
   });
 

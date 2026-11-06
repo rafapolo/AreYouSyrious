@@ -46,7 +46,7 @@ describe("a página do mapa", () => {
       await pg.waitForSelector("circle.pt");
       const r = await ev<any>(pg, `(() => { const q = window.aysMapa.quadro(); const c = [...document.querySelectorAll('circle.pt')];
         return { n: c.length, fora: c.filter(e => { const x = +e.getAttribute('cx'), y = +e.getAttribute('cy'); return !(x >= 0 && x <= q.w && y >= 0 && y <= q.h); }).length,
-          anos: [...document.querySelectorAll('#anos button')].map(b => b.textContent), links: [...document.querySelectorAll('.topo a')].map(a => a.textContent) } })()`);
+          anos: [...document.querySelectorAll('#anos button')].map(b => b.dataset.ano || b.textContent), links: [...document.querySelectorAll('.topo a')].map(a => a.textContent) } })()`);
       expect(r.n).toBeGreaterThan(300);
       expect(r.fora).toBe(0);
       expect(r.anos).toContain("2016"); expect(r.anos).toContain("2025");
@@ -127,6 +127,59 @@ describe("a página do mapa", () => {
       await pg.locator("#indice-corpo li:not(.so) button", { hasText: /^Biha/ }).first().click();
       await espera(pg, `document.getElementById('painel').classList.contains('on')`, 5000);
       expect(await pg.locator("#p-nome").innerText()).toMatch(/^Biha/);
+    } finally { await fecha(); }
+  });
+
+  test("as fronteiras são clicáveis: cada ponto de travessia cai na fronteira certa e o painel mostra cerca, pontos e posts", async () => {
+    const { pg, erros, fecha } = await abre(cr, url("map.html"));
+    try {
+      await pg.waitForSelector("circle.pt");
+      const fr = Object.fromEntries((await ev<any[]>(pg, `aysMapa.fronteiras()`)).map((b) => [b.id, b]));
+      const esperado: Record<string, string[]> = { "HUN-SRB": ["horgos", "roszke", "kelebija", "tompa"], "GRC-MKD": ["idomeni", "gevgelija"],
+        "HRV-SRB": ["sid", "tovarnik"], "GRC-TUR": ["pazarkule", "kastanies"], "FRA-ITA": ["ventimiglia"], "BLR-POL": ["bruzgi", "kuznica", "usnarz-gorny"],
+        "AUT-SVN": ["spielfeld"], "CHE-ITA": ["chiasso"], "POL-UKR": ["medyka"], "BLR-LTU": ["medininkai"] };
+      for (const [id, cruz] of Object.entries(esperado)) expect(new Set(fr[id].cruz), id).toEqual(new Set(cruz));
+      expect(Object.values(fr).reduce((n: number, b: any) => n + (b.encl ? 0 : b.cruz.length), 0)).toBe(20);   // todo ponto de travessia tem fronteira
+      // clicar no meio da linha Hungria–Sérvia abre o painel da fronteira
+      await ev(pg, `location.hash = '#fronteira=HUN-SRB'`); await pg.waitForTimeout(900);   // pelo endereço: com zoom na fronteira
+      await ev(pg, `document.querySelector('#painel .fecha').click()`); await pg.waitForTimeout(300);
+      // um trecho da linha que não esteja sob um ponto ou um nome
+      const p = await ev<any>(pg, `(() => { const g = document.querySelector('.m-b[data-b="HUN-SRB"] .m-bh'), L = g.getTotalLength(), m = g.getScreenCTM();
+        for (let f = .05; f < 1; f += .05) { const q = g.getPointAtLength(L * f), x = q.x * m.a + m.e, y = q.y * m.d + m.f, e = document.elementFromPoint(x, y);
+          if (e && e.closest('.m-b[data-b="HUN-SRB"]')) return { x, y }; } return null; })()`);
+      expect(p).not.toBeNull();
+      await pg.mouse.click(p.x, p.y); await pg.waitForTimeout(500);
+      expect(await ev(pg, `aysMapa.fronteira()`)).toBe("HUN-SRB");
+      expect(await pg.locator("#p-nome").innerText()).toBe("Hungary – Serbia");
+      expect(await pg.locator("#p-sub").innerText()).toContain("fenced since 2016");
+      expect(await pg.locator("#p-cruz button").count()).toBe(4);
+      expect(await ev(pg, `location.hash`)).toBe("#fronteira=HUN-SRB");
+      const datas = await pg.locator("#p-lista time").evaluateAll((ts) => ts.map((t) => (t as HTMLTimeElement).dateTime));
+      expect(datas.length).toBe(25); expect([...datas].sort()).toEqual(datas);
+      // filtro por ano vale para a fronteira; um ponto de travessia abre o lugar
+      await pg.locator('#anos .marcas button[data-ano="2016"]').click(); await pg.waitForTimeout(300);
+      const anos = await pg.locator("#p-lista time").evaluateAll((ts) => ts.map((t) => (t as HTMLTimeElement).dateTime.slice(0, 4)));
+      expect(new Set(anos)).toEqual(new Set(["2016"]));
+      await pg.locator("#p-cruz button", { hasText: "Röszke" }).click(); await pg.waitForTimeout(300);
+      expect(await ev(pg, `aysMapa.selecionado()`)).toBe("roszke");
+      expect(await ev(pg, `aysMapa.fronteira()`)).toBe(null);
+      expect(await pg.locator("#p-cruz button").count()).toBe(0);
+      // fronteira sem travessia nomeada: só o nome; Esc fecha
+      await ev(pg, `aysMapa.abreFronteira('DEU-POL')`); await pg.waitForTimeout(300);
+      expect(await pg.locator("#p-lista").innerText()).toContain("no crossing point");
+      await pg.keyboard.press("Escape");
+      expect(await ev(pg, `aysMapa.fronteira()`)).toBe(null);
+      expect(erros).toEqual([]);
+    } finally { await fecha(); }
+  });
+
+  test("#fronteira=ESP-MAR-ceuta abre o enclave, e o índice lista as fronteiras", async () => {
+    const { pg, fecha } = await abre(cr, url("map.html", "#fronteira=ESP-MAR-ceuta"));
+    try {
+      await espera(pg, `document.getElementById('painel').classList.contains('on')`, 5000);
+      expect(await pg.locator("#p-nome").innerText()).toBe("Ceuta · Spain – Morocco");
+      await pg.click("#abre-indice"); await pg.fill("#busca", "horgos");
+      expect(await pg.locator("#indice-corpo li:not(.so) button", { hasText: "Hungary – Serbia" }).count()).toBe(1);
     } finally { await fecha(); }
   });
 
