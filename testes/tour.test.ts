@@ -32,7 +32,7 @@ describe("dados", () => {
 
 describe("convite e começo", () => {
   test("?tour=1 mostra o convite sóbrio; nenhum AudioContext antes do gesto; o toque começa e o som nasce uma vez", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20"));
+    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20&fim=fica"));
     try {
       const conv = pg.locator("#ays-tour-convite");
       await conv.waitFor({ state: "visible" });
@@ -78,7 +78,7 @@ describe("convite e começo", () => {
 
 describe("o passeio", () => {
   test("as 33 cenas passam em ordem, o mapa aparece em cada episódio, a fronteira acende por ano e o fim devolve a página", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20"));
+    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=20&fim=fica"));
     try {
       await pg.locator("#ays-tour-convite").waitFor();
       await ev(pg, `window.scrollTo(0, 400)`);
@@ -128,7 +128,7 @@ describe("o passeio", () => {
   });
 
   test("com o som desligado em localStorage nenhum AudioContext nasce", async () => {
-    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=60"), { som: "off" });
+    const { pg, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=60&fim=fica"), { som: "off" });
     try {
       await pg.click("#ays-tour-convite button");
       expect(await ev(pg, `window.__audios`)).toBe(0);
@@ -137,7 +137,7 @@ describe("o passeio", () => {
   });
 
   test("prefers-reduced-motion: sem Ken Burns nem voo, cortes secos, e o passeio termina", async () => {
-    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=40"), { ctx: { reducedMotion: "reduce" } });
+    const { pg, erros, fecha } = await abre(cr, url("index.html", "?tour=1&rapido=40&fim=fica"), { ctx: { reducedMotion: "reduce" } });
     try {
       await pg.click("#ays-tour-convite button");
       await espera(pg, `window.aysTour.cena() >= 1`, 8000);
@@ -217,7 +217,7 @@ describe("celular (iPhone 13, webkit)", () => {
   });
 
   test("o toque começa o tour no celular e o AudioContext só nasce depois do gesto", async () => {
-    const { pg, fecha } = await abre(wk, url("index.html", "?tour=1&rapido=40"), { ctx: { ...devices["iPhone 13"] } });
+    const { pg, fecha } = await abre(wk, url("index.html", "?tour=1&rapido=40&fim=fica"), { ctx: { ...devices["iPhone 13"] } });
     try {
       await pg.locator("#ays-tour-convite").waitFor({ state: "visible" });
       expect(await ev(pg, `window.__audios`)).toBe(0);

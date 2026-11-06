@@ -405,8 +405,21 @@
       raiz.classList.add('fim');
       if (som) som.parar(true);
       await espera(SILENCIO_FINAL / RAPIDO);
+      // o fim natural leva ao mapa de todos os lugares; ?fim=fica (suíte) devolve a página, como o Esc
+      if (q0.get('fim') !== 'fica') { await vaiParaMapa(); return; }
       parar(true);
     } catch (e) { if (!(e instanceof Parado)) { console.error(e); parar(false); } }
+  }
+
+  /* fusão para o preto (a camada já está preta) e navegação; o mapa abre com ?de=tour e clareia a partir do preto */
+  async function vaiParaMapa() {
+    const preto = el('div'); preto.style.cssText = 'position:fixed;inset:0;z-index:100002;background:#000;opacity:0;transition:opacity ' + (900 / RAPIDO) + 'ms ease';
+    document.body.appendChild(preto);
+    requestAnimationFrame(() => requestAnimationFrame(() => { preto.style.opacity = '1'; }));
+    await espera(1000 / RAPIDO);
+    const alvo = new URL('../mapa/index.html', BASE || location.href);
+    alvo.searchParams.set('de', 'tour');
+    location.assign(alvo.href);
   }
 
   function parar(natural) {
