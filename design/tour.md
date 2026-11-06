@@ -61,11 +61,11 @@ O tour não é espetáculo.
 - Lugar: Idomeni [22.51, 41.13] (lon, lat). Trecho do post: Título "Idomeni Special" e "the improvised refugee camp in Idomeni, at the Greek — Macedonian border".
 
 **5. `idomeni-vagiochori`** · 2016-05-25 · Idomeni, Greece · 25 May 2016
-- Frase: "in part because refugees refused to go to the isolated Vagiochori camp" (70 caracteres, literal)
+- Frase: "6,138 refugees remained inside Idomeni after the first day of the evacuation, down from 8,199." (94 caracteres, literal)
 - Fonte: `posts/2016-05-26-ays-news-digest-idomeni-evacuation-continues-c62090d33878.md`
-- Número/fato e segunda via: Texto do post de 25/5 (resumo de 25.5.2016). Sem número.
-- Imagem `assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg`: Barracas do novo campo atrás de cerca de arame (legenda "New Vagiochori camp. Photo Credit: Giorgos Christides"). Crédito exibido: Giorgos Christides.
-- Lugar: Idomeni [22.51, 41.13] (lon, lat). Trecho do post: Legenda.
+- Número/fato e segunda via: "6,138 refugees ... down from 8,199" (post de 25/5). Segunda via: o post de 24/5 diz que o campo tinha "around 8,000 people" e que cerca de 2.000 saíram no primeiro dia (8.199 - 6.138 = 2.061).
+- Imagem `assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg`: Barracas do novo campo atrás de cerca de arame (legenda "New Vagiochori camp. Photo Credit: Giorgos Christides"). A frase original sobre Vagiochori foi trocada porque começava com "reportedly" (o corte tirava a ressalva). Crédito exibido: Giorgos Christides.
+- Lugar: Idomeni [22.51, 41.13] (lon, lat). Trecho do post: Legenda e seção "Idomeni Evacuation".
 
 
 ### Episódio 3
@@ -174,17 +174,17 @@ O tour não é espetáculo.
 - Lugar: Evros [26.36, 41.7] (lon, lat). Trecho do post: "in the Evros region and off the coast of Lesvos". Mapa: fronteira `GRC-TUR`, vista [26.3, 41.5, 5].
 
 **19. `edirne-tendas`** · 2020-03-11 · Edirne, Turkey · March 2020
-- Frase: "many people do not have any tents and got soaking wet when it rained the other night" (84 caracteres, literal)
+- Frase: "where approximately 9,000–20,000 people are stuck at the moment" (63 caracteres, literal)
 - Fonte: `posts/2020-03-12-ays-daily-digest-11-03-2020-updates-from-the-ground-in-edirne-5af5bc8d25db.md`
-- Número/fato e segunda via: Post de 11/3/2020. Mesmo post: "approximately 9,000–20,000 people are stuck", faixa larga, por isso o número não entrou.
+- Número/fato e segunda via: "approximately 9,000–20,000 people are stuck" (post de 11/3/2020): faixa larga mantida com o "approximately". A frase sobre tendas foi trocada porque começava com "According to the first information".
 - Imagem `assets/5af5bc8d25db/1*7AFxupMvH-KJ_bn55wXPBA.jpeg`: Barracas na areia à noite com uma figura embaçada ao longe. Crédito é do próprio AYS. Crédito de organização (não exibido): AYS.
 - Lugar: Edirne [26.56, 41.68] (lon, lat). Trecho do post: "News from Edirne camp ... at the Turkish-Greek border".
 
 **20. `moria-oliveiral`** · 2020-03-01 · Moria, Lesvos · March 2020
 - Frase: "Over 15,000 people are living rough in tent city." (49 caracteres, literal)
 - Fonte: `posts/2020-03-01-ays-special-lesvos-well-beyond-the-brink-this-is-what-we-know-so-far-7c11873e12f8.md`
-- Número/fato e segunda via: "Over 15,000 people". Segunda via: o post de 9/10/2019 conta 13.112 em Moria para uma capacidade de 3.000 e 15.333 em Lesvos; o texto do mesmo post fala em "past 20,000".
-- Imagem `assets/7c11873e12f8/0*d1t7dOlL0Akp60kH`: Vista ampla do acampamento nas oliveiras (@dfherman). Há crianças pequenas e adultos de costas, sem rosto identificável; avaliado e mantido. Crédito exibido: Douglas F. Herman.
+- Número/fato e segunda via: "Over 15,000 people" (legenda do post de 1/3/2020). Segunda via: o post de 9/10/2019 conta 13.112 em Moria para uma capacidade de 3.000 e 15.333 em Lesvos; o texto do mesmo post fala em "past 20,000".
+- Imagem `assets/7c11873e12f8/0*x-D7u77Oq9ARBBc5`: Roupa estendida numa cerca de arame com o acampamento ao fundo (@dfherman, mesma legenda). Trocou a vista ampla do mesmo post porque mostrava crianças em primeiro plano. Crédito exibido: Douglas F. Herman.
 - Lugar: Moria [26.5, 39.14] (lon, lat). Trecho do post: Legenda "Olive Grove behind overcrowded Moria Camp, Lesvos".
 
 
@@ -197,12 +197,12 @@ O tour não é espetáculo.
 - Imagem `assets/e762110f8ae1/0*QGGu3ioVxBiBE0jZ.jpeg`: Árvores em chamas e roupas espalhadas no chão; sem pessoas (Angelos Christofilopoulos). Crédito exibido: Angelos Christofilopoulos.
 - Lugar: Moria [26.5, 39.14] (lon, lat). Trecho do post: Título "Moria, the Days After". Mapa sem linha de fronteira, vista [26.3, 39.2, 5].
 
-**22. `moria-rua`** · 2020-09-10 · Lesvos, Greece · September 2020
-- Frase: "about 12,000 people on the move are still forced to sleep rough on the roads" (76 caracteres, literal)
-- Fonte: `posts/2020-09-11-ays-daily-digest-10-09-2020-moria-the-days-after-e762110f8ae1.md`; imagem vinda de `posts/2020-09-14-ays-daily-digest-weekend-12-13-09-2020-protests-of-former-moria-residents-are-met-with-tear-gas-347f42bfebd1.md`
-- Número/fato e segunda via: "about 12,000 people" (post de 10/9). Segunda via: no mesmo post "Over 10.000 refugees are homeless" (tuíte citado) e no de 9/9 "up to 13,000".
-- Imagem `assets/347f42bfebd1/lesbos-rough-sleeping.jpg`: Calçada de posto de gasolina com pessoas deitadas sob cobertores, muito pequenas e sem rosto, no link do post de 12-13/9 (arquivo lesbos-rough-sleeping.jpg). Pessoas dormindo na rua: avaliado, mantido por estarem ao longe. Crédito de organização (não exibido): The Independent.
-- Lugar: Moria [26.5, 39.14] (lon, lat). Trecho do post: Nome do arquivo e texto "sleep rough on the roads ... surrounding Moria".
+**22. `moria-campo-novo`** · 2020-09-13 · Lesvos, Greece · September 2020
+- Frase: "That means that more than 10,000 people will still be without shelter." (70 caracteres, literal)
+- Fonte: `posts/2020-09-14-ays-daily-digest-weekend-12-13-09-2020-protests-of-former-moria-residents-are-met-with-tear-gas-347f42bfebd1.md`
+- Número/fato e segunda via: Sentença do post de 14/9 (resumo de 12-13/9): campo novo com cerca de 200 tendas de seis lugares, "the camp will only have a total capacity of 2000 people". Segunda via: o post de 10/9 dá "about 12,000 people" sem abrigo e o de 9/9 "up to 13,000".
+- Imagem `assets/347f42bfebd1/1*N2FgYAjUJNrmo1IPFGmOPQ.jpeg`: Vista aérea do campo novo, tendas brancas enfileiradas, sem pessoas (legenda "The new camp structure", Giogos Moutafis). Substituiu a foto de pessoas dormindo na calçada, que poderia ser lida como corpos. Crédito exibido: Giogos Moutafis.
+- Lugar: Kara Tepe, Lesvos [26.55, 39.12] (lon, lat). Trecho do post: Texto: "a new camp has been set up, north of Kara Tepe at an old shooting range". Coordenada aproximada.
 
 **23. `moria-charge`** · 2020-09-10 · Moria, Lesvos · September 2020
 - Frase: "There were deadly fires in the camp before, as recently as March" (64 caracteres, literal)
@@ -239,16 +239,16 @@ O tour não é espetáculo.
 ### Episódio 10
 
 **27. `ucrania-mapa`** · 2022-03-04 · Ukraine border crossings · March 2022
-- Frase: "more than 600 thousand people fleeing the war have arrived to Poland" (68 caracteres, literal)
+- Frase: "500,000 children among the 1,368,864 people who have fled Ukraine to neighbouring countries" (91 caracteres, literal)
 - Fonte: `posts/2022-03-05-ays-news-digest-04-03-2022-temporary-protection-directive-reveals-double-standard-refugee-law-55c4be103ac2.md`
-- Número/fato e segunda via: "more than 600 thousand" na Polônia até 3/3 (post de 4/3/2022). Segunda via: a tabela da própria página mostra Polônia 756.303 em 4/3.
+- Número/fato e segunda via: "500,000 children among the 1,368,864 people who have fled Ukraine" (post de 4/3/2022). A frase com "more than 600 thousand ... arrived to Poland" foi trocada: no original há um "[from Belarus]" editorial que o corte removeria. Segunda via: a tabela da própria página (ver cena seguinte).
 - Imagem `assets/55c4be103ac2/0*o2xE21glBeP0ghpw.jpeg`: Mapa "UKRAINE Border crossing points" (Humanitarian Data Exchange); a linha de crédito inferior foi cortada. Recorte: [0, 0, 1, 0.93]. Crédito de organização (não exibido): Humanitarian Data Exchange.
 - Lugar: Ukraine–Poland border [23.0, 49.8] (lon, lat). Trecho do post: Seção "Updates from the borders". Mapa: fronteira `POL-UKR`, vista [23.5, 50.5, 8].
 
 **28. `ucrania-tabela`** · 2022-03-04 · Ukraine · March 2022
-- Frase: "the 1,368,864 people who have fled Ukraine to neighbouring countries" (68 caracteres, literal)
+- Frase: "Refugee arrivals from Ukraine (since 24 February 2022), By Country and By Date" (78 caracteres, literal)
 - Fonte: `posts/2022-03-05-ays-news-digest-04-03-2022-temporary-protection-directive-reveals-double-standard-refugee-law-55c4be103ac2.md`
-- Número/fato e segunda via: "1,368,864 people". Segunda via: soma da tabela (756.303+157.004+133.876+103.254+101.529+63.192+53.300+406 = 1.368.864).
+- Número/fato e segunda via: Legenda literal da tabela. Número da tabela conferido por soma: 756.303+157.004+133.876+103.254+101.529+63.192+53.300+406 = 1.368.864, igual ao do texto. A tabela mostra Polônia com 756.303 em 4/3.
 - Imagem `assets/55c4be103ac2/0*nCj-gTf50pgPyRDC.png`: Captura da tabela do ACNUR (rodapé cortado), sem pessoas. Recorte: [0, 0, 1, 0.95]. Crédito de organização (não exibido): UNHCR.
 - Lugar: Ukraine–Poland border [23.0, 49.8] (lon, lat). Trecho do post: Legenda "Refugee arrivals from Ukraine (since 24 February 2022)".
 
@@ -263,10 +263,10 @@ O tour não é espetáculo.
 ### Episódio 11
 
 **30. `pylos-barco`** · 2023-06-14 · Off Pylos, Greece · June 2023
-- Frase: "approximately 750 people were onboard the vessel, including around 100 children" (79 caracteres, literal)
+- Frase: "It is thought that approximately 750 people were onboard the vessel, including around 100 children" (98 caracteres, literal)
 - Fonte: `posts/2023-06-15-ays-news-digest-14-6-23-foul-play-as-hundreds-dead-after-greek-shipwreck-tragedy-ed5fdf891640.md`
-- Número/fato e segunda via: "approximately 750 people ... around 100 children". Segunda via: o post de 14/7 diz "at least 600 people are still missing" (coerente com 750 a bordo e ~104 resgatados).
-- Imagem `assets/ed5fdf891640/0*sNLzdj7Cmnuf_a3K.jpg`: Foto aérea do barco de pesca lotado, divulgada pela guarda costeira; centenas de pessoas minúsculas, nenhuma identificável. Crédito de organização (não exibido): Hellenic Coast Guard.
+- Número/fato e segunda via: "It is thought that approximately 750 people were onboard ... around 100 children": a ressalva fica (98 caracteres). Segunda via: o post de 14/7 diz "at least 600 people are still missing".
+- Imagem `assets/ed5fdf891640/0*sNLzdj7Cmnuf_a3K.jpg`: Foto aérea do barco de pesca lotado, divulgada pela guarda costeira; centenas de pessoas minúsculas, nenhuma identificável. Pessoas em risco, vistas de muito longe; avaliado e mantido. Crédito de organização (não exibido): Hellenic Coast Guard.
 - Lugar: Off Pylos [21.0, 36.4] (lon, lat). Trecho do post: "47 nautical miles off the coast of the island of Pylos". Coordenada aproximada do tour. Mapa sem linha de fronteira, vista [21, 36.5, 10].
 
 **31. `pylos-berlim`** · 2023-07-14 · Berlin · July 2023
@@ -295,7 +295,7 @@ O tour não é espetáculo.
 
 ## Mapa
 
-As fotos não têm GPS (amostra de 400 imagens: nenhuma com coordenada; o Medium remove o EXIF). O lugar vem do texto do post, na coluna "Trecho do post" de cada cena acima, e a coordenada é do tour, marcada à mão: Idomeni 41,13 N 22,51 L; Calais 50,95 N 1,86 L; Belgrado 44,82 N 20,46 L; Lesvos/Moria 39,14 N 26,50 L; Bihać 44,81 N 15,87 L; Evros/Kastanies 41,70 N 26,36 L; Edirne 41,68 N 26,56 L; fronteira Turquia–Irã 39,5 N 44,1 L; Michałowo 53,04 N 23,62 L; fronteira Ucrânia–Polônia 49,8 N 23,0 L; Pylos 36,4 N 21,0 L ("47 nautical miles off" Pylos: o ponto é aproximado); Samos 37,755 N 26,98 L; Molyvos 39,37 N 26,17 L. Os pontos "Central Mediterranean" (33,5 N 13,2 L), "Mediterranean" e Malta são aproximados e valem só como situação geral.
+As fotos não têm GPS: a amostra do coordenador (400) e uma amostra própria (400 JPEG sorteados, 9 com algum EXIF e 0 com GPS) concordam; o Medium remove o EXIF. O lugar vem do texto do post, na coluna "Trecho do post" de cada cena acima, e a coordenada é do tour, marcada à mão: Idomeni 41,13 N 22,51 L; Calais 50,95 N 1,86 L; Belgrado 44,82 N 20,46 L; Lesvos/Moria 39,14 N 26,50 L; Bihać 44,81 N 15,87 L; Evros/Kastanies 41,70 N 26,36 L; Edirne 41,68 N 26,56 L; fronteira Turquia–Irã 39,5 N 44,1 L; Michałowo 53,04 N 23,62 L; fronteira Ucrânia–Polônia 49,8 N 23,0 L; Pylos 36,4 N 21,0 L ("47 nautical miles off" Pylos: o ponto é aproximado); Samos 37,755 N 26,98 L; Molyvos 39,37 N 26,17 L. Os pontos "Central Mediterranean" (33,5 N 13,2 L), "Mediterranean" e Malta são aproximados e valem só como situação geral.
 
 - **Dados**: Natural Earth (domínio público), países 1:50m e linhas de fronteira terrestre 1:50m, recortados para lon -12..60, lat 27..62, simplificados (0,02° nas linhas, 0,012° na terra) e embutidos em `tour/mapa.js` (~39 kB). Ceuta e Melilla vêm do 1:10m, porque o 1:50m não as tem. Crédito "Borders: Natural Earth (public domain)" no canto do mapa. Nada de MapLibre nem de tiles: SVG puro.
 - O campo NAME das linhas do 1:50m vem vazio; o par de países de cada linha é achado espacialmente em `script/monta_mapa.py` (uma linha que junta três países é partida em pares).
@@ -322,7 +322,7 @@ As fotos não têm GPS (amostra de 400 imagens: nenhuma com coordenada; o Medium
 | Ceuta (Espanha–Marrocos) | `Ceuta` | 2017 | `2017-02-21-ays-daily-digest-20-02-discrimination-expulsion-and-denial-of-rights-is-this-the-best-we-can-do-267df132530b.md` | "After about 500 migrants breached the fence between Morocco and the Spanish enclave of Ceuta"; 2018-01-10: "the 8-kilometre border at Ceuta, by climbing the border fences" |
 | Melilla (Espanha–Marrocos) | `Melilla` | 2017 | `2017-10-04-ays-daily-digest-2-10-2017-spain-sentended-for-illegal-border-practices-36761f13f3a0.md` | "crossed the fence in Melilla" (fato de 2014 julgado em 2017); 2018-03-30: "the fence which surrounds the city"; 2018-10-22: "heavily fortified fences surrounding the Spanish enclave of Melilla" |
 
-Fora, por falta de fonte no arquivo: Bulgária–Grécia, Espanha–Marrocos além de Ceuta e Melilla, Macedônia–Sérvia antes de 2020, Hungria–Romênia, Croácia–Bósnia, Áustria (só um bispo recusando terra para uma cerca em 2016, não construída).
+Fora, por falta de fonte no arquivo (busca por fence/wall/wire/barbed perto dos nomes dos dois países): Bulgária–Grécia (só uma menção a comparar extensão de cerca, 2018), Hungria–Romênia, Bulgária–Sérvia, Croácia–Bósnia (só pushbacks), Áustria (só um bispo recusando terra para uma cerca em 2016). Macedônia do Norte–Sérvia só aparece a partir de 2020.
 
 ## Descartado
 
@@ -332,11 +332,17 @@ Fora, por falta de fonte no arquivo: Bulgária–Grécia, Espanha–Marrocos al�
 - **Frases sem conferência de segunda via**: "100 people died in the sea in April" (só um post); "At least 576 children ... since 2014" foi descartada porque o resumo de outubro/2016 do arquivo fala em 600 crianças só em 2016 (definições diferentes); a cena do trilho vazio de Idomeni tinha só 540 px; a foto do catraca em Samos mostra rostos.
 - **Frases com erro de digitação ou nome de ONG** no original: legenda "1200 police depoloyed" (trocada); "through through" (trocada); frases com Aquarius, Sea-Watch, InfoBus, MSF foram cortadas ou não usadas.
 
+## Peso
+
+index.html: 1.288.620 -> 1.288.771 bytes; timeline.html: 155.150 -> 155.301 bytes (só o botão e dois `<script defer>`). Em repouso a página carrega tour.js + som.js (~32 kB, adiados). Ao começar o tour carrega dados.js (21 kB) + mapa.js (40 kB) + 33 imagens webp (~3,1 MB); nada disso é embutido no HTML.
+
 ## Pontos fracos conhecidos
 
 - A duração passa dos ~180 s por causa dos mapas.
 - Crédito de organização não aparece na tela.
-- Cenas 'Calais/fogo' e 'Moria/rua' usam imagens sem legenda ou com legenda de outro post; a ligação está registrada acima.
+- A cena 'Calais/fogo' usa a foto de abertura do post, sem legenda; a ligação está registrada acima.
+- `post.html` não abre por file:// (busca o .md com fetch); os links de fonte do tour só funcionam servidos por http. Limitação já existente do site.
+- A foto aérea do barco em Pylos mostra centenas de pessoas em risco, minúsculas; avaliada e mantida.
 - A coordenada do Mediterrâneo central é aproximada.
 - Os números de 'Pylos' e 'Moria' variam entre posts (registrado).
 - O mapa 50m é grosseiro nas pequenas fronteiras (Kosovo, Ceuta) e as cercas acesas são fronteiras, não traçados.

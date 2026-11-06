@@ -127,7 +127,7 @@ window.AYS_TOUR = [
   "ms": 5000,
   "data": "2016-05-25",
   "kicker": "Idomeni, Greece · 25 May 2016",
-  "frase": "in part because refugees refused to go to the isolated Vagiochori camp",
+  "frase": "6,138 refugees remained inside Idomeni after the first day of the evacuation, down from 8,199.",
   "fonte": "2016-05-26-ays-news-digest-idomeni-evacuation-continues-c62090d33878.md",
   "img": "img/05-idomeni-vagiochori.webp",
   "dim": [
@@ -490,7 +490,7 @@ window.AYS_TOUR = [
   "ajuste": "cover",
   "foco": [
    0.5,
-   0.5
+   0.1
   ]
  },
  {
@@ -564,7 +564,7 @@ window.AYS_TOUR = [
   "ms": 5000,
   "data": "2020-03-11",
   "kicker": "Edirne, Turkey · March 2020",
-  "frase": "many people do not have any tents and got soaking wet when it rained the other night",
+  "frase": "where approximately 9,000–20,000 people are stuck at the moment",
   "fonte": "2020-03-12-ays-daily-digest-11-03-2020-updates-from-the-ground-in-edirne-5af5bc8d25db.md",
   "img": "img/19-edirne-tendas.webp",
   "dim": [
@@ -652,23 +652,23 @@ window.AYS_TOUR = [
   ]
  },
  {
-  "id": "moria-rua",
+  "id": "moria-campo-novo",
   "ep": 8,
   "ms": 5000,
-  "data": "2020-09-10",
+  "data": "2020-09-13",
   "kicker": "Lesvos, Greece · September 2020",
-  "frase": "about 12,000 people on the move are still forced to sleep rough on the roads",
-  "fonte": "2020-09-11-ays-daily-digest-10-09-2020-moria-the-days-after-e762110f8ae1.md",
-  "img": "img/22-moria-rua.webp",
+  "frase": "That means that more than 10,000 people will still be without shelter.",
+  "fonte": "2020-09-14-ays-daily-digest-weekend-12-13-09-2020-protests-of-former-moria-residents-are-met-with-tear-gas-347f42bfebd1.md",
+  "img": "img/22-moria-campo-novo.webp",
   "dim": [
-   1200,
-   798
+   680,
+   458
   ],
-  "credito": "",
-  "lugar": "Moria",
+  "credito": "Giogos Moutafis",
+  "lugar": "Kara Tepe, Lesvos",
   "coord": [
-   26.5,
-   39.14
+   26.55,
+   39.12
   ],
   "mapa": null,
   "silencio": false,
@@ -815,7 +815,7 @@ window.AYS_TOUR = [
   "ms": 5000,
   "data": "2022-03-04",
   "kicker": "Ukraine border crossings · March 2022",
-  "frase": "more than 600 thousand people fleeing the war have arrived to Poland",
+  "frase": "500,000 children among the 1,368,864 people who have fled Ukraine to neighbouring countries",
   "fonte": "2022-03-05-ays-news-digest-04-03-2022-temporary-protection-directive-reveals-double-standard-refugee-law-55c4be103ac2.md",
   "img": "img/27-ucrania-mapa.webp",
   "dim": [
@@ -852,7 +852,7 @@ window.AYS_TOUR = [
   "ms": 5000,
   "data": "2022-03-04",
   "kicker": "Ukraine · March 2022",
-  "frase": "the 1,368,864 people who have fled Ukraine to neighbouring countries",
+  "frase": "Refugee arrivals from Ukraine (since 24 February 2022), By Country and By Date",
   "fonte": "2022-03-05-ays-news-digest-04-03-2022-temporary-protection-directive-reveals-double-standard-refugee-law-55c4be103ac2.md",
   "img": "img/28-ucrania-tabela.webp",
   "dim": [
@@ -908,7 +908,7 @@ window.AYS_TOUR = [
   "ms": 5000,
   "data": "2023-06-14",
   "kicker": "Off Pylos, Greece · June 2023",
-  "frase": "approximately 750 people were onboard the vessel, including around 100 children",
+  "frase": "It is thought that approximately 750 people were onboard the vessel, including around 100 children",
   "fonte": "2023-06-15-ays-news-digest-14-6-23-foul-play-as-hundreds-dead-after-greek-shipwreck-tragedy-ed5fdf891640.md",
   "img": "img/30-pylos-barco.webp",
   "dim": [
