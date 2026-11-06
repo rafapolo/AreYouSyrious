@@ -96,19 +96,50 @@
   #bv button{position:absolute;right:.2rem;top:.2rem;width:36px;height:36px;border:0;background:transparent;color:#8d887e;font-size:18px}
   #veu{position:fixed;inset:0;z-index:50;background:#000;opacity:1;transition:opacity 1.6s ease;pointer-events:none}
   #veu.fora{opacity:0}
+  .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  /* celular (em pé ou deitado): menu compacto de uma linha, alvos de 44 px, barra de anos com indicação de que há mais */
+  @media (max-width:720px), (pointer:coarse) and (max-height:500px){
+    .topo{gap:.5rem;padding:max(.1rem,env(safe-area-inset-top)) max(.5rem,env(safe-area-inset-right)) .1rem max(.5rem,env(safe-area-inset-left));flex-wrap:nowrap}
+    .topo .marca,.topo h1{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+    .topo nav{margin:0;flex:1;display:flex;justify-content:space-between;gap:.25rem;flex-wrap:nowrap}
+    .topo nav a,.btn{min-height:44px;min-width:44px;justify-content:center;padding:0 .55rem;font-size:14px;border-color:transparent;background:transparent;letter-spacing:.04em}
+    .topo nav a.sec{display:inline-flex}
+    .topo nav #abre-indice{order:9;border-color:#3a3733;background:rgba(20,19,17,.7);color:#e9e6e0}
+    .anos{padding:0 max(.5rem,env(safe-area-inset-right)) 0 max(.5rem,env(safe-area-inset-left));gap:.3rem;-webkit-overflow-scrolling:touch;scroll-padding:0 2rem}
+    .anos.mais-d{-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent);mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent)}
+    .anos.mais-e{-webkit-mask-image:linear-gradient(to right,transparent,#000 34px);mask-image:linear-gradient(to right,transparent,#000 34px)}
+    .anos.mais-d.mais-e{-webkit-mask-image:linear-gradient(to right,transparent,#000 34px,#000 calc(100% - 34px),transparent);mask-image:linear-gradient(to right,transparent,#000 34px,#000 calc(100% - 34px),transparent)}
+    .anos .rot,.anos .tot{display:none}
+    .anos button{min-height:44px;min-width:48px;padding:0 .85rem;font-size:14px;border-radius:22px;flex:0 0 auto}
+    .zoom{left:max(.5rem,env(safe-area-inset-left))}
+    .zoom button{width:44px;height:44px}
+    .ph .fecha,#indice .fecha,#bv button{width:44px;height:44px}
+    .ph .fecha{right:.3rem;top:.3rem}
+    .ph select,.ph .btn{min-height:44px;font-size:16px}
+    .ph .btn{font-size:14px;border-color:#3a3733;padding:0 .8rem}
+    .ph .sub{font-size:14px}
+    .post time{font-size:13px}
+    .post .t{display:inline-block;padding:.15rem 0}
+    .post .r{font-size:14px}
+    .mais{min-height:44px;font-size:14px}
+    #indice input{font-size:16px;min-height:44px}
+    #indice li button{min-height:44px;font-size:15px}
+    #indice h3{font-size:13px}
+    #indice .corpo{padding-bottom:calc(1rem + env(safe-area-inset-bottom))}
+    #indice{padding-left:env(safe-area-inset-left)}
+    .lista{padding-bottom:calc(1.2rem + env(safe-area-inset-bottom));padding-right:max(1rem,env(safe-area-inset-right))}
+    .leg{display:none}
+    .pt{fill:rgba(217,212,200,.32)}
+    .pt.sel{fill:rgba(255,255,255,.75)}
+    .m-rot{font-size:12px}
+  }
   @media (max-width:720px){
-    .topo{gap:.5rem;padding:.45rem .7rem}
     .topo h1{font-size:17px}
-    .topo nav{margin-left:auto}
-    .topo nav a.sec{display:none}
-    .anos{padding:.4rem .7rem}
-    .anos .tot{display:none}
     #painel{top:auto;left:0;right:0;width:auto;max-height:62vh;max-height:62dvh;height:62vh;height:62dvh;border-left:0;border-top:1px solid #3a3733;border-radius:12px 12px 0 0;transform:translateY(102%);padding-bottom:env(safe-area-inset-bottom)}
     #painel.on{transform:none}
-    .ph{padding:.8rem .9rem .6rem}
-    .ph h2{font-size:21px}
-    .leg{display:none}
-    #bv{left:.5rem;right:.5rem;bottom:.6rem;max-width:none}
+    .ph{padding:.8rem 3.4rem .6rem .9rem}
+    .ph h2{font-size:21px;margin-right:0}
+    #bv{left:max(.5rem,env(safe-area-inset-left));right:max(.5rem,env(safe-area-inset-right));bottom:max(.6rem,env(safe-area-inset-bottom));max-width:none}
     #indice{width:100%}
   }
   @media (prefers-reduced-motion:reduce){#painel,#indice,.m-cerca,#veu,#bv{transition:none!important}}
@@ -159,6 +190,7 @@
   const px = lon => (lon - M.lon0) * M.kx, py = lat => (M.lat1 - lat) * M.ky;
   const svg = $('mapa'), campo = $('campo');
   const semMov = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const compacto = () => matchMedia('(max-width:720px), (pointer:coarse) and (max-height:500px)').matches, folha = () => innerWidth <= 720;
   const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/đ/g, 'd').toLowerCase();
   const TIPO = { cidade: 'city or town', campo: 'camp', ilha: 'island', fronteira: 'border crossing', regiao: 'region', mar: 'sea', pais: 'country-wide mentions' };
 
@@ -191,7 +223,7 @@
   const nomes = M.nomes.map(n => { const t = sv('text', { x: n.x, y: n.y, class: 'm-rot' + (n.mar ? ' mar' : '') }, gNomes); t.textContent = n.n; t._a = n.a; t._w = n.n.length * 7.2; return t; });
 
   const ordem = [...L].sort((a, b) => b.c - a.c);
-  const R = c => innerWidth <= 720 ? 1.6 + 0.42 * Math.sqrt(c) : 2 + 0.65 * Math.sqrt(c);
+  const R = c => compacto() ? 1.5 + 0.3 * Math.sqrt(c) : 2 + 0.65 * Math.sqrt(c);
   for (const l of ordem) {
     const c = sv('circle', { cx: px(l.x), cy: py(l.y), r: 4, class: 'pt ' + (l.t === 'mar' ? 'mar' : l.t === 'pais' ? 'pais' : ''), tabindex: 0, role: 'button', 'data-id': l.id, 'aria-label': l.n }, gPts);
     sv('title', {}, c).textContent = l.n;
@@ -208,11 +240,29 @@
   let view = { cx: 0, cy: 0, w: 1 };
   const W = () => campo.clientWidth || 1280, H = () => campo.clientHeight || 700;
   const wMin = () => M.kx * 2.5, wMax = () => Math.min(M.w * 1.15, M.h * 1.15 * W() / H());
-  const vistaInicial = () => { const larg = W() / H() < 0.9 ? 54 : 64; return { cx: px(19), cy: py(W() / H() < 0.9 ? 43 : 44), w: larg * M.kx }; };
+  /* celular em pé: o quadro é tão largo quanto a tela permite sem passar da borda sul do mapa (lat 18), para não sobrar faixa vazia;
+     o centro fica no Mediterrâneo oriental e nos Bálcãs, onde está a maior parte dos posts */
+  const vistaInicial = () => {
+    if (folha() && W() / H() < 0.9) {
+      const w = Math.min(36 * M.kx, M.h * 0.98 * W() / H()), h = w * H() / W();
+      return { cx: px(18.5), cy: Math.min(M.h - h / 2, py(58.5) + h / 2), w };
+    }
+    return { cx: px(19), cy: py(44), w: 64 * M.kx };
+  };
+  const W0 = () => vistaInicial().w;
+  /* no celular o quadro não passa das bordas do mapa (sem faixa vazia); no desktop a vista continua livre */
+  function limita() {
+    if (!compacto()) { view.cx = Math.max(0, Math.min(M.w, view.cx)); view.cy = Math.max(0, Math.min(M.h, view.cy)); return; }
+    const h = view.w * H() / W();
+    const m = 0.04;
+    view.cx = view.w >= M.w ? M.w / 2 : Math.max(view.w / 2 - M.w * m, Math.min(M.w - view.w / 2 + M.w * m, view.cx));
+    const pn = $('painel'), extra = folha() && pn.classList.contains('on') ? pn.offsetHeight * view.w / W() : 0;   // a folha cobre o que passar da borda sul
+    view.cy = h >= M.h + extra ? (M.h + extra) / 2 : Math.max(h / 2 - M.h * m, Math.min(M.h + extra - h / 2 + M.h * m, view.cy));
+  }
   let pend = 0;
   function aplica() {
     view.w = Math.max(wMin(), Math.min(wMax(), view.w));
-    view.cx = Math.max(0, Math.min(M.w, view.cx)); view.cy = Math.max(0, Math.min(M.h, view.cy));
+    limita();
     if (!pend) pend = requestAnimationFrame(desenha);
   }
   const u = () => view.w / W();                           // unidades do mapa por pixel
@@ -221,10 +271,17 @@
     const k = u(), h = view.w * H() / W();
     const x0 = view.cx - view.w / 2, y0 = view.cy - h / 2;
     svg.setAttribute('viewBox', `${x0} ${y0} ${view.w} ${h}`);
-    for (const l of L) {
+    const comp = compacto(), aceitos = [], minC = comp ? 3 * (view.w / W0()) ** 2 : 0;   // celular: lugares pequenos só aparecem com o zoom
+    for (const l of [...L].sort((a, b) => cont(b) - cont(a))) {
       const c = cont(l), el = l._el;
-      el.style.display = c ? '' : 'none';
-      if (!c) continue;
+      l._oculto = !c || (comp && c < minC && l.id !== sel);
+      if (!l._oculto && comp && l.id !== sel) {                                  // celular: um ponto menor sob um maior fica de fora até o zoom afastá-los
+        const sx = (px(l.x) - x0) / k, sy = (py(l.y) - y0) / k, r = R(c);
+        if (aceitos.some(o => Math.hypot(o[0] - sx, o[1] - sy) < Math.max(o[2], r) * 0.9 + 3)) l._oculto = true;
+        else aceitos.push([sx, sy, r]);
+      } else if (!l._oculto && comp) aceitos.push([(px(l.x) - x0) / k, (py(l.y) - y0) / k, R(c)]);
+      el.style.display = l._oculto ? 'none' : '';
+      if (l._oculto) continue;
       el.setAttribute('r', R(c) * k);
       el.setAttribute('stroke-width', '');
     }
@@ -238,21 +295,25 @@
     const ativos = [];
     for (const l of L) {                                 // os pontos ocupam espaço: nomes não passam por cima deles
       const c = cont(l); l._rot.style.display = 'none';
-      if (!c) continue;
+      if (!c || l._oculto) continue;
       const sx = (px(l.x) - x0) / k, sy = (py(l.y) - y0) / k, r = R(c);
       if (dentro(sx, sy)) ativos.push([l, c, sx, sy, r]);
     }
     ativos.sort((a, b) => (b[0] === byId(sel) ? 1 : 0) - (a[0] === byId(sel) ? 1 : 0) || b[1] - a[1]);
+    const comp = compacto(), orcamento = comp ? Math.round(10 * (W0() / view.w) ** 2) : Infinity;   // celular: poucos nomes, mais conforme o zoom
+    let usados = 0;
     for (const [l, c, sx, sy, r] of ativos) {
+      if (usados >= orcamento && l.id !== sel) continue;
       const w = l.n.length * 6.4 + 4, esq = sx + r + 4 + w > Wp - 6;
       const bx = esq ? sx - r - 4 - w : sx + r + 4, b = [bx, sy - 8, bx + w, sy + 8];
       if (l.id !== sel && !livre(b)) continue;
-      caixas.push(b);
+      caixas.push(b); usados++;
       const t = l._rot;
       t.style.display = ''; t.style.fontSize = 11 * k + 'px';
       t.setAttribute('x', esq ? px(l.x) - (r + 4) * k : px(l.x) + (r + 4) * k); t.setAttribute('y', py(l.y) + 3.8 * k);
       t.setAttribute('text-anchor', esq ? 'end' : 'start');
     }
+    if (compacto()) for (const l of L) if (!l._oculto) { const sx = (px(l.x) - x0) / k, sy = (py(l.y) - y0) / k, r = R(cont(l)); caixas.push([sx - r, sy - r, sx + r, sy + r]); }   // celular: nomes de país não passam por cima dos pontos
     for (const t of [...nomes].sort((a, b) => b._a - a._a)) {
       const sx = (+t.getAttribute('x') - x0) / k, sy = (+t.getAttribute('y') - y0) / k, w = t._w;
       let ok = dentro(sx, sy);
@@ -280,8 +341,8 @@
   function areaLivre() {
     const p = $('painel'), i = $('indice'), Wp = W(), Hp = H();
     let x0 = 0, x1 = Wp, y0 = 0, y1 = Hp;
-    if (p.classList.contains('on')) { if (innerWidth <= 720) y1 = Hp - p.offsetHeight; else x1 = Wp - p.offsetWidth; }
-    if (i.classList.contains('on') && innerWidth > 720) x0 = i.offsetWidth;
+    if (p.classList.contains('on')) { if (folha()) y1 = Hp - p.offsetHeight; else x1 = Wp - p.offsetWidth; }
+    if (i.classList.contains('on') && !folha()) x0 = i.offsetWidth;
     return [x0, y0, x1, y1];
   }
   function centraliza(l, zoomW) {
@@ -339,10 +400,13 @@
   const mkChip = (txt, v) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = txt; b.dataset.ano = v ?? ''; b.setAttribute('aria-pressed', 'false'); b.onclick = () => defineAno(v); chips.appendChild(b); return b; };
   mkChip('All', null); ANOS.forEach(a => mkChip(a, a));
   const tot = document.createElement('span'); tot.className = 'tot'; chips.appendChild(tot);
+  const indicaMais = () => { chips.classList.toggle('mais-e', chips.scrollLeft > 4); chips.classList.toggle('mais-d', chips.scrollLeft + chips.clientWidth < chips.scrollWidth - 4); };
+  chips.addEventListener('scroll', indicaMais, { passive: true }); addEventListener('resize', indicaMais);
   function defineAno(a, hash = true) {
     ano = a;
     chips.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.ano === '' ? null : +b.dataset.ano) === ano)));
     acendeCercas(); aplica(); atualizaIndice(); atualizaTotais();
+    const ch = chips.querySelector('[aria-pressed=true]'); if (ch && compacto()) { const r = ch.getBoundingClientRect(), c0 = chips.getBoundingClientRect(); if (r.left < c0.left + 30 || r.right > c0.right - 30) chips.scrollBy({ left: r.left - c0.left - (c0.width - r.width) / 2, behavior: semMov ? 'auto' : 'smooth' }); }
     if (sel) { montaPainel(false); }
     if (hash) fazHash();
   }
@@ -410,7 +474,7 @@
     sel = id;
     for (const x of L) x._el.classList.toggle('sel', x.id === id);
     $('painel').classList.add('on'); montaPainel(true);
-    if (innerWidth <= 720) $('indice').classList.remove('on'), $('abre-indice').setAttribute('aria-expanded', 'false');
+    if (folha()) $('indice').classList.remove('on'), $('abre-indice').setAttribute('aria-expanded', 'false');
     escondeBoasVindas();
     centraliza(l, doIndice ? (l.t === 'pais' ? 30 : 22) : null);
     fazHash(); aplica();
@@ -458,7 +522,7 @@
   function fechaIndice() { $('indice').classList.remove('on'); $('abre-indice').setAttribute('aria-expanded', 'false'); }
   $('abre-indice').onclick = () => {
     const on = $('indice').classList.toggle('on'); $('abre-indice').setAttribute('aria-expanded', String(on));
-    if (on) { if (innerWidth <= 720) $('painel').classList.remove('on'); setTimeout(() => $('busca').focus({ preventScroll: true }), 50); } else if (sel) $('painel').classList.add('on');
+    if (on) { if (folha()) $('painel').classList.remove('on'); setTimeout(() => $('busca').focus({ preventScroll: true }), 50); } else if (sel) $('painel').classList.add('on');
   };
   $('indice').querySelector('.fecha').onclick = () => { fechaIndice(); if (sel) $('painel').classList.add('on'); };
 
@@ -490,7 +554,7 @@
     setTimeout(escondeBoasVindas, 14000);
   } else $('veu').remove();
 
-  view = vistaInicial(); acendeCercas(); atualizaIndice(); atualizaTotais();
+  view = vistaInicial(); indicaMais(); acendeCercas(); atualizaIndice(); atualizaTotais();
   lerHash(); aplica();
   window.aysMapa = { lugares: () => L.map(l => ({ id: l.id, n: l.n, x: l.x, y: l.y, c: l.c })), abre: id => abre(id, false), ano: a => defineAno(a), vista: () => ({ ...view }), quadro: () => ({ w: M.w, h: M.h }), selecionado: () => sel };
 })();
