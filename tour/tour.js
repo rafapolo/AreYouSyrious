@@ -28,7 +28,7 @@
     grid-template-rows:var(--t-topo,60px) var(--t-faixa,60vh) 1fr}
   #ays-tour.on{opacity:1}
   #ays-tour[hidden]{display:none}
-  #ays-tour .t-topo{display:flex;align-items:flex-start;justify-content:flex-end;gap:.6rem;padding:.7rem .9rem}
+  #ays-tour .t-topo{display:flex;align-items:flex-start;justify-content:flex-end;gap:.6rem;padding:max(.7rem,env(safe-area-inset-top)) max(.9rem,env(safe-area-inset-right)) .7rem max(.9rem,env(safe-area-inset-left))}
   #ays-tour .t-faixa{position:relative;overflow:hidden;background:#050505}
   #ays-tour .t-foto{position:absolute;inset:0;width:100%;height:100%;opacity:0;transition:opacity ${FUSAO}ms ease;
     will-change:opacity,transform;background:#050505}
@@ -56,7 +56,7 @@
   #ays-tour .m-nome{fill:#cfcac0;font:600 12px ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
   #ays-tour .m-cred{position:absolute;left:.8rem;top:.5rem;font:11px ui-sans-serif,system-ui,sans-serif;color:#6d6a63}
   #ays-tour .m-ano{position:absolute;right:1rem;bottom:.6rem;font:600 22px Georgia,serif;color:#8d887e;letter-spacing:.08em}
-  #ays-tour .t-baixo{padding:1.1rem clamp(1rem,6vw,9rem) 1rem;display:flex;flex-direction:column;gap:.5rem;min-height:0}
+  #ays-tour .t-baixo{padding:1.1rem max(clamp(1rem,6vw,9rem),env(safe-area-inset-right)) max(1rem,env(safe-area-inset-bottom)) max(clamp(1rem,6vw,9rem),env(safe-area-inset-left));display:flex;flex-direction:column;gap:.5rem;min-height:0}
   #ays-tour .t-leg{opacity:0;transition:opacity calc(1.1s / var(--r,1)) ease}
   #ays-tour .t-leg.on{opacity:1}
   #ays-tour .t-kick{font:600 12px/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#9d978c}

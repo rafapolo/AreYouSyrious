@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>AreYouSyrious — Timeline</title>
 <script>if(localStorage.getItem('ays-theme')==='dark')document.documentElement.classList.add('dark');</script>
 <style>
@@ -29,6 +29,30 @@
   footer{max-width:var(--w);margin:3rem auto 0;color:var(--muted);font-size:.75rem;border-top:1px solid var(--border);padding-top:1rem;display:flex;gap:1.5rem;flex-wrap:wrap}
   footer a{color:var(--muted);font-weight:700}
   footer a:hover{color:var(--accent)}
+
+  /* celular: alvos de 44 px e texto de 14 px na barra; com a tela em pé a barra tem duas linhas e Medium e GitHub ficam no rodapé */
+  @media(max-width:720px),(pointer:coarse) and (max-height:500px){
+    .top-bar{padding-top:max(.1rem,env(safe-area-inset-top));padding-left:max(var(--pad),env(safe-area-inset-left));padding-right:max(var(--pad),env(safe-area-inset-right))}
+    .top-bar h1,.top-bar .brand{min-height:44px;display:flex;align-items:center;font-size:1rem}
+    .top-links{font-size:14px}
+    .top-links a{min-height:44px;min-width:44px;display:inline-flex;align-items:center;justify-content:center;font-size:14px}
+    .theme-btn{width:44px;height:44px;justify-content:center;padding:0}
+  }
+  @media(max-width:720px){
+    .top-bar{flex-wrap:wrap;gap:0}
+    .top-links{flex:0 0 100%;margin-left:0;justify-content:space-between;gap:0}
+    .top-links a{padding:0 .35rem;letter-spacing:.04em}
+    .top-links a[href*="medium.com"],.top-links a[href*="github.com"]{display:none}
+    .theme-btn{position:absolute;top:max(.1rem,env(safe-area-inset-top));right:max(.5rem,env(safe-area-inset-right))}
+  }
+  @media(max-width:720px),(pointer:coarse) and (max-height:500px){
+    body{padding-top:4.2rem;padding-left:max(var(--pad),env(safe-area-inset-left));padding-right:max(var(--pad),env(safe-area-inset-right));padding-bottom:max(4rem,calc(2rem + env(safe-area-inset-bottom)))}
+    h2{font-size:14px;scroll-margin-top:7rem}
+    p{font-size:15px}
+    footer{font-size:14px;gap:0 1.25rem}
+    footer a{min-height:44px;display:inline-flex;align-items:center}
+  }
+  @media(max-width:720px){body{padding-top:6.1rem}}
 </style>
 </head>
 <body>
