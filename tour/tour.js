@@ -23,7 +23,7 @@
   const CSS = `
   #ays-tour,#ays-tour *{box-sizing:border-box}
   #ays-tour{position:fixed;inset:0;z-index:100000;background:#000;color:#e9e6e0;display:grid;opacity:0;
-    transition:opacity 1s ease;font-family:Georgia,"Times New Roman",serif;overflow:hidden;
+    transition:opacity calc(1s / var(--r,1)) ease;font-family:Georgia,"Times New Roman",serif;overflow:hidden;
     grid-template-rows:var(--t-topo,60px) var(--t-faixa,60vh) 1fr}
   #ays-tour.on{opacity:1}
   #ays-tour[hidden]{display:none}
@@ -33,23 +33,24 @@
     will-change:opacity,transform;background:#050505}
   #ays-tour .t-foto.vis{opacity:1}
   #ays-tour .t-foto img{width:100%;height:100%;display:block}
-  #ays-tour .t-mapa{position:absolute;inset:0;background:#06070a;opacity:0;transition:opacity 1.2s ease}
+  #ays-tour .t-mapa{position:absolute;inset:0;background:#06070a;opacity:0;transition:opacity calc(1.2s / var(--r,1)) ease}
   #ays-tour .t-mapa.vis{opacity:1}
   #ays-tour .t-mapa svg{width:100%;height:100%;display:block}
   #ays-tour .m-terra{fill:#15181c;stroke:#2c3138;stroke-width:.8px;vector-effect:non-scaling-stroke}
   #ays-tour .m-lin{fill:none;stroke:#3b3f46;stroke-width:.7px;vector-effect:non-scaling-stroke}
   #ays-tour .m-ext{fill:none;stroke:#6b7078;stroke-width:1.2px;vector-effect:non-scaling-stroke}
-  #ays-tour .m-cerca{fill:none;stroke:#7aa6bd;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity 1.4s ease}
+  #ays-tour .m-viz{stroke:#9aa1a9;stroke-width:1.8px}
+  #ays-tour .m-cerca{fill:none;stroke:#7aa6bd;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity calc(1.4s / var(--r,1)) ease}
   #ays-tour .m-cerca.on{opacity:.95}
   #ays-tour .m-foco{stroke:#a9cddd;stroke-width:2.8px}
   #ays-tour .m-rota{fill:none;stroke:#8c929a;stroke-width:.9px;vector-effect:non-scaling-stroke;opacity:.7}
   #ays-tour .m-pt{fill:#d9d4c8}
   #ays-tour .m-pt.velho{fill:#8d887e}
   #ays-tour .m-nome{fill:#cfcac0;font:600 12px ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
-  #ays-tour .m-cred{position:absolute;left:.8rem;bottom:.5rem;font:11px ui-sans-serif,system-ui,sans-serif;color:#6d6a63}
+  #ays-tour .m-cred{position:absolute;left:.8rem;top:.5rem;font:11px ui-sans-serif,system-ui,sans-serif;color:#6d6a63}
   #ays-tour .m-ano{position:absolute;right:1rem;bottom:.6rem;font:600 22px Georgia,serif;color:#8d887e;letter-spacing:.08em}
   #ays-tour .t-baixo{padding:1.1rem clamp(1rem,6vw,9rem) 1rem;display:flex;flex-direction:column;gap:.5rem;min-height:0}
-  #ays-tour .t-leg{opacity:0;transition:opacity 1.1s ease}
+  #ays-tour .t-leg{opacity:0;transition:opacity calc(1.1s / var(--r,1)) ease}
   #ays-tour .t-leg.on{opacity:1}
   #ays-tour .t-kick{font:600 12px/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#9d978c}
   #ays-tour .t-frase{margin:.35rem 0 .1rem;font-size:clamp(18px,2.15vw,28px);line-height:1.35;color:#f2efe8;font-weight:400}
@@ -61,8 +62,8 @@
     border:1px solid #3a3733;border-radius:3px;padding:.55rem .7rem;min-height:36px;cursor:pointer}
   #ays-tour button:hover,#ays-tour button:focus-visible{color:#fff;border-color:#8a847a;outline:none}
   #ays-tour .t-som.mudo{opacity:.55;text-decoration:line-through}
-  #ays-tour.fim .t-baixo,#ays-tour.fim .t-topo{opacity:0;transition:opacity 1.6s ease}
-  #ays-tour.fim .t-foto{opacity:0;transition:opacity 2.2s ease}
+  #ays-tour.fim .t-baixo,#ays-tour.fim .t-topo{opacity:0;transition:opacity calc(1.6s / var(--r,1)) ease}
+  #ays-tour.fim .t-foto{opacity:0;transition:opacity calc(2.2s / var(--r,1)) ease}
   #ays-tour-convite{position:fixed;inset:0;z-index:100001;background:rgba(0,0,0,.94);display:grid;place-items:center;
     text-align:center;color:#e9e6e0;font-family:Georgia,"Times New Roman",serif;padding:1.5rem}
   #ays-tour-convite[hidden]{display:none}
@@ -82,7 +83,7 @@
     if (raiz) return;
     const st = document.createElement('style'); st.textContent = CSS; document.head.appendChild(st);
     raiz = el('div'); raiz.id = 'ays-tour'; raiz.hidden = true; raiz.setAttribute('role', 'dialog');
-    raiz.setAttribute('aria-label', 'Tour through the archive');
+    raiz.setAttribute('aria-label', 'Tour through the archive'); raiz.style.setProperty('--r', RAPIDO);
     topo = el('div', 't-topo');
     botSom = el('button', 't-som', '♪ sound'); botSom.type = 'button';
     const bParar = el('button', 't-parar', '✕ esc'); bParar.type = 'button'; bParar.setAttribute('aria-label', 'Stop the tour');
@@ -194,9 +195,9 @@
     gLin = sv('g', {}, svg); gCerca = sv('g', {}, svg); gRota = sv('g', {}, svg); gPts = sv('g', {}, svg);
     for (const l of MAPA.lin) {
       if (MAPA.cercas[l.p]) {                       // a linha de fronteira do par: base fina + traço aceso por cima
-        sv('path', { d: l.d, class: 'm-lin' }, gLin);
+        sv('path', { d: l.d, class: 'm-lin', 'data-par': l.p }, gLin);
         const e = sv('path', { d: l.d, class: 'm-cerca', 'data-par': l.p, 'data-ano': MAPA.cercas[l.p] }, gCerca); cercaEl.push(e);
-      } else sv('path', { d: l.d, class: l.e ? 'm-ext' : 'm-lin' }, gLin);
+      } else sv('path', { d: l.d, class: l.e ? 'm-ext' : 'm-lin', 'data-par': l.p }, gLin);
     }
     for (const n in MAPA.extra) { const e = sv('path', { d: MAPA.extra[n].d, class: 'm-cerca', 'data-par': n, 'data-ano': MAPA.extra[n].ano }, gCerca); cercaEl.push(e); }
     nomeEl = sv('text', { class: 'm-nome' }, svg);
@@ -229,6 +230,8 @@
     passo();
   }
   function acendeCercas(ano, foco) {
+    // a fronteira da cena, quando não é cerca, só ganha um traço um pouco mais claro (ex.: Bósnia–Croácia, Ucrânia–Polônia)
+    gLin.querySelectorAll('[data-par]').forEach(e => e.classList.toggle('m-viz', !!foco && e.dataset.par === foco && !(MAPA.cercas[foco] <= ano)));
     cercaEl.forEach(e => {
       e.classList.toggle('on', +e.dataset.ano <= ano);
       e.classList.toggle('m-foco', !!foco && e.dataset.par === foco && +e.dataset.ano <= ano);
