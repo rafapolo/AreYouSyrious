@@ -104,6 +104,30 @@ describe("o passeio", () => {
     } finally { await fecha(); }
   });
 
+  test("a linha do tempo da direita só anda para a frente: o marcador desce sem voltar e o ano aceso nunca recua", async () => {
+    const { pg, erros, fecha } = await abre(cr, url("tour/index.html", "?rapido=20&fim=fica"));
+    try {
+      await pg.locator("#ays-tour-convite").waitFor();
+      await ev(pg, `(() => { window.__tl = [];
+        const tick = () => { if (window.aysTour.ativo()) {
+          const m = document.querySelector('#ays-tour .tl-mark'), a = document.querySelector('#ays-tour .tl-ano.agora');
+          if (m && a && document.getElementById('ays-tour').classList.contains('com-linha')) {
+            const s = [parseFloat(m.style.top), +a.dataset.y], u = window.__tl[window.__tl.length - 1];
+            if (!u || u[0] !== s[0] || u[1] !== s[1]) window.__tl.push(s); } }
+          requestAnimationFrame(tick); }; tick(); })()`);
+      await pg.click("#ays-tour-convite button");
+      await espera(pg, `!window.aysTour.ativo()`);
+      const tl = await ev<[number, number][]>(pg, `window.__tl`);
+      expect(tl.length).toBeGreaterThan(10);
+      for (let i = 1; i < tl.length; i++) {
+        expect(tl[i][0], `marcador recuou: ${JSON.stringify(tl.slice(Math.max(0, i - 2), i + 1))}`).toBeGreaterThanOrEqual(tl[i - 1][0]);
+        expect(tl[i][1], `ano recuou: ${JSON.stringify(tl.slice(Math.max(0, i - 2), i + 1))}`).toBeGreaterThanOrEqual(tl[i - 1][1]);
+      }
+      expect(tl[tl.length - 1][1], "termina em 2025").toBe(2025);
+      expect(erros).toEqual([]);
+    } finally { await fecha(); }
+  });
+
   test("Esc (e o botão ✕ esc) levam ao arquivo, index.html, e o fim natural leva ao mapa", async () => {
     for (const via of ["tecla", "botao"]) {
       const { pg, fecha } = await abre(cr, url("tour/index.html", "?rapido=20"));

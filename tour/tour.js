@@ -103,8 +103,8 @@
   @media (max-width:719px) and (orientation:portrait){
     #ays-tour.com-linha{--tlw:0px}
     #ays-tour.com-linha .t-linha{position:relative;right:auto;bottom:auto;width:auto;flex-direction:row;align-items:flex-end;justify-content:flex-start;
-      gap:.35rem;padding:.2rem 0 .35rem;background:transparent;overflow-x:auto;overflow-y:hidden;min-height:28px}
-    #ays-tour .tl-ano{flex-direction:column;gap:0;padding:0 .15rem;min-width:max-content}
+      justify-content:space-between;gap:0;padding:.5rem 0 0;margin-top:auto;background:transparent;overflow:hidden;min-height:28px;border-top:1px solid #1b1a18}
+    #ays-tour .tl-ano{flex-direction:column;gap:0;padding:0;min-width:0}
     #ays-tour .tl-ev{display:none}
     #ays-tour .tl-y{min-width:0;font-size:11px}
     #ays-tour .tl-mark{display:none}
@@ -118,6 +118,22 @@
     #ays-tour .tl-y{font-size:11px;min-width:2.1rem}
     #ays-tour .tl-ev{font-size:10px;line-height:1.15}
   }
+  /* celular deitado: tela cheia, botões e legenda por cima da foto */
+  #ays-tour.cine{grid-template-rows:100%}
+  #ays-tour.cine .t-topo{position:absolute;top:0;right:0;z-index:7;padding:max(.4rem,env(safe-area-inset-top)) max(.6rem,env(safe-area-inset-right)) 0 0}
+  #ays-tour.cine .t-topo button{background:rgba(0,0,0,.45);border-color:rgba(255,255,255,.18);min-height:34px;padding:.4rem .55rem}
+  #ays-tour.cine .t-baixo{position:absolute;left:0;right:var(--tlw);bottom:0;z-index:6;justify-content:flex-end;
+    padding:2.6rem max(1.2rem,env(safe-area-inset-right)) max(.6rem,env(safe-area-inset-bottom)) max(1.2rem,env(safe-area-inset-left));
+    background:linear-gradient(180deg,rgba(0,0,0,0),rgba(0,0,0,.72) 45%,rgba(0,0,0,.86))}
+  #ays-tour.cine .t-frase{font-size:17px;line-height:1.3;margin:.2rem 0 .05rem;text-shadow:0 1px 3px #000}
+  #ays-tour.cine .t-kick{font-size:11px}
+  #ays-tour.cine .t-fonte{font-size:11px}
+  #ays-tour.cine .m-ano{bottom:auto;top:.5rem;right:auto;left:.8rem;font-size:18px}
+  #ays-tour.cine .m-cred{top:auto;bottom:.4rem;left:auto;right:.6rem;z-index:8;font-size:10px}
+  #ays-tour.cine.com-linha{--tlw:60px}
+  #ays-tour.cine .t-linha{padding:3.2rem .4rem .6rem .6rem;justify-content:space-between}
+  #ays-tour.cine .tl-ev{display:none}
+  #ays-tour.cine .tl-y{min-width:0;font-size:11px}
   @media (prefers-reduced-motion:reduce){#ays-tour .t-linha,#ays-tour .tl-mark,#ays-tour .tl-ano{transition:none!important}}
 
   .tour-btn{cursor:pointer}`;
@@ -170,12 +186,21 @@
     addEventListener('resize', medir);
   }
 
-  /* a faixa de foto: 2,39:1 no desktop; no celular em pé, a metade de cima, para a legenda não cobrir a foto */
+  /* a faixa de foto: 2,39:1 no desktop. Celular em pé: foto + legenda formam um bloco centralizado na vertical,
+     com tarjas pretas iguais em cima e embaixo, como numa sala de cinema. Celular deitado: a foto ocupa a tela
+     e a legenda fica por cima, na parte de baixo, como legenda de filme (classe .cine). */
   function medir() {
     if (!raiz) return;
-    const W = innerWidth, H = innerHeight;
+    const W = innerWidth, H = innerHeight, cine = W > H && H <= 520;
+    raiz.classList.toggle('cine', cine);
+    const emPe = W < 720 && H > W, lugarLinha = emPe ? baixo : faixa;   // em pé: os anos ficam na tarja de baixo, fora da foto
+    if (linha && linha.parentNode !== lugarLinha) lugarLinha.appendChild(linha);
     let faixaH, topoH;
-    if (W < 720 && H > W) { faixaH = Math.round(H * 0.5); topoH = 52; }
+    if (W < 720 && H > W) {
+      faixaH = Math.round(Math.min(H * 0.5, W * 1.25));
+      const leg = Math.round(Math.max(150, H * 0.27));                 // espaço da legenda (3 a 4 linhas)
+      topoH = Math.max(52, Math.round((H - faixaH - leg) / 2));
+    } else if (cine) { faixaH = H; topoH = 0; }
     else { faixaH = Math.round(Math.min(W / 2.39, H - 230)); topoH = Math.max(48, Math.round((H - faixaH) * 0.28)); }
     raiz.style.setProperty('--t-faixa', faixaH + 'px');
     raiz.style.setProperty('--t-topo', topoH + 'px');
@@ -418,16 +443,17 @@
       tlMark.style.top = top + 'px';
     }
   }
-  function tlTick(acum, cenaAno) {
+  // posição na coluna em anos fracionários (2016.0 = topo de 2016); só anda para a frente:
+  // cenas fora de ordem ou o epílogo (foto de 2020 depois de 2025) não fazem o marcador voltar
+  const dataPos = c => { const d = new Date(c.data + 'T12:00:00Z'), y = d.getUTCFullYear(); return y + (d - Date.UTC(y, 0, 1)) / (Date.UTC(y + 1, 0, 1) - Date.UTC(y, 0, 1)); };
+  let tlPos = 2016;
+  function tlTick(acum, i, f) {
+    const c = DADOS[i], n = DADOS[i + 1], p0 = dataPos(c), p1 = n ? Math.max(p0, dataPos(n)) : 2025.999;   // a última cena leva o marcador ao fim da coluna
+    tlPos = Math.min(2025.999, Math.max(tlPos, p0 + (p1 - p0) * (f || 0)));
     if (acum < TL_INICIO) { if (tlVis) tlMostra(false); return; }
     if (!tlVis) tlMostra(true);
-    const ano = cenaAno || 2016;
-    // marker slides across the full 2016-2025 span by overall progress after 75s
-    const totalTour = DADOS ? DADOS.reduce((s,c)=>s+c.ms+(c.mapa?c.mapa.ms:0),0) : 237000;
-    const k = Math.min(1, Math.max(0, (acum - TL_INICIO) / Math.max(1, totalTour - TL_INICIO)));
-    const anoCont = 2016 + k * 9;
-    const a = Math.min(2025, Math.max(2016, Math.floor(anoCont)));
-    tlAtualiza(Math.max(ano, a) && ano ? ano : a, anoCont - Math.floor(anoCont));
+    const ano = Math.floor(tlPos);
+    tlAtualiza(ano, tlPos - ano);
   }
 
   function progresso() {
@@ -450,7 +476,7 @@
     raiz.hidden = false; raiz.classList.remove('fim'); medir(); marcaSom();
     requestAnimationFrame(() => raiz.classList.add('on'));
     TOTAL = (DADOS.reduce((s, c) => s + c.ms + (c.mapa ? c.mapa.ms : 0), 0) + SILENCIO_FINAL) / RAPIDO;
-    montaMapa(); limpaMapa(); fechaMapa(); tlMostra(false); tlAcum = 0;
+    montaMapa(); limpaMapa(); fechaMapa(); tlMostra(false); tlAcum = 0; tlPos = 2016;
     inicio = performance.now();
     prog.firstChild.style.transform = 'scaleX(0)';
     leg.classList.remove('on'); fotos.forEach(f => { f.classList.remove('vis'); f.textContent = ''; });
@@ -458,22 +484,22 @@
     raf = requestAnimationFrame(progresso);
     try {
       pre(0); pre(1);
-      tlAcum = 0; tlMostra(false);
+      tlAcum = 0; tlPos = 2016; tlMostra(false);
       for (let i = 0; i < DADOS.length; i++) {
-        const c = DADOS[i], dur = c.ms / RAPIDO, t0 = performance.now(), cAno = anoDe(c);
+        const c = DADOS[i], dur = c.ms / RAPIDO, t0 = performance.now();
         cena = i;
         leg.classList.remove('on');
         if (som) som.cena(i, c);
-        tlTick(tlAcum, cAno);
+        tlTick(tlAcum, i, 0);
         if (c.mapa) {
           const mdur = c.mapa.ms / RAPIDO;
           await espera(semMov.matches ? 0 : 450 / RAPIDO);
-          tlTick(tlAcum, cAno);
+          tlTick(tlAcum, i, 0);
           await mapaDaCena(i, mdur, false);
-          tlTick(tlAcum + (c.mapa ? c.mapa.ms : 0) * 0.5, cAno);
+          tlTick(tlAcum + c.mapa.ms * 0.5, i, 0.2);
           await espera(mdur - (performance.now() - t0));
           tlAcum += c.mapa.ms;
-          tlTick(tlAcum, cAno);
+          tlTick(tlAcum, i, 0.4);
           // a foto da cena anterior ficava acesa debaixo do mapa e reaparecia
           // quando ele se apagava; some agora, ainda coberta, e a nova entra do preto
           fotos.forEach(f => { f.style.transition = 'none'; f.classList.remove('vis'); });
@@ -482,15 +508,15 @@
           leg.classList.remove('on');
         }
         const t1 = performance.now();
-        tlTick(tlAcum, cAno);
+        tlTick(tlAcum, i, c.mapa ? 0.4 : 0);
         await mostraFoto(i, dur);
         pre(i + 1);
         await espera(Math.min(700, dur * 0.12));
         escreve(i); leg.classList.add('on');
-        tlTick(tlAcum + c.ms * 0.3, cAno);
+        tlTick(tlAcum + c.ms * 0.3, i, c.mapa ? 0.6 : 0.4);
         await espera(t1 + dur - performance.now());
         tlAcum += c.ms;
-        tlTick(tlAcum, cAno);
+        tlTick(tlAcum, i, 1);
       }
       // fecho: legenda some, a foto some e fica o preto, com a última nota apagando
       leg.classList.remove('on');
@@ -525,7 +551,7 @@
       setTimeout(() => { if (!ativo && raiz) { raiz.hidden = true; fotos.forEach(f => { f.textContent = ''; f.classList.remove('vis'); }); } }, 1050 / RAPIDO + 40);
     }
     document.body.style.overflow = salvo ? salvo.ov : '';
-    tlMostra(false); tlAcum = 0; cena = -1;
+    tlMostra(false); tlAcum = 0; tlPos = 2016; cena = -1;
     if (SOZINHA && !natural) { location.assign(new URL('../index.html', BASE || location.href).href); return; }   // não há página a restaurar
     if (quemChamou && quemChamou.isConnected && quemChamou !== document.body) { try { quemChamou.focus({ preventScroll: true }); } catch (e) { /* sem foco */ } }
   }
