@@ -1,0 +1,425 @@
+/* Tour pelo arquivo: 33 cenas, uma frase literal de um post e a foto que a acompanha (tour/dados.js, gerado por
+   script/monta_tour.py a partir de design/tour.json). Roda como camada sobre a página que o chamou: Esc ou "✕ esc"
+   param e devolvem tudo como estava. ?tour=1 abre o convite (o navegador só libera o som depois de um gesto);
+   ?rapido=N acelera o relógio N vezes (para a suíte). Som: tour/som.js (Web Audio, sem arquivo). */
+(() => {
+  'use strict';
+  const AQUI = (document.currentScript && document.currentScript.src) || '';
+  const BASE = AQUI.replace(/[^/]*$/, '');             // .../tour/
+  const q0 = new URLSearchParams(location.search);
+  const RAPIDO = Math.min(60, Math.max(1, parseFloat(q0.get('rapido')) || 1));
+  const SILENCIO_FINAL = 5000;                          // ms de preto e quase silêncio antes de devolver a página
+  const FUSAO = 1400;                                   // ms da fusão entre fotos
+  const semMov = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const som = window.AysSom || null;
+
+  let DADOS = null, ativo = false, cena = -1, inicio = 0, TOTAL = 0, raf = 0, quemChamou = null, salvo = null;
+  const pend = new Set();
+  class Parado extends Error {}
+  const espera = ms => new Promise((ok, falha) => {
+    const p = { falha }; p.id = setTimeout(() => { pend.delete(p); ok(); }, Math.max(0, ms)); pend.add(p);
+  });
+
+  const CSS = `
+  #ays-tour,#ays-tour *{box-sizing:border-box}
+  #ays-tour{position:fixed;inset:0;z-index:100000;background:#000;color:#e9e6e0;display:grid;opacity:0;
+    transition:opacity 1s ease;font-family:Georgia,"Times New Roman",serif;overflow:hidden;
+    grid-template-rows:var(--t-topo,60px) var(--t-faixa,60vh) 1fr}
+  #ays-tour.on{opacity:1}
+  #ays-tour[hidden]{display:none}
+  #ays-tour .t-topo{display:flex;align-items:flex-start;justify-content:flex-end;gap:.6rem;padding:.7rem .9rem}
+  #ays-tour .t-faixa{position:relative;overflow:hidden;background:#050505}
+  #ays-tour .t-foto{position:absolute;inset:0;width:100%;height:100%;opacity:0;transition:opacity ${FUSAO}ms ease;
+    will-change:opacity,transform;background:#050505}
+  #ays-tour .t-foto.vis{opacity:1}
+  #ays-tour .t-foto img{width:100%;height:100%;display:block}
+  #ays-tour .t-mapa{position:absolute;inset:0;background:#06070a;opacity:0;transition:opacity 1.2s ease}
+  #ays-tour .t-mapa.vis{opacity:1}
+  #ays-tour .t-mapa svg{width:100%;height:100%;display:block}
+  #ays-tour .m-terra{fill:#15181c;stroke:#2c3138;stroke-width:.8px;vector-effect:non-scaling-stroke}
+  #ays-tour .m-lin{fill:none;stroke:#3b3f46;stroke-width:.7px;vector-effect:non-scaling-stroke}
+  #ays-tour .m-ext{fill:none;stroke:#6b7078;stroke-width:1.2px;vector-effect:non-scaling-stroke}
+  #ays-tour .m-cerca{fill:none;stroke:#7aa6bd;stroke-width:2px;vector-effect:non-scaling-stroke;opacity:0;transition:opacity 1.4s ease}
+  #ays-tour .m-cerca.on{opacity:.95}
+  #ays-tour .m-foco{stroke:#a9cddd;stroke-width:2.8px}
+  #ays-tour .m-rota{fill:none;stroke:#8c929a;stroke-width:.9px;vector-effect:non-scaling-stroke;opacity:.7}
+  #ays-tour .m-pt{fill:#d9d4c8}
+  #ays-tour .m-pt.velho{fill:#8d887e}
+  #ays-tour .m-nome{fill:#cfcac0;font:600 12px ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
+  #ays-tour .m-cred{position:absolute;left:.8rem;bottom:.5rem;font:11px ui-sans-serif,system-ui,sans-serif;color:#6d6a63}
+  #ays-tour .m-ano{position:absolute;right:1rem;bottom:.6rem;font:600 22px Georgia,serif;color:#8d887e;letter-spacing:.08em}
+  #ays-tour .t-baixo{padding:1.1rem clamp(1rem,6vw,9rem) 1rem;display:flex;flex-direction:column;gap:.5rem;min-height:0}
+  #ays-tour .t-leg{opacity:0;transition:opacity 1.1s ease}
+  #ays-tour .t-leg.on{opacity:1}
+  #ays-tour .t-kick{font:600 12px/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#9d978c}
+  #ays-tour .t-frase{margin:.35rem 0 .1rem;font-size:clamp(18px,2.15vw,28px);line-height:1.35;color:#f2efe8;font-weight:400}
+  #ays-tour .t-fonte{font:12px/1.4 ui-sans-serif,system-ui,sans-serif;color:#8d887e}
+  #ays-tour .t-fonte a{color:#b9b3a7;text-decoration:underline;text-underline-offset:2px}
+  #ays-tour .t-prog{position:absolute;left:0;right:0;top:0;height:2px;background:#1b1a18}
+  #ays-tour .t-prog i{display:block;height:100%;background:#7d776c;transform:scaleX(0);transform-origin:0 50%}
+  #ays-tour button{font:600 12px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em;color:#bdb7ab;background:rgba(20,19,17,.7);
+    border:1px solid #3a3733;border-radius:3px;padding:.55rem .7rem;min-height:36px;cursor:pointer}
+  #ays-tour button:hover,#ays-tour button:focus-visible{color:#fff;border-color:#8a847a;outline:none}
+  #ays-tour .t-som.mudo{opacity:.55;text-decoration:line-through}
+  #ays-tour.fim .t-baixo,#ays-tour.fim .t-topo{opacity:0;transition:opacity 1.6s ease}
+  #ays-tour.fim .t-foto{opacity:0;transition:opacity 2.2s ease}
+  #ays-tour-convite{position:fixed;inset:0;z-index:100001;background:rgba(0,0,0,.94);display:grid;place-items:center;
+    text-align:center;color:#e9e6e0;font-family:Georgia,"Times New Roman",serif;padding:1.5rem}
+  #ays-tour-convite[hidden]{display:none}
+  #ays-tour-convite p{max-width:34rem;margin:0 auto 1.6rem;font-size:clamp(18px,2.4vw,24px);line-height:1.45;color:#cfcac0}
+  #ays-tour-convite button{font:600 16px/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em;color:#f2efe8;background:#171614;
+    border:1px solid #6f6a60;border-radius:3px;padding:1rem 1.8rem;min-height:48px;cursor:pointer}
+  #ays-tour-convite button:hover,#ays-tour-convite button:focus-visible{background:#26241f;border-color:#bdb7ab;outline:none}
+  #ays-tour-convite small{display:block;margin-top:1.1rem;font:13px/1.4 ui-sans-serif,system-ui,sans-serif;color:#8d887e}
+  @media (prefers-reduced-motion:reduce){#ays-tour,#ays-tour .t-foto,#ays-tour .t-leg,#ays-tour .t-mapa,#ays-tour .m-cerca{transition:none!important}}
+  .tour-btn{cursor:pointer}`;
+
+  const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt) e.textContent = txt; return e; };
+  let raiz, faixa, fotos, leg, kick, frase, fonte, prog, topo, baixo, botSom, convite;
+  let mapaDiv, svg, MAPA = null, gTerra, gLin, gCerca, gRota, gPts, nomeEl, anoEl, vista = null, visitados = [], cercaEl = [], vooRaf = 0, fimTimer = 0;
+
+  function monta() {
+    if (raiz) return;
+    const st = document.createElement('style'); st.textContent = CSS; document.head.appendChild(st);
+    raiz = el('div'); raiz.id = 'ays-tour'; raiz.hidden = true; raiz.setAttribute('role', 'dialog');
+    raiz.setAttribute('aria-label', 'Tour through the archive');
+    topo = el('div', 't-topo');
+    botSom = el('button', 't-som', '♪ sound'); botSom.type = 'button';
+    const bParar = el('button', 't-parar', '✕ esc'); bParar.type = 'button'; bParar.setAttribute('aria-label', 'Stop the tour');
+    topo.append(botSom, bParar);
+    faixa = el('div', 't-faixa');
+    fotos = [el('div', 't-foto'), el('div', 't-foto')];
+    faixa.append(fotos[0], fotos[1]);
+    mapaDiv = el('div', 't-mapa'); mapaDiv.setAttribute('aria-hidden', 'true');
+    anoEl = el('div', 'm-ano'); const cred = el('div', 'm-cred', 'Borders: Natural Earth (public domain)');
+    mapaDiv.append(anoEl, cred); faixa.appendChild(mapaDiv);
+    baixo = el('div', 't-baixo');
+    leg = el('div', 't-leg'); leg.setAttribute('aria-live', 'polite');
+    kick = el('div', 't-kick'); frase = el('p', 't-frase'); fonte = el('div', 't-fonte');
+    leg.append(kick, frase, fonte); baixo.append(leg);
+    prog = el('div', 't-prog'); prog.appendChild(document.createElement('i'));
+    raiz.append(prog, topo, faixa, baixo);
+    document.body.appendChild(raiz);
+    bParar.addEventListener('click', () => parar(false));
+    botSom.addEventListener('click', () => {
+      if (!som) return;
+      som.alternar();
+      if (som.ligado() && ativo) { som.iniciar(); som.cena(cena, DADOS[cena]); }
+      marcaSom();
+    });
+    if (!som) botSom.hidden = true;
+    addEventListener('resize', medir);
+  }
+
+  /* a faixa de foto: 2,39:1 no desktop; no celular em pé, a metade de cima, para a legenda não cobrir a foto */
+  function medir() {
+    if (!raiz) return;
+    const W = innerWidth, H = innerHeight;
+    let faixaH, topoH;
+    if (W < 720 && H > W) { faixaH = Math.round(H * 0.5); topoH = 52; }
+    else { faixaH = Math.round(Math.min(W / 2.39, H - 230)); topoH = Math.max(48, Math.round((H - faixaH) * 0.28)); }
+    raiz.style.setProperty('--t-faixa', faixaH + 'px');
+    raiz.style.setProperty('--t-topo', topoH + 'px');
+  }
+
+  function marcaSom() {
+    const on = !!som && som.ligado();
+    botSom.classList.toggle('mudo', !on);
+    botSom.setAttribute('aria-pressed', String(on));
+    botSom.setAttribute('aria-label', on ? 'Sound: on' : 'Sound: off');
+  }
+
+  function carrega() {
+    const js = (nome, glob) => window[glob] ? Promise.resolve() : new Promise((ok, falha) => {
+      const s = document.createElement('script'); s.src = BASE + nome;
+      s.onload = ok; s.onerror = () => falha(new Error(nome)); document.head.appendChild(s);
+    });
+    return Promise.all([js('dados.js', 'AYS_TOUR'), js('mapa.js', 'AYS_MAPA')]).then(() => { DADOS = window.AYS_TOUR; MAPA = window.AYS_MAPA; });
+  }
+  function pre(i) { if (DADOS && DADOS[i]) { const im = new Image(); im.src = BASE + DADOS[i].img; } }
+
+  function poeFoto(i, no) {
+    const c = DADOS[i];
+    no.textContent = '';
+    const im = new Image(); im.alt = ''; im.decoding = 'async'; im.src = BASE + c.img;
+    const estreita = innerWidth < 720 && innerHeight > innerWidth;      // celular em pé: a faixa é quase quadrada
+    im.style.objectFit = (c.ajuste === 'contain' || (c.legivel && estreita)) ? 'contain' : 'cover';
+    im.style.objectPosition = (c.foco[0] * 100) + '% ' + (c.foco[1] * 100) + '%';
+    no.appendChild(im);
+    no.style.transition = 'none'; no.style.transform = 'none';
+    return im;
+  }
+
+  const MES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const dataLonga = d => { const [a, m, dia] = d.split('-'); return parseInt(dia, 10) + ' ' + MES[parseInt(m, 10) - 1] + ' ' + a; };
+  function escreve(i) {
+    const c = DADOS[i];
+    kick.textContent = c.kicker;
+    frase.textContent = c.frase;
+    fonte.textContent = '';
+    const a = document.createElement('a');
+    a.href = BASE + '../post.html?p=' + encodeURIComponent(c.fonte); a.target = '_blank'; a.rel = 'noopener';
+    a.textContent = 'Source: post of ' + dataLonga(c.data) + ' ↗';
+    fonte.appendChild(a);
+    if (c.credito) fonte.appendChild(document.createTextNode(' · Photo: ' + c.credito));
+  }
+
+  let lado = 0;
+  async function mostraFoto(i, dur) {
+    const antes = fotos[lado], depois = fotos[1 - lado];
+    const im = poeFoto(i, depois);
+    try { await im.decode(); } catch (e) { /* segue sem decode */ }
+    if (!ativo) return;
+    depois.style.transition = semMov.matches ? 'none' : '';
+    depois.classList.add('vis');
+    antes.classList.remove('vis');
+    if (!semMov.matches) {
+      // movimento quase parado: 2,5% de zoom em toda a cena
+      depois.style.transition = `opacity ${FUSAO / RAPIDO}ms ease, transform ${dur}ms linear`;
+      requestAnimationFrame(() => requestAnimationFrame(() => { depois.style.transform = 'scale(1.025)'; }));
+    }
+    lado = 1 - lado;
+  }
+
+  /* ---- mapa: fronteiras como traço principal, terra quase apagada ---- */
+  const NS = 'http://www.w3.org/2000/svg';
+  const sv = (tag, attrs, pai) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (pai) pai.appendChild(e); return e; };
+  const px = lon => (lon - MAPA.lon0) * MAPA.kx, py = lat => (MAPA.lat1 - lat) * MAPA.ky;
+  const anoDe = c => parseInt(c.data.slice(0, 4), 10);
+
+  function montaMapa() {
+    if (svg) return;
+    svg = sv('svg', { viewBox: `0 0 ${MAPA.w} ${MAPA.h}`, preserveAspectRatio: 'xMidYMid slice', role: 'presentation' });
+    gTerra = sv('g', {}, svg); sv('path', { d: MAPA.terra, class: 'm-terra' }, gTerra);
+    gLin = sv('g', {}, svg); gCerca = sv('g', {}, svg); gRota = sv('g', {}, svg); gPts = sv('g', {}, svg);
+    for (const l of MAPA.lin) {
+      if (MAPA.cercas[l.p]) {                       // a linha de fronteira do par: base fina + traço aceso por cima
+        sv('path', { d: l.d, class: 'm-lin' }, gLin);
+        const e = sv('path', { d: l.d, class: 'm-cerca', 'data-par': l.p, 'data-ano': MAPA.cercas[l.p] }, gCerca); cercaEl.push(e);
+      } else sv('path', { d: l.d, class: l.e ? 'm-ext' : 'm-lin' }, gLin);
+    }
+    for (const n in MAPA.extra) { const e = sv('path', { d: MAPA.extra[n].d, class: 'm-cerca', 'data-par': n, 'data-ano': MAPA.extra[n].ano }, gCerca); cercaEl.push(e); }
+    nomeEl = sv('text', { class: 'm-nome' }, svg);
+    mapaDiv.insertBefore(svg, mapaDiv.firstChild);
+  }
+  function vistaDe(v) {                              // [lon, lat, largura em graus] -> viewBox
+    const W = faixa.clientWidth || 1280, H = faixa.clientHeight || 530;
+    const w = v[2] * MAPA.kx, h = w * H / W;
+    return { cx: px(v[0]), cy: py(v[1]), w, h };
+  }
+  function aplicaVista(v) {
+    vista = v;
+    svg.setAttribute('viewBox', `${v.cx - v.w / 2} ${v.cy - v.h / 2} ${v.w} ${v.h}`);
+    const u = v.w / (faixa.clientWidth || 1280);     // unidades do mapa por pixel
+    gPts.querySelectorAll('circle').forEach(c => c.setAttribute('r', (c.classList.contains('velho') ? 2.6 : 3.8) * u));
+    if (nomeEl.dataset.x) { nomeEl.setAttribute('x', +nomeEl.dataset.x + 9 * u); nomeEl.setAttribute('y', +nomeEl.dataset.y - 7 * u); nomeEl.style.fontSize = 12 * u + 'px'; }
+  }
+  function voaPara(alvo, dur) {
+    cancelAnimationFrame(vooRaf);
+    const a = vista || vistaDe([18, 45, 60]), t0 = performance.now();
+    if (semMov.matches || dur <= 0) { aplicaVista(alvo); return; }
+    const f = t => t < .5 ? 2 * t * t : 1 - (-2 * t + 2) ** 2 / 2;
+    const passo = () => {
+      const k = Math.min(1, (performance.now() - t0) / dur), e = f(k);
+      // zoom por razão (não linear), para a aproximação ficar uniforme
+      const w = a.w * (alvo.w / a.w) ** e;
+      aplicaVista({ cx: a.cx + (alvo.cx - a.cx) * e, cy: a.cy + (alvo.cy - a.cy) * e, w, h: w * alvo.h / alvo.w });
+      if (k < 1 && ativo) vooRaf = requestAnimationFrame(passo);
+    };
+    passo();
+  }
+  function acendeCercas(ano, foco) {
+    cercaEl.forEach(e => {
+      e.classList.toggle('on', +e.dataset.ano <= ano);
+      e.classList.toggle('m-foco', !!foco && e.dataset.par === foco && +e.dataset.ano <= ano);
+    });
+  }
+  function pontoNo(c, velho) {
+    const [lon, lat] = c.coord;
+    return sv('circle', { cx: px(lon), cy: py(lat), r: 3, class: 'm-pt' + (velho ? ' velho' : '') }, gPts);
+  }
+  /* o mapa de uma cena: aproxima da fronteira, acende as cercas até o ano da cena e acrescenta o trecho da rota */
+  async function mapaDaCena(i, dur, parado) {
+    const c = DADOS[i], m = c.mapa, ano = anoDe(c);
+    montaMapa();
+    mapaDiv.classList.add('vis');
+    const anim = !semMov.matches && !parado;
+    kick.textContent = m.fecho ? '2016 → 2025' : (m.nome || c.lugar) + ' · ' + ano;
+    frase.textContent = ''; fonte.textContent = '';
+    if (m.fecho) fecho(i, dur, parado);
+    else {
+      acendeCercas(ano, m.fronteira);
+      anoEl.textContent = ano;
+      gPts.querySelectorAll('circle').forEach(p => p.classList.add('velho'));
+      const ant = visitados[visitados.length - 1];
+      if (ant) {                                      // o traço se desenha do lugar anterior até este
+        const x1 = px(ant[0]), y1 = py(ant[1]), x2 = px(c.coord[0]), y2 = py(c.coord[1]);
+        const ln = sv('line', { x1, y1, x2: anim ? x1 : x2, y2: anim ? y1 : y2, class: 'm-rota' }, gRota);
+        if (anim) {
+          const t0 = performance.now(), D = 1800 / RAPIDO;
+          const passo = () => { const k = Math.min(1, (performance.now() - t0) / D), e = k * k * (3 - 2 * k);
+            ln.setAttribute('x2', x1 + (x2 - x1) * e); ln.setAttribute('y2', y1 + (y2 - y1) * e); if (k < 1 && ativo) requestAnimationFrame(passo); };
+          passo();
+        }
+      }
+      visitados.push(c.coord);
+      pontoNo(c, false);
+      nomeEl.textContent = c.lugar; nomeEl.dataset.x = px(c.coord[0]); nomeEl.dataset.y = py(c.coord[1]);
+    }
+    const alvo = vistaDe(m.vista);
+    if (!vista) aplicaVista(vistaDe([18, 45, 60]));
+    if (parado) { aplicaVista(alvo); }
+    else voaPara(alvo, m.fecho ? 2600 / RAPIDO : Math.min(2300, dur * 0.72));
+    leg.classList.add('on');
+  }
+  /* fecho: o mapa inteiro, as cercas acendendo ano a ano (2016 -> 2025), todos os lugares acesos */
+  function fecho(i, dur, parado) {
+    nomeEl.textContent = ''; nomeEl.dataset.x = '';
+    gPts.querySelectorAll('circle').forEach(p => p.classList.remove('velho'));
+    const anos = [...new Set(cercaEl.map(e => +e.dataset.ano))].sort();
+    clearInterval(fimTimer);
+    if (parado || semMov.matches) { acendeCercas(2025); anoEl.textContent = '2016 → 2025'; return; }
+    acendeCercas(2015); anoEl.textContent = 2016;
+    const t0 = performance.now(), total = (dur - 1500) / 1, rapido = RAPIDO;
+    fimTimer = setInterval(() => {
+      const k = Math.min(1, (performance.now() - t0) * rapido / total), ano = Math.round(2016 + k * 9);
+      anoEl.textContent = ano; acendeCercas(ano);
+      if (k >= 1) clearInterval(fimTimer);
+    }, 120);
+  }
+  function fechaMapa() { clearInterval(fimTimer); if (mapaDiv) mapaDiv.classList.remove('vis'); }
+  function limpaMapa() {
+    if (!svg) return;
+    gRota.textContent = ''; gPts.textContent = ''; visitados = []; vista = null; cercaEl.forEach(e => e.classList.remove('on', 'm-foco'));
+    nomeEl.textContent = ''; nomeEl.dataset.x = '';
+  }
+
+  function progresso() {
+    const t = Math.min(1, (performance.now() - inicio) / TOTAL);
+    prog.firstChild.style.transform = 'scaleX(' + t + ')';
+    if (ativo) raf = requestAnimationFrame(progresso);
+  }
+
+  async function iniciar(quem, congelado) {
+    if (ativo) return;
+    ativo = true;
+    quemChamou = quem || document.activeElement;
+    if (som && !congelado) som.iniciar();           // o AudioContext nasce AQUI, no gesto, antes de qualquer await
+    fechaConvite();
+    monta();
+    try { await carrega(); } catch (e) { console.error(e); ativo = false; return; }
+    if (!ativo) return;
+    salvo = { ov: document.body.style.overflow };
+    document.body.style.overflow = 'hidden';
+    raiz.hidden = false; raiz.classList.remove('fim'); medir(); marcaSom();
+    requestAnimationFrame(() => raiz.classList.add('on'));
+    TOTAL = (DADOS.reduce((s, c) => s + c.ms + (c.mapa ? c.mapa.ms : 0), 0) + SILENCIO_FINAL) / RAPIDO;
+    montaMapa(); limpaMapa(); fechaMapa();
+    inicio = performance.now();
+    prog.firstChild.style.transform = 'scaleX(0)';
+    leg.classList.remove('on'); fotos.forEach(f => { f.classList.remove('vis'); f.textContent = ''; });
+    if (congelado) return;
+    raf = requestAnimationFrame(progresso);
+    try {
+      pre(0); pre(1);
+      for (let i = 0; i < DADOS.length; i++) {
+        const c = DADOS[i], dur = c.ms / RAPIDO, t0 = performance.now();
+        cena = i;
+        leg.classList.remove('on');
+        if (som) som.cena(i, c);
+        if (c.mapa) {
+          const mdur = c.mapa.ms / RAPIDO;
+          await espera(semMov.matches ? 0 : 450 / RAPIDO);
+          await mapaDaCena(i, mdur, false);
+          await espera(mdur - (performance.now() - t0));
+          leg.classList.remove('on'); fechaMapa();
+          await espera(FUSAO / RAPIDO * 0.6);
+          leg.classList.remove('on');
+        }
+        const t1 = performance.now();
+        await mostraFoto(i, dur);
+        pre(i + 1);
+        await espera(Math.min(700, dur * 0.12));
+        escreve(i); leg.classList.add('on');
+        await espera(t1 + dur - performance.now());
+      }
+      // fecho: legenda some, a foto some e fica o preto, com a última nota apagando
+      leg.classList.remove('on');
+      raiz.classList.add('fim');
+      if (som) som.parar(true);
+      await espera(SILENCIO_FINAL / RAPIDO);
+      parar(true);
+    } catch (e) { if (!(e instanceof Parado)) { console.error(e); parar(false); } }
+  }
+
+  function parar(natural) {
+    if (!ativo) return;
+    ativo = false; cancelAnimationFrame(raf); cancelAnimationFrame(vooRaf); fechaMapa();
+    for (const p of pend) { clearTimeout(p.id); p.falha(new Parado()); }
+    pend.clear();
+    if (som) som.parar(!!natural);
+    if (raiz) {
+      raiz.classList.remove('on'); raiz.classList.remove('fim');
+      setTimeout(() => { if (!ativo && raiz) { raiz.hidden = true; fotos.forEach(f => { f.textContent = ''; f.classList.remove('vis'); }); } }, 1050 / RAPIDO + 40);
+    }
+    document.body.style.overflow = salvo ? salvo.ov : '';
+    cena = -1;
+    if (quemChamou && quemChamou.isConnected && quemChamou !== document.body) { try { quemChamou.focus({ preventScroll: true }); } catch (e) { /* sem foco */ } }
+  }
+
+  /* convite (?tour=1) */
+  function fechaConvite() { if (convite) convite.hidden = true; }
+  function convida() {
+    if (!convite) {
+      convite = el('div'); convite.id = 'ays-tour-convite'; convite.setAttribute('role', 'dialog');
+      convite.setAttribute('aria-label', 'Tour invitation');
+      const p = el('p', '', 'This tour contains accounts of death and suffering at Europe’s borders.');
+      const b = el('button', '', 'Press to start'); b.type = 'button';
+      const s = el('small'); convite.append(p, b, s);
+      document.body.appendChild(convite);
+      convite.addEventListener('click', e => { if (e.target.closest('button')) iniciar(); else fechaConvite(); });
+      if (!document.getElementById('ays-tour-css')) {
+        const st = document.createElement('style'); st.id = 'ays-tour-css'; st.textContent = CSS; document.head.appendChild(st);
+      }
+    }
+    convite.querySelector('small').textContent = som && som.ligado()
+      ? 'About 3 minutes, with quiet music. Esc stops it.' : 'About 3 minutes, without sound (you turned it off). Esc stops it.';
+    convite.hidden = false;
+    convite.querySelector('button').focus({ preventScroll: true });
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.key !== 'Escape') return;
+    if (ativo) { e.stopPropagation(); e.preventDefault(); parar(false); }
+    else if (convite && !convite.hidden) { e.stopPropagation(); fechaConvite(); }
+  }, true);
+
+  function ligaBotoes() {
+    document.querySelectorAll('[data-tour]').forEach(b => b.addEventListener('click', e => { e.preventDefault(); iniciar(e.currentTarget); }));
+    if (q0.get('tour') === '1') {
+      try { const u = new URL(location.href); u.searchParams.delete('tour'); history.replaceState(null, '', u); } catch (e) { /* file:// */ }
+      convida();
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', ligaBotoes); else ligaBotoes();
+
+  /* cena i parada, sem relógio (suíte e prints) */
+  async function mostra(i) {
+    if (!ativo) await iniciar(null, true);
+    fechaMapa(); cena = i; leg.classList.remove('on');
+    const im = poeFoto(i, fotos[lado]); try { await im.decode(); } catch (e) { /* ok */ }
+    fotos[lado].classList.add('vis'); fotos[lado].style.transition = 'none';
+    escreve(i); leg.style.transition = 'none'; leg.classList.add('on');
+  }
+
+  /* a cena de mapa de i, parada (prints e suíte); chamar em ordem para a rota acumular */
+  async function mapa(i) {
+    if (!ativo) await iniciar(null, true);
+    cena = i; fotos.forEach(f => f.classList.remove('vis'));
+    await mapaDaCena(i, 0, true);
+    leg.style.transition = 'none';
+  }
+
+  window.aysTour = { mapa, iniciar, parar: () => parar(false), ativo: () => ativo, cena: () => cena, mostra,
+                     total: () => (DADOS ? DADOS.length : null), rapido: RAPIDO, carrega: () => carrega().then(() => DADOS.length) };
+})();

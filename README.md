@@ -6,6 +6,8 @@ Offline archive of [AreYouSyrious](https://medium.com/are-you-syrious) — a dai
 - Full chronological post [list](INDEX.md).
 - 16,021 [images](https://rafapolo.github.io/AreYouSyrious/images) from the Field.
 - [Timeline](chronological_list_of_events.md) synthesis of all chronological record of events.
+- Interactive [timeline](https://rafapolo.github.io/AreYouSyrious/timeline.html) (2016–2025).
+- [Tour](https://rafapolo.github.io/AreYouSyrious/tour/) through the archive (about 3.5 minutes, with quiet music). It contains accounts of death and suffering.
 
 ## Archive stats
 
